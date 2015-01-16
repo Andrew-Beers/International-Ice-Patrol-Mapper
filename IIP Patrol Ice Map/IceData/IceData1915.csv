@@ -1,0 +1,865 @@
+data source,Flag,IIP #,Iceberg #,resight,sighting source,Vessel Name,sighting method,latitude,longitude,Ice Season,Year,Month,date,time,size,#bergs,#growlers,#Bergy Bits,Small,Medium,Large,Very Large,Ice Island,Unidentified,shape,length,length flag,height,height flag,width,width flag,draft,draft flag,mass,mass flag,drill site,Comments
+IOT,1,284,284,N,Ship,Narvik (SS),Visual,47.45,-46.16666667,1915,1915,January,1/7/15,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1324 Jan 13: passed 5 miles S of a small berb [position calculated]
+IOT,1,285,285,N,Ship,Minneapolis (SS),Visual,46.45,-45.95,1915,1915,January,1/8/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1324 Jan 13 & HB 1328 Feb 10
+IOT,1,288,288,N,Ship,Pomeranian (SS),Visual,48.03333333,-49.16666667,1915,1915,January,1/9/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1326 Jan 27: a berg & several streaks of detached field ice
+IOT,1,286,286,N,Ship,Vaderland (SS),Visual,48,-48.76666667,1915,1915,January,1/11/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1325 Jan 20: small growlers
+IOT,1,287,287,N,Ship,Vaderland (SS),Visual,47.33333333,-49.7,1915,1915,January,1/12/15,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1325 Jan 20
+IOT,1,1,1,N,Ship,Mongolian (SS),Visual,47.68333333,-51.2,1915,1915,January,1/13/15,,Large,,,,,,1,,,,,,,,,,,,,,,,NYMR & HB 1327 Feb 3
+IOT,1,2,2,N,Ship,Mongolian (SS),Visual,47.51666667,-52.26666667,1915,1915,January,1/13/15,,Large,,,,,,1,,,,,,,,,,,,,,,,NYMR & HB 1327 Feb 3:14 miles E of C. Spear.
+IOT,1,3,3,N,Ship,Mongolian (SS),Visual,46.78333333,-52.83333333,1915,1915,January,1/13/15,,Large,,,,,,1,,,,,,,,,,,,,,,,NYMR & HB 1327 Feb 3: 5 miles off Cape Ballard. Berg apparently aground
+IOT,1,289,289,N,Ship,Montreal (SS),Visual,45.96666667,-44.18333333,1915,1915,January,1/13/15,,Growler,,1,,,,,,,,,,,,,,,,,,,,"HB 1326 Jan 27: unnamed ship, a berg. HB 1329 Feb 17"
+IOT,1,294,294,N,Ship,C. Sundt (SS),Visual,47.15,-49.53333333,1915,1915,January,1/13/15,13:30,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1329 Feb 17
+IOT,1,754.01,754.01,N,Ship,Mongolian (SS),Visual,48,-51,1915,1915,January,1/13/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,"HB 1327 Feb 3: to within 3 miles of St.John's, enormous patches of broken ice from 2 inches to 4' thick, some pieces 20' across, with numerous growlers amongst it"
+IOT,0,754.02,754.02,N,Ship,Mongolian (SS),Visual,47.56666667,-52.61666667,1915,1915,January,1/13/15,,Growler,,,,,,,,,,,,,,,,,,,,,,"HB 1327 Feb 3: to within 3 miles of St.John's, enormous patches of broken ice from 2 inches to 4' thick, some pieces 20' across, with numerous growlers amongst it"
+IOT,1,290,290,N,Ship,Scandinavian (SS),Visual,47.26666667,-50.2,1915,1915,January,1/14/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1326 Jan 27
+IOT,1,4,4,N,Ship,Ferdinand Melsom (SS),Visual,45.66666667,-50.05,1915,1915,January,1/18/15,,Medium,,,,,1,,,,,,,,,,,,,,,,,NYMR & HB 1328 Feb 10
+IOT,1,5,5,N,Ship,Larchmore (SS),Visual,45.83333333,-50.23333333,1915,1915,January,1/19/15,,Medium,,,,,1,,,,,Pinnacle,60,E,45,E,,,,,,,,"NYMR: 150' high, 200' long. HB 1326 Jan 27: large berg with 2 peaks"
+IOT,1,8,8,N,Ship,Etonian (SS),Visual,45.93333333,-50.05,1915,1915,January,1/23/15,,Large,,,,,,1,,,,,150,E,24,E,,,,,,,,"NYMR & HB 1327 Feb 3: 500' long, 80' high."
+IOT,1,6,6,N,Ship,Queen Wilhelmina (SS),Visual,46.88333333,-52.81666667,1915,1915,January,1/24/15,,Large,,,,,,1,,,,,,,,,,,,,,,,NYMR [Ocean Wilhelmina] & HB 1327 Feb 3:  Apparently aground.
+IOT,1,7,7,N,Ship,Queen Wilhelmina (SS),Visual,46.33333333,-53.83333333,1915,1915,January,1/24/15,,Large,,,,,,1,,,,,,,,,,,,,,,,NYMR: Ocean Wilhelmina at 46.10N. HB 1327 Feb 3
+IOT,1,296.1,296.1,N,Ship,Bohemian (SS),Visual,46.03333333,-50.56666667,1915,1915,January,1/24/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1329 Feb 17: small pieces of ice
+IOT,1,296.2,296.2,N,Ship,Bohemian (SS),Visual,46.03333333,-50.56666667,1915,1915,January,1/24/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1329 Feb 17
+IOT,1,9,9,N,Ship,Stephano (SS),Visual,46.85,-52.9,1915,1915,January,1/25/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1328 Feb 10: 2 miles S of Renews Rock [position calculated]
+IOT,1,10,10,N,Ship,Arabic (SS),Visual,45.76666667,-49.61666667,1915,1915,January,1/27/15,,Large,,,,,,1,,,,Pinnacle,,,,,,,,,,,,NYMR & HB 1327 Feb 3: saw a large berg with 2 peaks
+IOT,1,11,11,N,Ship,Arabic (SS),Visual,45.91666667,-49.61666667,1915,1915,January,1/27/15,,Small,,,,1,,,,,,,,,,,,,,,,,,"NYMR & HB 1327 Feb 3: Small low berg 9 miles N [of #10, position calculated]."
+IOT,1,12,12,N,Ship,Adriatic (SS),Visual,46.73333333,-52.75,1915,1915,January,1/29/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR: 14 miles ENE C. Race.
+IOT,1,175.01,175.01,N,Ship,Queen Wilhelmina (SS),Visual,44.86666667,-63.71666667,1915,1915,January,1/29/15,,Berg,2,,,,,,,,,,,,,,,,,,,,,IIP;
+IOT,0,175.02,175.02,N,Ship,Queen Wilhelmina (SS),Visual,47.55,-59.13333333,1915,1915,January,1/29/15,,Berg,,,,,,,,,,,,,,,,,,,,,,IIP;
+IOT,1,13.01,13.01,N,Ship,Drammensfjord (SS),Visual,46.76666667,-47.01666667,1915,1915,February,2/1/15,,Berg,2,,,,,,,,,,,,,,,,,,,,,"NYMR & HB 1329 Feb 17: [unknown date in February, likely early], passed 2 bergs & a great quantity of field ice"
+IOT,0,13.02,13.02,N,Ship,Drammensfjord (SS),Visual,45.33333333,-48.66666667,1915,1915,February,2/1/15,,Berg,,,,,,,,,,,,,,,,,,,,,,"NYMR & HB 1329 Feb 17: [unknown date in February, likely early], passed 2 bergs & a great quantity of field ice"
+IOT,1,35,35,N,Ship,Adventure (SS),Visual,50.56666667,-48.11666667,1915,1915,February,2/1/15,,Very large,,,,,,,1,,,,,,,,,,,,,,,"NYMR: immense berg 250 miles NE of St. John's, off Flemish Cap."
+IOT,1,14,14,N,Ship,Oreland (SS),Visual,46.83333333,-47.2,1915,1915,February,2/3/15,,Growler,,1,,,,,,,,,,,,,,,,,,,,NYMR & HB 1329 Feb 17
+IOT,1,15.01,15.01,N,Ship,Helig Olav (SS),Visual,47.23333333,-47.2,1915,1915,February,2/5/15,13:40,Growler,,x,,,,,,,,,,,,,,,,,,,,"NYMR, HB 1328 Feb 10 & HB 1329 Feb 17: Numerous growlers"
+IOT,1,16,16,N,Ship,Helig Olav (SS),Visual,46.81666667,-49.15,1915,1915,February,2/5/15,,Small,,,,1,,,,,,,,,,,,,,,,,,NYMR & HB 1328 Feb 10
+IOT,1,17,17,N,Ship,Hesperian (SS),Visual,47,-47.2,1915,1915,February,2/5/15,,Large,,,,,,1,,,,,,,,,,,,,,,,NYMR & HB 1329 Feb 17
+IOT,1,298,298,N,Ship,Pretorian (SS),Visual,45.16666667,-48.25,1915,1915,February,2/5/15,,Medium,,,,,2,,,,,,,,,,,,,,,,,HB 1329 Feb 17
+IOT,1,299,299,N,Ship,Pretorian (SS),Visual,45.36666667,-48.25,1915,1915,February,2/5/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1329 Feb 17: saw a large berg 10 to 12 miles N [position calculated]
+IOT,1,323.1,323.1,N,Ship,Exeter City (SS),Visual,45.75,-49,1915,1915,February,2/5/15,,Medium,,,,,1,,,,,Pinnacle,46,E,30,E,,,,,,,,"HB 1334 Mar 24: a large berg ~150' long with two peaks 100' high, & a small flat berg ~30' high"
+IOT,1,323.2,323.2,N,Ship,Exeter City (SS),Visual,45.75,-49,1915,1915,February,2/5/15,,Small,,,,1,,,,,,Tabular,,,9.1,E,,,,,,,,"HB 1334 Mar 24: a large berg ~150' long with two peaks 100' high, & a small flat berg ~30' high"
+IOT,1,752,752,N,Ship,Hellig Olav (SS),Visual,47.23333333,-47.15,1915,1915,February,2/5/15,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1329 Feb 17
+IOT,1,753,753,N,Ship,Hellig Olav (SS),Visual,46.81666667,-47.2,1915,1915,February,2/5/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1329 Feb 17
+IOT,1,755.01,755.01,N,Ship,Hesperian (SS),Visual,47.23333333,-47.2,1915,1915,February,2/5/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,"HB 1329 Feb 17: encountered light slob ice with growlers which extended along the eastern edge of the Grand Banks  to position, the extreme southern point of ice"
+IOT,0,755.02,755.02,N,Ship,Hesperian (SS),Visual,43.33333333,-49.33333333,1915,1915,February,2/5/15,,Growler,,,,,,,,,,,,,,,,,,,,,,"HB 1329 Feb 17: encountered light slob ice with growlers which extended along the eastern edge of the Grand Banks  to position, the extreme southern point of ice"
+IOT,0,15.02,15.02,N,Ship,Helig Olav (SS),Visual,43.2,-49.41666667,1915,1915,February,2/6/15,7:30,Growler,,x,,,,,,,,,,,,,,,,,,,,"NYMR, HB 1328 Feb 10 & HB 1329 Feb 17: Numerous growlers"
+IOT,1,18,18,N,Ship,Canning (SS),Visual,46.25,-47.28333333,1915,1915,February,2/6/15,,Small,,,,1,,,,,,,,,,,,,,,,,,NYMR [7th] & HB 1330 Feb 24
+IOT,1,297.1,297.1,N,Ship,Fremona (SS),Visual,47.7,-48,1915,1915,February,2/6/15,,Small,,,,5,,,,,,,,,,,,,,,,,,HB 1329 Feb 17: saw 5 small & 2 large bergs in the ice
+IOT,1,297.2,297.2,N,Ship,Fremona (SS),Visual,47.7,-48,1915,1915,February,2/6/15,,Large,,,,,,2,,,,,,,,,,,,,,,,HB 1329 Feb 17: saw 5 small & 2 large bergs in the ice
+IOT,1,19,19,N,Ship,Minneapolis (SS),Visual,46.2,-47.15,1915,1915,February,2/7/15,,Large,,,,,,1,,,,,,,,,,,,,,,,NYMR [47N] & HB 1330 Feb 24: a large berg in the icefield
+IOT,1,20.01,20.01,N,Ship,Pretorian (SS),Visual,45.95,-47.18333333,1915,1915,February,2/10/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,NYMR: Several bergs in icefield.
+IOT,0,20.02,20.02,N,Ship,Pretorian (SS),Visual,44.41666667,-48.95,1915,1915,February,2/10/15,,Berg,,,,,,,,,,,,,,,,,,,,,,NYMR: Several bergs in icefield.
+IOT,1,21,21,N,Ship,Maine (SS),Visual,46.53333333,-46.3,1915,1915,February,2/10/15,,Small,,,,1,,,,,,,30,E,12,E,,,,,,,,"NYMR: 40' high & 100' long, & HB 1330 Feb 24: 100' long, 40' high"
+IOT,1,301.01,301.01,N,Ship,Nieuw Amsterdam (SS),Visual,43.03333333,-49.46666667,1915,1915,February,2/10/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1331 Mar 3: passed through pan ice & saw some growlers
+IOT,0,301.02,301.02,N,Ship,Nieuw Amsterdam (SS),Visual,43.03333333,-50.2,1915,1915,February,2/10/15,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1331 Mar 3: passed through pan ice & saw some growlers
+IOT,1,22.01,22.01,N,Ship,Frey (SS),Visual,48.28333333,-48,1915,1915,February,2/11/15,,Berg,14,,,,,,,,,,,,,,,,,,,,,"NYMR & HB 1331 Mar 3: Saw 14 bergs in icefield, some 200' high."
+IOT,0,22.02,22.02,N,Ship,Frey (SS),Visual,47,-47.83333333,1915,1915,February,2/11/15,,Berg,,,,,,,,,,,,,,,,,,,,,,"NYMR & HB 1331 Mar 3: Saw 14 bergs in icefield, some 200' high."
+IOT,1,23,23,N,Ship,Rochambeau (SS),Visual,43.66666667,-51.23333333,1915,1915,February,2/12/15,,Bergy bit,,,1,,,,,,,,10,E,3,E,,,,,,,,NYMR & HB 1330 Feb 24: a small berg ~10 meters long & 3 meters high
+IOT,1,300,300,N,Ship,Frey (SS),Visual,46.65,-53.06666667,1915,1915,February,2/12/15,,Large,,,,,,x,,,,,,,,,,,,,,,,HB 1330 Feb 24: Off Cape Race encountered tremendous ice field and numerous bergs
+IOT,1,324,324,N,Ship,Median (SS),Visual,43.68333333,-49.78333333,1915,1915,February,2/12/15,,Small,,,,1,,,,,,,30,E,9.1,E,,,,,,,,HB 1334 Mar 24: passed a small berg ~100' long & 30' high
+IOT,1,24.11,24.11,N,Ship,Rangatira (SS),Visual,47,-47,1915,1915,February,2/13/15,16:00,Berg,3,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1330 Feb 24: 3 bergs and several growlers in icefield 13 - 14th.
+IOT,1,24.21,24.21,N,Ship,Rangatira (SS),Visual,47,-47,1915,1915,February,2/13/15,16:00,Growler,,x,,,,,,,,,,,,,,,,,,,,NYMR & HB 1330 Feb 24: 3 bergs and several growlers in icefield 13 - 14th.
+IOT,1,302,302,N,Ship,Stephano (SS),Visual,46.83333333,-52.85,1915,1915,February,2/13/15,,Medium,,,,,1,,,,,,,,18,E,,,,,,,,HB 1331 Mar 3: berg ~60' high aground ~14 miles ENE (mag [-28.91°) of C.Race [position calculated]
+IOT,1,756,756,N,Ship,Unknown,Visual,44.16666667,-48.3,1915,1915,February,2/13/15,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1332 Mar 10: large growler
+IOT,0,24.12,24.12,N,Ship,Rangatira (SS),Visual,45.63333333,-48,1915,1915,February,2/14/15,13:00,Berg,,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1330 Feb 24: 3 bergs and several growlers in icefield 13 - 14th.
+IOT,0,24.22,24.22,N,Ship,Rangatira (SS),Visual,45.63333333,-48,1915,1915,February,2/14/15,13:00,Growler,,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1330 Feb 24: 3 bergs and several growlers in icefield 13 - 14th.
+IOT,1,26.01,26.01,N,Ship,Lackawanna (SS),Visual,45.51666667,-47.71666667,1915,1915,February,2/14/15,,Berg,5,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1331 Mar 3: 5 bergs and field ice extending southward.
+IOT,0,26.02,26.02,N,Ship,Lackawanna (SS),Visual,45.3,-48.7,1915,1915,February,2/14/15,,Berg,,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1331 Mar 3: 5 bergs and field ice extending southward.
+IOT,1,27.1,27.1,N,Ship,Cacique (SS),Visual,48.2,-47,1915,1915,February,2/14/15,,Large,,,,,,5,,,,,,,,,,,,,,,,"NYMR & HB 1331 Mar 3: saw 5 large & 5 small bergs surrounded by field ice ~2' thick, extending at least 10 miles W & S"
+IOT,1,27.2,27.2,N,Ship,Cacique (SS),Visual,48.2,-47,1915,1915,February,2/14/15,,Small,,,,5,,,,,,,,,,,,,,,,,,"NYMR & HB 1331 Mar 3: saw 5 large & 5 small bergs surrounded by field ice ~2' thick, extending at least 10 miles W & S"
+IOT,1,325,325,N,Ship,Sagamore (SS),Visual,43.9,-48.28333333,1915,1915,February,2/14/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1334 Mar 24
+IOT,1,326,326,N,Ship,Sagamore (SS),Visual,44.01666667,-48.01666667,1915,1915,February,2/14/15,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1334 Mar 24
+IOT,1,344,344,N,Ship,Norrbotton (SS),Visual,42.11666667,-50.1,1915,1915,February,2/14/15,,Small,,,,3,,,,,,,,,,,,,,,,,,HB 1337 Apr 14
+IOT,1,28,28,N,Ship,Cacique (SS),Visual,47.25,-44.83333333,1915,1915,February,2/15/15,,Large,,,,,,1,,,,,,,61,E,,,,,,,,NYMR & HB 1331 Mar 3: a large berg ~200' high
+IOT,1,29,29,N,Ship,New York City (SS),Visual,44.7,-47.55,1915,1915,February,2/16/15,,Large,,,,,,1,,,,,,,,,,,,,,,,NYMR & HB 1331 Mar 3
+IOT,1,30.1,30.1,N,Ship,Amsteldijk (SS),Visual,42.43333333,-48.73333333,1915,1915,February,2/18/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1331 Mar 3: Berg surrounded by a couple [or several] of small pieces.
+IOT,1,30.2,30.2,N,Ship,Amsteldijk (SS),Visual,42.43333333,-48.73333333,1915,1915,February,2/18/15,,Growler,,2,,,,,,,,,,,,,,,,,,,,NYMR & HB 1331 Mar 3: Berg surrounded by a couple [or several] of small pieces.
+IOT,1,33.1,33.1,N,Ship,Verona (SS),Visual,42.23333333,-49.8,1915,1915,February,2/18/15,,Medium,,,,,1,,,,,,,,26,E,,,,,,,,NYMR & HB 1331 Mar 3: 85' high
+IOT,1,33.2,33.2,N,Ship,Verona (SS),Visual,42.23333333,-49.8,1915,1915,February,2/18/15,,Bergy bit,,,1,,,,,,,,,,3,E,,,,,,,,NYMR & HB 1331 Mar 3: 10' high
+IOT,1,36,36,N,Ship,Canadian (SS),Visual,44.9,-47.33333333,1915,1915,February,2/20/15,,Large,,,,,,1,,,,,,,,,,,,,,,,NYMR: Several bergs at 44.52N 47.23W. HB 1331 March 3: large berg
+IOT,1,304.1,304.1,N,Ship,Vard (SS),Visual,44.25,-51.33333333,1915,1915,February,2/22/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1332 Mar 10: a berg & numerous growlers
+IOT,1,304.2,304.2,N,Ship,Vard (SS),Visual,44.25,-51.33333333,1915,1915,February,2/22/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1332 Mar 10: a berg & numerous growlers
+IOT,1,37.1,37.1,N,Ship,Montreal (SS),Visual,44.68333333,-48,1915,1915,February,2/23/15,,Large,,,,,,1,,,,,,,,,,,,,,,,NYMR & HB 1332 Mar 10
+IOT,1,37.2,37.2,N,Ship,Montreal (SS),Visual,44.68333333,-48,1915,1915,February,2/23/15,,Growler,,3,,,,,,,,,,,,,,,,,,,,NYMR & HB 1332 Mar 10
+IOT,1,38.01,38.01,N,Ship,Seneca (IIP),Visual,44.16666667,-48.78333333,1915,1915,February,2/25/15,20:00,Berg,2,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1331 Mar 3
+IOT,0,38.02,38.02,N,Ship,Seneca (IIP),Visual,44.16666667,-49.01666667,1915,1915,February,2/25/15,,Berg,,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1331 Mar 3
+IOT,1,41.1,41.1,N,Ship,Virginia (SS),Visual,44.05,-50,1915,1915,February,2/25/15,,Small,,,,1,,,,,,,15,E,1.8,E,,,,,,,,"NYMR & HB 1332 Mar 10: Large piece of ice 50' long and 6' high, also a small piece."
+IOT,1,41.2,41.2,N,Ship,Virginia (SS),Visual,44.05,-50,1915,1915,February,2/25/15,,Growler,,1,,,,,,,,,,,,,,,,,,,,"NYMR & HB 1332 Mar 10: Large piece of ice 50' long and 6' high, also a small piece."
+IOT,1,43,43,N,Ship,Virginia (SS),Visual,44.03333333,-50.35,1915,1915,February,2/25/15,,Growler,,2,,,,,,,,,,,,,,,,,,,,NYMR & HB 1332 Mar 10: 2 more pieces of ice.
+IOT,1,44,44,N,Ship,Invertay (SS),Visual,44.28333333,-48.7,1915,1915,February,2/25/15,,Small,,,,1,,,,,,,,,,,,,,,,,,NYMR & HB 1332 Mar 10
+IOT,1,45,45,N,Ship,Invertay (SS),Visual,44.08333333,-48.88333333,1915,1915,February,2/25/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1332 Mar 10
+IOT,1,39,39,N,Ship,Seneca (IIP),Visual,43.8,-51.25,1915,1915,February,2/26/15,6:00,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1331 Mar 3
+IOT,1,40,40,N,Ship,Seneca (IIP),Visual,44.86666667,-51.35,1915,1915,February,2/26/15,8:00,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1331 Mar 3: southernmost berg
+IOT,1,46,46,N,Ship,Invertay (SS),Visual,43.83333333,-50.2,1915,1915,February,2/26/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1332 Mar 10
+IOT,1,47.1,47.1,N,Ship,Invertay (SS),Visual,43.83333333,-50.4,1915,1915,February,2/26/15,,Small,,,,1,,,,,,,,,,,,,,,,,,NYMR & HB 1332 Mar 10
+IOT,1,47.2,47.2,N,Ship,Invertay (SS),Visual,43.83333333,-50.4,1915,1915,February,2/26/15,,Growler,,1,,,,,,,,,,,,,,,,,,,,NYMR & HB 1332 Mar 10
+IOT,1,48,48,N,Ship,Chicago (SS),Visual,42.51666667,-50.56666667,1915,1915,February,2/26/15,,Small,,,,1,,,,,,,60,E,3.6,E,,,,,,,,"NYMR & HB 1332 Mar 10: 200' long, 12' high."
+IOT,1,49,49,N,Ship,Cambrian (SS),Visual,43.4,-50.61666667,1915,1915,February,2/26/15,,Growler,,2,,,,,,,,,,,,,,,,,,,,NYMR & HB 1332 Mar 10: 2 miles apart.
+IOT,1,50,50,N,Ship,Skrymer (SS),Visual,47.15,-48.36666667,1915,1915,February,2/26/15,,Berg,5,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1332 Mar 10
+IOT,1,51,51,N,Ship,Memphian (SS),Visual,43.5,-49.23333333,1915,1915,February,2/27/15,,Large,,,,,,1,,,,,,,,,,,,,,,,NYMR & HB 1332 Mar 10
+IOT,1,52,52,N,Ship,Memphian (SS),Visual,43.45,-50.86666667,1915,1915,February,2/27/15,,Medium,,,,,1,,,,,,,,,,,,,,,,,NYMR & HB 1332 Mar 10
+IOT,1,305,305,N,Ship,Albr W. Selmer (SS),Visual,46.91666667,-46.5,1915,1915,February,2/27/15,,Large,,,,,,1,,,,,152,E,,,,,,,,,,HB 1333 Mar 17: passed a berg ~500' long
+IOT,1,53,53,N,Ship,Hans Broge (SS),Visual,44.86666667,-48.83333333,1915,1915,February,2/28/15,,Large,,,,,,x,,,,,,,,,,,,,,,,NYMR: Ice field with several large bergs.
+IOT,1,327,327,N,Ship,Hans Broge (SS),Visual,44.86666667,-48.96666667,1915,1915,February,2/28/15,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1334 Mar 24
+IOT,1,328,328,N,Ship,Hans Broge (SS),Visual,44.46666667,-49.41666667,1915,1915,February,2/28/15,,Large,,,,,,x,,,,,,,,,,,,,,,,HB 1334 Mar 24
+IOT,1,54,54,N,Ship,Potsdam (SS),Visual,40.41666667,-47,1915,1915,March,3/1/15,,Large,,,,,,1,,,,,,,,,,,,,,,,NYMR
+IOT,1,306,306,N,Ship,Otta (SS),Visual,46.25,-47.65,1915,1915,March,3/1/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1333 Mar 17
+IOT,1,307,307,N,Ship,Otta (SS),Visual,46.38333333,-47.8,1915,1915,March,3/2/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1333 Mar 17
+IOT,1,308,308,N,Ship,Otta (SS),Visual,45.51666667,-50.01666667,1915,1915,March,3/2/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1333 Mar 17
+IOT,1,309,309,N,Ship,Otta (SS),Visual,45.43333333,-50.21666667,1915,1915,March,3/2/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1333 Mar 17
+IOT,1,310,310,N,Ship,Otta (SS),Visual,45.26666667,-50.8,1915,1915,March,3/2/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1333 Mar 17
+IOT,1,311,311,N,Ship,Otta (SS),Visual,45.18333333,-50.86666667,1915,1915,March,3/2/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1333 Mar 17
+IOT,1,312,312,N,Ship,Otta (SS),Visual,45.15,-51.06666667,1915,1915,March,3/2/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1333 Mar 17
+IOT,1,55.1,55.1,N,Ship,Siljestad (SS),Visual,46.75,-48.41666667,1915,1915,March,3/3/15,,Small,,,,1,,,,,,,,,9,E,,,,,,,,NYMR & HB 1333 Mar 17: 3 bergs from 30 to 50' high
+IOT,1,55.2,55.2,N,Ship,Siljestad (SS),Visual,46.75,-48.41666667,1915,1915,March,3/3/15,,Small,,,,1,,,,,,,,,12,E,,,,,,,,NYMR & HB 1333 Mar 17: 3 bergs from 30 to 50' high
+IOT,1,55.3,55.3,N,Ship,Siljestad (SS),Visual,46.75,-48.41666667,1915,1915,March,3/3/15,,Medium,,,,,1,,,,,,,,18,E,,,,,,,,NYMR & HB 1333 Mar 17: 3 bergs from 30 to 50' high
+IOT,1,58,58,N,Ship,Tonowanda (SS),Visual,44.96666667,-48.83333333,1915,1915,March,3/3/15,,Large,,,,,,1,,,,,,,,,,,,,,,,"NYMR, HB 1332 Mar 10 & HB 1333 Mar 17: Apparently aground.Note - corrects report in HB 1332 Mar 10"
+IOT,1,59,59,N,Ship,Tonowanda (SS),Visual,44.25,-50.96666667,1915,1915,March,3/3/15,,Medium,,,,,1,,,,,,,,,,,,,,,,,"NYMR, HB 1332 Mar 10 & HB 1333 Mar 17: Note - corrects report in HB 1332 Mar 10"
+IOT,1,177,177,N,Miscellaneous,Cape Race,Visual,46.65,-53.06666667,1915,1915,March,3/4/15,,Large,,,,,,x,,,,,,,,,,,,,,,,HH 06/03/1915 p13#3;
+IOT,1,313,313,N,Ship,Brantford (SS),Visual,44.93333333,-49.63333333,1915,1915,March,3/6/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1333 Mar 17
+IOT,1,314,314,N,Ship,Brantford (SS),Visual,44.91666667,-50.51666667,1915,1915,March,3/6/15,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1333 Mar 17
+IOT,1,315,315,N,Ship,Brantford (SS),Visual,44.91666667,-50.63333333,1915,1915,March,3/6/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1333 Mar 17: a long low berg
+IOT,1,316,316,N,Ship,Brantford (SS),Visual,44.5,-51.1,1915,1915,March,3/6/15,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1333 Mar 17
+IOT,1,317,317,N,Ship,Brantford (SS),Visual,44.58333333,-51.1,1915,1915,March,3/6/15,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1333 Mar 17: several small pieces of loose ice & a growler
+IOT,1,329,329,N,Ship,Esperanza De Larrinaga (SS),Visual,44.88333333,-50.73333333,1915,1915,March,3/6/15,,Small,,,,1,,,,,,,30,E,12,E,,,,,,,,HB 1334 Mar 24: passed a small berg ~40' high & 100' long
+IOT,1,60,60,N,Ship,Baltic (SS),Visual,40.41666667,-47,1915,1915,March,3/7/15,,Large,,,,,,1,,,,,,,,,,,,,,,,NYMR & HB 1332 Mar 10
+IOT,1,61.01,61.01,N,Ship,N.F. Hoffding (SS),Visual,46.26666667,-48.16666667,1915,1915,March,3/7/15,,Large,,,,,,5,,,,,,,,,,,,,,,,NYMR
+IOT,0,61.02,61.02,N,Ship,N.F. Hoffding (SS),Visual,45.56666667,-49.73333333,1915,1915,March,3/7/15,,Large,,,,,,,,,,,,,,,,,,,,,,NYMR
+IOT,1,318,318,N,Ship,N.F. Hoffding (SS),Visual,46.26666667,-48.16666667,1915,1915,March,3/7/15,,Large,,,,,,1,,,,,152,E,21,E,,,,,,,,HB 1333 Mar 17: passed a berg ~70' high & 500' long. NYMR gives approximate position
+IOT,1,319,319,N,Ship,N.F. Hoffding (SS),Visual,46.16666667,-48.71666667,1915,1915,March,3/7/15,,Large,,,,,,1,,,,,183,E,21,E,,,,,,,,HB 1333 Mar 17: passed a berg ~70' high & 500' long. NYMR gives approximate position
+IOT,1,320,320,N,Ship,N.F. Hoffding (SS),Visual,46,-49,1915,1915,March,3/7/15,,Large,,,,,,1,,,,,122,E,18,E,,,,,,,,HB 1333 Mar 17: passed a berg ~70' high & 500' long. NYMR gives approximate position
+IOT,1,321,321,N,Ship,N.F. Hoffding (SS),Visual,45.71666667,-49.3,1915,1915,March,3/7/15,,Medium,,,,,1,,,,,,61,E,12,E,,,,,,,,HB 1333 Mar 17: passed a berg ~70' high & 500' long. NYMR gives approximate position
+IOT,1,322,322,N,Ship,N.F. Hoffding (SS),Visual,45.56666667,-49.73333333,1915,1915,March,3/7/15,,Medium,,,,,1,,,,,,91,E,18,E,,,,,,,,HB 1333 Mar 17: passed a berg ~70' high & 500' long. NYMR gives approximate position
+IOT,1,62,62,N,Ship,Seneca (IIP),Visual,43.4,-49.53333333,1915,1915,March,3/8/15,21:00,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1332 Mar 10
+IOT,1,63,62,Y,Ship,Michigan (SS),Visual,43.4,-49.53333333,1915,1915,March,3/8/15,,Large,,,,,,1,,,,,,,,,,,,,,,,NYMR & HB 1333 Mar 17: Probably same as Seneca same date.
+IOT,1,330,330,N,Ship,Sohie H. (SS),Visual,43.33333333,-48.58333333,1915,1915,March,3/8/15,,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 1334 Mar 24
+IOT,1,331,331,N,Ship,Sohie H. (SS),Visual,43.3,-48.83333333,1915,1915,March,3/8/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1334 Mar 24
+IOT,1,332,332,N,Ship,Sohie H. (SS),Visual,43.21666667,-49,1915,1915,March,3/8/15,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1334 Mar 24
+IOT,1,333,333,N,Ship,Sohie H. (SS),Visual,43,-49.08333333,1915,1915,March,3/8/15,,Berg,6,,,,,,,,,,,,,,,,,,,,,HB 1334 Mar 24
+IOT,1,334,334,N,Ship,Mirjam (SS),Visual,47.48333333,-47.83333333,1915,1915,March,3/9/15,,Large,,,,,,5,,,,,,,,,,,,,,,,HB 1334 Mar 24: Bergs in quantity of field ice
+IOT,1,64,64,N,Ship,Lord Charlemont (SS),Visual,43.58333333,-48.86666667,1915,1915,March,3/12/15,,Medium,,,,,1,,,,,,60,E,24,E,,,,,,,,"NYMR & HB 1334 Mar 24: 200' long, 80' high"
+IOT,1,65,65,N,Ship,Lord Charlemont (SS),Visual,43.48333333,-49.05,1915,1915,March,3/12/15,,Bergy bit,,,1,,,,,,,,9,E,3,E,,,,,,,,"NYMR & HB 1334 Mar 24: 30' long, 10' high."
+IOT,1,757,757,N,Ship,Louisiana (SS),Visual,47.56666667,-51.66666667,1915,1915,March,3/12/15,14:00,Berg,8,,,,,,,,,,,,,,,,,,,,,HB 1334 Mar 24: noon position; in the early part of athe afternoon saw several open spaces in the ice; from 2 pm to 6 pm saw 8 bergs of various sizes from 2 to 8 miles from the track
+IOT,1,337,337,N,Ship,I.D.S. Adolph (SS),Visual,47.51666667,-49.13333333,1915,1915,March,3/13/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1335 Mar 31
+IOT,1,338,338,N,Ship,I.D.S. Adolph (SS),Visual,46.63333333,-49.05,1915,1915,March,3/13/15,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1335 Mar 31
+IOT,1,758,758,N,Ship,Louisiana (SS),Visual,46,-53,1915,1915,March,3/13/15,11:00,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 1334 Mar 24: [position approximate] reached open water; from 11 am to noon saw 3 bergs from 2 to 11 miles from track
+IOT,1,335,335,N,Ship,Narragansett (SS),Visual,43.63333333,-49.33333333,1915,1915,March,3/14/15,,Medium,,,,,6,,,,,,,,,,,,,,,,,HB 1334 Mar 24
+IOT,1,336,336,N,Ship,Storaker (SS),Visual,45.5,-50.5,1915,1915,March,3/14/15,,Large,,,,,,1,,,,Pinnacle,,,61,E,,,,,,,,HB 1334 Mar 24: Three pinnacles about 200' high
+IOT,1,339,339,N,Ship,I.D.S. Adolph (SS),Visual,45.68333333,-50.48333333,1915,1915,March,3/14/15,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1335 Mar 31
+IOT,1,66.1,66.1,N,Ship,Ribston (SS),Visual,44.26666667,-49.73333333,1915,1915,March,3/15/15,,Medium,,,,,1,,,,,,90,E,15,E,,,,,,,,"NYMR & HB 1335 Mar 31: passed 3 bergs, the largest of which was 300' long, 50' high."
+IOT,1,66.2,66.2,N,Ship,Ribston (SS),Visual,44.26666667,-49.73333333,1915,1915,March,3/15/15,,Berg,2,,,,,,,,,,,,,,,,,,,,,"NYMR & HB 1335 Mar 31: passed 3 bergs, the largest of which was 300' long, 50' high."
+IOT,1,67.1,67.1,N,Ship,Northwestern Miller (SS),Visual,44.98333333,-49.15,1915,1915,March,3/15/15,,Large,,,,,,1,,,,,,,,,,,,,,,,NYMR & HB 1334 Mar 24: With growlers.
+IOT,1,67.2,67.2,N,Ship,Northwestern Miller (SS),Visual,44.98333333,-49.15,1915,1915,March,3/15/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,NYMR & HB 1334 Mar 24: With growlers.
+IOT,1,68.1,68.1,N,Ship,Northwestern Miller (SS),Visual,44.93333333,-49.3,1915,1915,March,3/15/15,,Large,,,,,,1,,,,,,,,,,,,,,,,NYMR & HB 1334 Mar 24: With growlers.
+IOT,1,68.2,68.2,N,Ship,Northwestern Miller (SS),Visual,44.93333333,-49.3,1915,1915,March,3/15/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,NYMR & HB 1334 Mar 24: With growlers.
+IOT,1,69,69,N,Ship,Northwestern Miller (SS),Visual,44.73333333,-50.21666667,1915,1915,March,3/15/15,,Growler,,1,,,,,,,,,,,,,,,,,,,,NYMR & HB 1334 Mar 24
+IOT,1,70.1,70.1,N,Ship,Northwestern Miller (SS),Visual,44.68333333,-50.41666667,1915,1915,March,3/15/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1334 Mar 24: With growlers.
+IOT,1,70.2,70.2,N,Ship,Northwestern Miller (SS),Visual,44.68333333,-50.41666667,1915,1915,March,3/15/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,NYMR & HB 1334 Mar 24
+IOT,1,73,73,N,Ship,Marken (SS),Visual,45.61666667,-48.61666667,1915,1915,March,3/17/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1335 Mar 31
+IOT,1,74,74,N,Ship,Marken (SS),Visual,45.63333333,-48.91666667,1915,1915,March,3/17/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1335 Mar 31
+IOT,1,75,75,N,Ship,Marken (SS),Visual,45.61666667,-49,1915,1915,March,3/17/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1335 Mar 31
+IOT,1,76,76,N,Ship,Marken (SS),Visual,45.56666667,-49.28333333,1915,1915,March,3/17/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1335 Mar 31
+IOT,1,340,340,N,Ship,Unknown,Visual,42.83333333,-49.53333333,1915,1915,March,3/17/15,,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 1335 Mar 31: Three bergs about 8 miles apart
+IOT,1,77,77,N,Ship,Wandby (SS),Visual,36.91666667,-48.53333333,1915,1915,March,3/20/15,,Small,,,,1,,,,,,,18,E,1.5,E,,,,,,,,"J. Hennessy, Marine Observer, Vol.9, 1932, pp 76-80 also HB 1339 Apr 28: SS Wandby large piece of ice 60' long and 5' high"
+IOT,1,341.1,341.1,N,Ship,Fredericia (SS),Visual,44.25,-48.7,1915,1915,March,3/20/15,,Very large,,,,,,,2,,,,,,,,,,,,,,,HB 1336 Apr 7: 2 very large bergs and several pieces of ice
+IOT,1,341.2,341.2,N,Ship,Fredericia (SS),Visual,44.25,-48.7,1915,1915,March,3/20/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1336 Apr 7: 2 very large bergs and several pieces of ice
+IOT,1,78,78,N,Ship,Lord Roberts (SS),Visual,42.23333333,-47.88333333,1915,1915,March,3/21/15,,Large,,,,,,1,,,,,,,,,,,,,,,,NYMR & HB 1336 Apr 7
+IOT,1,79,79,N,Ship,Caroline (SS),Visual,42.66666667,-48.88333333,1915,1915,March,3/22/15,,Medium,,,,,1,,,,,,91,E,21,E,,,,,,,,"NYMR & HB 1335 Mar 31:[from the NY Herald], a berg in 48.53W. HB 1336 April 7: berg ~300' long & 70' high, apparently broken in two"
+IOT,1,80,80,N,Ship,El Dia (SS),Visual,41.25,-47.5,1915,1915,March,3/23/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1336 Apr 7
+IOT,1,81,81,N,Ship,Bergensfjord (SS),Visual,42.58333333,-49.83333333,1915,1915,March,3/23/15,,Small,,,,1,,,,,,,,,,,,,,,,,,NYMR & HB 1336 Apr 7
+IOT,1,82,82,N,Ship,Bergensfjord (SS),Visual,42.33333333,-48.5,1915,1915,March,3/23/15,,Medium,,,,,1,,,,,,,,,,,,,,,,,NYMR & HB 1336 Apr 7
+IOT,1,83,83,N,Ship,Bergensfjord (SS),Visual,42.33333333,-48.41666667,1915,1915,March,3/23/15,,Growler,,1,,,,,,,,,,,,,,,,,,,,NYMR & HB 1336 Apr 7
+IOT,1,84,84,N,Ship,Veendjik (SS),Visual,42.65,-48.78333333,1915,1915,March,3/24/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1336 Apr 7: saw a berg ~2 miles to the northward [position calculated]
+IOT,1,85,85,N,Ship,Orduna (SS),Visual,42.61666667,-49.75,1915,1915,March,3/24/15,,Medium,,,,,1,,,,,,,,21,E,,,,,,,,NYMR: a small berg 10' high. HB 1335 Mar 31: a small berg 70' high
+IOT,1,86,86,N,Ship,Unknown,Visual,42,-48.33333333,1915,1915,March,3/24/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1336 Apr 7
+IOT,1,87.1,87.1,N,Ship,Lusitania (SS),Visual,42.23333333,-48.18333333,1915,1915,March,3/24/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1336 Apr 7: Berg and 3 small pieces of ice.
+IOT,1,87.2,87.2,N,Ship,Lusitania (SS),Visual,42.23333333,-48.18333333,1915,1915,March,3/24/15,,Growler,,3,,,,,,,,,,,,,,,,,,,,NYMR & HB 1336 Apr 7: Berg and 3 small pieces of ice.
+IOT,1,88,88,N,Ship,Lusitania (SS),Visual,42.33333333,-48.25,1915,1915,March,3/24/15,,Medium,,,,,2,,,,,,,,,,,,,,,,,NYMR & HB 1336 Apr 7
+IOT,1,89,89,N,Ship,Lusitania (SS),Visual,42.33333333,-48.35,1915,1915,March,3/24/15,,Small,,,,1,,,,,,,,,,,,,,,,,,NYMR & HB 1336 Apr 7
+IOT,1,759,759,N,Ship,Veendijk (SS),Visual,42.65,-48.76666667,1915,1915,March,3/24/15,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1336 April 7: a small piece of ice ~1 mile E of berg [#84]
+IOT,1,90,90,N,Ship,Gerd (SS),Visual,42.35,-49.13333333,1915,1915,March,3/26/15,,Large,,,,,,1,,,,,152,E,18,E,,,,,,,,"NYMR & HB 1337 Apr 14: ~500' long, 60' high."
+IOT,1,203,203,N,Ship,August (SS),Visual,41.6,-48.48333333,1915,1915,March,3/26/15,,Small,,,,1,,,,,,,24,E,9.1,E,,,,,,,,HB 1339 Apr 28: ~80' long and 30' high
+IOT,1,204,204,N,Ship,August (SS),Visual,41.6,-48.41666667,1915,1915,March,3/26/15,,Bergy bit,,,1,,,,,,,,9,E,3,E,,,,,,,,HB 1339 Apr 28: ~30' long and 10' high
+IOT,1,211,211,N,Ship,Peter Willemoes (SS),Visual,42.71666667,-50.03333333,1915,1915,March,3/28/15,,Medium,,,,,1,,,,,,91,E,30,E,,,,,,,,"HB 1340 May 5: 300' long, 100' high"
+IOT,1,212,212,N,Ship,Jungshoved (SS),Visual,46.41666667,-53.86666667,1915,1915,April,4/2/15,,Large,,,,,,1,,,,Pinnacle,,,,,,,,,,,,HB 1340 May 5: large with two peaks ~ 10 miles to the northward [position calculated]
+IOT,1,213.01,213.01,N,Ship,Jungshoved (SS),Visual,46.36666667,-53.8,1915,1915,April,4/2/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1340 May 5: a great many bergs
+IOT,0,213.02,213.02,N,Ship,Jungshoved (SS),Visual,46.65,-53.06666667,1915,1915,April,4/2/15,,Berg,,,,,,,,,,,,,,,,,,,,,,HB 1340 May 5: a great many bergs
+IOT,0,213.03,213.03,N,Ship,Jungshoved (SS),Visual,47.6,-51.65,1915,1915,April,4/2/15,,Berg,,,,,,,,,,,,,,,,,,,,,,HB 1340 May 5: a great many bergs
+IOT,1,343,343,N,Ship,Eagle Point (SS),Visual,43.1,-50.18333333,1915,1915,April,4/2/15,12:00,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR: unnamed ship. HB 1336 Apr 7
+IOT,1,345,345,N,Ship,Seneca (IIP),Visual,43.41666667,-49.66666667,1915,1915,April,4/3/15,,Medium,,,,,1,,,,,,,,23,E,,,,,,,,HB 1337 Apr 14: a berg ~500' long & 60' high
+IOT,1,346,346,N,Ship,Seneca (IIP),Visual,42.41666667,-50.3,1915,1915,April,4/3/15,,Medium,,,,,1,,,,,,,,23,E,,,,,,,,HB 1337 Apr 14: also a berg ~500' long & 60' high ?
+IOT,1,92,92,N,Ship,Feliciana (SS),Visual,44.61666667,-48.13333333,1915,1915,April,4/5/15,,Large,,,,,,1,,,,,,,,,,,,,,,,NYMR & HB 1338 Apr 21
+IOT,1,93,93,N,Ship,Feliciana (SS),Visual,44.68333333,-48.13333333,1915,1915,April,4/5/15,,Growler,,1,,,,,,,,,,,,,,,,,,,,NYMR & HB 1338 Apr 21: 4 miles to the northward [of #93] saw a growler [position calculated]
+IOT,1,94.1,94.1,N,Ship,Texel (SS),Visual,44,-47.96666667,1915,1915,April,4/5/15,,Large,,,,,,1,,,,,,,,,,,,,,,,NYMR & HB 1338 Apr 21
+IOT,1,94.2,94.2,N,Ship,Texel (SS),Visual,44,-47.96666667,1915,1915,April,4/5/15,,Small,,,,2,,,,,,,,,,,,,,,,,,NYMR & HB 1338 Apr 21
+IOT,1,95,95,N,Ship,Texel (SS),Visual,43,-50.45,1915,1915,April,4/6/15,,Large,,,,,,1,,,,,,,,,,,,,,,,NYMR & HB 1338 Apr 21
+IOT,1,96,96,N,Ship,Seneca (IIP),Visual,43,-50.15,1915,1915,April,4/6/15,10:00,Large,,,,,,1,,,,,,,,,,,69,E,,,,NYMR & HB 1337 Apr 14: Aground in 38 fathoms.  No ice further south.
+IOT,1,97,97,N,Ship,Harflete (SS),Visual,46.55,-45.33333333,1915,1915,April,4/7/15,,Large,,,,,,1,,,,,,,,,,,,,,,,NYMR & HB 1339 Apr 28
+IOT,1,98,98,N,Ship,Harflete (SS),Visual,46.46666667,-46.15,1915,1915,April,4/7/15,,Large,,,,,,2,,,,,,,,,,,,,,,,NYMR & HB 1339 Apr 28
+IOT,1,347,96,Y,Ship,Gorredijk (SS),Visual,42.95,-50.13333333,1915,1915,April,4/9/15,,Very large,,,,,,,1,,,,,,152,E,,,,,,,,HB 1338 Apr 21: saw a large berg ~500' high [very probably same as #96 with 38 fathom draft]
+IOT,1,99,99,N,Ship,Knutsford (SS),Visual,40.05,-47.53333333,1915,1915,April,4/10/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1339 Apr 28: gives lat. 40°11' with berg 8 miles to the southward drifting SSE; NYMR gives lat. 44.03 drifting SSE
+IOT,1,100.1,100.1,N,Ship,Seneca (IIP),Visual,44.9,-49.3,1915,1915,April,4/10/15,7:00,Berg,1,,,,,,,,,,,,,,,,,,,,,"HB 1337 Apr 14: Apr 10     NYMR; Reported by IIP as being in 44.55, 49.18 on Apr 9"
+IOT,1,100.2,100.2,N,Ship,Seneca (IIP),Visual,44.9,-49.3,1915,1915,April,4/10/15,7:00,Growler,,3,,,,,,,,,,,,,,,,,,,,"HB 1337 Apr 14: Apr 10     NYMR; Reported by IIP as being in 44.55, 49.18 on Apr 9"
+IOT,1,101,101,N,Ship,Seneca (IIP),Visual,44.9,-47.05,1915,1915,April,4/10/15,18:00,Berg,1,,,,,,,,,,,,,,,,,,,,,"HB 1337 Apr 14: Apr 10     NYMR; Reported by IIP as being in 44.55, 47.03 on Apr 9"
+IOT,1,103,103,N,Ship,Caterino (SS),Visual,44.56666667,-46.4,1915,1915,April,4/11/15,,Medium,,,,,1,,,,,Pinnacle,,,45,E,,,,,,,,NYMR & HB 1339 Apr 28: ~150' high with a single peak.
+IOT,1,104,104,N,Ship,Caterino (SS),Visual,44.88333333,-47.33333333,1915,1915,April,4/11/15,,Large,,,,,,1,,,,Tabular,,,15,E,,,,,,,,NYMR & HB 1339 Apr 28: Large flat topped berg ~50' high.
+IOT,1,105,105,N,Ship,Caterino (SS),Visual,44.91666667,-47.86666667,1915,1915,April,4/11/15,,Large,,,,,,1,,,,Pinnacle,,,64,E,,,,,,,,NYMR & HB 1339 Apr28: ~210' high with a single peak.
+IOT,1,106,106,N,Ship,Caterino (SS),Visual,44.91666667,-48.11666667,1915,1915,April,4/11/15,,Large,,,,,,1,,,,Tabular,,,18,E,,,,,,,,NYMR & HB 1339 Apr 28: Large flat topped berg ~60' high.
+IOT,1,107,107,N,Ship,Caterino (SS),Visual,44.58333333,-48.11666667,1915,1915,April,4/11/15,,Medium,,,,,1,,,,,Pinnacle,,,30,E,,,,,,,,NYMR & HB 1339 Apr 28: ~100' high with 2 peaks.
+IOT,1,108,108,N,Ship,Maartensdijk (SS),Visual,42.23333333,-49.91666667,1915,1915,April,4/12/15,,Large,,,,,,1,,,,,,,,,,,,,,,,NYMR & HB 1339 Apr 28
+IOT,1,109,109,N,Ship,Saxon Monarch (SS),Visual,44.18333333,-45.41666667,1915,1915,April,4/15/15,,Small,,,,1,,,,,,,,,,,,,,,,,,NYMR & HB 1339 Apr 28
+IOT,1,110,110,N,Ship,Saxon Monarch (SS),Visual,43.83333333,-46,1915,1915,April,4/15/15,,Small,,,,1,,,,,,,,,,,,,,,,,,NYMR & HB 1339 Apr 28
+IOT,1,205,205,N,Ship,Dunedin (SS),Visual,47.33333333,-45.63333333,1915,1915,April,4/15/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1339 Apr 28
+IOT,1,268,268,N,Ship,I.D.S. Adolph (SS),Visual,45.18333333,-48.15,1915,1915,April,4/16/15,,Large,,,,,,2,,,,,,,,,,,,,,,,HB 1342 May 19
+IOT,1,269,269,N,Ship,I.D.S. Adolph (SS),Visual,45.26666667,-47.45,1915,1915,April,4/16/15,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1342 May 19
+IOT,1,270,270,N,Ship,I.D.S. Adolph (SS),Visual,45.33333333,-46.76666667,1915,1915,April,4/16/15,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1342 May 19
+IOT,1,112.2,96,Y,Ship,Miami,Visual,43,-50.15,1915,1915,April,4/18/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP; Several growlers 15 miles from this position
+IOT,1,111,111,N,Ship,Miami (IIP),Visual,43.28333333,-50.21666667,1915,1915,April,4/19/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,NYMR & 1338 Apr 21: Ice pieces evidently from iceberg aground in 43N 50-09W; also HB 1339 Apr 28
+IOT,1,112.1,96,Y,Ship,Miami (IIP),Visual,43,-50.15,1915,1915,April,4/19/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & 1338 Apr 21: Evidently aground. [likely resight of #96]
+IOT,1,113,113,N,Ship,Miami (IIP),Visual,46.56666667,-53.06666667,1915,1915,April,4/21/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1339 Apr 28: Numerous bergs reported off C. Race.
+IOT,1,200,200,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,April,4/21/15,,Berg,20,,,,,,,,,,,,,,,,,,,,,HB 1339 Apr 28: heavy open ice everywhere moving E; 20 bergs
+IOT,1,201,201,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,April,4/22/15,,Berg,20,,,,,,,,,,,,,,,,,,,,,HB 1339 Apr 28: heavy open ice inshore; 20 bergs
+IOT,1,202,202,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,April,4/23/15,,Berg,20,,,,,,,,,,,,,,,,,,,,,HB 1339 Apr 28: heavy close packed ice inshore; 20 bergs
+IOT,1,114,114,N,Ship,Miami (IIP),Visual,46.6,-46.3,1915,1915,April,4/24/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1339 Apr 28
+IOT,1,115.1,115.1,N,Ship,Miami (IIP),Visual,44.88333333,-49.6,1915,1915,April,4/24/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1339 Apr 28
+IOT,1,115.2,115.2,N,Ship,Miami (IIP),Visual,44.88333333,-49.6,1915,1915,April,4/24/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,NYMR & HB 1339 Apr 28
+IOT,1,116,116,N,Ship,Polandia (SS),Visual,43.8,-48.7,1915,1915,April,4/24/15,,Growler,,1,,,,,,,,,,,,,,,,,,,,NYMR & HB 1341 May 12: Large growler.
+IOT,1,117,117,N,Ship,Polandia (SS),Visual,43.65,-49.11666667,1915,1915,April,4/24/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1341 May 12
+IOT,1,178,178,N,Ship,Montcalm (CGS),Visual,48.3,-61.4,1915,1915,April,4/24/15,,Medium,,,,,1,,,,,,91,E,21,E,,,,,,,,HB 1340 May 5: no ice to be seen except fo one berg ~70' high & ~300' in diameter
+IOT,1,206,206,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,April,4/24/15,,Berg,20,,,,,,,,,,,,,,,,,,,,,HB 1340 May 5: heavy open ice; 20 bergs
+IOT,1,208,208,N,Miscellaneous,Cape Race,Visual,46.65,-53.06666667,1915,1915,April,4/24/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1340 May 5: bergs E, S and W, all aground."
+IOT,1,118,118,N,Ship,Wathfield (SS),Visual,41.38333333,-48.16666667,1915,1915,April,4/26/15,,Small,,,,1,,,,,,,45,E,6,E,,,,,,,,"NYMR & HB 1341 May 12: ~150' long, 20' high."
+IOT,1,119,119,N,Ship,Jacona (SS),Visual,46.1,-47.23333333,1915,1915,April,4/26/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1339 Apr 28
+IOT,1,120,120,N,Ship,Jacona (SS),Visual,46.06666667,-47.43333333,1915,1915,April,4/26/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1339 Apr 28
+IOT,1,207,207,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,April,4/26/15,,Berg,20,,,,,,,,,,,,,,,,,,,,,HB 1340 May 5: heavy close packed ice distant; 20 bergs
+IOT,1,209,209,N,Miscellaneous,Cape Race,Visual,46.58333333,-53.06666667,1915,1915,April,4/26/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1340 May 5: bergs E, S and W, from 4 to 10 miles."
+IOT,1,357,357,N,Ship,Sicilian (SS),Visual,46.06666667,-45.91666667,1915,1915,April,4/26/15,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1344 Jun 2: passed 8 miles S of a medium sized berg [position calculated]
+IOT,1,358,358,N,Ship,Sicilian (SS),Visual,46.08333333,-45.85,1915,1915,April,4/26/15,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1344 Jun 2: passed 8 miles S of another medium sized berg [position calculated]
+IOT,1,359,359,N,Ship,Sicilian (SS),Visual,46.08333333,-45.53333333,1915,1915,April,4/26/15,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1344 Jun 2: a medium sized growler
+IOT,1,121,119,Y,Ship,Miami (IIP),Visual,46.1,-47.23333333,1915,1915,April,4/27/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1340 May 5
+IOT,1,122,120,Y,Ship,Miami (IIP),Visual,46.06666667,-47.43333333,1915,1915,April,4/27/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1340 May 5
+IOT,1,123,123,N,Ship,Miami (IIP),Visual,45.68333333,-49.45,1915,1915,April,4/27/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1340 May 5
+IOT,1,124,124,N,Ship,Miami (IIP),Visual,45.65,-49.56666667,1915,1915,April,4/27/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1340 May 5
+IOT,1,125,125,N,Ship,Miami (IIP),Visual,42.25,-48.71666667,1915,1915,April,4/27/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1340 May 5: [probably reported to Miami rather than sighted by]
+IOT,1,126,126,N,Ship,Miami (IIP),Visual,45.75,-47.08333333,1915,1915,April,4/27/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1340 May 5
+IOT,1,179,179,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,April,4/27/15,,Berg,20,,,,,,,,,,,,,,,,,,,,,"NYMR 28 Apr, HB 1340 May 5 & HB 1341 May 12: heavy open ice everywhere; 20 bergs"
+IOT,1,180,180,N,Miscellaneous,Cape Race,Visual,46.65,-53.06666667,1915,1915,April,4/27/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"NYMR 28 Apr & HB 1340 May 5: Icebergs E, S & W, all aground"
+IOT,1,220.1,220.1,N,Ship,Fridtjof Nansen (SS),Visual,42.81666667,-49.85,1915,1915,April,4/27/15,,Medium,,,,,1,,,,,,,,30,E,,,,,,,,HB 1341 May 12: 100' high
+IOT,1,220.2,220.2,N,Ship,Fridtjof Nansen (SS),Visual,42.81666667,-49.85,1915,1915,April,4/27/15,,Large,,,,,,1,,,,,,,60,E,,,,,,,,HB 1341 May 12: 200' high
+IOT,1,221.1,221.1,N,Ship,Fridtjof Nansen (SS),Visual,42.91666667,-49.21666667,1915,1915,April,4/27/15,,Large,,,,,,7,,,,,,,60,E,,,,,,,,HB 1341 May 12: seven large bergs each ~200' high
+IOT,1,221.2,221.2,N,Ship,Fridtjof Nansen (SS),Visual,42.91666667,-49.21666667,1915,1915,April,4/27/15,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1341 May 12
+IOT,1,127.01,127.01,N,Ship,Miami (IIP),Visual,44.83333333,-46,1915,1915,April,4/28/15,,Berg,10,,,,,,,,,,,,,,,,,,,,,NYMR. HB 1340 May 5
+IOT,0,127.02,127.02,N,Ship,Miami (IIP),Visual,46.5,-50,1915,1915,April,4/28/15,,Berg,,,,,,,,,,,,,,,,,,,,,,NYMR. HB 1340 May 5
+IOT,1,128,128,N,Ship,Miami (IIP),Visual,42.18333333,-50.18333333,1915,1915,April,4/28/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1340 May 5
+IOT,1,141.1,141.1,N,Ship,Polymina (SS),Visual,41.73333333,-47.41666667,1915,1915,April,4/28/15,,Large,,,,,,4,,,,,,,,,,,,,,,,NYMR & HB 1341 May 12
+IOT,1,141.2,141.2,N,Ship,Polymina (SS),Visual,41.73333333,-47.41666667,1915,1915,April,4/28/15,,Small,,,,1,,,,,,,,,,,,,,,,,,NYMR & HB 1341 May 12
+IOT,1,143,143,N,Ship,A.A. Raven (SS),Visual,41.75,-51.71666667,1915,1915,April,4/28/15,,Medium,,,,,2,,,,,,,,23,E,,,,,,,,NYMR & HB 1341 May 12: 2 bergs close together and 75' high.
+IOT,1,144,144,N,Ship,Quebra (SS),Visual,41.76666667,-48.06666667,1915,1915,April,4/28/15,,Medium,,,,,1,,,,,,,,30,E,,,,,,,,NYMR & HB 1341 May 12: 100' high.
+IOT,1,145,145,N,Ship,Quebra (SS),Visual,41.78333333,-48.11666667,1915,1915,April,4/28/15,,Bergy bit,,,1,,,,,,,,,,4.6,E,,,,,,,,NYMR & HB 1341 May 12: a small berg ~ 15' high
+IOT,1,146,146,N,Ship,Quebra (SS),Visual,41.65,-48.15,1915,1915,April,4/28/15,,Medium,,,,,1,,,,,,,,23,E,,,,,,,,NYMR & HB 1341 May 12: ~75' high.
+IOT,1,249,249,N,Ship,Devonian (SS),Visual,45.03333333,-47.23333333,1915,1915,April,4/28/15,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1343 May 26
+IOT,1,761,125,Y,Ship,Miami (IIP),Visual,42.25,-48,1915,1915,April,4/28/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1340 May 5: probable resight of #125
+IOT,1,130,125,Y,Ship,Miami (IIP),Visual,42.25,-48.71666667,1915,1915,April,4/29/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1340 May 5 [probable reight of #125]
+IOT,1,131,128,Y,Ship,Miami (IIP),Visual,42.25,-50.18333333,1915,1915,April,4/29/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1340 May 5 [probable reight of #128]
+IOT,1,132,132,N,Ship,Miami (IIP),Visual,42.83333333,-50.56666667,1915,1915,April,4/29/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR [42.30N] & HB 1340 May 5
+IOT,1,147.1,147.1,N,Ship,Philadelphia (SS),Visual,41.46666667,-50.63333333,1915,1915,April,4/29/15,,Small,,,,2,,,,,,,,,,,,,,,,,,NYMR & HB 1340 May 5: 2 small bergs and some growlers.
+IOT,1,147.2,147.2,N,Ship,Philadelphia (SS),Visual,41.46666667,-50.63333333,1915,1915,April,4/29/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,NYMR & HB 1340 May 5: 2 small bergs and some growlers.
+IOT,1,210,210,N,Miscellaneous,Cape Race,Visual,46.58333333,-53.06666667,1915,1915,April,4/29/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1340 May 5: E, S and W from 2 to 10 miles"
+IOT,1,222,222,N,Ship,Sardinian (SS),Visual,47.6,-44.46666667,1915,1915,April,4/29/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1341 May 12: saw a large berg 12 miles S [position calculated]
+IOT,1,223,223,N,Ship,Sardinian (SS),Visual,47,-46.23333333,1915,1915,April,4/29/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1341 May 12: a large berg 16 miles S [position calculated]
+IOT,1,224.11,224.11,N,Ship,Sardinian (SS),Visual,46.83333333,-47.46666667,1915,1915,April,4/29/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1341 May 12: several bergs, growlers and pieces of ice"
+IOT,1,224.21,224.21,N,Ship,Sardinian (SS),Visual,46.83333333,-47.46666667,1915,1915,April,4/29/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,"HB 1341 May 12: several bergs, growlers and pieces of ice"
+IOT,1,224.31,224.31,N,Ship,Sardinian (SS),Visual,46.83333333,-47.46666667,1915,1915,April,4/29/15,,Bergy bit,,,x,,,,,,,,,,,,,,,,,,,"HB 1341 May 12: several bergs, growlers and pieces of ice"
+IOT,1,229,229,N,Ship,Cambrian (SS),Visual,43,-47.08333333,1915,1915,April,4/29/15,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1341 May 12: moderate sized berg
+IOT,1,230,230,N,Ship,Cambrian (SS),Visual,44.41666667,-48.91666667,1915,1915,April,4/29/15,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1341 May 12: moderate sized berg
+IOT,1,231,231,N,Ship,Cambrian (SS),Visual,44.5,-49,1915,1915,April,4/29/15,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1341 May 12: moderate sized berg
+IOT,1,271,271,N,Ship,Gulfaxe (SS),Visual,45.35,-44.66666667,1915,1915,April,4/29/15,,Large,,,,,,2,,,,,,,,,,,,,,,,HB 1342 May 19: saw 2 large bergs ~1½ miles to the northward [position calculated]
+IOT,1,272,272,N,Ship,Sophie H. (SS),Visual,42.01666667,-50.63333333,1915,1915,April,4/29/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1342 May 19
+IOT,1,760,760,N,Ship,Montcalm (CGS),Visual,47.8,-61.3,1915,1915,April,4/29/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1340 May 5: a berg aground half way between Bird Rocks & Byron Is. [position estimated]
+IOT,1,133,133,N,Ship,Miami (IIP),Visual,41.8,-47.7,1915,1915,April,4/30/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,"NYMR & HB 1340 May 5:""Apr 29"""
+IOT,1,134,134,N,Ship,Miami (IIP),Visual,41.76666667,-47.95,1915,1915,April,4/30/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,"NYMR & HB 1340 May 5:""Apr 29"""
+IOT,1,136,136,N,Ship,Miami (IIP),Visual,42.9,-50.91666667,1915,1915,April,4/30/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,"NYMR & HB 1340 May 5:""Apr 29"""
+IOT,1,137,137,N,Ship,Miami (IIP),Visual,42.6,-50.51666667,1915,1915,April,4/30/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,"NYMR & HB 1340 May 5:""Apr 29"""
+IOT,1,138,138,N,Ship,Miami (IIP),Visual,42.86666667,-50.1,1915,1915,April,4/30/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,"NYMR & HB 1340 May 5:""Apr 29"""
+IOT,1,139,139,N,Ship,Miami (IIP),Visual,40.43333333,-50.83333333,1915,1915,April,4/30/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR [50.30'W]& HB 1340 May 5: [Both sources give Lat. as 40-26N. Is this correct?]
+IOT,1,148,148,N,Ship,Manchester Exchange (SS),Visual,41.88333333,-50.51666667,1915,1915,April,4/30/15,,Large,,,,,,1,,,,Pinnacle,,,,,,,,,,,,NYMR & HB 1341 May 12: passed a large pinnacled berg
+IOT,1,149,131,Y,Ship,Unknown,Visual,42.26666667,-50.2,1915,1915,April,4/30/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,"NYMR & HB 1341 May 12: relayed by Transylvania (SS) [probable resight, if not same report, as #131]"
+IOT,1,150,150,N,Ship,Unknown,Visual,42.11666667,-48.3,1915,1915,April,4/30/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1341 May 12: relayed by Transylvania (SS)
+IOT,1,216,216,N,Miscellaneous,Cape Race,Visual,46.58333333,-53.06666667,1915,1915,April,4/30/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1341 May 12: bergs E,W and S from 2 to 10 miles"
+IOT,0,224.12,224.12,N,Ship,Sardinian (SS),Visual,46.21666667,-49.33333333,1915,1915,April,4/30/15,,Berg,,,,,,,,,,,,,,,,,,,,,,"HB 1341 May 12: several bergs, growlers and pieces of ice"
+IOT,0,224.22,224.22,N,Ship,Sardinian (SS),Visual,46.21666667,-49.33333333,1915,1915,April,4/30/15,,Growler,,,,,,,,,,,,,,,,,,,,,,"HB 1341 May 12: several bergs, growlers and pieces of ice"
+IOT,0,224.32,224.32,N,Ship,Sardinian (SS),Visual,46.21666667,-49.33333333,1915,1915,April,4/30/15,,Bergy bit,,,,,,,,,,,,,,,,,,,,,,"HB 1341 May 12: several bergs, growlers and pieces of ice"
+IOT,1,225,225,N,Ship,Sardinian (SS),Visual,46.06666667,-51.86666667,1915,1915,April,4/30/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1341 May 12: a large berg 6 miles S [position calculated]
+IOT,1,226,226,N,Ship,Sardinian (SS),Visual,46.3,-53.6,1915,1915,April,4/30/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1341 May 12
+IOT,1,151,151,N,Ship,Galileo (SS),Visual,42.38333333,-50.76666667,1915,1915,May,5/1/15,,Bergy bit,,,1,,,,,,,,,,4.6,E,,,,,,,,NYMR & HB 1341 May 12: small iceberg ~ 15' high
+IOT,1,219.11,219.11,N,Ship,Milwaukee (SS),Visual,46.41666667,-47.41666667,1915,1915,May,5/1/15,,Small,,,,x,,,,,,,,,,,,,,,,,,HB 1341 May 12: numerous small bergs and growlers.  Many growlers at first position evidently a berg broken up.
+IOT,0,219.12,219.12,N,Ship,Milwaukee (SS),Visual,46.08333333,-49,1915,1915,May,5/1/15,,Small,,,,,,,,,,,,,,,,,,,,,,HB 1341 May 12: numerous small bergs and growlers.  Many growlers at first position evidently a berg broken up.
+IOT,1,219.21,219.21,N,Ship,Milwaukee (SS),Visual,46.41666667,-47.41666667,1915,1915,May,5/1/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1341 May 12: numerous small bergs and growlers.  Many growlers at first position evidently a berg broken up.
+IOT,0,219.22,219.22,N,Ship,Milwaukee (SS),Visual,46.08333333,-49,1915,1915,May,5/1/15,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1341 May 12: numerous small bergs and growlers.  Many growlers at first position evidently a berg broken up.
+IOT,1,227,227,N,Ship,Sardinian (SS),Visual,46.45,-54.25,1915,1915,May,5/1/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1341 May 12: a large berg 5 miles N [position calculated]
+IOT,1,232,232,N,Ship,Pretorian (SS),Visual,46.38333333,-48.06666667,1915,1915,May,5/1/15,,Growler,,3,,,,,,,,,,,,,,,,,,,,HB 1341 May 12: large growlers
+IOT,1,233.1,233.1,N,Ship,Pretorian (SS),Visual,46.35,-48.43333333,1915,1915,May,5/1/15,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1341 May 12
+IOT,1,233.2,233.2,N,Ship,Pretorian (SS),Visual,46.35,-48.43333333,1915,1915,May,5/1/15,,Growler,,3,,,,,,,,,,,,,,,,,,,,HB 1341 May 12
+IOT,1,234.11,234.11,N,Ship,Pretorian (SS),Visual,46.3,-48.5,1915,1915,May,5/1/15,,Small,,,,7,,,,,,,,,,,,,,,,,,HB 1341 May 12
+IOT,0,234.12,234.12,N,Ship,Pretorian (SS),Visual,46.1,-49.18333333,1915,1915,May,5/1/15,,Small,,,,,,,,,,,,,,,,,,,,,,HB 1341 May 12
+IOT,1,234.21,234.21,N,Ship,Pretorian (SS),Visual,46.3,-48.5,1915,1915,May,5/1/15,,Growler,,27,,,,,,,,,,,,,,,,,,,,HB 1341 May 12
+IOT,0,234.22,234.22,N,Ship,Pretorian (SS),Visual,46.1,-49.18333333,1915,1915,May,5/1/15,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1341 May 12
+IOT,1,273,273,N,Ship,Parthenia (SS),Visual,45.61666667,-43,1915,1915,May,5/1/15,,Medium,,,,,1,,,,,,91,E,43,E,,,,,,,,HB 1342 May 19: ~140' high and 300' long
+IOT,1,360,360,N,Ship,Carthaginian (SS),Visual,45.56666667,-49.71666667,1915,1915,May,5/1/15,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1344 Jun 2: saw 2 growlers & several small pieces of ice
+IOT,1,140,140,N,Ship,Miami (IIP),Visual,42.25,-55.05,1915,1915,May,5/2/15,9:00,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1340 May 5
+IOT,1,152,152,N,Ship,Randwick (SS),Visual,41.91666667,-48.73333333,1915,1915,May,5/2/15,,Large,,,,,,1,,,,,,,,,,,,,,,,NYMR
+IOT,1,153,153,N,Ship,Etonian (SS),Visual,41.9,-51.7,1915,1915,May,5/2/15,,Small,,,,1,,,,,,,45,E,14,E,,,,,,,,"NYMR & HB 1341 May 12: 150' long, 45' high with a peak at each end."
+IOT,1,217,217,N,Miscellaneous,Cape Race,Visual,46.58333333,-53.06666667,1915,1915,May,5/2/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1341 May 12: bergs E,W and S from 2 to 10 miles"
+IOT,1,228,228,N,Ship,Sardinian (SS),Visual,48.63333333,-62.95,1915,1915,May,5/2/15,,Small,,,,2,,,,,,,,,,,,,,,,,,HB 1341 May 12
+IOT,1,236,236,N,Ship,Potsdam (SS),Visual,42.2,-50.08333333,1915,1915,May,5/2/15,,Medium,,,,,1,,,,,,,,21,E,,,,,,,,HB 1341 May 12: ~70' high
+IOT,1,237,237,N,Ship,Potsdam (SS),Visual,42.16666667,-50.08333333,1915,1915,May,5/2/15,,Bergy bit,,,x,,,,,,,,,,,,,,,,,,,HB 1341 May 12: several pieces of ice 2 miles to the southward [of #236]
+IOT,1,238,238,N,Ship,California (SS),Visual,41.83333333,-51.63333333,1915,1915,May,5/2/15,,Medium,,,,,1,,,,,,91,E,30,E,,,,,,,,"HB 1341 May 12: 300' long, 100' high"
+IOT,1,274,274,N,Ship,Parthenia (SS),Visual,45.05,-49,1915,1915,May,5/2/15,,Large,,,,,,1,,,,,61,E,46,E,,,,,,,,HB 1342 May 19: ~150' high and 200' long
+IOT,1,275,275,N,Ship,Tonawanda (SS),Visual,42.9,-51.23333333,1915,1915,May,5/2/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1342 May 19: [position calculated]
+IOT,1,276,276,N,Ship,Saint Andrew (SS),Visual,41.68333333,-50.35,1915,1915,May,5/2/15,,Medium,,,,,1,,,,,,30,E,24,E,,,,,,,,HB 1342 May 19: ~80' high and 100' long
+IOT,1,361,361,N,Ship,Carthaginian (SS),Visual,45.76666667,-49.15,1915,1915,May,5/2/15,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1344 Jun 2
+IOT,1,362,362,N,Ship,Carthaginian (SS),Visual,45.9,-48.95,1915,1915,May,5/2/15,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1344 Jun 2
+IOT,1,363,363,N,Ship,Carthaginian (SS),Visual,45.93333333,-48.85,1915,1915,May,5/2/15,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1344 Jun 2
+IOT,1,364,364,N,Ship,Carthaginian (SS),Visual,45.96666667,-48.8,1915,1915,May,5/2/15,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1344 Jun 2
+IOT,1,214,214,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,May,5/3/15,,Berg,20,,,,,,,,,,,,,,,,,,,,,HB 1341 May 12: heavy close packed ice everywhere; 20 bergs
+IOT,1,235,235,N,Ship,Pretorian (SS),Visual,48.11666667,-61.45,1915,1915,May,5/3/15,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1341 May 12
+IOT,1,277,277,N,Ship,Helig Olav (SS),Visual,41.71666667,-51.03333333,1915,1915,May,5/3/15,,Small,,,,2,,,,,,,,,,,,,,,,,,HB 1342 May 19
+IOT,1,278,278,N,Ship,Ranvik (SS),Visual,41.25,-48.41666667,1915,1915,May,5/3/15,,Small,,,,2,,,,,,,,,,,,,,,,,,HB 1342 May 19
+IOT,1,279.1,279.1,N,Ship,Cabotia (SS),Visual,41.48333333,-48.28333333,1915,1915,May,5/3/15,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1342 May 19: passed a small berg & sveral growlers
+IOT,1,279.2,279.2,N,Ship,Cabotia (SS),Visual,41.48333333,-48.28333333,1915,1915,May,5/3/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1342 May 19: passed a small berg & sveral growlers
+IOT,1,154,154,N,Ship,Sagamore (SS),Visual,42.56666667,-50.35,1915,1915,May,5/4/15,,Large,,,,,,1,,,,,,,,,,,,,,,,NYMR & HB 1341 May 12
+IOT,1,155,155,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,May,5/4/15,,Berg,20,,,,,,,,,,,,,,,,,,,,,NYMR 12 May & HB 1341 May 12: heavy open ice distant; 20 bergs
+IOT,1,156,156,N,Miscellaneous,Cape Race,Visual,46.56666667,-53.06666667,1915,1915,May,5/4/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,NYMR 12 May & HB 1341 May 12: numerous bergs
+IOT,1,157,157,N,Ship,Seneca (IIP),Visual,41.83333333,-50.7,1915,1915,May,5/4/15,6:30,Small,,,,3,,,,,,,,,,,,,,,,,,NYMR & HB 1341 May 12: Close together.
+IOT,1,181,181,N,Ship,Milwaukee (SS),Visual,48.18333333,-61.55,1915,1915,May,5/4/15,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1341 May 12;
+IOT,1,182,182,N,Ship,Parthenia (SS),Visual,48.16666667,-61.61666667,1915,1915,May,5/4/15,,Small,,,,1,,,,,,,21,E,6,E,,,,,,,,HB 1342 May 19; A berg about 20 feet high and 70 feet long;  
+IOT,1,250,250,N,Ship,Kronberg (SS),Visual,48.16666667,-50.83333333,1915,1915,May,5/4/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1343 May 26
+IOT,1,280,280,N,Ship,Appenine (SS),Visual,41.73333333,-50.88333333,1915,1915,May,5/4/15,,Large,,,,,,2,,,,,,,,,,,,,,,,HB 1342 May 19
+IOT,1,282,282,N,Ship,Sandefjord (SS),Visual,46.4,-50,1915,1915,May,5/4/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1342 May 19: drift ice and several icebergs
+IOT,1,158,158,N,Ship,Seneca (IIP),Visual,43.46666667,-49.95,1915,1915,May,5/5/15,10:00,Growler,,1,,,,,,,,,,,,,,,,,,,,NYMR & HB 1341 May 12: Large growler
+IOT,1,159,159,N,Miscellaneous,Cape Race,Visual,46.56666667,-53.06666667,1915,1915,May,5/5/15,,Berg,20,,,,,,,,,,,,,,,,,,,,,NYMR: Cape Race
+IOT,1,183,183,N,Miscellaneous,South Point,Visual,48.98333333,-62.25,1915,1915,May,5/5/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR 12 May: a berg ~5 miles off
+IOT,1,184,184,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,May,5/5/15,,Berg,20,,,,,,,,,,,,,,,,,,,,,NYMR 12 May & HB 1341 May 12
+IOT,1,281,281,N,Ship,Gulfaxe (SS),Visual,42.85,-50.68333333,1915,1915,May,5/5/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1342 May 19: saw a berg ~1 mile to the northward [position calculated]
+IOT,1,396,396,N,Ship,Gouverneur De Lantcheere (SS),Visual,39.88333333,-47.4,1915,1915,May,5/5/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1345 Jun 9
+IOT,1,160,160,N,Ship,Seneca (IIP),Visual,44.26666667,-49.53333333,1915,1915,May,5/6/15,5:00,Growler,,1,,,,,,,,,,,,,,,,,,,,NYMR & HB 1341 May 12: Large growler.
+IOT,1,161,161,N,Miscellaneous,Cape Race,Visual,46.56666667,-53.06666667,1915,1915,May,5/6/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,NYMR & HB 1341 May 12: numerous bergs.
+IOT,1,251,251,N,Ship,Kronberg (SS),Visual,46.33333333,-51.91666667,1915,1915,May,5/6/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1343 May 26
+IOT,1,283,283,N,Ship,Albr W. Selmer (SS),Visual,47,-45,1915,1915,May,5/6/15,,Bergy bit,,,1,,,,,,,,,,4.6,E,,,,,,,,HB 1342 May 19: small berg ~ 15' high
+IOT,1,185.1,185.1,N,Ship,Megantic (SS),Visual,47.98333333,-61.23333333,1915,1915,May,5/7/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1342 May 19: a berg & several growlers;
+IOT,1,185.2,185.2,N,Ship,Megantic (SS),Visual,47.98333333,-61.23333333,1915,1915,May,5/7/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1342 May 19: a berg & several growlers;
+IOT,1,186,186,N,Ship,Megantic (SS),Visual,48.13333333,-61.73333333,1915,1915,May,5/7/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1342 May 19;
+IOT,1,187,187,N,Ship,Megantic (SS),Visual,48.6,-63.08333333,1915,1915,May,5/7/15,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1342 May 19;
+IOT,1,188.1,188.1,N,Ship,Megantic (SS),Visual,48.75,-62.85,1915,1915,May,5/7/15,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1342 May 19;
+IOT,1,188.2,188.2,N,Ship,Megantic (SS),Visual,48.75,-62.85,1915,1915,May,5/7/15,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1342 May 19;
+IOT,1,215,215,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,May,5/7/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1341 May 12: few bergs
+IOT,1,218,218,N,Miscellaneous,Cape Race,Visual,46.58333333,-53.06666667,1915,1915,May,5/7/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1341 May 12: numerous bergs
+IOT,1,349,349,N,Ship,Megantic (SS),Visual,49.05,-63.1,1915,1915,May ,5/7/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1342 May 19
+IOT,1,162,162,N,Ship,Seneca (IIP),Visual,42.31666667,-50.06666667,1915,1915,May,5/8/15,14:00,Growler,,1,,,,,,,,,,,,,,,,,,,,NYMR & HB 1341 May 12: large growler
+IOT,1,189.11,189.11,N,Ship,Montcalm (CGS),Visual,47.93333333,-61.28333333,1915,1915,May,5/8/15,,Small,,,,x,,,,,,,,,,,,,,,,,,HB 1342 May 19: passed small bergs & several growlers from 8 to 20 miles NW of Bird Rocks
+IOT,0,189.12,189.12,N,Ship,Montcalm (CGS),Visual,48.06666667,-61.5,1915,1915,May,5/8/15,,Small,,,,,,,,,,,,,,,,,,,,,,HB 1342 May 19: passed small bergs & several growlers from 8 to 20 miles NW of Bird Rocks
+IOT,1,189.21,189.21,N,Ship,Montcalm (CGS),Visual,47.93333333,-61.28333333,1915,1915,May,5/8/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1342 May 19: passed small bergs & several growlers from 8 to 20 miles NW of Bird Rocks
+IOT,0,189.22,189.22,N,Ship,Montcalm (CGS),Visual,48.06666667,-61.5,1915,1915,May,5/8/15,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1342 May 19: passed small bergs & several growlers from 8 to 20 miles NW of Bird Rocks
+IOT,1,190.11,190.11,N,Ship,Montcalm (CGS),Visual,48.65,-63.65,1915,1915,May,5/8/15,,Small,,,,2,,,,,,,,,,,,,,,,,,HB 1342 May 19: passed 2 small bergs & 2 growlers from 25 to 40 miles ESE of C.Rozier. Cabot Strait clear of ice
+IOT,0,190.12,190.12,N,Ship,Montcalm (CGS),Visual,48.51666667,-63.33333333,1915,1915,May,5/8/15,,Small,,,,,,,,,,,,,,,,,,,,,,HB 1342 May 19: passed 2 small bergs & 2 growlers from 25 to 40 miles ESE of C.Rozier. Cabot Strait clear of ice
+IOT,1,190.21,190.21,N,Ship,Montcalm (CGS),Visual,48.65,-63.65,1915,1915,May,5/8/15,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1342 May 19: passed 2 small bergs & 2 growlers from 25 to 40 miles ESE of C.Rozier. Cabot Strait clear of ice
+IOT,0,190.22,190.22,N,Ship,Montcalm (CGS),Visual,48.51666667,-63.33333333,1915,1915,May,5/8/15,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1342 May 19: passed 2 small bergs & 2 growlers from 25 to 40 miles ESE of C.Rozier. Cabot Strait clear of ice
+IOT,1,263,263,N,Miscellaneous,Cape Race,Visual,46.58333333,-53.06666667,1915,1915,May,5/8/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1342 May 19: numerous bergs in sight
+IOT,1,350,350,N,Ship,Noordam (SS),Visual,42.23333333,-50.1,1915,1915,May,5/8/15,,Small,,,,1,,,,,,,12,E,5.5,E,,,,,,,,HB 1342 May 19: passed a berg ~40' long & 18' high
+IOT,1,351,351,N,Ship,Noordam (SS),Visual,42.31666667,-52,1915,1915,May,5/8/15,,Large,,,,,,1,,,,,122,E,56,E,,,,,,,,HB 1342 May 19: a large berg ~400' long & 185' high. IIP: 170 feet high and 400 feet long. NYMR & HB 1341 May 12
+IOT,1,252,252,N,Ship,Cloughton (SS),Visual,42,-50,1915,1915,May,5/9/15,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1343 May 26
+IOT,1,264,264,N,Miscellaneous,Cape Race,Visual,46.58333333,-53.06666667,1915,1915,May,5/9/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1342 May 19: numerous bergs in sight
+IOT,1,253,253,N,Ship,Ocean Monarch (SS),Visual,42.81666667,-49.03333333,1915,1915,May,5/10/15,,Small,,,,1,,,,,,Pinnacle,36,E,,,,,,,,,,HB 1343 May 26: large single peaked berg ~120' long
+IOT,1,254,254,N,Ship,Ocean Monarch (SS),Visual,42.88333333,-49.03333333,1915,1915,May,5/10/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,"HB 1343 May 26: several growlers ~4 miles N [of #253, position calculated]"
+IOT,1,255,255,N,Ship,Ocean Monarch (SS),Visual,42.96666667,-50.78333333,1915,1915,May,5/11/15,,Medium,,,,,1,,,,,Tabular,,,18,E,,,,,,,,HB 1343 May 26: large flat topped berg ~60' high
+IOT,1,256.1,256.1,N,Ship,Ocean Monarch (SS),Visual,42.86666667,-50.8,1915,1915,May,5/11/15,,Medium,,,,,1,,,,,Pinnacle,,,45,E,,,,,,,,"HB 1343 May 26: large double peaked berg ~150' high, also several growlers"
+IOT,1,256.2,256.2,N,Ship,Ocean Monarch (SS),Visual,42.86666667,-50.8,1915,1915,May,5/11/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,"HB 1343 May 26: large double peaked berg ~150' high, also several growlers"
+IOT,1,265.1,265.1,N,Miscellaneous,Cape Race,Visual,46.58333333,-53.06666667,1915,1915,May,5/11/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1342 May 19: numerous bergs in sight and some small pieces of ice drifting S.
+IOT,1,265.2,265.2,N,Miscellaneous,Cape Race,Visual,46.58333333,-53.06666667,1915,1915,May,5/11/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1342 May 19: numerous bergs in sight and some small pieces of ice drifting S.
+IOT,1,763,763,N,Ship,Seneca (IIP),Visual,42.7,-51.06666667,1915,1915,May,5/11/15,7:00,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1342 May 19
+IOT,1,764,764,N,Ship,Seneca (IIP),Visual,42.73333333,-50.95,1915,1915,May,5/11/15,7:30,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1342 May 19
+IOT,1,172.1,172.1,N,Ship,Seneca (IIP),Visual,42.75,-48.73333333,1915,1915,May,5/12/15,,Medium,,,,,1,,,,,,,,30,E,,,,,,,,"IIP; 100 feet high, rapidly breaking up, there being numerous growlers and very small pieces of ice to leeward"
+IOT,1,172.2,172.2,N,Ship,Seneca (IIP),Visual,42.75,-48.73333333,1915,1915,May,5/12/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP;
+IOT,1,257.1,257.1,N,Ship,Bohemian (SS),Visual,42.75,-48.55,1915,1915,May,5/12/15,13:00,Large,,,,,,1,,,,,,,,,,,,,,,,"HB 1343 May 26, also reported by IIP with 6 growlers"
+IOT,1,257.2,257.2,N,Ship,Bohemian (SS),Visual,42.75,-48.55,1915,1915,May,5/12/15,13:00,Growler,,6,,,,,,,,,,,,,,,,,,,,"HB 1343 May 26, also reported by IIP with 6 growlers"
+IOT,1,258,258,N,Ship,Calabria (SS),Visual,42.83333333,-50.83333333,1915,1915,May,5/12/15,10:00,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1343 May 26: large growler. Also reported by IIP same date as small berg
+IOT,1,266,266,N,Miscellaneous,Cape Race,Visual,46.58333333,-53.06666667,1915,1915,May,5/12/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1342 May 19: numerous bergs in sight
+IOT,1,397,397,N,Ship,Pretorian (SS),Visual,45.46666667,-51.06666667,1915,1915,May,5/12/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1345 Jun 9
+IOT,1,765,765,N,Ship,Seneca (IIP),Visual,41.93333333,-52.5,1915,1915,May,5/12/15,22:00,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1342 May 19
+IOT,1,191,191,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,May,5/13/15,,Berg,15,,,,,,,,,,,,,,,,,,,,,HB 1342 May 19
+IOT,1,259,259,N,Ship,Narragansett (SS),Visual,42.6,-48.51666667,1915,1915,May,5/13/15,,Medium,,,,,1,,,,,,,,21,E,,,,,,,,HB 1343 May 26: large iceberg ~70' high
+IOT,1,267,267,N,Miscellaneous,Cape Race,Visual,46.58333333,-53.06666667,1915,1915,May,5/13/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1342 May 19: numerous bergs some breaking up and moving S
+IOT,1,766,766,N,Ship,Seneca (IIP),Visual,42.61666667,-48.4,1915,1915,May,5/13/15,11:00,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1342 May 19
+IOT,1,243.1,243.1,N,Miscellaneous,Cape Race,Visual,46.58333333,-53.06666667,1915,1915,May,5/15/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1343 May 26: icebergs E,S, & W, scattered pieces of heavy ice everywhere"
+IOT,1,243.2,243.2,N,Miscellaneous,Cape Race,Visual,46.58333333,-53.06666667,1915,1915,May,5/15/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,"HB 1343 May 26: icebergs E,S, & W, scattered pieces of heavy ice everywhere"
+IOT,1,192,192,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1915,1915,May,5/16/15,,Berg,5,,,,,,,,,,,,,,,,,,,,,"HB 1343 May 26: light close packed ice everywhere, moving W; 5 bergs"
+IOT,1,193,193,N,Ship,Corsican (SS),Visual,47.96666667,-61.25,1915,1915,May,5/16/15,,Small,,,,x,,,,,,,,,,,,,,,,,,HB 1343 May 26
+IOT,1,194,194,N,Ship,Corsican (SS),Visual,47.81666667,-60.83333333,1915,1915,May,5/16/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1343 May 26
+IOT,1,239,239,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,May,5/16/15,,Berg,40,,,,,,,,,,,,,,,,,,,,,HB 1343 May 26
+IOT,1,163,163,N,Ship,Pola (SS),Visual,38.26666667,-61.83333333,1915,1915,May,5/17/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,Marine Observer Vol.9 1932:  Some field ice
+IOT,1,195,195,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1915,1915,May,5/17/15,,Berg,5,,,,,,,,,,,,,,,,,,,,,HB 1343 May 26: heavy open ice distant; 5 bergs
+IOT,1,240,240,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,May,5/17/15,,Berg,17,,,,,,,,,,,,,,,,,,,,,HB 1343 May 26
+IOT,1,244,244,N,Miscellaneous,Cape Race,Visual,46.58333333,-53.06666667,1915,1915,May,5/17/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1343 May 26: icebergs E,S, & W, several pieces of field ice"
+IOT,1,260,260,N,Ship,Statesman (SS),Visual,42.4,-52.21666667,1915,1915,May,5/17/15,,Medium,,,,,1,,,,,Pinnacle,,,33,E,,,,,,,,HB 1343 May 26: medium sized berg ~110' high with two pinnacles
+IOT,1,365,365,N,Ship,Sverre (SS),Visual,47.38333333,-51.15,1915,1915,May,5/17/15,,Small,,,,1,,,,,,,18,E,4.6,E,,,,,,,,HB 1344 Jun 2: passed a small berg ~15' high & 60' long
+IOT,1,245,245,N,Miscellaneous,Cape Race,Visual,46.58333333,-53.06666667,1915,1915,May,5/18/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1343 May 26: icebergs E,S, & W"
+IOT,1,366,366,N,Ship,Sverre (SS),Visual,46.65,-52.1,1915,1915,May,5/18/15,,Berg,5,,,,,,,,,,,,,,,,,,,,,"HB 1344 Jun 2: 40 miles E of C.Race, bergs 20 to 80 feet high [position calculated]"
+IOT,1,367,367,N,Ship,Sverre (SS),Visual,46.65,-53.9,1915,1915,May,5/18/15,,Small,,,,1,,,,,,,,,15,E,,,,,,,,HB 1344 Jun 2: a berg ~50' high 34 miles W of C.Race [position calculated]
+IOT,1,246,246,N,Miscellaneous,Cape Race,Visual,46.58333333,-53.06666667,1915,1915,May,5/19/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1343 May 26: icebergs E,S, & W"
+IOT,1,368,368,N,Ship,Bellaventure (SS),Visual,46.56666667,-53.06666667,1915,1915,May,5/19/15,,Small,,,,2,,,,,,,,,,,,,,,,,,HB 1344 Jun 2: ~5 miles S of C.Race [position calculated] saw 2 small bergs
+IOT,1,247,247,N,Miscellaneous,Cape Race,Visual,46.58333333,-53.06666667,1915,1915,May,5/20/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1343 May 26: icebergs E,S, & W"
+IOT,1,261,261,N,Ship,Miami (IIP),Visual,47.56666667,-50.16666667,1915,1915,May,5/20/15,,Large,,,,,,3,,,,,,,,,,,,,,,,HB 1343 May 26
+IOT,1,262,262,N,Ship,Miami (IIP),Visual,44.83333333,-48.96666667,1915,1915,May,5/20/15,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1343 May 26: large growler
+IOT,1,241,241,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,May,5/21/15,,Berg,10,,,,,,,,,,,,,,,,,,,,,HB 1343 May 26: heavy close packed ice distant; 10 bergs
+IOT,1,398,398,N,Ship,Custodian (SS),Visual,46.03333333,-44.83333333,1915,1915,May,5/21/15,,Small,,,,1,,,,,,,46,E,15,E,,,,,,,,HB 1345 Jun 9: passed a berg ~150' long & 50' high
+IOT,1,242,242,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,May,5/22/15,,Berg,25,,,,,,,,,,,,,,,,,,,,,HB 1343 May 26: heavy close packed ice everywhere; 25 bergs. HB 1344 Jun 2: 20 bergs
+IOT,1,248,248,N,Miscellaneous,Cape Race,Visual,46.58333333,-53.06666667,1915,1915,May,5/22/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1343 May 26: numerous bergs in sight
+IOT,1,355,355,N,Miscellaneous,Cape Race,Visual,46.65,-53.06666667,1915,1915,May,5/22/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1344 Jun 2: numerous bergs in sight
+IOT,1,369,369,N,Ship,Devonian (SS),Visual,44.88333333,-49.35,1915,1915,May,5/22/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1344 Jun 2
+IOT,1,399,399,N,Ship,Custodian (SS),Visual,45.9,-48.16666667,1915,1915,May,5/22/15,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1345 Jun 9
+IOT,1,400.1,400.1,N,Ship,Custodian (SS),Visual,45.86666667,-49.85,1915,1915,May,5/22/15,,Medium,,,,,1,,,,,,91,E,21,E,,,,,,,,HB 1345 Jun 9: a berg 300' long & 70' high & several growlers
+IOT,1,400.2,400.2,N,Ship,Custodian (SS),Visual,45.86666667,-49.85,1915,1915,May,5/22/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1345 Jun 9: a berg 300' long & 70' high & several growlers
+IOT,1,401,401,N,Ship,Custodian (SS),Visual,45.88333333,-50.5,1915,1915,May,5/22/15,,Small,,,,1,,,,,,,36,E,9.1,E,,,,,,,,HB 1345 Jun 9: a berg 120' long & 30' high
+IOT,1,402,402,N,Ship,Custodian (SS),Visual,45.91666667,-50.91666667,1915,1915,May,5/22/15,,Small,,,,1,,,,,,,40,E,12,E,,,,,,,,HB 1345 Jun 9: a berg 130' long & 40' high
+IOT,1,353,353,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,May,5/24/15,,Berg,4,,,,,,,,,,,,,,,,,,,,,HB 1344 Jun 2: heavy close packed ice everywhere; 4 bergs [or should it be 40?]
+IOT,1,370,370,N,Ship,Miami (IIP),Visual,46.08333333,-49.43333333,1915,1915,May,5/24/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1344 Jun 2
+IOT,1,371,371,N,Ship,Miami (IIP),Visual,45.78333333,-49.83333333,1915,1915,May,5/24/15,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1344 Jun 2
+IOT,1,372,372,N,Ship,Miami (IIP),Visual,45.78333333,-50.15,1915,1915,May,5/24/15,,Medium,,,,,2,,,,,,,,,,,,,,,,,HB 1344 Jun 2
+IOT,1,196,196,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1915,1915,May,5/25/15,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1344 Jun 2: heavy close packed ice distant; 2 bergs
+IOT,1,354,354,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,May,5/25/15,,Berg,40,,,,,,,,,,,,,,,,,,,,,HB 1344 Jun 2: heavy close packed ice everywhere; 40 bergs
+IOT,1,356,356,N,Miscellaneous,Cape Race,Visual,46.65,-53.06666667,1915,1915,May,5/25/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1344 Jun 2: numerous bergs in sight
+IOT,1,373.1,373.1,N,Ship,Miami (IIP),Visual,45.66666667,-50,1915,1915,May,5/25/15,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1344 Jun 2
+IOT,1,373.2,373.2,N,Ship,Miami (IIP),Visual,45.66666667,-50,1915,1915,May,5/25/15,,Medium,,,,,3,,,,,,,,,,,,,,,,,HB 1344 Jun 2
+IOT,1,373.3,373.3,N,Ship,Miami (IIP),Visual,45.66666667,-50,1915,1915,May,5/25/15,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1344 Jun 2
+IOT,1,374,374,N,Ship,Miami (IIP),Visual,46.36666667,-53.71666667,1915,1915,May,5/25/15,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1344 Jun 2
+IOT,1,375,375,N,Ship,Miami (IIP),Visual,46.68333333,-52.41666667,1915,1915,May,5/25/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1344 Jun 2
+IOT,1,376,376,N,Ship,Miami (IIP),Visual,46.85,-52.21666667,1915,1915,May,5/25/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1344 Jun 2
+IOT,1,377.1,377.1,N,Ship,Miami (IIP),Visual,46.5,-52.1,1915,1915,May,5/25/15,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1344 Jun 2
+IOT,1,377.2,377.2,N,Ship,Miami (IIP),Visual,46.5,-52.1,1915,1915,May,5/25/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1344 Jun 2
+IOT,1,378,378,N,Ship,Miami (IIP),Visual,47.36666667,-50.48333333,1915,1915,May,5/25/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1344 Jun 2
+IOT,1,379,379,N,Ship,Miami (IIP),Visual,46,-49.83333333,1915,1915,May,5/25/15,,Berg,7,,,,,,,,,,,,,,,,,,,,,HB 1344 Jun 2
+IOT,1,403,403,N,Ship,Sicilian (SS),Visual,47.71666667,-48.91666667,1915,1915,May,5/25/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1345 Jun 9
+IOT,1,404.1,404.1,N,Ship,Sicilian (SS),Visual,47.58333333,-49.36666667,1915,1915,May,5/25/15,,Large,,,,,,3,,,,,,,,,,,,,,,,HB 1345 Jun 9: 3 large bergs & several growlers
+IOT,1,404.2,404.2,N,Ship,Sicilian (SS),Visual,47.58333333,-49.36666667,1915,1915,May,5/25/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1345 Jun 9: 3 large bergs & several growlers
+IOT,1,408,408,N,Ship,Saint Kentigern (SS),Visual,47.5,-49.83333333,1915,1915,May,5/25/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1345 Jun 9
+IOT,1,409,409,N,Ship,Saint Kentigern (SS),Visual,47.41666667,-50.08333333,1915,1915,May,5/25/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1345 Jun 9: with floes 1/2 mile southwestward
+IOT,1,410,410,N,Ship,Saint Kentigern (SS),Visual,47.3,-50.46666667,1915,1915,May,5/25/15,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1345 Jun 9
+IOT,1,411,411,N,Ship,Saint Kentigern (SS),Visual,47.25,-50.63333333,1915,1915,May,5/25/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1345 Jun 9
+IOT,1,412,412,N,Ship,Saint Kentigern (SS),Visual,47.18333333,-50.83333333,1915,1915,May,5/25/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1345 Jun 9
+IOT,1,413,413,N,Ship,Saint Kentigern (SS),Visual,47.13333333,-51,1915,1915,May,5/25/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1345 Jun 9
+IOT,1,414,414,N,Ship,Saint Kentigern (SS),Visual,47.08333333,-51.08333333,1915,1915,May,5/25/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1345 Jun 9
+IOT,1,415,415,N,Ship,Saint Kentigern (SS),Visual,46.73333333,-52.13333333,1915,1915,May,5/25/15,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1345 Jun 9
+IOT,1,416,416,N,Ship,Saint Kentigern (SS),Visual,46.65,-52.68333333,1915,1915,May,5/25/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1345 Jun 9
+IOT,1,417.1,417.1,N,Ship,Saint Kentigern (SS),Visual,46.61666667,-52.91666667,1915,1915,May,5/25/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1345 Jun 9
+IOT,1,417.2,417.2,N,Ship,Saint Kentigern (SS),Visual,46.61666667,-52.91666667,1915,1915,May,5/25/15,,Small,,,,2,,,,,,,,,,,,,,,,,,HB 1345 Jun 9
+IOT,1,418,418,N,Ship,Saint Kentigern (SS),Visual,46.5,-53.63333333,1915,1915,May,5/25/15,,Very large,,,,,,,1,,,,,,,,,,,,,,,HB 1345 Jun 9
+IOT,1,405,405,N,Ship,Sicilian (SS),Visual,46.5,-53.55,1915,1915,May,5/26/15,,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 1345 Jun 9
+IOT,1,406,406,N,Ship,Sicilian (SS),Visual,46.5,-53.7,1915,1915,May,5/26/15,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1345 Jun 9
+IOT,1,407,407,N,Ship,Sicilian (SS),Visual,46.51666667,-54.2,1915,1915,May,5/26/15,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1345 Jun 9
+IOT,1,419,419,N,Ship,Saint Kentigern (SS),Visual,46.5,-54.3,1915,1915,May,5/26/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1345 Jun 9
+IOT,1,380,380,N,Ship,Miami (IIP),Visual,41.08333333,-48,1915,1915,May,5/27/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1344 Jun 2
+IOT,1,381,381,N,Ship,Miami (IIP),Visual,42,-46,1915,1915,May,5/27/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1344 Jun 2
+IOT,1,382,382,N,Ship,Miami (IIP),Visual,40.56666667,-48.43333333,1915,1915,May,5/27/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1344 Jun 2
+IOT,1,420,420,N,Ship,Texel (SS),Visual,47.5,-50.96666667,1915,1915,May,5/27/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1345 Jun 9
+IOT,1,421,421,N,Ship,Texel (SS),Visual,46.78333333,-52.1,1915,1915,May,5/27/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1345 Jun 9
+IOT,1,422.1,422.1,N,Ship,Texel (SS),Visual,46.35,-53.43333333,1915,1915,May,5/27/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1345 Jun 9
+IOT,1,422.2,422.2,N,Ship,Texel (SS),Visual,46.35,-53.43333333,1915,1915,May,5/27/15,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1345 Jun 9
+IOT,1,423,423,N,Ship,Texel (SS),Visual,46.41666667,-54.33333333,1915,1915,May,5/27/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1345 Jun 9
+IOT,1,478,478,N,Ship,Calabria (SS),Visual,40.56666667,-48.5,1915,1915,May,5/27/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1347 Jun 23
+IOT,1,499.01,499.01,N,Ship,Jacona (SS),Visual,46.65,-53.06666667,1915,1915,May,5/27/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1348 Jun 30: from C.Race passed numerous bergs & a quantity of heavy compact field ice
+IOT,1,389,389,N,Miscellaneous,Cape Race,Visual,46.65,-53.06666667,1915,1915,May,5/28/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1345 Jun 9: Bergs east, south & west; heavy pieces of field ice everywhere"
+IOT,1,424,424,N,Ship,Rolf (SS),Visual,46.86666667,-52.61666667,1915,1915,May,5/28/15,,Very large,,,,,,,1,,,,,,,,,,,,,,,HB 1345 Jun 9: Bergs 100 to 150' feet high
+IOT,1,425,425,N,Ship,Rolf (SS),Visual,46.73333333,-52.86666667,1915,1915,May,5/28/15,,Very large,,,,,,,1,,,,,,,,,,,,,,,HB 1345 Jun 9: Bergs 100 to 150' feet high
+IOT,1,426,426,N,Ship,Rolf (SS),Visual,46.61666667,-53.03333333,1915,1915,May,5/28/15,,Very large,,,,,,,1,,,,,,,,,,,,,,,HB 1345 Jun 9: Bergs 100 to 150' feet high
+IOT,1,427,427,N,Ship,Rolf (SS),Visual,46.2,-53.35,1915,1915,May,5/28/15,,Very large,,,,,,,1,,,,,,,,,,,,,,,HB 1345 Jun 9: Bergs 100 to 150' feet high
+IOT,1,428,428,N,Ship,Rolf (SS),Visual,46.56666667,-54.31666667,1915,1915,May,5/28/15,,Very large,,,,,,,1,,,,,,,,,,,,,,,HB 1345 Jun 9: Bergs 100 to 150' feet high
+IOT,1,429,429,N,Ship,Duart (SS),Visual,46.05,-48.33333333,1915,1915,May,5/28/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1345 Jun 9
+IOT,1,430.11,430.11,N,Ship,Duart (SS),Visual,46.05,-48.33333333,1915,1915,May,5/28/15,,Small,,,,15,,,,,,,,,,,,,,,,,,HB 1345 Jun 9: saw 15 small bergs & several growlers
+IOT,1,430.21,430.21,N,Ship,Duart (SS),Visual,46.05,-48.33333333,1915,1915,May,5/28/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1345 Jun 9: saw 15 small bergs & several growlers
+IOT,1,479,479,N,Ship,Boliviana (SS),Visual,41,-47.5,1915,1915,May,5/28/15,,Small,,,,1,,,,,,Pinnacle,,,,,,,,,,,,HB 1347 Jun 23: berg with two peaks
+IOT,0,499.02,499.02,N,Ship,Jacona (SS),Visual,46.73333333,-51.86666667,1915,1915,May,5/28/15,,Berg,,,,,,,,,,,,,,,,,,,,,,HB 1348 Jun 30: from C.Race passed numerous bergs & a quantity of heavy compact field ice
+IOT,1,500,500,N,Ship,Jacona (SS),Visual,47.41666667,-49.5,1915,1915,May,5/28/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1348 Jun 30
+IOT,1,390,390,N,Miscellaneous,Cape Race,Visual,46.65,-53.06666667,1915,1915,May,5/29/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1345 Jun 9: Bergs east, south and west 4 to 10 miles"
+IOT,0,430.12,430.12,N,Ship,Duart (SS),Visual,46.15,-52,1915,1915,May,5/29/15,,Small,,,,,,,,,,,,,,,,,,,,,,HB 1345 Jun 9: saw 15 small bergs & several growlers
+IOT,0,430.22,430.22,N,Ship,Duart (SS),Visual,46.15,-52,1915,1915,May,5/29/15,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1345 Jun 9: saw 15 small bergs & several growlers
+IOT,1,198,198,N,Ship,Beothic (SS),Visual,48,-53.5,1915,1915,May,5/30/15,,Growler,,1,,,,,,,,,,,,,,,,,,,,SCIDB: Collision
+IOT,1,383,383,N,Miscellaneous,Point Amour,Visual,51.45,-56.85,1915,1915,May,5/31/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1345 Jun 9: heavy close packed ice distant, moving south; many bergs"
+IOT,1,391,391,N,Miscellaneous,Cape Race,Visual,46.65,-53.06666667,1915,1915,May,5/31/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1345 Jun 9: Bergs east, south and west 4 to 10 miles"
+IOT,1,439,439,N,Ship,Newlands (SS),Visual,47.91666667,-49.8,1915,1915,May,5/31/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1346 Jun 16
+IOT,1,440,440,N,Ship,Newlands (SS),Visual,47.9,-49.76666667,1915,1915,May,5/31/15,,Small,,,,2,,,,,,,,,,,,,,,,,,"HB 1346 Jun 16:2 small bergs 2 miles southeastward [of #439, position calculated]"
+IOT,1,197,197,N,Ship,Flower of Home (sch),Visual,48.33333333,-52.46666667,1915,1915,June,6/1/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,SCIDB: Collision
+IOT,1,385,385,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,June,6/1/15,,Berg,15,,,,,,,,,,,,,,,,,,,,,HB 1345 Jun 9: light open ice distant; 15 bergs
+IOT,1,392,392,N,Miscellaneous,Cape Race,Visual,46.65,-53.06666667,1915,1915,June,6/1/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1345 Jun 9: Bergs east, south and west 3 to 10 miles"
+IOT,1,441,441,N,Ship,Newlands (SS),Visual,47,-52.36666667,1915,1915,June,6/1/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1346 Jun 16
+IOT,1,442.11,442.11,N,Ship,Newlands (SS),Visual,47,-52.36666667,1915,1915,June,6/1/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1346 Jun 16: a number of bergs & small pieces of ice to C.Race
+IOT,0,442.12,442.12,N,Ship,Newlands (SS),Visual,46.65,-53.06666667,1915,1915,June,6/1/15,,Berg,,,,,,,,,,,,,,,,,,,,,,HB 1346 Jun 16: a number of bergs & small pieces of ice to C.Race
+IOT,1,442.21,442.21,N,Ship,Newlands (SS),Visual,47,-52.36666667,1915,1915,June,6/1/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1346 Jun 16: a number of bergs & small pieces of ice to C.Race
+IOT,0,442.22,442.22,N,Ship,Newlands (SS),Visual,46.65,-53.06666667,1915,1915,June,6/1/15,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1346 Jun 16: a number of bergs & small pieces of ice to C.Race
+IOT,1,443.01,443.01,N,Ship,Newlands (SS),Visual,46.65,-53.06666667,1915,1915,June,6/1/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1346 Jun 16: from C.Race to 40 miles W, several large & small bergs [position calculated]"
+IOT,0,443.02,443.02,N,Ship,Newlands (SS),Visual,46.65,-54.03333333,1915,1915,June,6/1/15,,Berg,,,,,,,,,,,,,,,,,,,,,,"HB 1346 Jun 16: from C.Race to 40 miles W, several large & small bergs [position calculated]"
+IOT,1,386,386,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,June,6/2/15,,Berg,15,,,,,,,,,,,,,,,,,,,,,HB 1345 Jun 9: heavy close packed ice distant moving W; 15 bergs east and south
+IOT,1,393,393,N,Miscellaneous,Cape Race,Visual,46.65,-53.06666667,1915,1915,June,6/2/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1345 Jun 9: Bergs east, south and west 3 to 10 miles"
+IOT,1,444.1,444.1,N,Ship,Pretorian (SS),Visual,47.61666667,-49.71666667,1915,1915,June,6/2/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1346 Jun 16: a large berg & several growlers
+IOT,1,444.2,444.2,N,Ship,Pretorian (SS),Visual,47.61666667,-49.71666667,1915,1915,June,6/2/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1346 Jun 16: a large berg & several growlers
+IOT,1,445,445,N,Ship,Pretorian (SS),Visual,47.5,-50,1915,1915,June,6/2/15,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1346 Jun 16: 2 large growlers
+IOT,1,387,387,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,June,6/3/15,,Berg,40,,,,,,,,,,,,,,,,,,,,,HB 1345 Jun 9: heavy close packed ice inshore; 40 bergs
+IOT,1,394,394,N,Miscellaneous,Cape Race,Visual,46.65,-53.06666667,1915,1915,June,6/3/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1345 Jun 9: bergs & scattered drift ice
+IOT,1,446,446,N,Ship,Pretorian (SS),Visual,46.96666667,-51.35,1915,1915,June,6/3/15,,Large,,,,,,2,,,,,,,,,,,,,,,,HB 1346 Jun 16
+IOT,1,447,447,N,Ship,Pretorian (SS),Visual,46.96666667,-51.5,1915,1915,June,6/3/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1346 Jun 16
+IOT,1,448,448,N,Ship,Pretorian (SS),Visual,46.9,-52.61666667,1915,1915,June,6/3/15,,Very large,,,,,,,1,,,,,,,,,,,,,,,HB 1346 Jun 16
+IOT,1,449.11,449.11,N,Ship,Pretorian (SS),Visual,46.65,-55.25,1915,1915,June,6/3/15,,Berg,3,,,,,,,,,,,,,,,,,,,,,"HB 1346 Jun 16: from 20 miles E of C.Race [position calculated] to C.Race passed 3 bergs, pack ice & growlers"
+IOT,0,449.12,449.12,N,Ship,Pretorian (SS),Visual,46.65,-53.06666667,1915,1915,June,6/3/15,,Berg,,,,,,,,,,,,,,,,,,,,,,"HB 1346 Jun 16: from 20 miles E of C.Race [position calculated] to C.Race passed 3 bergs, pack ice & growlers"
+IOT,1,449.21,449.21,N,Ship,Pretorian (SS),Visual,46.65,-55.25,1915,1915,June,6/3/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,"HB 1346 Jun 16: from 20 miles E of C.Race [position calculated] to C.Race passed 3 bergs, pack ice & growlers"
+IOT,0,449.22,449.22,N,Ship,Pretorian (SS),Visual,46.65,-53.06666667,1915,1915,June,6/3/15,,Growler,,,,,,,,,,,,,,,,,,,,,,"HB 1346 Jun 16: from 20 miles E of C.Race [position calculated] to C.Race passed 3 bergs, pack ice & growlers"
+IOT,1,450.11,450.11,N,Ship,Pretorian (SS),Visual,46.65,-53.06666667,1915,1915,June,6/3/15,,Large,,,,,,5,,,,,,,,,,,,,,,,"HB 1346 Jun 16: from C.Race to C.St.Mary, 5 large & 5 small bergs N of track"
+IOT,0,450.12,450.12,N,Ship,Pretorian (SS),Visual,46.81666667,-54.2,1915,1915,June,6/3/15,,Large,,,,,,,,,,,,,,,,,,,,,,"HB 1346 Jun 16: from C.Race to C.St.Mary, 5 large & 5 small bergs N of track"
+IOT,1,450.21,450.21,N,Ship,Pretorian (SS),Visual,46.65,-53.06666667,1915,1915,June,6/3/15,,Small,,,,5,,,,,,,,,,,,,,,,,,"HB 1346 Jun 16: from C.Race to C.St.Mary, 5 large & 5 small bergs N of track"
+IOT,0,450.22,450.22,N,Ship,Pretorian (SS),Visual,46.81666667,-54.2,1915,1915,June,6/3/15,,Small,,,,,,,,,,,,,,,,,,,,,,"HB 1346 Jun 16: from C.Race to C.St.Mary, 5 large & 5 small bergs N of track"
+IOT,1,451,451,N,Ship,Pretorian (SS),Visual,46.58333333,-54.3,1915,1915,June,6/3/15,,Large,,,,,,2,,,,,,,,,,,,,,,,HB 1346 Jun 16
+IOT,1,452,452,N,Ship,Hesperian (SS),Visual,47.68333333,-49.16666667,1915,1915,June,6/3/15,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1346 Jun 16
+IOT,1,453,453,N,Ship,Hesperian (SS),Visual,47.6,-49.76666667,1915,1915,June,6/3/15,,Large,,,,,,3,,,,,,,,,,,,,,,,HB 1346 Jun 16
+IOT,1,454,454,N,Ship,Hesperian (SS),Visual,47.5,-50,1915,1915,June,6/3/15,,Medium,,,,,5,,,,,,,,,,,,,,,,,HB 1346 Jun 16
+IOT,1,455.1,455.1,N,Ship,Hesperian (SS),Visual,47.25,-50.76666667,1915,1915,June,6/3/15,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1346 Jun 16: a medium sized bergs & several growlers
+IOT,1,455.2,455.2,N,Ship,Hesperian (SS),Visual,47.25,-50.76666667,1915,1915,June,6/3/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1346 Jun 16: a medium sized bergs & several growlers
+IOT,1,384,384,N,Miscellaneous,Point Amour,Visual,51.45,-56.85,1915,1915,June,6/4/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1345 Jun 9: heavy close packed ice everywhere, moving E; many bergs"
+IOT,1,388,388,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,June,6/4/15,,Berg,30,,,,,,,,,,,,,,,,,,,,,HB 1345 Jun 9: heavy close packed ice everywhere moving E; 30 bergs
+IOT,1,395,395,N,Miscellaneous,Cape Race,Visual,46.65,-53.06666667,1915,1915,June,6/4/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1345 Jun 9: Bergs east, south and west "
+IOT,1,431,431,N,Ship,Miami (IIP),Visual,46.65,-52.81666667,1915,1915,June,6/4/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1345 Jun 9: berg reported 10 miles E of C.Race [position calculated]
+IOT,1,432,432,N,Ship,Miami (IIP),Visual,46.65,-52.58333333,1915,1915,June,6/4/15,,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 1345 Jun 9: 3 bergs reported 20 miles E of C.Race
+IOT,1,456,456,N,Ship,Hesperian (SS),Visual,46.83333333,-52,1915,1915,June,6/4/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1346 Jun 16
+IOT,1,457,457,N,Ship,Hesperian (SS),Visual,46.45,-53.53333333,1915,1915,June,6/4/15,,Large,,,,,,2,,,,,,,,,,,,,,,,HB 1346 Jun 16: 2 large bergs 10 miles S of C.Pine [position calculated]
+IOT,1,458,458,N,Ship,Hesperian (SS),Visual,46.43333333,-53.95,1915,1915,June,6/4/15,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1346 Jun 16
+IOT,1,459,459,N,Ship,Hesperian (SS),Visual,46.43333333,-54.28333333,1915,1915,June,6/4/15,,Large,,,,,,2,,,,,,,,,,,,,,,,HB 1346 Jun 16
+IOT,1,460.1,460.1,N,Ship,Seneca (IIP),Visual,44.2,-48.13333333,1915,1915,June,6/4/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1346 Jun 16: berg & several growlers
+IOT,1,460.2,460.2,N,Ship,Seneca (IIP),Visual,44.2,-48.13333333,1915,1915,June,6/4/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1346 Jun 16: berg & several growlers
+IOT,1,433,433,N,Miscellaneous,Point Amour,Visual,51.45,-56.85,1915,1915,June,6/5/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1346 Jun 16: heavy close packed ice everywhere, numerous bergs"
+IOT,1,434,434,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,June,6/5/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1346 Jun 16: numerous bergs
+IOT,1,436,436,N,Miscellaneous,Cape Race,Visual,46.65,-53.06666667,1915,1915,June,6/5/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1346 Jun 16: Bergs east, south and west from 4 to 12 miles"
+IOT,1,542,542,N,Ship,Ramore Head (SS),Visual,46.55,-54.58333333,1915,1915,June,6/5/15,,Small,,,,2,,,,,,,,,,,,,,,,,,HB 1349 Jul 7
+IOT,1,545.1,545.1,N,Ship,Custodian (SS),Visual,45.66666667,-51.8,1915,1915,June,6/5/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1349 Jul 7: passed a berg & small pieces of ice
+IOT,1,545.2,545.2,N,Ship,Custodian (SS),Visual,45.66666667,-51.8,1915,1915,June,6/5/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1349 Jul 7: passed a berg & small pieces of ice
+IOT,1,546,546,N,Ship,Custodian (SS),Visual,45.78333333,-51.33333333,1915,1915,June,6/5/15,,Small,,,,1,,,,,,,30,E,9.1,E,,,,,,,,HB 1349 Jul 7: a berg ~100' long & 30' high
+IOT,1,547,547,N,Ship,Custodian (SS),Visual,45.66666667,-50.6,1915,1915,June,6/5/15,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1349 Jul 7
+IOT,1,548,548,N,Ship,Custodian (SS),Visual,45.7,-50.3,1915,1915,June,6/5/15,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1349 Jul 7
+IOT,1,549,549,N,Ship,Custodian (SS),Visual,45.9,-50.3,1915,1915,June,6/5/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1349 Jul 7
+IOT,1,550,550,N,Ship,Custodian (SS),Visual,45.8,-50.2,1915,1915,June,6/5/15,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1349 Jul 7
+IOT,1,551.1,551.1,N,Ship,Custodian (SS),Visual,45.65,-49.85,1915,1915,June,6/5/15,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1349 Jul 7: a small berg & pieces of ice
+IOT,1,551.2,551.2,N,Ship,Custodian (SS),Visual,45.65,-49.85,1915,1915,June,6/5/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1349 Jul 7: a small berg & pieces of ice
+IOT,1,552,552,N,Ship,Custodian (SS),Visual,45.66666667,-49.05,1915,1915,June,6/5/15,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1349 Jul 7
+IOT,1,435,435,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,June,6/6/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1346 Jun 16: heavy close packed ice moving E, numerous bergs"
+IOT,1,543,543,N,Ship,Ramore Head (SS),Visual,46.5,-53.56666667,1915,1915,June,6/6/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1349 Jul 7
+IOT,1,767,767,N,Ship,Ramore Head (SS),Visual,46.7,-53.03333333,1915,1915,June,6/6/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1349 Jun 7: several bergs along the shore to the NE of C.Race [position approximate]
+IOT,1,544,544,N,Ship,Ramore Head (SS),Visual,47.71666667,-48.98333333,1915,1915,June,6/7/15,,Very large,,,,,,,1,,,,,,,,,,,,,,,HB 1349 Jul 7
+IOT,1,461,461,N,Ship,Seneca (IIP),Visual,47.36666667,-50.58333333,1915,1915,June,6/10/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1346 Jun 16
+IOT,1,480,480,N,Ship,Tavian (SS),Visual,43.61666667,-43.66666667,1915,1915,June,6/10/15,,Berg,9,,,,,,,,,,,,,,,,,,,,,HB 1347 Jun 23
+IOT,1,437.01,437.01,N,Miscellaneous,Cape Race,Visual,46.65,-52.86666667,1915,1915,June,6/11/15,,Berg,4,,,,,,,,,,,,,,,,,,,,,HB 1346 Jun 16: 4 bergs E from 8 to 10 miles [positions calculated]
+IOT,0,437.02,437.02,N,Miscellaneous,Cape Race,Visual,46.65,-52.81666667,1915,1915,June,6/11/15,,Berg,,,,,,,,,,,,,,,,,,,,,,HB 1346 Jun 16: 4 bergs E from 8 to 10 miles [positions calculated]
+IOT,1,438,438,N,Miscellaneous,Cape Race,Visual,46.63333333,-53.21666667,1915,1915,June,6/11/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1346 Jun 16: Berg aground 6 miles W [position calculated]
+IOT,1,481,481,N,Ship,Scandinavian (SS),Visual,47.86666667,-50.63333333,1915,1915,June,6/11/15,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1347 Jun 23
+IOT,1,482,482,N,Ship,Scandinavian (SS),Visual,47.31666667,-51.9,1915,1915,June,6/11/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1347 Jun 23
+IOT,1,483,483,N,Ship,Scandinavian (SS),Visual,47.03333333,-52,1915,1915,June,6/11/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1347 Jun 23: a low berg
+IOT,1,484,484,N,Ship,Scandinavian (SS),Visual,47,-52.33333333,1915,1915,June,6/11/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1347 Jun 23
+IOT,1,485,485,N,Ship,Scandinavian (SS),Visual,46.58333333,-53.06666667,1915,1915,June,6/11/15,,Large,,,,,,4,,,,,,,,,,,,,,,,HB 1347 Jun 23: 4 large bergs in the vicinity of C.Race
+IOT,1,486.1,486.1,N,Ship,Scandinavian (SS),Visual,46.55,-53.63333333,1915,1915,June,6/11/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1347 Jun 23: a large berg & a growler 6 miles SW of C.Pine [position calculated]
+IOT,1,486.2,486.2,N,Ship,Scandinavian (SS),Visual,46.55,-53.63333333,1915,1915,June,6/11/15,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1347 Jun 23: a large berg & a growler 6 miles SW of C.Pine [position calculated]
+IOT,1,463,463,N,Miscellaneous,Point Amour,Visual,51.45,-56.85,1915,1915,June,6/12/15,,Berg,4,,,,,,,,,,,,,,,,,,,,,HB 1347 Jun 23: light open ice everywhere moving W; 4 bergs
+IOT,1,469,469,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,June,6/12/15,,Berg,10,,,,,,,,,,,,,,,,,,,,,HB 1347 Jun 23
+IOT,1,473,473,N,Miscellaneous,Cape Race,Visual,46.65,-53.06666667,1915,1915,June,6/12/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1347 Jun 23: Bergs east, south and west from 4 to 12 miles south"
+IOT,1,487,487,N,Ship,Canadian (SS),Visual,43.11666667,-50.35,1915,1915,June,6/12/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1347 Jun 23 [& reported by Seneca HB 1346 Jun 16]
+IOT,1,464,464,N,Miscellaneous,Point Amour,Visual,51.45,-56.85,1915,1915,June,6/13/15,,Berg,4,,,,,,,,,,,,,,,,,,,,,HB 1347 Jun 23: light open ice distant; 4 bergs
+IOT,1,488,488,N,Ship,North Carolina (USS),Visual,41.55,-41.81666667,1915,1915,June,6/13/15,22:00,Small,,,,3,,,,,,,,,,,,,,,,,,HB 1347 Jun 23
+IOT,1,501,501,N,Ship,Cambrian (SS),Visual,46.51666667,-47.61666667,1915,1915,June,6/13/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1348 Jun 30
+IOT,1,502,502,N,Ship,Cambrian (SS),Visual,46.53333333,-47.93333333,1915,1915,June,6/13/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1348 Jun 30
+IOT,1,553,553,N,Ship,Pretorian (SS),Visual,46.53333333,-54.05,1915,1915,June,6/13/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1349 Jul 7
+IOT,1,554,554,N,Ship,Pretorian (SS),Visual,46.51666667,-53.18333333,1915,1915,June,6/13/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1349 Jul 7
+IOT,1,569,569,N,Ship,Hesperian (SS),Visual,46.46666667,-52.91666667,1915,1915,June,6/13/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1350 Jul 14
+IOT,1,613,613,N,Ship,Vauxhall (SS),Visual,46.35,-52.66666667,1915,1915,June,6/13/15,,Large,,,,,,2,,,,,,,,,,,,,,,,HB 1352 Jul 28
+IOT,1,470,470,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,June,6/14/15,,Berg,20,,,,,,,,,,,,,,,,,,,,,HB 1347 Jun 23: light open ice inshore; 20 bergs
+IOT,1,474.01,474.01,N,Miscellaneous,Cape Race,Visual,46.65,-52.95,1915,1915,June,6/14/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1347 Jun 23: bergs from 5 to 10 miles E [positions calculated]
+IOT,0,474.02,474.02,N,Miscellaneous,Cape Race,Visual,46.65,-52.81666667,1915,1915,June,6/14/15,,Berg,,,,,,,,,,,,,,,,,,,,,,HB 1347 Jun 23: bergs from 5 to 10 miles E [positions calculated]
+IOT,1,503,503,N,Ship,Lackawanna (SS),Visual,46.28333333,-47.88333333,1915,1915,June,6/14/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1348 Jun 30
+IOT,1,504,504,N,Ship,Lackawanna (SS),Visual,46.23333333,-48.16666667,1915,1915,June,6/14/15,,Large,,,,,,1,,,,Pinnacle,,,,,,,,,,,,HB 1348 Jun 30: berg has two pinnacles
+IOT,1,555,555,N,Ship,Pretorian (SS),Visual,47.55,-50.18333333,1915,1915,June,6/14/15,,Large,,,,,,2,,,,,,,,,,,,,,,,HB 1349 Jul 7
+IOT,1,556,556,N,Ship,Pretorian (SS),Visual,47.6,-50.03333333,1915,1915,June,6/14/15,,Large,,,,,,3,,,,,,,,,,,,,,,,HB 1349 Jul 7
+IOT,1,570,570,N,Ship,Hesperian (SS),Visual,47.43333333,-50.15,1915,1915,June,6/14/15,,Large,,,,,,2,,,,,,,,,,,,,,,,HB 1350 Jul 14
+IOT,1,571,571,N,Ship,Hesperian (SS),Visual,47.53333333,-49.83333333,1915,1915,June,6/14/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1350 Jul 14
+IOT,1,614,614,N,Ship,Vauxhall (SS),Visual,47.56666667,-50.56666667,1915,1915,June,6/14/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1352 Jul 28
+IOT,1,615,615,N,Ship,Vauxhall (SS),Visual,47.8,-50.33333333,1915,1915,June,6/14/15,,Small,,,,3,,,,,,,,,,,,,,,,,,HB 1352 Jul 28
+IOT,1,465,465,N,Miscellaneous,Point Amour,Visual,51.45,-56.85,1915,1915,June,6/15/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1347 Jun 23: many bergs
+IOT,1,471,471,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,June,6/15/15,,Berg,20,,,,,,,,,,,,,,,,,,,,,HB 1347 Jun 23: light open ice everywhere moving S; 20 bergs
+IOT,1,475,475,N,Miscellaneous,Cape Race,Visual,46.65,-53.06666667,1915,1915,June,6/15/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1347 Jun 23: Bergs east and south from 5 to 10 miles
+IOT,1,505,505,N,Ship,Dansborg (SS),Visual,42.73333333,-50.5,1915,1915,June,6/15/15,,Medium,,,,,1,,,,,,46,E,21,E,,,,,,,,HB 1348 Jun 30: saw a berg ~150' long & 70' high
+IOT,1,173,173,N,Ship,Seneca (IIP),Visual,42.9,-50.33333333,1915,1915,June,6/16/15,8:00,Medium ,,,,,1,,,,,,,,,,,,,,,,,IIP. HB 1347 June 23: berg
+IOT,1,466,466,N,Miscellaneous,Point Amour,Visual,51.45,-56.85,1915,1915,June,6/16/15,,Berg,8,,,,,,,,,,,,,,,,,,,,,HB 1347 Jun 23
+IOT,1,506,506,N,Ship,Louisiana (SS),Visual,48.06666667,-49.9,1915,1915,June,6/16/15,,Medium,,,,,1,,,,,,,,35,E,,,,,,,,HB 1348 Jun 30: passed a berg ~115' high
+IOT,1,507,507,N,Ship,Louisiana (SS),Visual,47.78333333,-50.45,1915,1915,June,6/16/15,,Large,,,,,,1,,,,,,,64,E,,,,,,,,HB 1348 Jun 30: passed a berg ~210' high
+IOT,1,508,508,N,Ship,Louisiana (SS),Visual,47.75,-50.55,1915,1915,June,6/16/15,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1348 Jun 30
+IOT,1,509,509,N,Ship,Louisiana (SS),Visual,47.68333333,-50.7,1915,1915,June,6/16/15,,Medium,,,,,1,,,,,,,,37,E,,,,,,,,HB 1348 Jun 30: passed a berg ~120' high
+IOT,1,510,510,N,Ship,Louisiana (SS),Visual,47.66666667,-50.75,1915,1915,June,6/16/15,,Large,,,,,,1,,,,,,,64,E,,,,,,,,HB 1348 Jun 30: passed a berg ~210' high
+IOT,1,511,511,N,Ship,Louisiana (SS),Visual,47.61666667,-50.83333333,1915,1915,June,6/16/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1348 Jun 30
+IOT,1,512,512,N,Ship,Louisiana (SS),Visual,47.6,-50.86666667,1915,1915,June,6/16/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1348 Jun 30
+IOT,1,514,514,N,Ship,Anglo Saxon (SS),Visual,47.61666667,-50.25,1915,1915,June,6/16/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1348 Jun 30
+IOT,1,515,515,N,Ship,Anglo Saxon (SS),Visual,47.66666667,-50.43333333,1915,1915,June,6/16/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1348 Jun 30
+IOT,1,516.1,516.1,N,Ship,Anglo Saxon (SS),Visual,47.4,-50.55,1915,1915,June,6/16/15,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1348 Jun 30
+IOT,1,516.2,516.2,N,Ship,Anglo Saxon (SS),Visual,47.4,-50.55,1915,1915,June,6/16/15,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1348 Jun 30
+IOT,1,517,517,N,Ship,Anglo Saxon (SS),Visual,47.33333333,-50.66666667,1915,1915,June,6/16/15,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1348 Jun 30
+IOT,1,518,518,N,Ship,Anglo Saxon (SS),Visual,47.08333333,-51.33333333,1915,1915,June,6/16/15,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1348 Jun 30
+IOT,1,519,519,N,Ship,Anglo Saxon (SS),Visual,47.01666667,-51.5,1915,1915,June,6/16/15,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1348 Jun 30
+IOT,1,467,467,N,Miscellaneous,Point Amour,Visual,51.45,-56.85,1915,1915,June,6/17/15,,Berg,9,,,,,,,,,,,,,,,,,,,,,HB 1347 Jun 23
+IOT,1,476,476,N,Miscellaneous,Cape Race,Visual,46.65,-53.06666667,1915,1915,June,6/17/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1347 Jun 23: Bergs east, south and west from 4 to 12 miles"
+IOT,1,513,513,N,Ship,Louisiana (SS),Visual,46.66666667,-53.01666667,1915,1915,June,6/17/15,,Berg,4,,,,,,,,,,,,,,,,,,,,,HB 1348 Jun 30: 4 bergs of various sizes
+IOT,1,520,520,N,Ship,Anglo Saxon (SS),Visual,46.9,-52.35,1915,1915,June,6/17/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1348 Jun 30
+IOT,1,521,521,N,Ship,Anglo Saxon (SS),Visual,46.58333333,-52.96666667,1915,1915,June,6/17/15,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1348 Jun 30
+IOT,1,522,522,N,Ship,Anglo Saxon (SS),Visual,46.43333333,-53.05,1915,1915,June,6/17/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1348 Jun 30
+IOT,1,468,468,N,Miscellaneous,Point Amour,Visual,51.45,-56.85,1915,1915,June,6/18/15,,Berg,9,,,,,,,,,,,,,,,,,,,,,HB 1347 Jun 23
+IOT,1,472,472,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,June,6/18/15,,Berg,20,,,,,,,,,,,,,,,,,,,,,HB 1347 Jun 23: light open ice stationary; 20 bergs
+IOT,1,477,477,N,Miscellaneous,Cape Race,Visual,46.65,-53.06666667,1915,1915,June,6/18/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1347 Jun 23: Bergs east, south and west from 4 to 12 miles"
+IOT,1,523,523,N,Ship,Etonian (SS),Visual,42.86666667,-50.6,1915,1915,June,6/18/15,15:00,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1348 Jun 30. Also reported via Seneca HB 1347 Jun 23
+IOT,1,491,491,N,Ship,Seneca (IIP),Visual,42.75,-51.05,1915,1915,June,6/20/15,14:00,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1347 Jun 23
+IOT,1,492,492,N,Miscellaneous,Point Amour,Visual,51.45,-56.85,1915,1915,June,6/20/15,,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 1348 Jun 30
+IOT,1,497,497,N,Miscellaneous,Cape Race,Visual,46.65,-53.06666667,1915,1915,June,6/20/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1348 Jun 30: numerous bergs
+IOT,1,524,524,N,Ship,Caterino (SS),Visual,46.91666667,-50.75,1915,1915,June,6/21/15,,Small,,,,1,,,,,,,,,15,E,,,,,,,,HB 1348 Jun 30: a small berg ~50' high
+IOT,1,525,525,N,Ship,Caterino (SS),Visual,46.85,-51.25,1915,1915,June,6/21/15,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1348 Jun 30: 2 medium sized growlers and a quantity of loose ice
+IOT,1,526,526,N,Ship,Seneca (IIP),Visual,46.33333333,-54.16666667,1915,1915,June,6/21/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1348 Jun 30
+IOT,1,493,493,N,Miscellaneous,Point Amour,Visual,51.45,-56.85,1915,1915,June,6/22/15,,Berg,6,,,,,,,,,,,,,,,,,,,,,HB 1348 Jun 30
+IOT,1,494,494,N,Miscellaneous,Point Amour,Visual,51.45,-56.85,1915,1915,June,6/24/15,,Berg,4,,,,,,,,,,,,,,,,,,,,,HB 1348 Jun 30
+IOT,1,495,495,N,Miscellaneous,Point Amour,Visual,51.45,-56.85,1915,1915,June,6/25/15,,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 1348 Jun 30
+IOT,1,527,527,N,Ship,Seneca (IIP),Visual,42.33333333,-53,1915,1915,June,6/25/15,17:00,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1348 Jun 30
+IOT,1,496,496,N,Miscellaneous,Point Amour,Visual,51.45,-56.85,1915,1915,June,6/26/15,,Berg,4,,,,,,,,,,,,,,,,,,,,,HB 1348 Jun 30
+IOT,1,498,498,N,Miscellaneous,Cape Race,Visual,46.65,-52.85,1915,1915,June,6/26/15,,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 1348 Jun 30: 3 bergs 9 miles E [position calculated]
+IOT,1,620,620,N,Ship,Canadian (SS),Visual,42.33333333,-52.08333333,1915,1915,June,6/26/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1352 Jul 28
+IOT,1,164,164,N,Ship,Stella (SS),Visual,36.46666667,-57.75,1915,1915,June,6/27/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,Marine Observer Vol.9 1932: growler. HB 1350 Jun 14: passed small pieces of ice
+IOT,1,528.1,528.1,N,Ship,Seneca (IIP),Visual,42.2,-52.38333333,1915,1915,June,6/27/15,4:00,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1348 Jun 30: One berg breaking up rapidly
+IOT,1,528.2,528.2,N,Ship,Seneca (IIP),Visual,42.2,-52.38333333,1915,1915,June,6/27/15,4:00,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1348 Jun 30
+IOT,1,529.1,529.1,N,Ship,Seneca (IIP),Visual,42.05,-51.5,1915,1915,June,6/27/15,20:00,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1348 Jun 30
+IOT,1,529.2,529.2,N,Ship,Seneca (IIP),Visual,42.05,-51.5,1915,1915,June,6/27/15,20:00,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1348 Jun 30
+IOT,1,531,531,N,Miscellaneous,Point Amour,Visual,51.45,-56.85,1915,1915,June,6/27/15,,Berg,7,,,,,,,,,,,,,,,,,,,,,HB 1349 Jul 7
+IOT,1,534,534,N,Miscellaneous,Cape Race,Visual,46.65,-53.06666667,1915,1915,June,6/27/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1349 Jul 7: Bergs moving south
+IOT,1,539,539,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,June,6/27/15,,Berg,15,,,,,,,,,,,,,,,,,,,,,HB 1349 Jul 7
+IOT,1,557,557,N,Ship,Roanoke (SS),Visual,42.08333333,-51.83333333,1915,1915,June,6/27/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1349 Jul 7
+IOT,1,558,558,N,Ship,City of Savannah (SS),Visual,42.26666667,-51.96666667,1915,1915,June,6/27/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1349 Jul 7: Berg was reported 36 hours previously by Arabic (SS) and drifted east about 18 miles
+IOT,1,530,530,N,Ship,Seneca (IIP),Visual,41.95,-50.75,1915,1915,June,6/28/15,20:00,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1348 Jun 30
+IOT,1,532,532,N,Miscellaneous,Point Amour,Visual,51.45,-56.85,1915,1915,June,6/28/15,,Berg,8,,,,,,,,,,,,,,,,,,,,,HB 1349 Jul 7
+IOT,1,535,535,N,Miscellaneous,Cape Race,Visual,46.65,-53.06666667,1915,1915,June,6/28/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1349 Jul 7: Bergs south, east and west from 8 to 12 miles"
+IOT,1,540,540,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,June,6/28/15,,Berg,18,,,,,,,,,,,,,,,,,,,,,HB 1349 Jul 7
+IOT,1,536,536,N,Miscellaneous,Cape Race,Visual,46.65,-52.85,1915,1915,June,6/29/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1349 Jul 7: icebergs 9 miles E [position calculated]
+IOT,1,541,541,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,June,6/29/15,,Berg,18,,,,,,,,,,,,,,,,,,,,,HB 1349 Jul 7
+IOT,1,559.1,559.1,N,Ship,Seneca (IIP),Visual,41.95,-50.5,1915,1915,June,6/29/15,8:00,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1349 Jul 7
+IOT,1,559.2,559.2,N,Ship,Seneca (IIP),Visual,41.95,-50.5,1915,1915,June,6/29/15,8:00,Growler,,3,,,,,,,,,,,,,,,,,,,,HB 1349 Jul 7
+IOT,1,573,573,N,Ship,Maryland (SS),Visual,43.81666667,-49.01666667,1915,1915,June,6/29/15,16:00,Medium,,,,,1,,,,,,61,E,30,E,,,,,,,,HB 1350 Jul 14: passed a berg ~100' high & 200' long. IIP & HB 1349 Jul 7
+IOT,1,537,537,N,Miscellaneous,Cape Race,Visual,46.65,-52.91666667,1915,1915,June,6/30/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1349 Jul 7: berg 6 miles E [position caluclated]
+IOT,1,538,538,N,Miscellaneous,Cape Race,Visual,46.65,-53.06666667,1915,1915,July,7/1/15,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1349 Jul 7: 2 bergs in sight
+IOT,1,590,590,N,Ship,Nordkap (SS),Visual,47.86666667,-51.8,1915,1915,July,7/1/15,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1351 Jul 21
+IOT,1,533,533,N,Miscellaneous,Point Amour,Visual,51.45,-56.85,1915,1915,July,7/2/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1349 Jul 7: heavy open ice everywhere moving W; many bergs
+IOT,1,591,591,N,Ship,Nordkap (SS),Visual,46.35,-55.51666667,1915,1915,July,7/2/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1351 Jul 21
+IOT,1,621,621,N,Ship,Nordnaes (SS),Visual,45.75,-54.16666667,1915,1915,July,7/2/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1353 Aug 4
+IOT,1,622,622,N,Ship,Nordnaes (SS),Visual,45.63333333,-49.25,1915,1915,July,7/2/15,,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 1353 Aug 4
+IOT,1,561,561,N,Miscellaneous,Point Amour,Visual,51.45,-56.85,1915,1915,July,7/3/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1350 Jul 14: many bergs
+IOT,1,563,563,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,July,7/3/15,,Berg,20,,,,,,,,,,,,,,,,,,,,,HB 1350 Jul 14
+IOT,1,623,623,N,Ship,Nrodboen (SS),Visual,46.6,-55.73333333,1915,1915,July,7/3/15,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1353 Aug 4
+IOT,1,592,592,N,Ship,Englishman (SS),Visual,48.01666667,-48.53333333,1915,1915,July,7/4/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1351 Jul 21
+IOT,1,593,593,N,Ship,Englishman (SS),Visual,48,-48.66666667,1915,1915,July,7/4/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1351 Jul 21
+IOT,1,595.01,595.01,N,Ship,Pretorian (SS),Visual,47.36666667,-50.66666667,1915,1915,July,7/4/15,,Large,,,,,,5,,,,,,,,,,,,,,,,HB 1351 Jul 21
+IOT,0,595.02,595.02,N,Ship,Pretorian (SS),Visual,47.2,-51.16666667,1915,1915,July,7/4/15,,Large,,,,,,,,,,,,,,,,,,,,,,HB 1351 Jul 21
+IOT,1,596,596,N,Ship,Pretorian (SS),Visual,47.15,-51.43333333,1915,1915,July,7/4/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1351 Jul 21
+IOT,1,624,624,N,Ship,Nrodboen (SS),Visual,47.13333333,-50.98333333,1915,1915,July,7/4/15,,Large,,,,,,2,,,,,,,,,,,,,,,,HB 1353 Aug 4
+IOT,1,565,565,N,Miscellaneous,Cape Race,Visual,46.65,-52.96666667,1915,1915,July,7/5/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1350 Jul 14: a berg 4 miles E [position calculated]
+IOT,1,566,566,N,Miscellaneous,Cape Race,Visual,46.65,-53.31666667,1915,1915,July,7/5/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1350 Jul 14: a berg 10 miles W [position calculated]
+IOT,1,567.11,567.11,N,Ship,Jacona (SS),Visual,51.95,-55.35,1915,1915,July,7/5/15,,Berg,50,,,,,,,,,,,,,,,,,,,,,"HB 1350 Jul 14: Belle Isle to C.Norman, 50 bergs & growlers scattered over the straits"
+IOT,0,567.12,567.12,N,Ship,Jacona (SS),Visual,51.63333333,-55.9,1915,1915,July,7/5/15,,Berg,,,,,,,,,,,,,,,,,,,,,,"HB 1350 Jul 14: Belle Isle to C.Norman, 50 bergs & growlers scattered over the straits"
+IOT,1,567.21,567.21,N,Ship,Jacona (SS),Visual,51.95,-55.35,1915,1915,July,7/5/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,"HB 1350 Jul 14: Belle Isle to C.Norman, 50 bergs & growlers scattered over the straits"
+IOT,0,567.22,567.22,N,Ship,Jacona (SS),Visual,51.63333333,-55.9,1915,1915,July,7/5/15,,Growler,,,,,,,,,,,,,,,,,,,,,,"HB 1350 Jul 14: Belle Isle to C.Norman, 50 bergs & growlers scattered over the straits"
+IOT,1,568.11,568.11,N,Ship,Jacona (SS),Visual,51.63333333,-55.9,1915,1915,July,7/5/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1350 Jul 14: C.Norman to Pt.Amour, numerous bergs & growlers"
+IOT,0,568.12,568.12,N,Ship,Jacona (SS),Visual,51.45,-56.85,1915,1915,July,7/5/15,,Berg,,,,,,,,,,,,,,,,,,,,,,"HB 1350 Jul 14: C.Norman to Pt.Amour, numerous bergs & growlers"
+IOT,1,568.21,568.21,N,Ship,Jacona (SS),Visual,51.63333333,-55.9,1915,1915,July,7/5/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,"HB 1350 Jul 14: C.Norman to Pt.Amour, numerous bergs & growlers"
+IOT,0,568.22,568.22,N,Ship,Jacona (SS),Visual,51.45,-56.85,1915,1915,July,7/5/15,,Growler,,,,,,,,,,,,,,,,,,,,,,"HB 1350 Jul 14: C.Norman to Pt.Amour, numerous bergs & growlers"
+IOT,1,594.11,594.11,N,Ship,Englishman (SS),Visual,47.73333333,-50.13333333,1915,1915,July,7/5/15,,Large,,,,,,7,,,,,,,,,,,,,,,,HB 1351 Jul 21: seven large bergs & several pieces of ice
+IOT,0,594.12,594.12,N,Ship,Englishman (SS),Visual,46.75,-52,1915,1915,July,7/5/15,,Large,,,,,,,,,,,,,,,,,,,,,,HB 1351 Jul 21: seven large bergs & several pieces of ice
+IOT,1,594.21,594.21,N,Ship,Englishman (SS),Visual,47.73333333,-50.13333333,1915,1915,July,7/5/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1351 Jul 21: seven large bergs & several pieces of ice
+IOT,0,594.22,594.22,N,Ship,Englishman (SS),Visual,46.75,-52,1915,1915,July,7/5/15,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1351 Jul 21: seven large bergs & several pieces of ice
+IOT,1,597,597,N,Ship,Pretorian (SS),Visual,46.46666667,-53.41666667,1915,1915,July,7/5/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1351 Jul 21
+IOT,1,598,598,N,Ship,Pretorian (SS),Visual,46.46666667,-54.28333333,1915,1915,July,7/5/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1351 Jul 21
+IOT,1,599,599,N,Ship,Pretorian (SS),Visual,46.46666667,-54.53333333,1915,1915,July,7/5/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1351 Jul 21
+IOT,1,600.1,600.1,N,Ship,Pretorian (SS),Visual,46.4,-55.48333333,1915,1915,July,7/5/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1351 Jul 21: a large berg & numerous small pieces of ice
+IOT,1,600.2,600.2,N,Ship,Pretorian (SS),Visual,46.4,-55.48333333,1915,1915,July,7/5/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1351 Jul 21: a large berg & numerous small pieces of ice
+IOT,1,625,625,N,Ship,Nrodboen (SS),Visual,47.65,-49.63333333,1915,1915,July,7/5/15,,Very large,,,,,,,1,,,,,,,,,,,,,,,HB 1353 Aug 4
+IOT,1,626,626,N,Ship,Nrodboen (SS),Visual,47.7,-49.43333333,1915,1915,July,7/5/15,,Large,,,,,,4,,,,,,,,,,,,,,,,HB 1353 Aug 4: a large berg with field ice
+IOT,1,627,627,N,Ship,Nrodboen (SS),Visual,48.11666667,-48.15,1915,1915,July,7/5/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1353 Aug 4
+IOT,1,768,768,N,Ship,Jacona (SS),Visual,51.33333333,-57.31666667,1915,1915,July,7/5/15,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1350 Jun 14: 2 bergs 10 miles N of track [approximate position in Greenly Is. Area]
+IOT,1,562,562,N,Miscellaneous,Point Amour,Visual,51.45,-56.85,1915,1915,July,7/6/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1350 Jul 14: many bergs
+IOT,1,564,564,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,July,7/6/15,,Berg,20,,,,,,,,,,,,,,,,,,,,,HB 1350 Jul 14
+IOT,1,574,574,N,Miscellaneous,Point Amour,Visual,51.45,-56.85,1915,1915,July,7/8/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1351 Jul 21: many bergs
+IOT,1,577,577,N,Miscellaneous,Cape Race,Visual,46.68333333,-53.01666667,1915,1915,July,7/8/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1351 Jul 21: a berg 3 miles NE [position calculated]
+IOT,1,578,578,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,July,7/8/15,,Berg,25,,,,,,,,,,,,,,,,,,,,,HB 1351 Jul 21
+IOT,1,601,601,N,Ship,Hesperian (SS),Visual,47.8,-49.23333333,1915,1915,July,7/8/15,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1351 Jul 21
+IOT,1,602,602,N,Ship,Hesperian (SS),Visual,46.96666667,-51.41666667,1915,1915,July,7/8/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1351 Jul 21
+IOT,1,579,579,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,July,7/9/15,,Berg,25,,,,,,,,,,,,,,,,,,,,,HB 1351 Jul 21
+IOT,1,603,603,N,Ship,Hesperian (SS),Visual,46.76666667,-51.96666667,1915,1915,July,7/9/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1351 Jul 21
+IOT,1,199,199,N,Ship,Earl of Devon (SS),Visual,49.06666667,-53.05,1915,1915,July,7/10/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,SCIDB: Collision [approximate date]
+IOT,1,769,769,N,Ship,Thode Fagelund (SS),Visual,42.76666667,-49.5,1915,1915,July,7/10/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1352 Jun 21
+IOT,1,580,580,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,July,7/11/15,,Berg,25,,,,,,,,,,,,,,,,,,,,,HB 1351 Jul 21
+IOT,1,628,628,N,Ship,El Toro (SS),Visual,42.88333333,-49.56666667,1915,1915,July,7/11/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1353 Aug 4
+IOT,1,581,581,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,July,7/12/15,,Berg,20,,,,,,,,,,,,,,,,,,,,,HB 1351 Jul 21
+IOT,1,610,610,N,Ship,British Monarch (SS),Visual,47.55,-50.73333333,1915,1915,July,7/12/15,,Large,,,,,,1,,,,,,,30,E,,,,,,,,HB 1352 Jul 28: passed a large berg ~100' high
+IOT,1,611,611,N,Ship,British Monarch (SS),Visual,47.36666667,-51.1,1915,1915,July,7/12/15,,Large,,,,,,1,,,,,,,18,E,,,,,,,,HB 1352 Jul 28: passed a large berg ~60' high
+IOT,1,612,612,N,Ship,British Monarch (SS),Visual,47.21666667,-51.36666667,1915,1915,July,7/12/15,,Large,,,,,,1,,,,,,,18,E,,,,,,,,HB 1352 Jul 28: passed a large berg ~60' high
+IOT,1,575,575,N,Miscellaneous,Point Amour,Visual,51.45,-56.85,1915,1915,July,7/13/15,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1351 Jul 21
+IOT,1,582,582,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,July,7/13/15,,Berg,20,,,,,,,,,,,,,,,,,,,,,HB 1351 Jul 21
+IOT,1,583,583,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,July,7/14/15,,Berg,20,,,,,,,,,,,,,,,,,,,,,HB 1351 Jul 21
+IOT,1,576,576,N,Miscellaneous,Point Amour,Visual,51.45,-56.85,1915,1915,July,7/15/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1351 Jul 21
+IOT,1,584,584,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,July,7/15/15,,Berg,20,,,,,,,,,,,,,,,,,,,,,HB 1351 Jul 21
+IOT,1,629,629,N,Ship,Anglo Columbian (SS),Visual,47.31666667,-47.36666667,1915,1915,July,7/15/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1353 Aug 4
+IOT,1,585,585,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,July,7/16/15,,Berg,20,,,,,,,,,,,,,,,,,,,,,HB 1351 Jul 21
+IOT,1,586,586,N,Ship,Bergensfjord (SS),Visual,46.96666667,-42.63333333,1915,1915,July,7/16/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1351 Jul 21
+IOT,1,616,616,N,Ship,Devona (SS),Visual,52.86666667,-52.06666667,1915,1915,July,7/16/15,,Berg,16,,,,,,,,,,,,,,,,,,,,,HB 1352 Jul 28: 16 small and medium bergs
+IOT,1,617,617,N,Ship,Devona (SS),Visual,51.63333333,-55.35,1915,1915,July,7/16/15,,Large,,,,,,2,,,,,,,,,,,,,,,,"HB 1352 Jul 28: 4 miles S of Belle Isle, 2 or 3 large bergs [approixmate position calculated]"
+IOT,1,618,618,N,Ship,Devona (SS),Visual,51.66666667,-55.6,1915,1915,July,7/16/15,,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 1352 Jul 28: 3 bergs half way between Belle Isle and Cape Norman
+IOT,1,619,619,N,Ship,Maine (SS),Visual,46.55,-46.73333333,1915,1915,July,7/17/15,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1352 Jul 28
+IOT,1,604,604,N,Miscellaneous,Cape Race,Visual,46.65,-53.06666667,1915,1915,July,7/18/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1352 Jul 28
+IOT,1,647.1,647.1,N,Ship,Statesmen (SS),Visual,47.15,-46.43333333,1915,1915,July,7/18/15,,Medium,,,,,1,,,,,,,,30,E,,,,,,,,HB 1355 Aug 18: passed a berg ~100' high; also a small berg & 3 growlers
+IOT,1,647.2,647.2,N,Ship,Statesmen (SS),Visual,47.15,-46.43333333,1915,1915,July,7/18/15,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1355 Aug 18: passed a berg ~100' high; also a small berg & 3 growlers
+IOT,1,647.3,647.3,N,Ship,Statesmen (SS),Visual,47.15,-46.43333333,1915,1915,July,7/18/15,,Growler,,3,,,,,,,,,,,,,,,,,,,,HB 1355 Aug 18: passed a berg ~100' high; also a small berg & 3 growlers
+IOT,1,648,648,N,Ship,Pretorian (SS),Visual,47.75,-49.8,1915,1915,July,7/18/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1355 Aug 18
+IOT,1,605,605,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,July,7/19/15,,Berg,20,,,,,,,,,,,,,,,,,,,,,HB 1352 Jul 28
+IOT,1,606,606,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,July,7/20/15,,Berg,25,,,,,,,,,,,,,,,,,,,,,HB 1352 Jul 28
+IOT,1,607,607,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,July,7/21/15,,Berg,25,,,,,,,,,,,,,,,,,,,,,HB 1352 Jul 28
+IOT,1,630,630,N,Ship,Atlantic Sun (SS),Visual,46.41666667,-47.38333333,1915,1915,July,7/21/15,,Large,,,,,,1,,,,,,,53,E,,,,,,,,HB 1353 Aug 4: passed a berg ~175' high
+IOT,1,631,631,N,Ship,Atlantic Sun (SS),Visual,46.33333333,-47.83333333,1915,1915,July,7/21/15,,Large,,,,,,1,,,,,,,61,E,,,,,,,,HB 1353 Aug 4: passed a berg ~200' high
+IOT,1,587.1,587.1,N,Ship,Anglo Columbian (SS),Visual,46.45,-55.03333333,1915,1915,July,7/22/15,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1351 Jul 21
+IOT,1,587.2,587.2,N,Ship,Anglo Columbian (SS),Visual,46.45,-55.03333333,1915,1915,July,7/22/15,,Growler,,5,,,,,,,,,,,,,,,,,,,,HB 1351 Jul 21
+IOT,1,588,588,N,Ship,Anglo Columbian (SS),Visual,46.45,-54.05,1915,1915,July,7/22/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1351 Jul 21
+IOT,1,589,589,N,Ship,Anglo Columbian (SS),Visual,46.45,-53.81666667,1915,1915,July,7/22/15,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1351 Jul 21: a small low-lying growler
+IOT,1,635,635,N,Ship,Johan Siem (SS),Visual,48.18333333,-48.45,1915,1915,July,7/22/15,,Very large,,,,,,,1,,,,,,91,E,,,,,,,,HB 1354 Aug 11: passed a very large berg ~300' high
+IOT,1,608,608,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,July,7/24/15,,Berg,25,,,,,,,,,,,,,,,,,,,,,HB 1352 Jul 28
+IOT,1,609,609,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,July,7/25/15,,Berg,20,,,,,,,,,,,,,,,,,,,,,HB 1352 Jul 28
+IOT,1,632.1,632.1,N,Ship,Netherlee (SS),Visual,46.41666667,-47.83333333,1915,1915,July,7/28/15,,Ice island,,,,,,,,1,,,402,E,61,E,,,,,,,,HB 1353 Aug 4: passed a berg ~200' high & ½ mile long; also some growlers
+IOT,1,632.2,632.2,N,Ship,Netherlee (SS),Visual,46.41666667,-47.83333333,1915,1915,July,7/28/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1353 Aug 4: passed a berg ~200' high & ½ mile long; also some growlers
+IOT,1,636,636,N,Ship,Imo (SS),Visual,47.55,-51.3,1915,1915,July,7/29/15,,Small,,,,1,,,,,,,,,15,E,,,,,,,,HB 1354 Aug 11: passed a berg ~50' high
+IOT,1,637,637,N,Ship,Frederik VIII (SS),Visual,43.83333333,-48.75,1915,1915,July,7/30/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1354 Aug 11
+IOT,1,638,638,N,Ship,Borderdale (SS),Visual,44.86666667,-49,1915,1915,July,7/30/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1354 Aug 11
+IOT,1,639,639,N,Ship,Ocean Monarch (SS),Visual,48.35,-49.55,1915,1915,July,7/31/15,,Small,,,,1,,,,,,Pinnacle,,,,,,,,,,,,HB 1354 Aug 11: flat topped berg with a peak at one end
+IOT,1,640,640,N,Ship,Ocean Monarch (SS),Visual,48.33333333,-49.58333333,1915,1915,July,7/31/15,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1354 Aug 11
+IOT,1,641,641,N,Ship,Ocean Monarch (SS),Visual,48.33333333,-49.65,1915,1915,July,7/31/15,,Berg,1,,,,,,,,,Pinnacle,,,,,,,,,,,,HB 1354 Aug 11: double-peaked berg
+IOT,1,642,642,N,Ship,Ocean Monarch (SS),Visual,48.13333333,-49.88333333,1915,1915,July,7/31/15,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1354 Aug 11
+IOT,1,651,651,N,Ship,Parthenia (SS),Visual,48.01666667,-49.5,1915,1915,August,8/1/15,,Large,,,,,,2,,,,,,,,,,,,,,,,HB 1356 Aug 25
+IOT,1,634,634,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,August,8/3/15,,Berg,6,,,,,,,,,,,,,,,,,,,,,HB 1354 Aug 11
+IOT,1,675,675,N,Ship,Lai (SS),Visual,44.81666667,-47.98333333,1915,1915,August,8/3/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1358 Sep 8
+IOT,1,676,676,N,Ship,Sarmatia (SS),Visual,47.58333333,-47.88333333,1915,1915,August,8/5/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1358 Sep 8
+IOT,1,633,633,N,Miscellaneous,Point Amour,Visual,51.45,-56.85,1915,1915,August,8/6/15,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1354 Aug 11
+IOT,1,649,649,N,Ship,Mimosa (SS),Visual,45,-49,1915,1915,August,8/7/15,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1355 Aug 18
+IOT,1,643,643,N,Ship,Minnehaha (SS),Visual,41.6,-49,1915,1915,August,8/8/15,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1354 Aug 11
+IOT,1,644,644,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,August,8/8/15,,Berg,11,,,,,,,,,,,,,,,,,,,,,HB 1355 Aug 18
+IOT,1,652,652,N,Ship,Emanuel Nobel (SS),Visual,46.41666667,-47.55,1915,1915,August,8/8/15,,Medium,,,,,1,,,,,,61,E,23,E,,,,,,,,HB 1356 Aug 25: passed a berg ~200' long & 75' high
+IOT,1,645,645,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,August,8/9/15,,Berg,11,,,,,,,,,,,,,,,,,,,,,HB 1355 Aug 18
+IOT,1,650,650,N,Ship,Brantford (SS),Visual,47.66666667,-50.41666667,1915,1915,August,8/9/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1355 Aug 18
+IOT,1,165,165,N,Ship,St. Louis (SS),Visual,41.03333333,-48,1915,1915,August,8/10/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,Marine Observer Vol.9 1932.   HB 1356 Aug 25
+IOT,1,646,646,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,August,8/10/15,,Berg,11,,,,,,,,,,,,,,,,,,,,,HB 1355 Aug 18
+IOT,1,654,654,N,Ship,Oriflamme (SS),Visual,44.41666667,-49.2,1915,1915,August,8/14/15,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1356 Aug 25
+IOT,1,655,655,N,Ship,United States (SS),Visual,41.75,-52.43333333,1915,1915,August,8/14/15,,Growler,,1,,,,,,,,,,,,,,,,,,,,"HB 1356 Aug 25: piece of ice, part above the water the size of a small boat"
+IOT,1,656.1,656.1,N,Ship,Nordnaes (SS),Visual,47.33333333,-50.83333333,1915,1915,August,8/15/15,,Medium,,,,,1,,,,,,,,24,E,,,,,,,,HB 1356 Aug 25: passed a berg ~80' high & 3 smaller ones
+IOT,1,656.2,656.2,N,Ship,Nordnaes (SS),Visual,47.33333333,-50.83333333,1915,1915,August,8/15/15,,Small,,,,3,,,,,,,,,,,,,,,,,,HB 1356 Aug 25: passed a berg ~80' high & 3 smaller ones
+IOT,1,657,657,N,Ship,Roland (SS),Visual,48.5,-49.76666667,1915,1915,August,8/15/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,"HB 1356 Aug 25: sighted a berg S75°W, ~13 miles off [position calculated]"
+IOT,1,661,661,N,Miscellaneous,Point Amour,Visual,51.45,-56.85,1915,1915,August,8/15/15,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1356 Aug 25
+IOT,1,664,664,N,Miscellaneous,Cape Race,Visual,46.65,-53.06666667,1915,1915,August,8/15/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1356 Aug 25: a few bergs in sight
+IOT,1,668,668,N,Ship,Ester (SS),Visual,47.66666667,-50.2,1915,1915,August,8/15/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1357 Sep 1
+IOT,1,658,658,N,Ship,Roland (SS),Visual,47.85,-50.4,1915,1915,August,8/16/15,,Very large,,,,,,,1,,,,,,34,E,,,110,M,,,,"HB 1356 Aug 25: passed a very large berg ~34 meters high, 10 miles off in S30°W [position calculated], probably aground in 60 fathoms of water. It looked like 2 projecting hsarp rocks with steep sides & a deep cut between."
+IOT,1,659,659,N,Ship,Roland (SS),Visual,46.81666667,-52.83333333,1915,1915,August,8/16/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1356 Aug 25: passed a berg 10 miles off in N37°W [position calculated]
+IOT,1,662,662,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,August,8/16/15,,Berg,6,,,,,,,,,,,,,,,,,,,,,HB 1356 Aug 25
+IOT,1,665,665,N,Miscellaneous,Cape Race,Visual,46.65,-53.06666667,1915,1915,August,8/16/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1356 Aug 25: icebergs in same position as yesterday [#664]
+IOT,1,669,669,N,Ship,Saint Leonards (SS),Visual,41.13333333,-56.71666667,1915,1915,August,8/16/15,9:00,Ice island,,,,,,,,1,,Tabular,926,E,37,E,,,,,,,,"HB 1357 Sep 1: at 7:15 am during a thick fog, heard a very distinct echo to the whistle from about WNW; altered course to SW by S which brought the echo abeam, & at 7:50 the fog lifted enough to allow us to resume our course; at 9 am it was quite clear & we then saw a berg ~½ mile long & 100 to 120' high, quite flat on top, bearing ENE. We passed ~1 mile S of the berg [actual position calculated]. When the echo was heard we stopped & got a good bearing of it. Marine Observer Vol.9 1932."
+IOT,1,677,677,N,Ship,Falkaner (SS),Visual,47.5,-50.66666667,1915,1915,August,8/16/15,,Very large,,,,,,,1,,,Pinnacle,,,,,,,,,,,,"HB 1358 Sep 8: saw a very large berg low in water, with double peak at one end"
+IOT,1,678,678,N,Ship,Falkaner (SS),Visual,46.8,-52,1915,1915,August,8/16/15,,Large,,,,,,1,,,,,,,,,,,,,,,,"HB 1358 Sep 8 [lon estimated at 52N, given lon of 53 is on land]"
+IOT,1,666,666,N,Miscellaneous,Cape Race,Visual,46.65,-52.85,1915,1915,August,8/19/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1356 Aug 25: 1 berg 9 miles to eastward [position calculated]
+IOT,1,663,663,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,August,8/20/15,,Berg,6,,,,,,,,,,,,,,,,,,,,,HB 1356 Aug 25
+IOT,1,667,667,N,Miscellaneous,Cape Race,Visual,46.65,-52.85,1915,1915,August,8/20/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1356 Aug 25: berg in same position [#666]
+IOT,1,670,670,N,Ship,Wiltonhall (SS),Visual,44.5,-49,1915,1915,August,8/20/15,,Large,,,,,,1,,,,Pinnacle,122,E,9.1,E,,,,,,,,HB 1357 Sep 1: passed a berg 30' high & 400' long with a pinnacle at the centre
+IOT,1,671,671,N,Ship,Czar (SS),Visual,48.35,-49.95,1915,1915,August,8/20/15,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1357 Sep 1: lon given as impoosible typo of 49.87W assumed to be 49.57 as a likely guess.
+IOT,1,166,166,N,Ship,Strathgarry (SS),Visual,40.76666667,-68.33333333,1915,1915,August,8/21/15,,Growler,,1,,,,,,,,,,,,,,,,,,,,Marine Observer Vol.9 1932 [could this lon be 48.20W and thus be the same berg as #165?]
+IOT,1,672,672,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,August,8/21/15,,Berg,5,,,,,,,,,,,,,,,,,,,,,HB 1357 Sep 1
+IOT,1,679,679,N,Ship,Texas (SS),Visual,48.33333333,-49.91666667,1915,1915,August,8/21/15,,Very large,,,,,,,1,,,,,,30,E,,,,,,,,HB 1358 Sep 8: passed a very large berg ~100' high; found no bergs at C.Race where we passed within 10 miles on the 22nd
+IOT,1,673,673,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,August,8/22/15,,Berg,4,,,,,,,,,,,,,,,,,,,,,HB 1357 Sep 1
+IOT,1,680,678,Y,Ship,Eir (SS),Visual,46.93333333,-52.81666667,1915,1915,August,8/22/15,,Medium,,,,,1,,,,,Blocky,61,E,21,E,61,E,,,,,,HB 1358 Sep 8: saw a berg ~200' square & 60 to 70' high; probably aground on Bantam Bank. [likely resight of #678]
+IOT,1,167,167,N,Ship,Strathgarry (SS),Visual,39,-46.33333333,1915,1915,August,8/23/15,,Bergy bit,,,1,,,,,,,,6,E,1.2,E,,,,,,,,"Marine Observer Vol.9 1932: Piece 20' long and 4' high [date in Aug unknown, likely close to other observation on 21st]"
+IOT,1,660,660,N,Ship,Berwindvale (SS),Visual,44,-49.26666667,1915,1915,August,8/23/15,,Medium,,,,,1,,,,,,,,18,E,,,,,,,,HB 1356 Aug 25: passed a berg ~60' high
+IOT,1,681,680,Y,Ship,Hans Broge (SS),Visual,46.9,-52.81666667,1915,1915,August,8/23/15,,Small,,,,1,,,,,,,5,E,7.6,E,,,,,,,,"HB 1358 Sep 8: observed a berg 25' high & 50' in circumference aground on Bantam Rocks. [Probable berg resight of #680, but greatly reduced mass]"
+IOT,1,705.1,705.1,N,Ship,Nordamerika (SS),Visual,48.41666667,-46.25,1915,1915,August,8/24/15,,Large,,,,,,2,,,,,,,,,,,,,,,,HB 1360 Sep 22
+IOT,1,705.2,705.2,N,Ship,Nordamerika (SS),Visual,48.41666667,-46.25,1915,1915,August,8/24/15,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1360 Sep 22
+IOT,1,674,674,N,Miscellaneous,Cape Race,Visual,46.65,-52.85,1915,1915,August,8/25/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1357 Sep 1: bergs 9 miles E [position calculated]
+IOT,1,682,660,Y,Ship,Oosterdijk (SS),Visual,44,-49.21666667,1915,1915,August,8/25/15,,Medium,,,,,1,,,,,,,,38,E,,,,,,,,HB 1358 Sep 8: saw a berg ~125' high [likley resight of #660]
+IOT,1,683,683,N,Ship,Masunda (SS),Visual,48.08333333,-48,1915,1915,August,8/25/15,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1358 Sep 8
+IOT,1,684,684,N,Ship,Trinidad (SS),Visual,48,-47.96666667,1915,1915,August,8/26/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1358 Sep 8
+IOT,1,694,694,N,Ship,Thelma (SS),Visual,61.25,-49.03333333,1915,1915,August,8/27/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1359 Sep 15: Aug 15: 60.30N 48.40W on the voyage from Philadelphia to Ivigtut, met the first ice 30 miles off the coast of Greenland, some scattered ice & bergs, fogs & light winds having prevailed nearly all the way from C.Race to the 59th parallel. Aug 27: this position, obsefved ice & several bergs extending 4 miles off shore to as far as we could see."
+IOT,1,685,685,N,Ship,Colbert (SS),Visual,43.86666667,-49.11666667,1915,1915,August,8/28/15,,Large,,,,,,1,,,,,,,,,,,,,,,,"HB 1358 Sep 8: passed near a berg of large dimensions, visible for a distance of 20 miles"
+IOT,1,687,687,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,August,8/28/15,,Berg,4,,,,,,,,,,,,,,,,,,,,,HB 1358 Sep 8
+IOT,1,691,691,N,Miscellaneous,Cape Race,Visual,46.65,-53,1915,1915,August,8/28/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1358 Sep 8: 1 berg eastward [position approximate]
+IOT,1,695,695,N,Ship,Thelma (SS),Visual,60.88333333,-49.53333333,1915,1915,August,8/28/15,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1359 Sep 15: met 2 bergs & met packed & scattered ice from 10 to 24 miles off the land.
+IOT,1,686,686,N,Ship,Hjellefjord (SS),Visual,43.61666667,-49.43333333,1915,1915,August,8/29/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1358 Sep 8
+IOT,1,688,688,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,August,8/29/15,,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 1358 Sep 8
+IOT,1,692,692,N,Miscellaneous,Cape Race,Visual,46.65,-53.06666667,1915,1915,August,8/29/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1358 Sep 8
+IOT,1,689,689,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,August,8/30/15,,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 1358 Sep 8
+IOT,1,696.1,696.1,N,Ship,Thelma (SS),Visual,54.58333333,-54,1915,1915,August,8/30/15,,Large,,,,,,1,,,,,,,,,,,,,,,,"HB 1359 Sep 15: saw a large berg & a small one. [no lon given, estimated]"
+IOT,1,696.2,696.2,N,Ship,Thelma (SS),Visual,54.58333333,-54,1915,1915,August,8/30/15,,Small,,,,1,,,,,,,,,,,,,,,,,,"HB 1359 Sep 15: saw a large berg & a small one. [no lon given, estimated]"
+IOT,1,697,697,N,Ship,Thelma (SS),Visual,51.5,-56.5,1915,1915,August,8/31/15,,Berg,6,,,,,,,,,,,,,,,,,,,,,HB 1359 Sep 15: noted 6 bergs in the Strait of Belle Isle [position approximate
+IOT,1,698,698,N,Ship,Thelma (SS),Visual,51.95,-55.35,1915,1915,August,8/31/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1359 Sep 15. Berg off the NE point of Belle Isle [position estimated]
+IOT,1,699.1,699.1,N,Ship,Sliedrecht (SS),Visual,43.55,-50.45,1915,1915,September,9/1/15,,Small,,,,1,,,,,,,46,E,15,E,,,,,,,,"HB 1359 Sep 15: passed a berg ~150' long & 50' high, aground, with small pieces of ice northwestward"
+IOT,1,699.2,699.2,N,Ship,Sliedrecht (SS),Visual,43.55,-50.45,1915,1915,September,9/1/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,"HB 1359 Sep 15: passed a berg ~150' long & 50' high, aground, with small pieces of ice northwestward"
+IOT,1,700,700,N,Ship,Sliedrecht (SS),Visual,43.5,-50.5,1915,1915,September,9/1/15,,Small,,,,1,,,,,,,27,E,3,E,,,,,,,,HB 1359 Sep 15: saw a berg ~90' long & 10' high
+IOT,1,690,690,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,September,9/3/15,,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 1358 Sep 8
+IOT,1,693,693,N,Miscellaneous,Cape Race,Visual,46.68333333,-52.93333333,1915,1915,September,9/3/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1358 Sep 8: bergs 6 miles ENE [position calculated]
+IOT,1,706.1,706.1,N,Ship,Nyassa (SS),Visual,46.31666667,-47.08333333,1915,1915,September,9/5/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1360 Sep 22: met a large berg with numerous growlers
+IOT,1,706.2,706.2,N,Ship,Nyassa (SS),Visual,46.31666667,-47.08333333,1915,1915,September,9/5/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1360 Sep 22: met a large berg with numerous growlers
+IOT,1,707,707,N,Ship,Samland (SS),Visual,46.36666667,-47.26666667,1915,1915,September,9/5/15,,Large,,,,,,1,,,,Pinnacle,,,46,E,,,,,,,,HB 1360 Sep 22: passed a large berg with 2 peaks ~150' high
+IOT,1,708,708,N,Ship,Missourian (SS),Visual,51.66666667,-55.43333333,1915,1915,September,9/5/15,,Medium,,,,,1,,,,,,61,E,30,E,,,,,,,,HB 1360 Sep 22: off C.Bauld saw a berg ~200' long & 100' high [approximate position]
+IOT,1,709,709,N,Ship,Missourian (SS),Visual,51.66666667,-55.9,1915,1915,September,9/5/15,,Large,,,,,,1,,,,,122,E,46,E,,,,,,,,HB 1360 Sep 22: off C.Norman net 2 bergs ~400' long & 150' high [approximate position]
+IOT,1,701,701,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,September,9/6/15,,Berg,5,,,,,,,,,,,,,,,,,,,,,HB 1359 Sep 15
+IOT,1,721,721,N,Ship,Hellig Olav (SS),Visual,46.08333333,-47.6,1915,1915,September,9/6/15,,Very large,,,,,,,1,,,,,,,,,,,,,,,HB 1363 Oct 13
+IOT,1,702,702,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,September,9/7/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1359 Sep 15
+IOT,1,710,710,N,Ship,Mendip Range (SS),Visual,52.31666667,-51.3,1915,1915,September,9/7/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1360 Sep 22
+IOT,1,711,711,N,Ship,Mendip Range (SS),Visual,52.65,-51.66666667,1915,1915,September,9/7/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1360 Sep 22
+IOT,1,712.1,712.1,N,Ship,Mendip Range (SS),Visual,52.38333333,-51.66666667,1915,1915,September,9/7/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1360 Sep 22
+IOT,1,712.2,712.2,N,Ship,Mendip Range (SS),Visual,52.38333333,-51.66666667,1915,1915,September,9/7/15,,Growler,,5,,,,,,,,,,,,,,,,,,,,HB 1360 Sep 22
+IOT,1,722,722,N,Ship,Charlois (SS),Visual,45.91666667,-47.43333333,1915,1915,September,9/7/15,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1363 Oct 13
+IOT,1,703,703,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,September,9/8/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1359 Sep 15
+IOT,1,713,713,N,Ship,Devona (SS),Visual,52.8,-52.76666667,1915,1915,September,9/8/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1360 Sep 22
+IOT,1,714,714,N,Ship,Devona (SS),Visual,52.71666667,-53.05,1915,1915,September,9/8/15,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1360 Sep 22
+IOT,1,715,715,N,Ship,Noordam (SS),Visual,45.93333333,-47.33333333,1915,1915,September,9/8/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1361 Sep 29
+IOT,1,704,704,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,September,9/9/15,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1359 Sep 15
+IOT,1,716.1,716.1,N,Ship,Noordam (SS),Visual,45.91666667,-47.41666667,1915,1915,September,9/9/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1361 Sep 29: a large berg & several growlers
+IOT,1,716.2,716.2,N,Ship,Noordam (SS),Visual,45.91666667,-47.41666667,1915,1915,September,9/9/15,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1361 Sep 29: a large berg & several growlers
+IOT,1,717,717,N,Ship,Burmese Prince (SS),Visual,46.31666667,-47.4,1915,1915,September,9/9/15,,Large,,,,,,1,,,,,,,43,E,,,,,,,,HB 1361 Sep 29: passed a large berg from 130 to 140' high
+IOT,1,723,723,N,Ship,Missourian (SS),Visual,51.41666667,-56.85,1915,1915,September,9/14/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1364 Oct 20: saw a berg off Pt.Amour [position approximate]
+IOT,1,724,724,N,Ship,Missourian (SS),Visual,51.66666667,-54.5,1915,1915,September,9/15/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1364 Oct 20
+IOT,1,725,725,N,Ship,Missourian (SS),Visual,51.73333333,-53.66666667,1915,1915,September,9/15/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1364 Oct 20
+IOT,1,726,726,N,Ship,Missourian (SS),Visual,51.83333333,-52.75,1915,1915,September,9/15/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1364 Oct 20
+IOT,1,718,718,N,Ship,Michigan (SS),Visual,49.08333333,-49.5,1915,1915,September,9/16/15,,Large,,,,,,1,,,,Pinnacle,,,61,E,,,,,,,,"HB 1362 Oct 6: berg with two pinnacles, one of which was about 200' high"
+IOT,1,727,727,N,Ship,Anglo Saxon (SS),Visual,51.68333333,-56.48333333,1915,1915,September,9/19/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1364 Oct 20: berg apparently aground ~20 miles eastward of Pt.Amour [position approximate]
+IOT,1,728,728,N,Ship,Anglo Saxon (SS),Visual,51.03333333,-57.06666667,1915,1915,September,9/19/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1364 Oct 20: berg apparently aground on the Newfoundland side opposite Greenly Is.[position approximate]
+IOT,1,729,729,N,Ship,Thelma (SS),Visual,51.75,-56.26666667,1915,1915,September,9/19/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1364 Oct 20
+IOT,1,770,770,N,Ship,Thelma (SS),Visual,51.25,-56.95,1915,1915,September,9/19/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1364 Oct 20: saw a berg on the voyage from Philadelphia toward Greenland
+IOT,1,720,720,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,September,9/20/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1362 Oct 6
+IOT,1,730,730,N,Ship,Thelma (SS),Visual,59.66666667,-48.86666667,1915,1915,September,9/22/15,,Small,,,,2,,,,,,,,,,,,,,,,,,HB 1364 Oct 20
+IOT,1,731,731,N,Ship,Thelma (SS),Visual,60.28333333,-48.76666667,1915,1915,September,9/22/15,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1364 Oct 20: (68 miles offhsore] encountered scattered ice & saw several bergs
+IOT,1,719,719,N,Miscellaneous,Point Amour,Visual,51.45,-56.85,1915,1915,September,9/23/15,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1362 Oct 6
+IOT,1,771,771,N,Ship,Thelma (SS),Visual,60.68333333,-49,1915,1915,September,9/30/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,"HB 1364 Oct 20: (23 miles offshore, on the voyage from Greenland) passed the last ice"
+IOT,1,732,732,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,October,10/12/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1364 Oct 20
+IOT,1,733,733,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,October,10/13/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1364 Oct 20
+IOT,1,734,734,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,October,10/14/15,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1364 Oct 20
+IOT,1,735,735,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,October,10/16/15,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1364 Oct 20
+IOT,1,736,736,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,October,10/18/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1365 Oct 27
+IOT,1,737,737,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,October,10/19/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1365 Oct 27
+IOT,1,738,738,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,October,10/21/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1365 Oct 27
+IOT,1,739,739,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,October,10/23/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1366 Nov 1
+IOT,1,740,740,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,October,10/24/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1366 Nov 1
+IOT,1,741,741,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,October,10/25/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1366 Nov 1
+IOT,1,742,742,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,October,10/26/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1366 Nov 1
+IOT,1,743,743,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,October,10/27/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1366 Nov 1
+IOT,1,744,744,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,November,11/2/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1367 Nov 8
+IOT,1,749,749,N,Ship,Henry Williams (SS),Visual,42.91666667,-51.6,1915,1915,November,11/8/15,,Small,,,,1,,,,,,,,,15,E,,,,,,,,HB 1377 19 Jan 1916: passed a berg ~50' high
+IOT,1,745,745,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,November,11/25/15,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1370 Dec 1
+IOT,1,746,746,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,November,11/26/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1370 Dec 1
+IOT,1,747,747,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,November,11/28/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1371 Dec 8
+IOT,1,748,748,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1915,1915,November,11/30/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1371 Dec 8
+IOT,1,168,168,N,Ship,Carolyn (SS),Visual,42.88333333,-57.65,1915,1915,December,12/22/15,,Large,,,,,,1,,,,,,,,,,,,,,,,Marine Observer Vol.9 1932: large berg
+IOT,1,751,751,N,Ship,Carolyn (SS),Visual,42.88333333,-57.41666667,1915,1915,December ,12/22/15,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1380 9 Feb 1916: saw a large berg 10 miles to the eastward [position calculated]
+IOT,1,750.1,750.1,N,Ship,Strathdene (SS),Visual,41.15,-48.93333333,1915,1915,December ,12/31/15,,Berg,1,,,,,,,,,Tabular,,,,,,,,,,,,"HB 1379 2 Feb 1916: passed 2 bergs, the larger berg being long and flat"
+IOT,1,750.2,750.2,N,Ship,Strathdene (SS),Visual,41.15,-48.93333333,1915,1915,December ,12/31/15,,Berg,1,,,,,,,,,,,,,,,,,,,,,"HB 1379 2 Feb 1916: passed 2 bergs, the larger berg being long and flat"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

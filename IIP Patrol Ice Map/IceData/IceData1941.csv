@@ -1,0 +1,98 @@
+data source,Flag,IIP #,Iceberg #,resight,sighting source,Vessel Name,sighting method,latitude,longitude,Ice Season,Year,Month,date,time,size,#bergs,#growlers,#Bergy Bits,Small,Medium,Large,Very Large,Ice Island,Unidentified,shape,length,length flag,height,height flag,width,width flag,draft,draft flag,mass,mass flag,drill site,Comments
+IOT,1,5,5,N,Unknown,Unknown,Visual,48.28333333,-50.85,1941,1941,March,3/3/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR. Lon. and date uncertain. HB 2688 Mar 12: bergs in these two locations {1 berg each?]
+IOT,1,6,6,N,Unknown,Unknown,Visual,47.71666667,-51.2,1941,1941,March,3/3/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,NYMR. Date uncertain. HB 2688 Mar 12: bergs in these two locations {1 berg each?]
+IOT,1,7,7,N,Unknown,Unknown,Visual,48.95,-50.03333333,1941,1941,March,3/19/41,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 2691 Apr 2
+IOT,1,9,9,N,Unknown,Unknown,Visual,47.61666667,-50.36666667,1941,1941,April,4/12/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2693 Apr 16
+IOT,1,8,8,N,Unknown,Unknown,Visual,56.58333333,-41.81666667,1941,1941,April,4/27/41,,Large,,,,,,1,,,,,,,,,,,,,,,,NYMR. HB 2697 May 14
+IOT,1,2,2,N,Aircraft,DOT,Visual,48.7,-62.13333333,1941,1941,April,4/30/41,,Growler,,1,,,,,,,,,,,,,,,,,,,,CIDS:(CIS IC0751)
+IOT,1,3,3,N,Unknown,Unknown,Visual,49.16666667,-58.43333333,1941,1941,May,5/1/41,,Small,,,,1,,,,,,,45,E,6,E,,,,,,,,HB 2698 May 21
+IOT,1,4,4,N,Unknown,Unknown,Visual,46.56666667,-59.6,1941,1941,May,5/4/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2698 May 21
+IOT,1,10.1,10.1,N,Ship,Unknown,Visual,49.86666667,-52.73333333,1941,1941,May,5/18/41,,Small,,,,x,,,,,,,,,,,,,,,,,,HB 2698 May 21: field ice with growlers and several small bergs in vicinity
+IOT,1,10.2,10.2,N,Ship,Unknown,Visual,49.86666667,-52.73333333,1941,1941,May,5/18/41,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 2698 May 21: field ice with growlers and several small bergs in vicinity
+IOT,1,11.1,11.1,N,Ship,Unknown,Visual,50.35,-52.55,1941,1941,May,5/18/41,,Small,,,,x,,,,,,,,,,,,,,,,,,"HB 2698 May 21: field ice with growlers and several small bergs in vicinity, extending overv10 miles in an E-W direction"
+IOT,1,11.2,11.2,N,Ship,Unknown,Visual,50.35,-52.55,1941,1941,May,5/18/41,,Growler,,x,,,,,,,,,,,,,,,,,,,,"HB 2698 May 21: field ice with growlers and several small bergs in vicinity, extending overv10 miles in an E-W direction"
+IOT,1,12,12,N,Ship,Unknown,Visual,54.95,-52.58333333,1941,1941,May,5/24/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2699 May 28
+IOT,1,13,13,N,Ship,Unknown,Visual,58.78333333,-42.26666667,1941,1941,May,5/25/41,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 2699 May 28
+IOT,1,15,15,N,Ship,Unknown,Visual,52.56666667,-52.66666667,1941,1941,June,6/6/41,,Growler,,3,,,,,,,,,,,,,,,,,,,,HB 2703 Jun 25
+IOT,1,16,16,N,Ship,Unknown,Visual,53.63333333,-52.7,1941,1941,June,6/7/41,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 2703 Jun 25: small growler
+IOT,1,17,17,N,Ship,Unknown,Visual,62.93333333,-53.15,1941,1941,June,6/10/41,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 2703 Jun 25: small growler
+IOT,1,18,18,N,Ship,Unknown,Visual,63.75,-53.8,1941,1941,June,6/10/41,,Large,,,,,,4,,,,,,,,,,,,,,,,HB 2703 Jun 25
+IOT,1,19,19,N,Ship,Unknown,Visual,63.95,-52.16666667,1941,1941,June,6/10/41,,Small,,,,x,,,,,,,,,,,,,,,,,,HB 2703 Jun 25: several small bergs in the vicinity of the approaches of Godthaab Fjord were observed [position approximate]
+IOT,1,14,14,N,Ship,Unknown,Visual,49.06666667,-61.61666667,1941,1941,June,6/11/41,,Medium,,,,,1,,,,,,46,E,20,E,,,,,,,,HB 2702 Jun 18 & HB 2703 Jun 25: a berg 150' long showing 65' out of water
+IOT,1,25.11,25.11,N,Ship,Unknown,Visual,50,-54,1941,1941,June,6/13/41,,Berg,8,,,,,,,,,,,,,,,,,,,,,"HB 2707 Jul 23: 8 bergs and growlers, 20 to 40' high"
+IOT,0,25.12,25.12,N,Ship,Unknown,Visual,49.7,-54.86666667,1941,1941,June,6/13/41,,Berg,,,,,,,,,,,,,,,,,,,,,,"HB 2707 Jul 23: 8 bergs and growlers, 20 to 40' high"
+IOT,1,25.21,25.21,N,Ship,Unknown,Visual,50,-54,1941,1941,June,6/13/41,,Growler,,x,,,,,,,,,,,,,,,,,,,,"HB 2707 Jul 23: 8 bergs and growlers, 20 to 40' high"
+IOT,0,25.22,25.22,N,Ship,Unknown,Visual,49.7,-54.86666667,1941,1941,June,6/13/41,,Growler,,,,,,,,,,,,,,,,,,,,,,"HB 2707 Jul 23: 8 bergs and growlers, 20 to 40' high"
+IOT,1,26,26,N,Ship,Unknown,Visual,49.55,-55.2,1941,1941,June,6/14/41,,Small,,,,1,,,,,,,,,15,E,,,,,,,,HB 2707 Jul 23: a berg ~50' high grounded
+IOT,1,20,20,N,Ship,Unknown,Visual,56.11666667,-54.1,1941,1941,June,6/26/41,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 2704 Jul 2: [fuzzy photocopy; June date and position somewhat unclear]
+IOT,1,21,21,N,Ship,Unknown,Visual,48.1,-52.75,1941,1941,June,6/28/41,,Small,,,,1,,,,,,,,,9.1,E,,,,,,,,HB 2704 Jul 2:  a berg ~30' high [fuzzy photocopy; position and height of berg somewhat unclear]
+IOT,1,23,23,N,Ship,Unknown,Visual,52,-53.83333333,1941,1941,July,7/6/41,,Berg,4,,,,,,,,,,,,,,,,,,,,,"HB 2706 Jul 16: 4 bergs reported 50 to 60 miles E of Belle Isle [also a few small bergs off coast of Labrador, not plotted]"
+IOT,1,24.01,24.01,N,Ship,Unknown,Visual,50,-50.5,1941,1941,July,7/8/41,,Large,,,,,,x,,,,,,,,,,,,,,,,"HB 2706 Jul 16: large bergs between lats 50.40 and 49.30N, and lons 50.30W 51.20W"
+IOT,0,24.02,24.02,N,Ship,Unknown,Visual,50,-51.33333333,1941,1941,July,7/8/41,,Large,,,,,,,,,,,,,,,,,,,,,,"HB 2706 Jul 16: large bergs between lats 50.40 and 49.30N, and lons 50.30W 51.20W"
+IOT,1,22,22,N,Ship,Unknown,Visual,51.08333333,-50.66666667,1941,1941,July,7/9/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2706 Jul 16
+IOT,1,27.1,27.1,N,Ship,Unknown,Visual,52,-55.33333333,1941,1941,July,7/15/41,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 2707 Jul 23: numerous bergs & growlers in vicinity of Belle Isle [position approximate]
+IOT,1,27.2,27.2,N,Ship,Unknown,Visual,52,-55.33333333,1941,1941,July,7/15/41,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 2707 Jul 23: numerous bergs & growlers in vicinity of Belle Isle [position approximate]
+IOT,1,28,28,N,Ship,Unknown,Visual,51.71666667,-56.43333333,1941,1941,July,7/15/41,,Berg,15,,,,,,,,,,,,,,,,,,,,,HB 2707 Jul 23: 15 bergs in Red Bay
+IOT,1,29,29,N,Ship,Unknown,Visual,51.91666667,-54.83333333,1941,1941,July,7/15/41,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 2707 Jul 23: many bergs
+IOT,1,30,30,N,Ship,Unknown,Visual,52.5,-54.33333333,1941,1941,July,7/16/41,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 2707 Jul 23: 2 bergs ½ mile apart
+IOT,1,31,31,N,Ship,General Greene (IIP),Visual,49.5,-52.66666667,1941,1941,July,7/22/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2708 Jul 30
+IOT,1,32,32,N,Ship,General Greene (IIP),Visual,49.66666667,-52.66666667,1941,1941,July,7/22/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2708 Jul 30
+IOT,1,33,33,N,Ship,General Greene (IIP),Visual,49.75,-52.75,1941,1941,July,7/22/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2708 Jul 30
+IOT,1,34,34,N,Ship,General Greene (IIP),Visual,50,-52.75,1941,1941,July,7/22/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2708 Jul 30
+IOT,1,35.1,35.1,N,Miscellaneous,Belle Isle Lighthouse,Visual,51.95,-55.35,1941,1941,July,7/22/41,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 2708 Jul 30: numerous bergs & growlers in all directions
+IOT,1,35.2,35.2,N,Miscellaneous,Belle Isle Lighthouse,Visual,51.95,-55.35,1941,1941,July,7/22/41,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 2708 Jul 30: numerous bergs & growlers in all directions
+IOT,1,36,36,N,Ship,General Greene (IIP),Visual,50.38333333,-53.16666667,1941,1941,July,7/22/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2708 Jul 30
+IOT,1,37,37,N,Ship,General Greene (IIP),Visual,50.71666667,-53.21666667,1941,1941,July,7/22/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2708 Jul 30
+IOT,1,38,38,N,Ship,General Greene (IIP),Visual,51.21666667,-53.46666667,1941,1941,July,7/22/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2708 Jul 30
+IOT,1,39,39,N,Ship,General Greene (IIP),Visual,51.61666667,-53.75,1941,1941,July,7/22/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2708 Jul 30
+IOT,1,40,40,N,Ship,General Greene (IIP),Visual,51.66666667,-53.8,1941,1941,July,7/22/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2708 Jul 30
+IOT,1,41,41,N,Ship,General Greene (IIP),Visual,51.78333333,-53.91666667,1941,1941,July,7/22/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2708 Jul 30
+IOT,1,42,42,N,Ship,General Greene (IIP),Visual,51.88333333,-53.75,1941,1941,July,7/22/41,,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 2708 Jul 30: 3 bergs close together
+IOT,1,43,43,N,Miscellaneous,Belle Isle Lighthouse,Visual,51.71666667,-56.43333333,1941,1941,July,7/22/41,,Berg,7,,,,,,,,,,,,,,,,,,,,,HB 2708 Jul 30: 7 bergs in Red Bay
+IOT,1,1,1,N,Ship,Aurania,Visual,52.3,-54.58333333,1941,1941,July,7/23/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP iceberg report.  SICDB probably same berg that Aurania hit.
+IOT,1,44,44,N,Ship,General Greene (IIP),Visual,52.3,-54.13333333,1941,1941,July,7/23/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2708 Jul 30
+IOT,1,45,45,N,Ship,General Greene (IIP),Visual,52.33333333,-54.16666667,1941,1941,July,7/23/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2708 Jul 30
+IOT,1,46,46,N,Ship,General Greene (IIP),Visual,52.3,-54.36666667,1941,1941,July,7/23/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2708 Jul 30
+IOT,1,47,47,N,Ship,General Greene (IIP),Visual,52.4,-54.56666667,1941,1941,July,7/23/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2708 Jul 30
+IOT,1,48,48,N,Ship,General Greene (IIP),Visual,52.45,-54.6,1941,1941,July,7/23/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2708 Jul 30
+IOT,1,49,49,N,Ship,General Greene (IIP),Visual,52.46666667,-54.33333333,1941,1941,July,7/23/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2708 Jul 30
+IOT,1,50,50,N,Ship,General Greene (IIP),Visual,52.5,-54.4,1941,1941,July,7/23/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2708 Jul 30
+IOT,1,51,51,N,Ship,General Greene (IIP),Visual,52.58333333,-54.41666667,1941,1941,July,7/23/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2708 Jul 30
+IOT,1,52,52,N,Ship,General Greene (IIP),Visual,52.58333333,-54.33333333,1941,1941,July,7/23/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2708 Jul 30
+IOT,1,53,53,N,Miscellaneous,Belle Isle Lighthouse,Visual,51.95,-55.35,1941,1941,July,7/23/41,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 2708 Jul 30: numerous bergs in vicinity of Belle Isle
+IOT,1,54,54,N,Miscellaneous,Belle Isle Lighthouse,Visual,51.71666667,-56.43333333,1941,1941,July,7/23/41,,Berg,5,,,,,,,,,,,,,,,,,,,,,HB 2708 Jul 30: 5 bergs in Red Bay
+IOT,1,55,55,N,Ship,General Greene (IIP),Visual,53.16666667,-55,1941,1941,July,7/24/41,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 2708 Jul 30
+IOT,1,56.1,56.1,N,Ship,General Greene (IIP),Visual,53.43333333,-55.38333333,1941,1941,July,7/24/41,,Large,,,,,,1,,,,Pinnacle,,,55,E,,,,,,,,HB 2708 Jul 30: large berg with 180' spires; 15 growlers in vicinity
+IOT,1,56.2,56.2,N,Ship,General Greene (IIP),Visual,53.43333333,-55.38333333,1941,1941,July,7/24/41,,Growler,,15,,,,,,,,,,,,,,,,,,,,HB 2708 Jul 30: large berg with 180' spires; 15 growlers in vicinity
+IOT,1,57,57,N,Ship,General Greene (IIP),Visual,53.58333333,-55.61666667,1941,1941,July,7/24/41,,Small,,,,4,,,,,,,,,,,,,,,,,,HB 2708 Jul 30
+IOT,1,58,58,N,Ship,General Greene (IIP),Visual,53.65,-55.91666667,1941,1941,July,7/24/41,,Large,,,,,,15,,,,,,,,,,,,,,,,"HB 2708 Jul 30: 15 large bergs aground within a 5 mile radius of South Wolf Is., Lab."
+IOT,1,59,59,N,Ship,General Greene (IIP),Visual,53.85,-55.73333333,1941,1941,July,7/24/41,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 2708 Jul 30
+IOT,1,60,60,N,Ship,General Greene (IIP),Visual,53.86666667,-55.76666667,1941,1941,July,7/24/41,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 2708 Jul 30
+IOT,1,61,61,N,Ship,General Greene (IIP),Visual,53.83333333,-55.75,1941,1941,July,7/24/41,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 2708 Jul 30
+IOT,1,62,62,N,Ship,General Greene (IIP),Visual,54.06666667,-55.73333333,1941,1941,July,7/24/41,,Large,,,,,,3,,,,,,,,,,,,,,,,HB 2708 Jul 30
+IOT,1,63,63,N,Ship,Unknown,Visual,61.36666667,-54.35,1941,1941,July,7/28/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2708 Jul 30
+IOT,1,64,64,N,Ship,General Greene (IIP),Visual,59.13333333,-45,1941,1941,July,7/28/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2709 Aug 6
+IOT,1,65,65,N,Ship,General Greene (IIP),Visual,59.58333333,-44.15,1941,1941,July,7/29/41,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 2709 Aug 6
+IOT,1,66,66,N,Ship,General Greene (IIP),Visual,59.63333333,-43.91666667,1941,1941,July,7/29/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2709 Aug 6
+IOT,1,67,67,N,Ship,General Greene (IIP),Visual,59.48333333,-44,1941,1941,July,7/29/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2709 Aug 6
+IOT,1,68,68,N,Ship,General Greene (IIP),Visual,59.71666667,-43.91666667,1941,1941,July,7/29/41,,Berg,20,,,,,,,,,,,,,,,,,,,,,HB 2709 Aug 6: 20 bergs within 5 miles of C.Farewell
+IOT,1,69,69,N,Ship,General Greene (IIP),Visual,59,-45,1941,1941,July,7/30/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2709 Aug 6
+IOT,1,70.1,70.1,N,Ship,General Greene (IIP),Visual,51.71666667,-50.5,1941,1941,August,8/1/41,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 2709 Aug 6: large berg with numerous growlers
+IOT,1,70.2,70.2,N,Ship,General Greene (IIP),Visual,51.71666667,-50.5,1941,1941,August,8/1/41,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 2709 Aug 6: large berg with numerous growlers
+IOT,1,71,71,N,Ship,Unknown,Visual,49.5,-49.5,1941,1941,August,8/2/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2709 Aug 6
+IOT,1,75,75,N,Ship,Unknown,Visual,49.13333333,-58.48333333,1941,1941,August,8/17/41,,Small,,,,3,,,,,,,,,,,,,,,,,,HB 2713 Sep 3: 3 small bergs 2.6 miles off Lark Is.
+IOT,1,76,76,N,Ship,Unknown,Visual,51.91666667,-54.66666667,1941,1941,August,8/20/41,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 2713 Sep 3: large growlers
+IOT,1,72.1,72.1,N,Ship,Unknown,Visual,51.95,-55.35,1941,1941,August,8/22/41,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 2713 Sep 3: local ice, scattered bergs & growlers in the vicinity of Belle Isle"
+IOT,1,72.2,72.2,N,Ship,Unknown,Visual,51.95,-55.35,1941,1941,August,8/22/41,,Growler,,x,,,,,,,,,,,,,,,,,,,,"HB 2713 Sep 3: local ice, scattered bergs & growlers in the vicinity of Belle Isle"
+IOT,1,73,73,N,Ship,Unknown,Visual,51.71666667,-56.43333333,1941,1941,August,8/22/41,,Berg,5,,,,,,,,,,,,,,,,,,,,,HB 2713 Sep 3: 5 bergs in Red Bay
+IOT,1,74,74,N,Ship,Unknown,Visual,51.41666667,-56.86666667,1941,1941,August,8/22/41,,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 2713 Sep 3: 3 bergs off Pt.Amour
+IOT,1,77.1,77.1,N,Ship,Unknown,Visual,51.95,-55.35,1941,1941,August,8/30/41,,Berg,100,,,,,,,,,,,,,,,,,,,,,HB 2714 Sep 10: an observer reports that 100 to 150 bergs & growlers were encountered when approaching and passing through the Strait of Belleisle. [position approximate]
+IOT,1,77.2,77.2,N,Ship,Unknown,Visual,51.95,-55.35,1941,1941,August,8/30/41,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 2714 Sep 10: an observer reports that 100 to 150 bergs & growlers were encountered when approaching and passing through the Strait of Belleisle. [position approximate]
+IOT,1,78.11,78.11,N,Ship,Unknown,Visual,51.66666667,-55.9,1941,1941,August,8/31/41,,Berg,20,,,,,,,,,,,,,,,,,,,,,HB 2714 Sep 10: ~20 bergs & growlers between the vicinities of C.Norman & C.Bauld
+IOT,0,78.12,78.12,N,Ship,Unknown,Visual,51.66666667,-55.43333333,1941,1941,August,8/31/41,,Berg,,,,,,,,,,,,,,,,,,,,,,HB 2714 Sep 10: ~20 bergs & growlers between the vicinities of C.Norman & C.Bauld
+IOT,1,78.21,78.21,N,Ship,Unknown,Visual,51.66666667,-55.9,1941,1941,August,8/31/41,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 2714 Sep 10: ~20 bergs & growlers between the vicinities of C.Norman & C.Bauld
+IOT,0,78.22,78.22,N,Ship,Unknown,Visual,51.66666667,-55.43333333,1941,1941,August,8/31/41,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 2714 Sep 10: ~20 bergs & growlers between the vicinities of C.Norman & C.Bauld
+IOT,1,79,79,N,Ship,Unknown,Visual,52.45,-55.21666667,1941,1941,November,11/20/41,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 2725 Nov 26
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
