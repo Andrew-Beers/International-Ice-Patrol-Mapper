@@ -1,0 +1,251 @@
+data source,Flag,IIP #,Iceberg #,resight,sighting source,Vessel Name,sighting method,latitude,longitude,Ice Season,Year,Month,date,time,size,#bergs,#growlers,#Bergy Bits,Small,Medium,Large,Very Large,Ice Island,Unidentified,shape,length,length flag,height,height flag,width,width flag,draft,draft flag,mass,mass flag,drill site,Comments
+IOT,1,1,1,N,Unknown,Unknown,Visual,47.91666667,-52.6,1942,1942,February,2/17/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,2,2,N,Unknown,Unknown,Visual,47.81666667,-52.61666667,1942,1942,February,2/17/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,3,3,N,Unknown,Unknown,Visual,47.86666667,-52.66666667,1942,1942,February,2/17/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,4,4,N,Unknown,Unknown,Visual,48.4,-51.76666667,1942,1942,February,2/26/42,,Berg,2,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,5,5,N,Unknown,Unknown,Visual,47.66666667,-52.68333333,1942,1942,March,3/2/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,6,6,N,Unknown,Unknown,Visual,47.03333333,-52.4,1942,1942,March,3/2/42,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,7,7,N,Unknown,Unknown,Visual,48.71666667,-52.76666667,1942,1942,March,3/7/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,8,8,N,Unknown,Unknown,Visual,48.5,-52,1942,1942,March,3/9/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,9,9,N,Unknown,Unknown,Visual,48.33333333,-51.41666667,1942,1942,March,3/9/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,11,11,N,Unknown,Unknown,Visual,48,-52.83333333,1942,1942,March,3/10/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,12,12,N,Unknown,Unknown,Visual,67,-29,1942,1942,March,3/10/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,13.1,13.1,N,Unknown,Unknown,Visual,59,-50,1942,1942,March,3/10/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,13.2,13.2,N,Unknown,Unknown,Visual,59,-50,1942,1942,March,3/10/42,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,14.1,14.1,N,Unknown,Unknown,Visual,64.66666667,-52.75,1942,1942,March,3/10/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,14.2,14.2,N,Unknown,Unknown,Visual,64.66666667,-52.75,1942,1942,March,3/10/42,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,15,15,N,Unknown,Unknown,Visual,51.5,-56.5,1942,1942,March,3/11/42,,Berg,4,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,16,16,N,Unknown,Unknown,Visual,50,-56.5,1942,1942,March,3/11/42,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,17,17,N,Unknown,Unknown,Visual,47.38333333,-52.05,1942,1942,March,3/11/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,18,18,N,Unknown,Unknown,Visual,47.65,-52,1942,1942,March,3/12/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,19,19,N,Unknown,Unknown,Visual,47.66666667,-52.58333333,1942,1942,March,3/12/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,20,20,N,Unknown,Unknown,Visual,47.58333333,-52.18333333,1942,1942,March,3/13/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,21,21,N,Unknown,Unknown,Visual,47.5,-52,1942,1942,March,3/14/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,22,22,N,Unknown,Unknown,Visual,47.45,-52.28333333,1942,1942,March,3/14/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,23,23,N,Unknown,Unknown,Visual,46.78333333,-52.83333333,1942,1942,March,3/15/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,24,24,N,Unknown,Unknown,Visual,52,-55.5,1942,1942,March,3/15/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,25,25,N,Unknown,Unknown,Visual,46.75,-52.88333333,1942,1942,March,3/15/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,26,26,N,Unknown,Unknown,Visual,47.18333333,-52.56666667,1942,1942,March,3/15/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,27,27,N,Unknown,Unknown,Visual,47.41666667,-52,1942,1942,March,3/15/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,28,28,N,Unknown,Unknown,Visual,47.36666667,-52.05,1942,1942,March,3/15/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,29,29,N,Unknown,Unknown,Visual,47.2,-52.13333333,1942,1942,March,3/15/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,30,30,N,Unknown,Unknown,Visual,47.28333333,-52.33333333,1942,1942,March,3/15/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,31,31,N,Unknown,Unknown,Visual,46.66666667,-53.01666667,1942,1942,March,3/16/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,32,32,N,Unknown,Unknown,Visual,46.66666667,-52.58333333,1942,1942,March,3/16/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,33,33,N,Unknown,Unknown,Visual,47.58333333,-52.55,1942,1942,March,3/16/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,34,34,N,Unknown,Unknown,Visual,46.7,-53.03333333,1942,1942,March,3/16/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,35,35,N,Unknown,Unknown,Visual,47.91666667,-52.91666667,1942,1942,March,3/16/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,36,36,N,Unknown,Unknown,Visual,47.21666667,-52.78333333,1942,1942,March,3/16/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,37,37,N,Unknown,Unknown,Visual,47.71666667,-52.68333333,1942,1942,March,3/16/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,38,38,N,Unknown,Unknown,Visual,46.66666667,-52.91666667,1942,1942,March,3/16/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,39,39,N,Unknown,Unknown,Visual,47.2,-52.5,1942,1942,March,3/16/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,40,40,N,Unknown,Unknown,Visual,47.63333333,-52.6,1942,1942,March,3/17/42,,Growler,,1,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,41,41,N,Unknown,Unknown,Visual,46.65,-53,1942,1942,March,3/20/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,42,42,N,Unknown,Unknown,Visual,46.65,-53.03333333,1942,1942,March,3/22/42,,Small,,,,x,,,,,,,,,,,,,,,,,,IIP
+IOT,1,43,43,N,Unknown,Unknown,Visual,46.3,-52.93333333,1942,1942,March,3/22/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,44,44,N,Unknown,Unknown,Visual,46.65,-53.05,1942,1942,March,3/22/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,45,45,N,Unknown,Unknown,Visual,46.55,-53.53333333,1942,1942,March,3/22/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,46,46,N,Unknown,Unknown,Visual,46.65,-53.01666667,1942,1942,March,3/25/42,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP: Aground
+IOT,1,47,47,N,Unknown,Unknown,Visual,46.68333333,-53,1942,1942,March,3/25/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,48,48,N,Unknown,Unknown,Visual,46.95,-52.88333333,1942,1942,March,3/25/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,49.1,49.1,N,Unknown,Unknown,Visual,46.65,-53.01666667,1942,1942,March,3/28/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP: Aground, growlers in vicinity"
+IOT,1,49.2,49.2,N,Unknown,Unknown,Visual,46.65,-53.01666667,1942,1942,March,3/28/42,,Growler,,x,,,,,,,,,,,,,,,,,,,,"IIP: Aground, growlers in vicinity"
+IOT,1,50.1,50.1,N,Unknown,Unknown,Visual,43.7,-56.08333333,1942,1942,March,3/29/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: an unusual location given the year
+IOT,1,50.2,50.2,N,Unknown,Unknown,Visual,43.7,-56.08333333,1942,1942,March,3/29/42,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP: an unusual location given the year
+IOT,1,51,51,N,Unknown,Unknown,Visual,49.55,-53.95,1942,1942,March,3/29/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,52,52,N,Unknown,Unknown,Visual,46.63333333,-53.08333333,1942,1942,March,3/30/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Breaking up
+IOT,1,53,53,N,Unknown,Unknown,Visual,47.66666667,-52.71666667,1942,1942,March,3/30/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Grounded
+IOT,1,54,54,N,Unknown,Unknown,Visual,46.61666667,-53.46666667,1942,1942,April,4/5/42,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,55,55,N,Unknown,Unknown,Visual,48.71666667,-53.16666667,1942,1942,April,4/8/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,56,56,N,Unknown,Unknown,Visual,47.45,-52.41666667,1942,1942,April,4/8/42,,Berg,2,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,57,57,N,Unknown,Unknown,Visual,46.61666667,-53.33333333,1942,1942,April,4/9/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Trepassey Bay berg
+IOT,1,58,58,N,Unknown,Unknown,Visual,47,-52.55,1942,1942,April,4/9/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Aground
+IOT,1,59,57,Y,Unknown,Unknown,Visual,46.61666667,-53.33333333,1942,1942,April,4/10/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Trepassey Bay berg [likely resight of #57]
+IOT,1,60,60,N,Unknown,Unknown,Visual,47.38333333,-50.86666667,1942,1942,April,4/10/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,61,57,Y,Unknown,Unknown,Visual,46.61666667,-53.33333333,1942,1942,April,4/11/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Trepassey Bay berg [likely resight of #57]
+IOT,1,62,62,N,Unknown,Unknown,Visual,46.6,-53.3,1942,1942,April,4/11/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,63.01,63.01,N,Unknown,Unknown,Visual,55,-49,1942,1942,April,4/12/42,,Berg,2,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,0,63.02,63.02,N,Unknown,Unknown,Visual,56,-49,1942,1942,April,4/12/42,,Berg,,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,64,57,Y,Unknown,Unknown,Visual,46.61666667,-53.5,1942,1942,April,4/13/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Trepassey berg aground [likely resight of #57]
+IOT,1,65,65,N,Unknown,Unknown,Visual,49.75,-55,1942,1942,April,4/13/42,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,66.11,66.11,N,Unknown,Unknown,Visual,60.25,-45.5,1942,1942,April,4/13/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,0,66.12,66.12,N,Unknown,Unknown,Visual,59.66666667,-45.75,1942,1942,April,4/13/42,,Berg,,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,66.21,66.21,N,Unknown,Unknown,Visual,60.25,-45.5,1942,1942,April,4/13/42,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP
+IOT,0,66.22,66.22,N,Unknown,Unknown,Visual,59.66666667,-45.75,1942,1942,April,4/13/42,,Growler,,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,67,57,Y,Unknown,Unknown,Visual,46.61666667,-53.33333333,1942,1942,April,4/14/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Trepassey berg at mouth [likely resight of #57]
+IOT,1,68,68,N,Unknown,Unknown,Visual,50.21666667,-55.7,1942,1942,April,4/14/42,,Berg,2,,,,,,,,,,,,,,,,,,,,,"IIP: given position just on Horse Island, moved 1 minute east"
+IOT,1,69,69,N,Unknown,Unknown,Visual,50.7,-55.43333333,1942,1942,April,4/14/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,70,70,N,Unknown,Unknown,Visual,47.66666667,-52.86666667,1942,1942,April,4/14/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,71,71,N,Unknown,Unknown,Visual,51.63333333,-55.4,1942,1942,April,4/14/42,,Berg,3,,,,,,,,,,,,,,,,,,,,,"IIP: given position just on land, moved 1 muinute east"
+IOT,1,72,72,N,Unknown,Unknown,Visual,50.25,-57.63333333,1942,1942,April,4/14/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,73,57,Y,Unknown,Unknown,Visual,46.61666667,-53.33333333,1942,1942,April,4/15/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Trepassey berg at mouth [likely resight of #57]
+IOT,1,74,74,N,Unknown,Unknown,Visual,56.2,-49.53333333,1942,1942,April,4/17/42,,Berg,2,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,75,75,N,Unknown,Unknown,Visual,58.33333333,-49.41666667,1942,1942,April,4/17/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,76,57,Y,Unknown,Unknown,Visual,46.61666667,-53.33333333,1942,1942,April,4/19/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Trepassey Bay berg [likely resight of #57]
+IOT,1,77.1,77.1,N,Unknown,Unknown,Visual,60.66666667,-47.5,1942,1942,April,4/20/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,77.2,77.2,N,Unknown,Unknown,Visual,60.66666667,-47.5,1942,1942,April,4/20/42,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,78,57,Y,Unknown,Unknown,Visual,46.61666667,-53.33333333,1942,1942,April,4/21/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Trepassey Bay berg [likely resight of #57]
+IOT,1,79,79,N,Unknown,Unknown,Visual,46.51666667,-53.45,1942,1942,April,4/23/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,80,80,N,Unknown,Unknown,Visual,48.5,-53,1942,1942,April,4/24/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,81,81,N,Unknown,Unknown,Visual,48,-52.83333333,1942,1942,April,4/24/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,82,82,N,Unknown,Unknown,Visual,47.75,-53.08333333,1942,1942,April,4/24/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,83,57,Y,Unknown,Unknown,Visual,46.61666667,-53.33333333,1942,1942,April,4/24/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Trepassey Bay berg [likely resight of #57]
+IOT,1,199,199,N,Aircraft,DOT,Visual,49,-59.66666667,1942,1942,April,4/24/42,,Growler,,1,,,,,,,,,,,,,,,,,,,,Small growler (CIS IC0840_2)
+IOT,1,200,200,N,Aircraft,DOT,Visual,49,-60,1942,1942,April,4/24/42,,Growler,,1,,,,,,,,,,,,,,,,,,,,Small growler (CIS IC0840_2)
+IOT,1,84,57,Y,Unknown,Unknown,Visual,46.61666667,-53.5,1942,1942,April,4/25/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Trepassey Bay berg 1 mile inside C.Pine [likely resight of #57]
+IOT,1,85,85,N,Unknown,Unknown,Visual,48.5,-53.01666667,1942,1942,April,4/26/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,86,86,N,Unknown,Unknown,Visual,47.78333333,-53.13333333,1942,1942,April,4/26/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,87,87,N,Unknown,Unknown,Visual,60.5,-47,1942,1942,April,4/26/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP: Scattered bergs
+IOT,1,88,57,Y,Unknown,Unknown,Visual,46.61666667,-53.5,1942,1942,April,4/27/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Trepassey Bay berg 1 mile east C.Pine [likely resight of #57]
+IOT,1,89,57,Y,Unknown,Unknown,Visual,46.61666667,-53.5,1942,1942,April,4/28/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Trepassey Bay berg [likely resight of #57]
+IOT,1,201.1,201.1,N,Aircraft,DOT,Visual,48.95,-62.43333333,1942,1942,April,4/28/42,,Small,,,,1,,,,,,,,,,,,,,,,,,"Small berg and small growlers 10 miles SW South Point, Anticosti (CIS IC0749_4)"
+IOT,1,201.2,201.2,N,Aircraft,DOT,Visual,48.95,-62.43333333,1942,1942,April,4/28/42,,Growler,,x,,,,,,,,,,,,,,,,,,,,"Small berg and small growlers 10 miles SW South Point, Anticosti (CIS IC0749_4)"
+IOT,1,202.01,202.01,N,Aircraft,DOT,Visual,48,-62.16666667,1942,1942,April,4/28/42,,Growler,,x,,,,,,,,,,,,,,,,,,,,Several small growlers in this area dangerous to navigation (CIS IC0749_4)
+IOT,0,202.02,202.02,N,Aircraft,DOT,Visual,48.98333333,-61.7,1942,1942,April,4/28/42,,Growler,,,,,,,,,,,,,,,,,,,,,,Several small growlers in this area dangerous to navigation (CIS IC0749_4)
+IOT,0,202.03,202.03,N,Aircraft,DOT,Visual,48.75,-63.16666667,1942,1942,April,4/28/42,,Growler,,,,,,,,,,,,,,,,,,,,,,Several small growlers in this area dangerous to navigation (CIS IC0749_4)
+IOT,1,90,57,Y,Unknown,Unknown,Visual,46.61666667,-53.5,1942,1942,April,4/29/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Trepassey Bay berg [likely resight of #57]
+IOT,1,91,91,N,Unknown,Unknown,Visual,47.71666667,-52.7,1942,1942,April,4/29/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,92,92,N,Unknown,Unknown,Visual,48.13333333,-53.01666667,1942,1942,April,4/29/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,93,57,Y,Unknown,Unknown,Visual,46.61666667,-53.5,1942,1942,May,5/1/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Trepassey Bay berg [likely resight of #57]
+IOT,1,95,57,Y,Unknown,Unknown,Visual,46.61666667,-53.5,1942,1942,May,5/2/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Trepassey Bay berg [likely resight of #57]
+IOT,1,203,203,N,Aircraft,DOT,Visual,48.3,-61.66666667,1942,1942,May,5/2/42,,Growler,,2,,,,,,,,,,,,,,,,,,,,"CIS IC0794_2: 2 growlers. CIS IC0857: Westward of Table Head, Anticosti 3 growlers"
+IOT,1,96,96,N,Unknown,Unknown,Visual,55.5,-43.5,1942,1942,May,5/5/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,97,97,N,Unknown,Unknown,Visual,56,-42.5,1942,1942,May,5/5/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,98,98,N,Unknown,Unknown,Visual,51.5,-56.5,1942,1942,May,5/6/42,,Berg,3,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,99,99,N,Unknown,Unknown,Visual,47.6,-52.6,1942,1942,May,5/6/42,,Small,,,,3,,,,,,,,,,,,,,,,,,IIP
+IOT,1,100,100,N,Unknown,Unknown,Visual,49.1,-64.3,1942,1942,May,5/7/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,101,101,N,Unknown,Unknown,Visual,46.61666667,-53.33333333,1942,1942,May,5/7/42,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP: Trepassey Bay small berg
+IOT,1,102,102,N,Unknown,Unknown,Visual,52.36666667,-53,1942,1942,May,5/8/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,103,103,N,Unknown,Unknown,Visual,54.3,-53.36666667,1942,1942,May,5/8/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,104,104,N,Unknown,Unknown,Visual,54.83333333,-54.28333333,1942,1942,May,5/8/42,,Berg,6,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,105,105,N,Unknown,Unknown,Visual,51.66666667,-54.75,1942,1942,May,5/8/42,,Berg,5,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,106,106,N,Unknown,Unknown,Visual,48.93333333,-53.58333333,1942,1942,May,5/8/42,,Berg,12,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,205.01,205.01,N,Unknown,Unknown,Visual,53.66666667,-55.86666667,1942,1942,May,5/8/42,,Berg,40,,,,,,,,,,,,,,,,,,,,,IIP: South Wolf island to Venison Tickle 40 bergs
+IOT,0,205.02,205.02,N,Unknown,Unknown,Visual,52.96666667,-55.73333333,1942,1942,May,5/8/42,,Berg,,,,,,,,,,,,,,,,,,,,,,IIP: South Wolf island to Venison Tickle 40 bergs
+IOT,1,107,107,N,Unknown,Unknown,Visual,46.61666667,-53.33333333,1942,1942,May,5/9/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Trepassey Bay berg
+IOT,1,108,108,N,Unknown,Unknown,Visual,48.55,-62.78333333,1942,1942,May,5/10/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,109.01,109.01,N,Unknown,Unknown,Visual,60.66666667,-46.58333333,1942,1942,May,5/10/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP: Broken field ice and bergs
+IOT,0,109.02,109.02,N,Unknown,Unknown,Visual,60.73333333,-48.18333333,1942,1942,May,5/10/42,,Berg,,,,,,,,,,,,,,,,,,,,,,IIP: Broken field ice and bergs
+IOT,0,109.03,109.03,N,Unknown,Unknown,Visual,60.61666667,-48.18333333,1942,1942,May,5/10/42,,Berg,,,,,,,,,,,,,,,,,,,,,,IIP: Broken field ice and bergs
+IOT,1,110,110,N,Unknown,Unknown,Visual,60,-48,1942,1942,May,5/10/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP: Scattered bergs
+IOT,1,111,111,N,Unknown,Unknown,Visual,59.5,-48.3,1942,1942,May,5/10/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,112,112,N,Unknown,Unknown,Visual,58.78333333,-48.96666667,1942,1942,May,5/10/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,113,113,N,Unknown,Unknown,Visual,57,-48.5,1942,1942,May,5/10/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,114,114,N,Unknown,Unknown,Visual,49.58333333,-54,1942,1942,May,5/10/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP: Several
+IOT,1,115.1,115.1,N,Unknown,Unknown,Visual,60.8,-46.26666667,1942,1942,May,5/12/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,115.2,115.2,N,Unknown,Unknown,Visual,60.8,-46.26666667,1942,1942,May,5/12/42,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,116.1,116.1,N,Unknown,Unknown,Visual,61.21666667,-48.18333333,1942,1942,May,5/12/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,116.2,116.2,N,Unknown,Unknown,Visual,61.21666667,-48.18333333,1942,1942,May,5/12/42,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,117,117,N,Unknown,Unknown,Visual,46.61666667,-53.33333333,1942,1942,May,5/12/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Trepassey Bay berg
+IOT,1,118,118,N,Unknown,Unknown,Visual,47.65,-52.56666667,1942,1942,May,5/12/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,119,119,N,Unknown,Unknown,Visual,47.66666667,-52.7,1942,1942,May,5/13/42,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP: Growlers aground
+IOT,1,120,120,N,Unknown,Unknown,Visual,47.66666667,-52.71666667,1942,1942,May,5/13/42,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP: Growlers aground
+IOT,1,121,121,N,Unknown,Unknown,Visual,46.61666667,-53.33333333,1942,1942,May,5/13/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,122,122,N,Unknown,Unknown,Visual,47.65,-52.53333333,1942,1942,May,5/13/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,123,123,N,Unknown,Unknown,Visual,47.1,-52.7,1942,1942,May,5/14/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,124,124,N,Unknown,Unknown,Visual,46.61666667,-53.33333333,1942,1942,May,5/15/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Trepassey Bay berg
+IOT,1,125,125,N,Unknown,Unknown,Visual,50.55,-55.66666667,1942,1942,May,5/15/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP: Many bergs and floes
+IOT,1,126.1,126.1,N,Unknown,Unknown,Visual,51.5,-56.5,1942,1942,May,5/15/42,,Medium,,,,,x,,,,,,,,,,,,,,,,,IIP: Small medium bergs in south side (Strait of Belle Isle)
+IOT,1,126.2,126.2,N,Unknown,Unknown,Visual,51.5,-56.5,1942,1942,May,5/15/42,,Small,,,,x,,,,,,,,,,,,,,,,,,IIP: Small medium bergs in south side (Strait of Belle Isle)
+IOT,1,127,127,N,Unknown,Unknown,Visual,49.55,-53.73333333,1942,1942,May,5/16/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,128,128,N,Unknown,Unknown,Visual,47.66666667,-52.58333333,1942,1942,May,5/16/42,,Growler,,1,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,129,129,N,Unknown,Unknown,Visual,46.65,-53.35,1942,1942,May,5/17/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,130,130,N,Unknown,Unknown,Visual,47.25,-51.11666667,1942,1942,May,5/17/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,131,131,N,Unknown,Unknown,Visual,51.5,-56.5,1942,1942,May,5/21/42,,Small,,,,x,,,,,,,,,,,,,,,,,,IIP: Numerous scattered small bergs
+IOT,1,132,132,N,Unknown,Unknown,Visual,69.58333333,-22.2,1942,1942,May,5/21/42,,Berg,15,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,133.1,133.1,N,Unknown,Unknown,Visual,61.21666667,-48.18333333,1942,1942,May,5/23/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,"IIP: Usual bergs, growlers"
+IOT,1,133.2,133.2,N,Unknown,Unknown,Visual,61.21666667,-48.18333333,1942,1942,May,5/23/42,,Growler,,x,,,,,,,,,,,,,,,,,,,,"IIP: Usual bergs, growlers"
+IOT,1,134.1,134.1,N,Unknown,Unknown,Visual,60.8,-46.26666667,1942,1942,May,5/23/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,"IIP: Usual bergs, growlers"
+IOT,1,134.2,134.2,N,Unknown,Unknown,Visual,60.8,-46.26666667,1942,1942,May,5/23/42,,Growler,,x,,,,,,,,,,,,,,,,,,,,"IIP: Usual bergs, growlers"
+IOT,1,135.01,135.01,N,Unknown,Unknown,Visual,49.8,-53.61666667,1942,1942,May,5/26/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP: Many bergs
+IOT,0,135.02,135.02,N,Unknown,Unknown,Visual,49.8,-53.91666667,1942,1942,May,5/26/42,,Berg,,,,,,,,,,,,,,,,,,,,,,IIP: Many bergs
+IOT,0,135.03,135.03,N,Unknown,Unknown,Visual,49.58333333,-53.91666667,1942,1942,May,5/26/42,,Berg,,,,,,,,,,,,,,,,,,,,,,IIP: Many bergs
+IOT,0,135.04,135.04,N,Unknown,Unknown,Visual,49.58333333,-53.61666667,1942,1942,May,5/26/42,,Berg,,,,,,,,,,,,,,,,,,,,,,IIP: Many bergs
+IOT,0,135.05,135.05,N,Unknown,Unknown,Visual,49.8,-53.61666667,1942,1942,May,5/26/42,,Berg,,,,,,,,,,,,,,,,,,,,,,IIP: Many bergs
+IOT,1,136.01,136.01,N,Unknown,Unknown,Visual,49.58333333,-52.66666667,1942,1942,May,5/26/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP: Bergs and drift ice
+IOT,0,136.02,136.02,N,Unknown,Unknown,Visual,49.58333333,-53.66666667,1942,1942,May,5/26/42,,Berg,,,,,,,,,,,,,,,,,,,,,,IIP: Bergs and drift ice
+IOT,1,137,137,N,Unknown,Unknown,Visual,51.33333333,-57,1942,1942,May,5/26/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP: Bergs in channel and by north shore
+IOT,1,138,138,N,Unknown,Unknown,Visual,48.7,-52.83333333,1942,1942,May,5/31/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,139,139,N,Unknown,Unknown,Visual,48.38333333,-53.03333333,1942,1942,May,5/31/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,140,140,N,Unknown,Unknown,Visual,48.36666667,-53.13333333,1942,1942,May,5/31/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,141,141,N,Unknown,Unknown,Visual,48.2,-53,1942,1942,May,5/31/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,142,142,N,Unknown,Unknown,Visual,50,-56.53333333,1942,1942,June,6/2/42,,Berg,2,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,143,143,N,Unknown,Unknown,Visual,50.35,-59.66666667,1942,1942,June,6/2/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: given position with lat 50.51 is on land; perhaps 50.21N
+IOT,1,144,144,N,Unknown,Unknown,Visual,50.16666667,-59.95,1942,1942,June,6/2/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,145.01,145.01,N,Unknown,Unknown,Visual,50.46666667,-59.1,1942,1942,June,6/2/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP: Several
+IOT,0,145.02,145.02,N,Unknown,Unknown,Visual,51.16666667,-58.15,1942,1942,June,6/2/42,,Berg,,,,,,,,,,,,,,,,,,,,,,IIP: Several
+IOT,1,146,146,N,Unknown,Unknown,Visual,50,-56.53333333,1942,1942,June,6/3/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP: Pack and bergs
+IOT,1,147,147,N,Unknown,Unknown,Visual,51.5,-56.5,1942,1942,June,6/3/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP: Pack and bergs
+IOT,1,148,148,N,Unknown,Unknown,Visual,49.75,-55,1942,1942,June,6/10/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,149,149,N,Unknown,Unknown,Visual,49,-52.55,1942,1942,June,6/11/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,150,150,N,Unknown,Unknown,Visual,49.56666667,-53.81666667,1942,1942,June,6/13/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Aground
+IOT,1,151.11,151.11,N,Unknown,Unknown,Visual,49.66666667,-54,1942,1942,June,6/13/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,0,151.12,151.12,N,Unknown,Unknown,Visual,49.56666667,-53.85,1942,1942,June,6/13/42,,Berg,,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,151.21,151.21,N,Unknown,Unknown,Visual,49.66666667,-54,1942,1942,June,6/13/42,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP
+IOT,0,151.22,151.22,N,Unknown,Unknown,Visual,49.56666667,-53.85,1942,1942,June,6/13/42,,Growler,,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,152,152,N,Unknown,Unknown,Visual,51.2,-57.38333333,1942,1942,June,6/17/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,153,153,N,Unknown,Unknown,Visual,51.56666667,-56.53333333,1942,1942,June,6/17/42,,Berg,2,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,154,154,N,Unknown,Unknown,Visual,52,-55.2,1942,1942,June,6/17/42,,Berg,3,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,155,155,N,Unknown,Unknown,Visual,49.68333333,-54.91666667,1942,1942,June,6/17/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,156,156,N,Unknown,Unknown,Visual,51.66666667,-55.5,1942,1942,June,6/18/42,,Small,,,,x,,,,,,,,,,,,,,,,,,IIP: A few small bergs
+IOT,1,157,157,N,Unknown,Unknown,Visual,60,-67,1942,1942,June,6/18/42,,Small,,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,158,158,N,Unknown,Unknown,Visual,51.5,-56.5,1942,1942,June,6/19/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,159,159,N,Unknown,Unknown,Visual,49.75,-55,1942,1942,June,6/19/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP: Many bergs
+IOT,1,160,160,N,Unknown,Unknown,Visual,48.75,-53.5,1942,1942,June,6/22/42,,Berg,2,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,161,161,N,Unknown,Unknown,Visual,50.56666667,-58.63333333,1942,1942,June,6/23/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,162.1,162.1,N,Unknown,Unknown,Visual,49.75,-55,1942,1942,June,6/28/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP: Notre Dame Bay roughly 100 bergs and growlers
+IOT,1,162.2,162.2,N,Unknown,Unknown,Visual,49.75,-55,1942,1942,June,6/28/42,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP: Notre Dame Bay roughly 100 bergs and growlers
+IOT,1,163,163,N,Unknown,Unknown,Visual,49.5,-54.33333333,1942,1942,June,6/29/42,,Large,,,,,,x,,,,,,,,,,,,,,,,IIP: Large bergs
+IOT,1,164,164,N,Unknown,Unknown,Visual,49.53333333,-52.38333333,1942,1942,June,6/29/42,,Berg,4,,,,,,,,,,,,,,,,,,,,,IIP: [lat is given as an unlikely 40.32 in the tables and is not confiormed in the text. Likely 49.32N]
+IOT,1,165,165,N,Unknown,Unknown,Visual,53.83333333,-50.66666667,1942,1942,June,6/29/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,166,166,N,Unknown,Unknown,Visual,49.5,-52.5,1942,1942,June,6/29/42,,Berg,3,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,167.01,167.01,N,Unknown,Unknown,Visual,54.5,-52.5,1942,1942,June,6/30/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP: Many bergs
+IOT,0,167.02,167.02,N,Unknown,Unknown,Visual,53.33333333,-54,1942,1942,June,6/30/42,,Berg,,,,,,,,,,,,,,,,,,,,,,IIP: Many bergs
+IOT,1,168.1,168.1,N,Unknown,Unknown,Visual,60.66666667,-47,1942,1942,June,6/30/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP: Bergs and growlers
+IOT,1,168.2,168.2,N,Unknown,Unknown,Visual,60.66666667,-47,1942,1942,June,6/30/42,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP: Bergs and growlers
+IOT,1,169,169,N,Unknown,Unknown,Visual,54.5,-50.33333333,1942,1942,July,7/1/42,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,170,170,N,Unknown,Unknown,Visual,54,-50.56666667,1942,1942,July,7/1/42,,Berg,2,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,171,171,N,Unknown,Unknown,Visual,53.78333333,-50.66666667,1942,1942,July,7/1/42,,Small,,,,2,,,,,,,,,,,,,,,,,,IIP
+IOT,1,172,172,N,Unknown,Unknown,Visual,49.83333333,-53.83333333,1942,1942,July,7/1/42,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP
+IOT,1,173,173,N,Unknown,Unknown,Visual,49.75,-53.33333333,1942,1942,July,7/1/42,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,174.1,174.1,N,Unknown,Unknown,Visual,60.66666667,-47,1942,1942,July,7/3/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP: Bergs and growlers
+IOT,1,174.2,174.2,N,Unknown,Unknown,Visual,60.66666667,-47,1942,1942,July,7/3/42,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP: Bergs and growlers
+IOT,1,175,175,N,Unknown,Unknown,Visual,66.7,-23.05,1942,1942,July,7/7/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP: Berg with others nearby
+IOT,1,176,176,N,Unknown,Unknown,Visual,65.98333333,-24.33333333,1942,1942,July,7/21/42,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,177,177,N,Unknown,Unknown,Visual,65.66666667,-37.25,1942,1942,July,7/24/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP: Scattered bergs and pack ice
+IOT,1,178.1,178.1,N,Unknown,Unknown,Visual,65.93333333,-36.66666667,1942,1942,July,7/25/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,178.2,178.2,N,Unknown,Unknown,Visual,65.93333333,-36.66666667,1942,1942,July,7/25/42,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,179,179,N,Unknown,Unknown,Visual,49.75,-52.83333333,1942,1942,July,7/25/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,180,180,N,Unknown,Unknown,Visual,66.76666667,-24.66666667,1942,1942,August,8/18/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,181,181,N,Unknown,Unknown,Visual,65.03333333,-24.31666667,1942,1942,August,8/18/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,182,182,N,Unknown,Unknown,Visual,65.3,-25.51666667,1942,1942,August,8/18/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,183,183,N,Unknown,Unknown,Visual,74.6,-18,1942,1942,August,8/23/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP: Numerous bergs
+IOT,1,184,184,N,Unknown,Unknown,Visual,52.13333333,-55.3,1942,1942,August,8/28/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,185.01,185.01,N,Unknown,Unknown,Visual,55.16666667,-57.61666667,1942,1942,September,9/2/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP: Many bergs to 35 miles off coast from 55.10 57.37 northwestward
+IOT,0,185.02,185.02,N,Unknown,Unknown,Visual,54.91666667,-57.96666667,1942,1942,September,9/2/42,,Berg,,,,,,,,,,,,,,,,,,,,,,IIP: Many bergs to 35 miles off coast from 55.10 57.37 northwestward
+IOT,1,186,186,N,Unknown,Unknown,Visual,70.45,-22.06666667,1942,1942,September,9/8/42,,Berg,x,,,,,,,,,Pinnacle,,,,,,,,,,,,IIP: Pyramidy bergs
+IOT,1,187.01,187.01,N,Unknown,Unknown,Visual,67.36666667,-23.55,1942,1942,September,9/17/42,,Medium,,,,,x,,,,,,60,E,45,E,,,,,,,,"IIP: Bergs 150 feet high, 200 feet long"
+IOT,0,187.02,187.02,N,Unknown,Unknown,Visual,68.61666667,-24.13333333,1942,1942,September,9/17/42,,Medium,,,,,,,,,,,,,,,,,,,,,,"IIP: Bergs 150 feet high, 200 feet long"
+IOT,1,188,188,N,Unknown,Unknown,Visual,70.46666667,-21.96666667,1942,1942,September,9/23/42,,Berg,x,,,,,,,,,Pinnacle,,,,,,,,,,,,IIP
+IOT,1,189.01,189.01,N,Unknown,Unknown,Visual,68.43333333,-26.9,1942,1942,October,10/1/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP: Occasional bergs
+IOT,0,189.02,189.02,N,Unknown,Unknown,Visual,69.66666667,-23,1942,1942,October,10/1/42,,Berg,,,,,,,,,,,,,,,,,,,,,,IIP: Occasional bergs
+IOT,1,190,190,N,Unknown,Unknown,Visual,66.83333333,-24.58333333,1942,1942,October,10/1/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,191,191,N,Unknown,Unknown,Visual,68.35,-26.85,1942,1942,October,10/1/42,,Berg,5,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,192,192,N,Unknown,Unknown,Visual,54.15,-53.08333333,1942,1942,October,10/10/42,,Very Large,,,,,,,1,,,,,,,,,,,,,,,IIP
+IOT,1,193,193,N,Unknown,Unknown,Visual,49.96666667,-49.18333333,1942,1942,October,10/14/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,194,194,N,Unknown,Unknown,Visual,50.58333333,-47.61666667,1942,1942,October,10/14/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,195,195,N,Unknown,Unknown,Visual,67.1,-29.8,1942,1942,October,10/16/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,196,196,N,Unknown,Unknown,Visual,48.73333333,-50.36666667,1942,1942,October,10/18/42,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,197,197,N,Unknown,Unknown,Visual,67.2,-26.53333333,1942,1942,October,10/27/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,198.01,198.01,N,Unknown,Unknown,Visual,66.85,-32.75,1942,1942,November,11/29/42,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP: Packed drift with bergs
+IOT,0,198.02,198.02,N,Unknown,Unknown,Visual,66.96666667,-32.85,1942,1942,November,11/29/42,,Berg,,,,,,,,,,,,,,,,,,,,,,IIP: Packed drift with bergs
+IOT,0,198.03,198.03,N,Unknown,Unknown,Visual,67.11666667,-32.16666667,1942,1942,November,11/29/42,,Berg,,,,,,,,,,,,,,,,,,,,,,IIP: Packed drift with bergs
+IOT,0,198.04,198.04,N,Unknown,Unknown,Visual,66.98333333,-31.33333333,1942,1942,November,11/29/42,,Berg,,,,,,,,,,,,,,,,,,,,,,IIP: Packed drift with bergs
+IOT,0,198.05,198.05,N,Unknown,Unknown,Visual,66.85,-32.75,1942,1942,November,11/29/42,,Berg,,,,,,,,,,,,,,,,,,,,,,IIP: Packed drift with bergs
+IOT,1,204,204,N,Unknown,Unknown,Visual,59.83333333,-47.58333333,1942,1942,Dec,12/27/42,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP for 1943
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

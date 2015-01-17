@@ -1,0 +1,1123 @@
+data source,Flag,IIP #,Iceberg #,resight,sighting source,Vessel Name,sighting method,latitude,longitude,Ice Season,Year,Month,date,time,size,#bergs,#growlers,#Bergy Bits,Small,Medium,Large,Very Large,Ice Island,Unidentified,shape,length,length flag,height,height flag,width,width flag,draft,draft flag,mass,mass flag,drill site,Comments
+IOT,1,536,536,N,Ship,Westport (SS),Visual,48.41666667,-50.05,1925,1925,January,1/29/25,,Small,,,,3,,,,,,,,,,,,,,,,,,HB 1850 Feb 18: and a scattered field of slush ice
+IOT,1,537,537,N,Ship,Westport (SS),Visual,48.03333333,-50.21666667,1925,1925,January,1/29/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1850 Feb 18: large growlers
+IOT,1,538,538,N,Ship,Estonia (SS),Visual,47.5,-47.58333333,1925,1925,February,2/28/25,,Medium,,,,,1,,,,,,,,30,E,,,,,,,,HB 1858 Apr 15
+IOT,1,1,1,N,Miscellaneous,Cape Race Radio Station,Visual,47.46666667,-47.4,1925,1925,March,3/1/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1855 Mar 25: lon minutes slightly different"
+IOT,1,2,2,N,Miscellaneous,Cape Race Radio Station,Visual,48.75,-47.83333333,1925,1925,March,3/1/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,3,3,N,Ship,Coronia (SS),Visual,48.71666667,-48.83333333,1925,1925,March,3/2/25,,Berg,2,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1855 Mar 25"
+IOT,1,4,4,N,Miscellaneous,Cape Race Radio Station,Visual,48.28333333,-48.71666667,1925,1925,March,3/2/25,,Berg,2,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,5,5,N,Ship,Coronia (SS),Visual,47.83333333,-47,1925,1925,March,3/2/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1855 Mar 25"
+IOT,1,6,6,N,Ship,Coronia (SS),Visual,47.46666667,-47.4,1925,1925,March,3/2/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1855 Mar 25"
+IOT,1,7,7,N,Ship,Coronia (SS),Visual,46.28333333,-48.71666667,1925,1925,March,3/2/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1855 Mar 25"
+IOT,1,8,8,N,Miscellaneous,Cape Race Radio Station,Visual,48.28333333,-48.71666667,1925,1925,March,3/2/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,9,9,N,Miscellaneous,Cape Race Radio Station,Visual,48.71666667,-47.83333333,1925,1925,March,3/2/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,515,515,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1925,1925,March,3/4/25,,Growler,,4,,,,,,,,,,,,,,,,,,,,HB 1854 Mar 18 CSS
+IOT,1,10,10,N,Ship,Stockholm (SS),Visual,47.15,-47.03333333,1925,1925,March,3/12/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1855 Mar 25"
+IOT,1,11,11,N,Ship,Stockholm (SS),Visual,47.8,-45.73333333,1925,1925,March,3/12/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,12,12,N,Miscellaneous,Cape Race Radio Station,Visual,47.83333333,-47,1925,1925,March,3/13/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,514.1,514.1,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1925,1925,March,3/14/25,,Growler,,52,,,,,,,,,,,,,,,,,,,,HB 1855 Mar 25 CSS
+IOT,1,514.2,514.2,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1925,1925,March,3/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1855 Mar 25 CSS
+IOT,1,13,13,N,Miscellaneous,Cape Race Radio Station,Visual,49.18333333,-47.96666667,1925,1925,March,3/18/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,14,14,N,Miscellaneous,Cape Race Radio Station,Visual,47.8,-45.73333333,1925,1925,March,3/21/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,15,15,N,Miscellaneous,Cape Race Radio Station,Visual,50,-46.41666667,1925,1925,March,3/28/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,516,516,N,Miscellaneous,Flat Point,Visual,46.65,-60.35,1925,1925,March,3/28/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HH 28/03/1925 p26#5: Scattered growlers
+IOT,1,539.01,539.01,N,Ship,Tortugas (SS),Visual,47.46666667,-52.58333333,1925,1925,April,4/3/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1858 Apr 15: heavy slob ice and growlers
+IOT,1,16,16,N,Miscellaneous,Cape Race Radio Station,Visual,49.41666667,-50.38333333,1925,1925,April,4/4/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1858 Apr 15"
+IOT,0,539.02,539.02,N,Ship,Tortugas (SS),Visual,48.58333333,-50,1925,1925,April,4/4/25,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1858 Apr 15: heavy slob ice and growlers
+IOT,1,527,527,N,Miscellaneous,Flat Point,Visual,46.65,-60.35,1925,1925,April,4/6/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1858 Apr 15 CSS: Scattered growlers distant
+IOT,1,517,517,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1925,1925,April,4/7/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,"NYMR 15 Apr p. 12, col. 3"
+IOT,1,528,528,N,Miscellaneous,Flat Point,Visual,46.65,-60.35,1925,1925,April,4/7/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HH 09/04/1925 p16#4: Scattered growlers distant
+IOT,1,17,17,N,Ship,Drothningholm (SS),Visual,49.13333333,-48.41666667,1925,1925,April,4/8/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1858 Apr 15 has 49°N instead of IIP's 48°N
+IOT,1,18,18,N,Miscellaneous,Cape Race Radio Station,Visual,48.8,-49.46666667,1925,1925,April,4/9/25,,Small,,,,1,,,,,,,,,,,,,,,,,,"IIP, also HB 1858 Apr 15"
+IOT,1,19.1,19.1,N,Miscellaneous,Cape Race Radio Station,Visual,48.95,-49.28333333,1925,1925,April,4/9/25,,Small,,,,3,,,,,,,,,,,,,,,,,,"IIP, also HB 1858 Apr 15"
+IOT,1,19.2,19.2,N,Ship,Unknown,Visual,48.95,-49.28333333,1925,1925,April,4/9/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1858 Apr 15
+IOT,1,518,518,N,Miscellaneous,Cape Race Radio Station,Visual,48.75,-59.33333333,1925,1925,April,4/9/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HH 13/04/1925 p14#6
+IOT,1,540,540,N,Ship,Unknown,Visual,48.75,-49.33333333,1925,1925,April,4/9/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1858 Apr 15
+IOT,1,20,20,N,Miscellaneous,Cape Race Radio Station,Visual,48.91666667,-49.2,1925,1925,April,4/10/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1859 Apr 22"
+IOT,1,21,21,N,Miscellaneous,Cape Race Radio Station,Visual,48.75,-49.63333333,1925,1925,April,4/10/25,,Small,,,,2,,,,,,,,,,,,,,,,,,"IIP, also HB 1859 Apr 22 which states two small ones"
+IOT,1,22.1,2,Y,Ship,Modoc (IIP),Visual,48.66666667,-49.35,1925,1925,April,4/13/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1859 Apr 22"
+IOT,1,22.2,22.2,N,Ship,Modoc (IIP),Visual,48.66666667,-49.35,1925,1925,April,4/13/25,,Growler,,5,,,,,,,,,,,,,,,,,,,,"IIP, HB 1859 Apr 22"
+IOT,1,23,1,Y,Ship,Modoc (IIP),Visual,48.51666667,-49.21666667,1925,1925,April,4/14/25,,Small,,,,1,,,,,,,,,,,,,,,,,,"IIP, also HB 1859 Apr 22"
+IOT,1,24,2,Y,Ship,Modoc (IIP),Visual,48.68333333,-49.23333333,1925,1925,April,4/14/25,,Small,,,,1,,,,,,,,,,,,,,,,,,"IIP, also HB 1859 Apr 22"
+IOT,1,25,2,Y,Ship,Modoc (IIP),Visual,48.68333333,-49.16666667,1925,1925,April,4/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,26,26,N,Ship,Modoc (IIP),Visual,48.25,-49.63333333,1925,1925,April,4/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1859 Apr 22"
+IOT,1,27,27,N,Ship,Modoc (IIP),Visual,48.38333333,-49.83333333,1925,1925,April,4/14/25,,Small,,,,1,,,,,,,,,,,,,,,,,,"IIP, also HB 1859 Apr 22"
+IOT,1,28,28,N,Ship,Modoc (IIP),Visual,48.4,-49.91666667,1925,1925,April,4/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1859 Apr 22"
+IOT,1,529.01,529.01,N,Miscellaneous,International Ice Patrol,Visual,47.6,-59.28333333,1925,1925,April,4/14/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HH 15/04/1925 p32#5: A few scattered growlers
+IOT,0,529.02,529.02,N,Miscellaneous,International Ice Patrol,Visual,47.5,-59.28333333,1925,1925,April,4/14/25,,Growler,,,,,,,,,,,,,,,,,,,,,,HH 15/04/1925 p32#5 lat.minutes uncertain
+IOT,1,541,541,N,Ship,Modoc (IIP),Visual,48.48333333,-49.26666667,1925,1925,April,4/14/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1859 Apr 22
+IOT,1,542,542,N,Ship,Modoc (IIP),Visual,48.16666667,-49.08333333,1925,1925,April,4/14/25,,Growler,,7,,,,,,,,,,,,,,,,,,,,HB 1859 Apr 22: in vicinity
+IOT,1,29,29,N,Miscellaneous,Cape Race Radio Station,Visual,48.1,-49.61666667,1925,1925,April,4/16/25,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP. Several bergs; also HB 1860 Apr 29
+IOT,1,30,30,N,Miscellaneous,Cape Race Radio Station,Visual,47.83333333,-48.56666667,1925,1925,April,4/17/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1860 Apr 29"
+IOT,1,31,31,N,Miscellaneous,Cape Race Radio Station,Visual,49.41666667,-48.41666667,1925,1925,April,4/17/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,32,32,N,Miscellaneous,Cape Race Radio Station,Visual,49.83333333,-48.25,1925,1925,April,4/17/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,519,519,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1925,1925,April,4/17/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1860 Apr 29 CSS
+IOT,1,530.01,530.01,N,Ship,Mikula (CGS),Visual,47.83333333,-61.15,1925,1925,April,4/17/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1860 Apr 29 CSS
+IOT,0,530.02,530.02,N,Ship,Mikula (CGS),Visual,48.1,-61.31666667,1925,1925,April,4/17/25,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1860 Apr 29 CSS
+IOT,1,33,33,N,Ship,Modoc (IIP),Visual,48.13333333,-47.26666667,1925,1925,April,4/18/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1860 Apr 29"
+IOT,1,34,34,N,Miscellaneous,Cape Race Radio Station,Visual,48.78333333,-49.66666667,1925,1925,April,4/18/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1860 Apr 29"
+IOT,1,520,520,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1925,1925,April,4/20/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,"HB 1860 Apr 29 CSS: Some field ice, one berg"
+IOT,1,35,35,N,Ship,Modoc (IIP),Visual,47.7,-48.43333333,1925,1925,April,4/21/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1860 Apr 29"
+IOT,1,36,36,N,Ship,Modoc (IIP),Visual,47.83333333,-48.08333333,1925,1925,April,4/21/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1860 Apr 29"
+IOT,1,37,37,N,Ship,Modoc (IIP),Visual,47.78333333,-48.03333333,1925,1925,April,4/21/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1860 Apr 29"
+IOT,1,38,38,N,Ship,Modoc (IIP),Visual,47.98333333,-48.51666667,1925,1925,April,4/21/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1860 Apr 29"
+IOT,1,39,39,N,Ship,Modoc (IIP),Visual,48.16666667,-48.3,1925,1925,April,4/21/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,40,40,N,Ship,Modoc (IIP),Visual,48.11666667,-47.96666667,1925,1925,April,4/21/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1860 Apr 29"
+IOT,1,543,543,N,Ship,Modoc (IIP),Visual,48.18333333,-48.36666667,1925,1925,April,4/21/25,,Growler,,3,,,,,,,,,,,,,,,,,,,,HB 1860 Apr 29: in vicinity
+IOT,1,41,41,N,Ship,Blackheath (SS),Visual,49.86666667,-46.75,1925,1925,April,4/22/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,42,42,N,Ship,Blackheath (SS),Visual,49.56666667,-47.86666667,1925,1925,April,4/22/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1860 Apr 29"
+IOT,1,43,43,N,Ship,Blackheath (SS),Visual,49.63333333,-48.35,1925,1925,April,4/22/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1860 Apr 29"
+IOT,1,44,44,N,Ship,Blackheath (SS),Visual,49.43333333,-48.3,1925,1925,April,4/22/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1860 Apr 29"
+IOT,1,45,45,N,Ship,Blackheath (SS),Visual,49.4,-48.4,1925,1925,April,4/22/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1860 Apr 29"
+IOT,1,46,46,N,Ship,Blackheath (SS),Visual,49.86666667,-46.75,1925,1925,April,4/22/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1860 Apr 29"
+IOT,1,521,521,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1925,1925,April,4/22/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,"NYMR 29 Apr p. 13, cols. 2 & 5"
+IOT,1,544,544,N,Ship,Modoc (IIP),Visual,47.9,-47.48333333,1925,1925,April,4/22/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1860 Apr 29
+IOT,1,545.1,545.1,N,Ship,Modoc (IIP),Visual,47.86666667,-47.31666667,1925,1925,April,4/22/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1860 Apr 29
+IOT,1,545.2,545.2,N,Ship,Modoc (IIP),Visual,47.86666667,-47.31666667,1925,1925,April,4/22/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1860 Apr 29: in vicinity
+IOT,1,546.1,546.1,N,Ship,Modoc (IIP),Visual,47.18333333,-47.3,1925,1925,April,4/22/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1860 Apr 29
+IOT,1,546.2,546.2,N,Ship,Modoc (IIP),Visual,47.18333333,-47.3,1925,1925,April,4/22/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1860 Apr 29: several in vicinity
+IOT,1,47.1,47.1,N,Ship,Andania (SS),Visual,46.21666667,-47.26666667,1925,1925,April,4/24/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1861 May 6"
+IOT,1,47.2,47.2,N,Ship,Andania (SS),Visual,46.21666667,-47.26666667,1925,1925,April,4/24/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP. HB 1861 May 6: numerous bergs in vicinity
+IOT,1,522,522,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1925,1925,April,4/24/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1861 May 6 CSS
+IOT,1,548.1,548.1,N,Ship,Unknown,Visual,48.83333333,-48.55,1925,1925,April,4/24/25,,Berg,4,,,,,,,,,,,,,,,,,,,,,HB 1861 May 6: in vicinity
+IOT,1,548.2,548.2,N,Ship,Unknown,Visual,48.83333333,-48.55,1925,1925,April,4/24/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1861 May 6: several in vicinity
+IOT,1,523,523,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1925,1925,April,4/25/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1861 May 6 CSS
+IOT,1,48,48,N,Ship,Arabic (SS),Visual,46.88333333,-46.73333333,1925,1925,April,4/26/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1861 May 6"
+IOT,1,524,524,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1925,1925,April,4/26/25,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1861 May 6 CSS
+IOT,1,525,525,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1925,1925,April,4/27/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1861 May 6 CSS
+IOT,1,526,526,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1925,1925,April,4/27/25,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1861 May 6 CSS
+IOT,1,531,531,N,Ship,Manchester Regiment (SS),Visual,47.83333333,-61.15,1925,1925,April,4/27/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1861 May 6
+IOT,1,547.1,547.1,N,Ship,Manchester Regiment (SS),Visual,49.66666667,-45.33333333,1925,1925,April,4/27/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1861 May 6
+IOT,1,547.2,547.2,N,Ship,Manchester Regiment (SS),Visual,49.66666667,-45.33333333,1925,1925,April,4/27/25,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1861 May 6
+IOT,1,49,49,N,Ship,Gorm (SS),Visual,47.8,-50.55,1925,1925,April,4/28/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1861 May 6"
+IOT,1,50,50,N,Ship,Gorm (SS),Visual,47.8,-50.53333333,1925,1925,April,4/28/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1861 May 6"
+IOT,1,51,51,N,Ship,Gorm (SS),Visual,47.83333333,-50.51666667,1925,1925,April,4/28/25,,Small,,,,x,,,,,,,,,,,,,,,,,,"IIP, also HB 1861 May 6"
+IOT,1,52,52,N,Ship,Alchiba (SS),Visual,48.78333333,-48.23333333,1925,1925,April,4/28/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1861 May 6"
+IOT,1,549,549,N,Ship,Unknown,Visual,47.46666667,-51.26666667,1925,1925,April,4/28/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1861 May 6
+IOT,1,53,53,N,Ship,Alchiba (SS),Visual,47.33333333,-50.95,1925,1925,April,4/29/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1861 May 6: ten minutes lat different from IIP"
+IOT,1,54,54,N,Ship,Tampa (IIP),Visual,45.81666667,-46.85,1925,1925,April,4/29/25,,Small,,,,1,,,,,,,,,,,,,,,,,,"IIP, also HB 1861 May 6: disintegrating rapidly"
+IOT,1,55,55,N,Ship,Canadian Mariner (SS),Visual,47.18333333,-51.35,1925,1925,April,4/29/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1861 May 6"
+IOT,1,56,56,N,Ship,Marloch (SS),Visual,47,-47.78333333,1925,1925,April,4/29/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1861 May 6"
+IOT,1,57,57,N,Ship,Marloch (SS),Visual,46.78333333,-48.36666667,1925,1925,April,4/29/25,,Medium,,,,,2,,,,,,,,,,,,,,,,,IIP
+IOT,1,58,58,N,Ship,Regina (SS),Visual,46.78333333,-48.35,1925,1925,April,4/30/25,,Small,,,,1,,,,,,Pinnacle,46,E,15,E,,,,,,,,"IIP, also HB 1861 May 6. HB 1863 May 20: medium sized berg ~150' long & 50' high with a pinnacle at each end"
+IOT,1,59,59,N,Ship,Glentworth (SS),Visual,45.66666667,-47.2,1925,1925,April,4/30/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,60,60,N,Ship,Drothningholm (SS),Visual,45.66666667,-47.56666667,1925,1925,April,4/30/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,61,61,N,Ship,Letitia (SS),Visual,46.91666667,-47.58333333,1925,1925,April,4/30/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1861 May 6"
+IOT,1,62,62,N,Ship,Letitia (SS),Visual,46.81666667,-47.96666667,1925,1925,April,4/30/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1861 May 6"
+IOT,1,63,63,N,Ship,Cairnavon (SS),Visual,48.33333333,-48.85,1925,1925,April,4/30/25,,Small,,,,1,,,,,,,,,,,,,,,,,,"IIP, also HB 1861 May 6"
+IOT,1,64,64,N,Ship,Canadian Mariner (SS),Visual,48.63333333,-46.9,1925,1925,April,4/30/25,,Small,,,,1,,,,,,,,,,,,,,,,,,"IIP, also HB 1861 May 6"
+IOT,1,65,65,N,Ship,Canadian Mariner (SS),Visual,48.63333333,-46.88333333,1925,1925,April,4/30/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,66,66,N,Miscellaneous,Cape Race Radio Station,Visual,47.18333333,-51.35,1925,1925,April,4/30/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,67,67,N,Ship,Cairnavon (SS),Visual,47.96666667,-50.6,1925,1925,April,4/30/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,68,68,N,Ship,Cairnavon (SS),Visual,47.83333333,-50.8,1925,1925,April,4/30/25,,Berg,2,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,69,69,N,Ship,Cairnavon (SS),Visual,47.63333333,-51.13333333,1925,1925,April,4/30/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,70,70,N,Ship,Digby (SS),Visual,48.41666667,-49.01666667,1925,1925,April,4/30/25,,Small,,,,1,,,,,,,,,,,,,,,,,,"IIP, also HB 1862 May 13 & HB 1864 May 27"
+IOT,1,71,71,N,Ship,Digby (SS),Visual,48.28333333,-49.46666667,1925,1925,April,4/30/25,,Large,,,,,,2,,,,,,,,,,,,,,,,"IIP, also HB 1862 May 13 & HB 1864 May 27"
+IOT,1,72,72,N,Ship,Regina (SS),Visual,46.78333333,-48.35,1925,1925,April,4/30/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,532,532,N,Ship,Baron Elibank (SS),Visual,48,-61.35,1925,1925,April,4/30/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,"NYMR 6 May p. 13, cols. 2 & 5: Several detached growlers"
+IOT,1,550.1,550.1,N,Ship,Tampa (IIP),Visual,45.8,-46.96666667,1925,1925,April,4/30/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1861 May 6: in vicinity
+IOT,1,550.2,550.2,N,Ship,Tampa (IIP),Visual,45.8,-46.96666667,1925,1925,April,4/30/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1861 May 6: many in vicinity
+IOT,1,551,551,N,Ship,Unknown,Visual,45.63333333,-47.85,1925,1925,April,4/30/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1861 May 6
+IOT,1,552,552,N,Ship,Unknown,Visual,48.18333333,-50.18333333,1925,1925,April,4/30/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1861 May 6
+IOT,1,582,582,N,Ship,Digby (SS),Visual,48.63333333,-48.3,1925,1925,April,4/30/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1864 May 27
+IOT,1,583.01,583.01,N,Ship,Digby (SS),Visual,48.63333333,-48.3,1925,1925,April,4/30/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1864 May 27: numerous large & small growlers
+IOT,0,583.02,583.02,N,Ship,Digby (SS),Visual,48.3,-48.61666667,1925,1925,April,4/30/25,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1864 May 27: numerous large & small growlers
+IOT,1,584,584,N,Ship,Digby (SS),Visual,48.21666667,-49.75,1925,1925,April,4/30/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1864 May 27: large & small growlers
+IOT,1,585,585,N,Ship,Digby (SS),Visual,48.01666667,-50.65,1925,1925,April,4/30/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1864 May 27
+IOT,1,73,73,N,Miscellaneous,Cape Race Radio Station,Visual,47,-47.78333333,1925,1925,May,5/1/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,74,74,N,Miscellaneous,Cape Race Radio Station,Visual,48.78333333,-48.36666667,1925,1925,May,5/1/25,,Berg,2,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,75,75,N,Miscellaneous,Cape Race Radio Station,Visual,48.13333333,-51.55,1925,1925,May,5/1/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,76,76,N,Miscellaneous,Cape Race Radio Station,Visual,47.95,-52.51666667,1925,1925,May,5/1/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,77,77,N,Miscellaneous,Cape Race Radio Station,Visual,48,-52.26666667,1925,1925,May,5/1/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,78,78,N,Miscellaneous,Cape Race Radio Station,Visual,47.96666667,-50.6,1925,1925,May,5/1/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1862 May 13"
+IOT,1,79,79,N,Miscellaneous,Cape Race Radio Station,Visual,47.83333333,-50.8,1925,1925,May,5/1/25,,Large,,,,,,2,,,,,,,,,,,,,,,,"IIP, also HB 1862 May 13"
+IOT,1,80,80,N,Miscellaneous,Cape Race Radio Station,Visual,47.63333333,-51.13333333,1925,1925,May,5/1/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1862 May 13"
+IOT,1,81.1,81.1,N,Ship,Letitia (SS),Visual,46.7,-48.33333333,1925,1925,May,5/1/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1862 May 13"
+IOT,1,81.2,81.2,N,Ship,Letitia (SS),Visual,46.7,-48.33333333,1925,1925,May,5/1/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP. HB 1862 May 13: in vicinity
+IOT,1,82,82,N,Ship,Assyria (SS),Visual,45.08333333,-48.53333333,1925,1925,May,5/1/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1863 May 20: berg ~ 5 miles distant lying low in the water
+IOT,1,83,83,N,Ship,America (SS),Visual,47.63333333,-51.56666667,1925,1925,May,5/1/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,553,553,N,Ship,Imarloch (SS),Visual,47,-47.11666667,1925,1925,May,5/1/25,,Large,,,,,,x,,,,,,,,,,,,,,,,HB 1862 May 13. Possibly same report as 73 which may have errors
+IOT,1,554,554,N,Ship,Imarloch (SS),Visual,46.78333333,-48.36666667,1925,1925,May,5/1/25,,Medium,,,,,x,,,,,,,,,,,,,,,,,HB 1862 May 13. Possibly same report as 74 which may have errors
+IOT,1,555.1,555.1,N,Ship,Tampa (IIP),Visual,45.11666667,-48.51666667,1925,1925,May,5/1/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1861 May 6: disintegrating rapidly
+IOT,1,555.2,555.2,N,Ship,Tampa (IIP),Visual,45.11666667,-48.51666667,1925,1925,May,5/1/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1861 May 6: several growlers in vicinity
+IOT,1,586,586,N,Ship,Digby (SS),Visual,47.86666667,-51.41666667,1925,1925,May,5/1/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1864 May 27
+IOT,1,84,84,N,Ship,America (SS),Visual,47.8,-51.06666667,1925,1925,May,5/2/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1861 May 6
+IOT,1,85,85,N,Ship,America (SS),Visual,47.8,-50.96666667,1925,1925,May,5/2/25,,Large,,,,,,3,,,,,,,,,,,,,,,,IIP. HB 1861 May 6
+IOT,1,86,86,N,Ship,America (SS),Visual,47.75,-50.96666667,1925,1925,May,5/2/25,,Very Large,,,,,,,1,,,,,,,,,,,,,,,IIP. HB 1861 May 6
+IOT,1,87,87,N,Ship,Manchester Hero (SS),Visual,46.38333333,-47.71666667,1925,1925,May,5/2/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,88,88,N,Ship,Manchester Hero (SS),Visual,46.13333333,-48.58333333,1925,1925,May,5/2/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1861 May 6
+IOT,1,89,89,N,Ship,Concordia (SS),Visual,46.33333333,-47.83333333,1925,1925,May,5/2/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,90,90,N,Ship,Concordia (SS),Visual,46.48333333,-48.3,1925,1925,May,5/2/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP. HB 1861 May 6
+IOT,1,91,91,N,Ship,Canadian Hunter (SS),Visual,46.4,-47.83333333,1925,1925,May,5/2/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1861 May 6
+IOT,1,92,92,N,Miscellaneous,Cape Race Radio Station,Visual,46.61666667,-52.25,1925,1925,May,5/2/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1861 May 6
+IOT,1,93,93,N,Miscellaneous,Cape Race Radio Station,Visual,47.31666667,-52,1925,1925,May,5/2/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1861 May 6
+IOT,1,94,94,N,Miscellaneous,Cape Race Radio Station,Visual,47.51666667,-52.25,1925,1925,May,5/2/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,95,95,N,Miscellaneous,Cape Race Radio Station,Visual,46.38333333,-47.71666667,1925,1925,May,5/2/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,96,96,N,Miscellaneous,Cape Race Radio Station,Visual,46.3,-48.58333333,1925,1925,May,5/2/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,97,97,N,Ship,Assyria (SS),Visual,45.81666667,-51.66666667,1925,1925,May,5/2/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP. HB 1861 May 6. HB 1863 May 20
+IOT,1,98,98,N,Ship,Concordia (SS),Visual,46.36666667,-49,1925,1925,May,5/2/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP. HB 1861 May 6
+IOT,1,99,99,N,Ship,Fantee (SS),Visual,46.46666667,-48.38333333,1925,1925,May,5/2/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1861 May 6
+IOT,1,100,100,N,Ship,Bennendyk (SS),Visual,45.75,-47.78333333,1925,1925,May,5/2/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1861 May 6
+IOT,1,101,101,N,Ship,Corrigan Head (SS),Visual,45.83333333,-51.78333333,1925,1925,May,5/2/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,533.1,533.1,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1925,1925,May,5/2/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1862 May 13 CSS
+IOT,1,533.2,533.2,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1925,1925,May,5/2/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1862 May 13 CSS
+IOT,1,556.1,556.1,N,Ship,Tampa (IIP),Visual,45.11666667,-48.95,1925,1925,May,5/2/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1861 May 6
+IOT,1,556.2,556.2,N,Ship,Tampa (IIP),Visual,45.11666667,-48.95,1925,1925,May,5/2/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1861 May 6: several large growlers in vicinity
+IOT,1,563,563,N,Miscellaneous,Cape Race Radio Station,Visual,45.85,-51.8,1925,1925,May,5/2/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1863 May 20
+IOT,1,587,587,N,Ship,Vasconia (SS),Visual,46.46666667,-48.55,1925,1925,May,5/2/25,,Medium,,,,,1,,,,,Tabular,,,,,,,,,,,,HB 1864 May 27: medium flat-topped berg [perhaps same as #99]
+IOT,1,102,102,N,Miscellaneous,Cape Race Radio Station,Visual,45.85,-51.8,1925,1925,May,5/3/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,103,103,N,Ship,Ardenza (SS),Visual,48.06666667,-50.06666667,1925,1925,May,5/3/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,104,104,N,Ship,Sachem (SS),Visual,47.6,-52.48333333,1925,1925,May,5/3/25,,Small,,,,1,,,,,,,,,,,,,,,,,,"IIP,  also HB 1862 May 13 which states lon 52.03"
+IOT,1,105,105,N,Ship,Sachem (SS),Visual,47.65,-52.03333333,1925,1925,May,5/3/25,,Small,,,,1,,,,,,,,,,,,,,,,,,"IIP, also HB 1862 May 13"
+IOT,1,106,106,N,Ship,Sachem (SS),Visual,47.68333333,-51.76666667,1925,1925,May,5/3/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1862 May 13"
+IOT,1,107,107,N,Ship,Sachem (SS),Visual,47.63333333,-51.7,1925,1925,May,5/3/25,,Small,,,,1,,,,,,,,,,,,,,,,,,"IIP, also HB 1862 May 13 which probably erroneously gives a lat of 45.38"
+IOT,1,108,108,N,Ship,Sachem (SS),Visual,47.81666667,-51.5,1925,1925,May,5/3/25,,Small,,,,1,,,,,,,,,,,,,,,,,,"IIP, also HB 1862 May 13"
+IOT,1,109.1,109.1,N,Ship,Sachem (SS),Visual,47.73333333,-51.4,1925,1925,May,5/3/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1862 May 13"
+IOT,1,109.2,109.2,N,Ship,Sachem (SS),Visual,47.73333333,-51.4,1925,1925,May,5/3/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,"IIP, also HB 1862 May 13"
+IOT,1,109.3,109.3,N,Ship,Sachem (SS),Visual,47.73333333,-51.4,1925,1925,May,5/3/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP. HB 1862 May 13: numerous growlers in the vicinity
+IOT,1,110,110,N,Ship,Sachem (SS),Visual,47.83333333,-51.16666667,1925,1925,May,5/3/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,"IIP, also HB 1862 May 13"
+IOT,1,111,111,N,Ship,Sachem (SS),Visual,47.73333333,-51.01666667,1925,1925,May,5/3/25,,Small,,,,1,,,,,,,,,,,,,,,,,,"IIP, also HB 1862 May 13"
+IOT,1,112,112,N,Ship,Sachem (SS),Visual,47.75,-50.88333333,1925,1925,May,5/3/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1862 May 13"
+IOT,1,113,113,N,Ship,Sachem (SS),Visual,47.78333333,-50.65,1925,1925,May,5/3/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1862 May 13"
+IOT,1,114,114,N,Ship,Sachem (SS),Visual,47.91666667,-50.46666667,1925,1925,May,5/3/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1862 May 13"
+IOT,1,557.1,557.1,N,Ship,Tampa (IIP),Visual,44.4,-49.1,1925,1925,May,5/3/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1862 May 13
+IOT,1,557.2,557.2,N,Ship,Tampa (IIP),Visual,44.4,-49.1,1925,1925,May,5/3/25,,Growler,.,x,,,,,,,,,,,,,,,,,,,,HB 1862 May 13: several large growlers in vicinity
+IOT,1,564,564,N,Ship,Tyrifjord (SS),Visual,48.58333333,-47.23333333,1925,1925,May,5/3/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1863 May 20
+IOT,1,115,115,N,Miscellaneous,Cape Race Radio Station,Visual,46.8,-52,1925,1925,May,5/4/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,116,116,N,Miscellaneous,Cape Race Radio Station,Visual,46.83333333,-52.08333333,1925,1925,May,5/4/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,117,117,N,Miscellaneous,Cape Race Radio Station,Visual,46.46666667,-48.63333333,1925,1925,May,5/4/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP
+IOT,1,118,118,N,Ship,Bolingbroke (SS),Visual,46.38333333,-48,1925,1925,May,5/4/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1862 May 13"
+IOT,1,534,534,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1925,1925,May,5/4/25,,Berg,4,,,,,,,,,,,,,,,,,,,,,HB 1862 May 13 CSS
+IOT,1,558,557.1,Y,Ship,Tampa (IIP),Visual,44.45,-49.25,1925,1925,May,5/4/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1862 May 13
+IOT,1,565,565,N,Ship,Tyrifjord (SS),Visual,47.7,-49.41666667,1925,1925,May,5/4/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1863 May 20
+IOT,1,566.1,566.1,N,Ship,Tyrifjord (SS),Visual,47.61666667,-49.88333333,1925,1925,May,5/4/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1863 May 20
+IOT,1,566.2,566.2,N,Ship,Tyrifjord (SS),Visual,47.61666667,-49.88333333,1925,1925,May,5/4/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1863 May 20
+IOT,1,567,567,N,Ship,Tyrifjord (SS),Visual,47.41666667,-50.86666667,1925,1925,May,5/4/25,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1863 May 20
+IOT,1,568,568,N,Ship,Tyrifjord (SS),Visual,47.35,-50.51666667,1925,1925,May,5/4/25,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1863 May 20
+IOT,1,569,569,N,Ship,Tyrifjord (SS),Visual,46.58333333,-52,1925,1925,May,5/4/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1863 May 20
+IOT,1,559,557.1,Y,Ship,Tampa (IIP),Visual,44.4,-49.21666667,1925,1925,May,5/5/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1862 May 13: low-lying berg
+IOT,1,560,560,N,Ship,Unknown,Visual,45.53333333,-49.58333333,1925,1925,May,5/5/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1862 May 13
+IOT,1,570,570,N,Ship,Unknown,Visual,46.68333333,-48.38333333,1925,1925,May,5/5/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1863 May 20
+IOT,1,119,119,N,Ship,Montrose (SS),Visual,46.51666667,-48.38333333,1925,1925,May,5/6/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1862 May 13"
+IOT,1,120,120,N,Miscellaneous,Cape Race Radio Station,Visual,48.46666667,-46.95,1925,1925,May,5/6/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,121,121,N,Ship,Aurania (SS),Visual,46.2,-48.25,1925,1925,May,5/6/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1862 May 13"
+IOT,1,561,557.1,Y,Ship,Tampa (IIP),Visual,44.66666667,-49.28333333,1925,1925,May,5/6/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1862 May 13: in vicinity
+IOT,1,571,571,N,Ship,Unknown,Visual,49.51666667,-48.38333333,1925,1925,May,5/6/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1863 May 20
+IOT,1,595,595,N,Miscellaneous,Cape Race Radio Station,Visual,47.66666667,-47.83333333,1925,1925,May,5/6/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1864 May 27
+IOT,1,596,596,N,Miscellaneous,Cape Race Radio Station,Visual,49.58333333,-49.83333333,1925,1925,May,5/6/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1864 May 27
+IOT,1,122,122,N,Ship,Welshman (SS),Visual,46.21666667,-47.86666667,1925,1925,May,5/7/25,,Very Large,,,,,,,1,,,,,,,,,,,,,,,"IIP, 'also HB 1862 May 13"
+IOT,1,123,123,N,Ship,Saturnia (SS),Visual,46.53333333,-48.9,1925,1925,May,5/7/25,,Medium,,,,,x,,,,,,,,,,,,,,,,,IIP: Several medium bergs.  HB 1862 May 13: a berg
+IOT,1,124,124,N,Ship,Canadian Leader (SS),Visual,47.61666667,-49.45,1925,1925,May,5/7/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1862 May 13"
+IOT,1,125,125,N,Ship,Canadian Leader (SS),Visual,47.55,-49.53333333,1925,1925,May,5/7/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,126,126,N,Ship,Manchester Spinner (SS),Visual,46.36666667,-48.5,1925,1925,May,5/7/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,127,127,N,Ship,Manchester Spinner (SS),Visual,46.41666667,-48.63333333,1925,1925,May,5/7/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1862 May 13"
+IOT,1,128,128,N,Ship,Manchester Spinner (SS),Visual,46.31666667,-48.68333333,1925,1925,May,5/7/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1862 May 13"
+IOT,1,129,129,N,Ship,Silvia (SS),Visual,47.61666667,-52.65,1925,1925,May,5/7/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP & HB 1864 May 27: low-lying berg 1 mile E of Sugarloaf
+IOT,1,130,130,N,Ship,Silvia (SS),Visual,47.56666667,-52.56666667,1925,1925,May,5/7/25,,Small,,,,3,,,,,,,,,,,,,,,,,,IIP & HB 1864 May 27: 3 small bergs 3 - 7 miles E of St. John's
+IOT,1,131,131,N,Ship,Silvia (SS),Visual,47.43333333,-52.61666667,1925,1925,May,5/7/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP & HB 1864 May 27: 5 miles S of C.Spear
+IOT,1,132,132,N,Ship,Silvia (SS),Visual,47.46666667,-52.7,1925,1925,May,5/7/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP & HB 1864 May 27: grounded at Petty Harbour
+IOT,1,133.1,133.1,N,Ship,Silvia (SS),Visual,46.93333333,-52.88333333,1925,1925,May,5/7/25,,Large,,,,,,3,,,,,,,,,,,,,,,,IIP & HB 1864 May 27: 3 - 5 miles N of Bull Head
+IOT,1,133.2,133.2,N,Ship,Silvia (SS),Visual,46.93333333,-52.88333333,1925,1925,May,5/7/25,,Small,,,,2,,,,,,,,,,,,,,,,,,IIP & HB 1864 May 27: 3 - 5 miles N of Bull Head
+IOT,1,562,562,N,Ship,Unknown,Visual,47.61666667,-50.53333333,1925,1925,May,5/7/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1862 May 13
+IOT,1,134,134,N,Ship,Manchester Spinner (SS),Visual,46.93333333,-49.6,1925,1925,May,5/8/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,135,135,N,Ship,Manchester Spinner (SS),Visual,47.2,-50.03333333,1925,1925,May,5/8/25,,Large,,,,,,2,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,136,136,N,Ship,Manchester Spinner (SS),Visual,47.35,-50.58333333,1925,1925,May,5/8/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,137.01,137.01,N,Ship,Manchester Spinner (SS),Visual,47.81666667,-51.2,1925,1925,May,5/8/25,,Berg,15,,,,,,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,0,137.02,137.02,N,Ship,Manchester Spinner (SS),Visual,47.2,-51.28333333,1925,1925,May,5/8/25,,Berg,,,,,,,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,138,138,N,Ship,Moana (SS),Visual,48.3,-47.16666667,1925,1925,May,5/8/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP.  HB 1863 May 20: 9th
+IOT,1,139,139,N,Miscellaneous,Cape Race Radio Station,Visual,46.83333333,-52.26666667,1925,1925,May,5/8/25,,Medium,,,,,2,,,,,,,,,,,,,,,,,IIP & HB 1864 May 27.  HB 1863 May 20: 9th
+IOT,1,140.01,140.01,N,Miscellaneous,Cape Race Radio Station,Visual,47.66666667,-49.58333333,1925,1925,May,5/8/25,,Berg,x,,,,,,,,,,,,,,,,,,,,,IIP.  HB 1863 May 20: berg 9th
+IOT,0,140.02,140.02,N,Miscellaneous,Cape Race Radio Station,Visual,47.83333333,-49.83333333,1925,1925,May,5/8/25,,Berg,,,,,,,,,,,,,,,,,,,,,,IIP.  HB 1863 May 20: berg 9th
+IOT,1,141,141,N,Miscellaneous,Cape Race Radio Station,Visual,46.65,-52.28333333,1925,1925,May,5/8/25,,Berg,2,,,,,,,,,,,,,,,,,,,,,IIP & HB 1864 May 27: 2 bergs 32 [33] miles E of C.Race
+IOT,1,142,142,N,Miscellaneous,Cape Race Radio Station,Visual,48.78333333,-45.61666667,1925,1925,May,5/8/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP
+IOT,1,591,591,N,Miscellaneous,Cape Race Radio Station,Visual,47.2,-52.83333333,1925,1925,May,5/8/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1864 May 27: grounded at Tors Cove
+IOT,1,592,592,N,Miscellaneous,Cape Race Radio Station,Visual,47.23333333,-52.76666667,1925,1925,May,5/8/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1864 May 27: grounded south of Great Is.
+IOT,1,593,593,N,Miscellaneous,Cape Race Radio Station,Visual,46.88333333,-52.9,1925,1925,May,5/8/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1864 May 27: grounded at Renews
+IOT,1,594.1,594.1,N,Miscellaneous,Cape Race Radio Station,Visual,47.08333333,-52.9,1925,1925,May,5/8/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1864 May 27: at Broyle Harbour
+IOT,1,594.2,594.2,N,Miscellaneous,Cape Race Radio Station,Visual,47.08333333,-52.9,1925,1925,May,5/8/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1864 May 27: several growlers along the coast
+IOT,1,143,143,N,Ship,Riado (SS),Visual,47.75,-48.58333333,1925,1925,May,5/9/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP.  HB 1863 May 20
+IOT,1,144,144,N,Ship,Riado (SS),Visual,47.61666667,-49.05,1925,1925,May,5/9/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP.  HB 1863 May 20
+IOT,1,145,145,N,Ship,Riado (SS),Visual,47.41666667,-49.66666667,1925,1925,May,5/9/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP.  HB 1863 May 20
+IOT,1,146,146,N,Ship,Riobarado (SS),Visual,47.28333333,-50.48333333,1925,1925,May,5/9/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP.  HB 1863 May 20
+IOT,1,147,147,N,Ship,West Haven (SS),Visual,44.8,-48.7,1925,1925,May,5/9/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,148,148,N,Miscellaneous,Cape Race Radio Station,Visual,47.33333333,-49.66666667,1925,1925,May,5/9/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,588,588,N,Ship,West Haven (SS),Visual,45.05,-49.1,1925,1925,May,5/9/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1864 May 27: small snow covered berg
+IOT,1,149,149,N,Ship,Montauban (SS),Visual,47.58333333,-49.55,1925,1925,May,5/10/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,150,150,N,Ship,"""U.M.B"" (SS)",Visual,47.85,-48.68333333,1925,1925,May,5/10/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,151,151,N,Ship,"""U.M.B"" (SS)",Visual,47.58333333,-49.55,1925,1925,May,5/10/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,152,152,N,Ship,Grenas (SS),Visual,47.91666667,-47.8,1925,1925,May,5/10/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,153,153,N,Ship,Grenas (SS),Visual,47.7,-48.91666667,1925,1925,May,5/10/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,154,154,N,Ship,Grenas (SS),Visual,47.55,-49.31666667,1925,1925,May,5/10/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,155,155,N,Ship,Grenas (SS),Visual,47.38333333,-49.75,1925,1925,May,5/10/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,574.1,574.1,N,Ship,Modoc (IIP),Visual,44.83333333,-48.95,1925,1925,May,5/10/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1863 May 20: Lying along side large berg with numerous growlers in vicinity
+IOT,1,574.2,574.2,N,Ship,Modoc (IIP),Visual,44.83333333,-48.95,1925,1925,May,5/10/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1863 May 20: Lying along side large berg with numerous growlers in vicinity
+IOT,1,156,156,N,Ship,Commino (SS),Visual,46.7,-47.6,1925,1925,May,5/11/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,157,157,N,Ship,Montclare (SS),Visual,48.05,-48.3,1925,1925,May,5/11/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,158,158,N,Ship,Montclare (SS),Visual,48.31666667,-48.58333333,1925,1925,May,5/11/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,159,159,N,Ship,Montclare (SS),Visual,47.21666667,-50.8,1925,1925,May,5/11/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,160,160,N,Ship,Montclare (SS),Visual,47.48333333,-50.21666667,1925,1925,May,5/11/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,161,161,N,Ship,Montclare (SS),Visual,47.7,-49.6,1925,1925,May,5/11/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,162,162,N,Ship,Montclare (SS),Visual,47.66666667,-49.6,1925,1925,May,5/11/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,163,163,N,Ship,Montclare (SS),Visual,47.68333333,-49.41666667,1925,1925,May,5/11/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,164,164,N,Ship,Montclare (SS),Visual,47.88333333,-49.13333333,1925,1925,May,5/11/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,165,165,N,Ship,Montclare (SS),Visual,48.01666667,-48.75,1925,1925,May,5/11/25,,Large,,,,,,x,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,166,166,N,Ship,Letitia (SS),Visual,46.3,-48.01666667,1925,1925,May,5/11/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,167,167,N,Ship,Commino (SS),Visual,46.75,-48.58333333,1925,1925,May,5/11/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP
+IOT,1,168,168,N,Ship,Commino (SS),Visual,46.73333333,-48.71666667,1925,1925,May,5/11/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,169,169,N,Ship,Nieuw Amsterdam (SS),Visual,47.63333333,-47.6,1925,1925,May,5/11/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP: Amsterdam
+IOT,1,170,170,N,Ship,Nieuw Amsterdam (SS),Visual,46.63333333,-47.43333333,1925,1925,May,5/11/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP: Amsterdam. HB 1864 May 27
+IOT,1,171,171,N,Ship,Nieuw Amsterdam (SS),Visual,46.36666667,-47.86666667,1925,1925,May,5/11/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP: Amsterdam. HB 1863 May 20: 13th. HB 1864 May 27: 47.71W
+IOT,1,172,172,N,Ship,Reyburn (SS),Visual,46.35,-48.05,1925,1925,May,5/11/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,572,572,N,Miscellaneous,Belle Isle,Visual,51.91666667,-55.3,1925,1925,May,5/11/25,,Berg,7,,,,,,,,,,,,,,,,,,,,,HB 1863 May 20
+IOT,1,573,573,N,Miscellaneous,Belle Isle,Visual,51.91666667,-55.3,1925,1925,May,5/11/25,,Berg,4,,,,,,,,,,,,,,,,,,,,,HB 1863 May 20
+IOT,1,575,574.1,Y,Ship,Modoc (IIP),Visual,44.83333333,-48.83333333,1925,1925,May,5/11/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1863 May 20: Lying along side large berg
+IOT,1,576,576,N,Ship,Unknown,Visual,47.6,-47.41666667,1925,1925,May,5/11/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1863 May 20
+IOT,1,577,577,N,Ship,Unknown,Visual,47.26666667,-50.68333333,1925,1925,May,5/11/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1863 May 20
+IOT,1,589,589,N,Ship,Nieuw Amsterdam (SS),Visual,46.83333333,-47.43333333,1925,1925,May,5/11/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1864 May 27
+IOT,1,173,173,N,Ship,Batsford (SS),Visual,46.95,-47.43333333,1925,1925,May,5/12/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1835 May 20 but in 44.37N
+IOT,1,174,174,N,Miscellaneous,Cape Race Radio Station,Visual,46.68333333,-47.35,1925,1925,May,5/12/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,578,578,N,Ship,Unknown,Visual,44.61666667,-48.86666667,1925,1925,May,5/12/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1863 May 20: berg drifting slowly southward
+IOT,1,175,175,N,Ship,Pittsburgh (SS),Visual,46.45,-48.08333333,1925,1925,May,5/13/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,176,175,Y,Miscellaneous,Cape Race Radio Station,Visual,46.45,-48.08333333,1925,1925,May,5/13/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP: repeat of #176. HB 1863 May 20
+IOT,1,177,177,N,Ship,Lord Antoin (SS),Visual,47.33333333,-47,1925,1925,May,5/13/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1863 May 20: 47.20W
+IOT,1,178,178,N,Ship,Blydendyk (SS),Visual,46.48333333,-47.31666667,1925,1925,May,5/13/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP & HB 1863 May 20. HB 1864 May 27: large berg 90' high & clear white 46.30N 47.20W
+IOT,1,179,179,N,Ship,Blydendyk (SS),Visual,46.58333333,-47.31666667,1925,1925,May,5/13/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,180,180,N,Miscellaneous,Cape Race Radio Station,Visual,47.5,-50.55,1925,1925,May,5/13/25,,Medium,,,,,2,,,,,,,,,,,,,,,,,IIP
+IOT,1,590,590,N,Ship,Blydendyk (SS,Visual,46.46666667,-47.68333333,1925,1925,May,5/13/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1864 May 27
+IOT,1,597,597,N,Miscellaneous,Belle Isle,Visual,51.95,-55.3,1925,1925,May,5/13/25,,Berg,4,,,,,,,,,,,,,,,,,,,,,"HB 1864 May 27: string of ice moving E, 4 bergs"
+IOT,1,628,628,N,Ship,Turcoman (SS),Visual,47.71666667,-49.93333333,1925,1925,May,5/13/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,629.1,629.1,N,Ship,Turcoman (SS),Visual,47.48333333,-50.58333333,1925,1925,May,5/13/25,,Medium,,,,,2,,,,,,,,,,,,,,,,,HB 1866 Jun 10: 2 medium bergs & numerous growlers
+IOT,1,629.2,629.2,N,Ship,Turcoman (SS),Visual,47.48333333,-50.58333333,1925,1925,May,5/13/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10: 2 medium bergs & numerous growlers
+IOT,1,181,181,N,Ship,Turcoman (SS),Visual,47.93333333,-49.25,1925,1925,May,5/14/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP. HB 1863 May 20. HB 1866 Jun 10
+IOT,1,182,182,N,Ship,Turcoman (SS),Visual,48.11666667,-48.28333333,1925,1925,May,5/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP.HB 1863 May 20. HB 1866 Jun 10
+IOT,1,183,183,N,Ship,Turcoman (SS),Visual,48.13333333,-47.85,1925,1925,May,5/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1863 May 20. HB 1866 Jun 10
+IOT,1,184.1,184.1,N,Ship,Turcoman (SS),Visual,48.53333333,-47.26666667,1925,1925,May,5/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1863 May 20. HB 1866 Jun 10: large berg with numerous growlers
+IOT,1,184.2,184.2,N,Ship,Turcoman (SS),Visual,48.53333333,-47.26666667,1925,1925,May,5/14/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10: large berg with numerous growlers
+IOT,1,185,185,N,Ship,Kurdistan (SS),Visual,48.3,-49.2,1925,1925,May,5/14/25,,Large,,,,,,2,,,,,,,,,,,,,,,,IIP
+IOT,1,186,186,N,Ship,Kurdistan (SS),Visual,48.13333333,-49.43333333,1925,1925,May,5/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,187,187,N,Ship,Kurdistan (SS),Visual,47.88333333,-50.06666667,1925,1925,May,5/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1863 May 20: 47.50N
+IOT,1,188,188,N,Ship,Athenia (SS),Visual,48.78333333,-48.08333333,1925,1925,May,5/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,189,189,N,Ship,Doric (SS),Visual,47.18333333,-47.13333333,1925,1925,May,5/14/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP
+IOT,1,190,190,N,Ship,Athenia (SS),Visual,49.78333333,-44.98333333,1925,1925,May,5/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP.  HB 1863 May 20: 44.51W
+IOT,1,191,191,N,Ship,Cameronia (SS),Visual,47.2,-47.1,1925,1925,May,5/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1863 May 20: 47.15N
+IOT,1,192,192,N,Ship,Andania (SS),Visual,46.53333333,-47.35,1925,1925,May,5/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,193,193,N,Ship,Ansonia (SS),Visual,46.5,-47.63333333,1925,1925,May,5/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,194,194,N,Ship,Ansonia (SS),Visual,46.3,-47.9,1925,1925,May,5/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,195,195,N,Ship,Ansonia (SS),Visual,46.33333333,-48.38333333,1925,1925,May,5/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,196,196,N,Miscellaneous,Cape Race Radio Station,Visual,47.8,-50,1925,1925,May,5/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,197,190,Y,Miscellaneous,Cape Race Radio Station,Visual,49.78333333,-44.98333333,1925,1925,May,5/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP.  Repeat of #190.
+IOT,1,198,193,Y,Miscellaneous,Cape Race Radio Station,Visual,46.5,-47.63333333,1925,1925,May,5/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. Repeat of #193
+IOT,1,199,194,Y,Miscellaneous,Cape Race Radio Station,Visual,46.3,-47.9,1925,1925,May,5/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. Repeat of #194
+IOT,1,200,200,N,Miscellaneous,Cape Race Radio Station,Visual,46.33333333,-48.38333333,1925,1925,May,5/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,201,201,N,Ship,Athenia (SS),Visual,48.66666667,-48.45,1925,1925,May,5/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,202,202,N,Ship,Athenia (SS),Visual,48.3,-49.36666667,1925,1925,May,5/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,203,203,N,Ship,Athenia (SS),Visual,48.23333333,-49.48333333,1925,1925,May,5/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1863 May 20: 49.22W
+IOT,1,204,204,N,Ship,New Astor (SS),Visual,47.2,-49.3,1925,1925,May,5/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,205,205,N,Ship,Doric (SS),Visual,47.01666667,-48,1925,1925,May,5/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,206,206,N,Ship,Athenia (SS),Visual,47.91666667,-50,1925,1925,May,5/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1863 May 20: 47.35N
+IOT,1,207,207,N,Ship,Athenia (SS),Visual,47.75,-50.53333333,1925,1925,May,5/14/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,208,208,N,Ship,Bergsdale (SS),Visual,47.93333333,-47.1,1925,1925,May,5/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,209,209,N,Ship,Bergsdale (SS),Visual,47.58333333,-47.88333333,1925,1925,May,5/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,210,210,N,Ship,Bergsdale (SS),Visual,47.76666667,-48.05,1925,1925,May,5/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,211,211,N,Ship,Bergsdale (SS),Visual,47.5,-48.78333333,1925,1925,May,5/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,212,212,N,Ship,Bergsdale (SS),Visual,47.53333333,-48.86666667,1925,1925,May,5/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,213,213,N,Ship,Bergsdale (SS),Visual,47.51666667,-48.9,1925,1925,May,5/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,214,214,N,Ship,Bergsdale (SS),Visual,47.58333333,-48.95,1925,1925,May,5/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1863 May 20: 48.50W
+IOT,1,215,215,N,Miscellaneous,Cape Race Radio Station,Visual,47.93333333,-49.25,1925,1925,May,5/14/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP
+IOT,1,216,216,N,Miscellaneous,Cape Race Radio Station,Visual,48.11666667,-48.28333333,1925,1925,May,5/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,217,217,N,Miscellaneous,Cape Race Radio Station,Visual,48.13333333,-47.85,1925,1925,May,5/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,218,184,Y,Miscellaneous,Cape Race Radio Station,Visual,48.53333333,-47.26666667,1925,1925,May,5/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. Repeat of #184
+IOT,1,219,219,N,Miscellaneous,Cape Race Radio Station,Visual,47.85,-51.2,1925,1925,May,5/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1863 May 20
+IOT,1,220,220,N,Miscellaneous,Cape Race Radio Station,Visual,47.6,-51.71666667,1925,1925,May,5/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,221,206,Y,Miscellaneous,Cape Race Radio Station,Visual,47.91666667,-50,1925,1925,May,5/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. Repeat of #206
+IOT,1,222,222,N,Miscellaneous,Cape Race Radio Station,Visual,47.75,-50.53333333,1925,1925,May,5/14/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP
+IOT,1,579,579,N,Ship,Modoc (IIP),Visual,44.51666667,-48.38333333,1925,1925,May,5/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1863 May 20: near large berg
+IOT,1,580,580,N,Ship,Unknown,Visual,46.5,-47.5,1925,1925,May,5/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1863 May 20
+IOT,1,581,581,N,Ship,Unknown,Visual,47.35,-48.38333333,1925,1925,May,5/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1863 May 20
+IOT,1,598,598,N,Miscellaneous,Belle Isle,Visual,51.95,-55.3,1925,1925,May,5/14/25,,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 1864 May 27: patch of ice in straits; 3 bergs
+IOT,1,599,599,N,Miscellaneous,Belle Isle,Visual,51.95,-55.3,1925,1925,May,5/15/25,,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 1864 May 27: patch of ice in straits; 3 bergs
+IOT,1,601,579,Y,Ship,Modoc (IIP),Visual,44.53333333,-48.3,1925,1925,May,5/15/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1864 May 27: lying alongside large berg
+IOT,1,603,603,N,Ship,Unknown,Visual,47.96666667,-49.6,1925,1925,May,5/15/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1864 May 27
+IOT,1,223,223,N,Ship,Empress of Scotland (SS),Visual,47.58333333,-48.58333333,1925,1925,May,5/16/25,,Berg,3,,,,,,,,,,,,,,,,,,,,,IIP. HB 1864 May 27: a berg.
+IOT,1,224,224,N,Ship,Grainton (SS),Visual,48,-48.83333333,1925,1925,May,5/16/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,225,225,N,Miscellaneous,Cape Race Radio Station,Visual,49.16666667,-48.96666667,1925,1925,May,5/16/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1864 May 27: 15th.
+IOT,1,226,226,N,Miscellaneous,Cape Race Radio Station,Visual,49.13333333,-49.23333333,1925,1925,May,5/16/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1864 May 27: 15th.
+IOT,1,227,227,N,Miscellaneous,Cape Race Radio Station,Visual,49.11666667,-49.41666667,1925,1925,May,5/16/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP. HB 1864 May 27: 15th.
+IOT,1,228,228,N,Miscellaneous,Cape Race Radio Station,Visual,48.95,-49.65,1925,1925,May,5/16/25,,Small,,,,1,,,,,,,,,,,,,,,,,,"IIP. HB 1864 May 27: 15th., 48.51N"
+IOT,1,229,229,N,Miscellaneous,Cape Race Radio Station,Visual,48.88333333,-50.13333333,1925,1925,May,5/16/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1864 May 27: 15th.
+IOT,1,230,230,N,Miscellaneous,Cape Race Radio Station,Visual,48.61666667,-49.73333333,1925,1925,May,5/16/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,231,231,N,Miscellaneous,Cape Race Radio Station,Visual,48.65,-49.6,1925,1925,May,5/16/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,232,232,N,Miscellaneous,Cape Race Radio Station,Visual,48,-50.71666667,1925,1925,May,5/16/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1864 May 27: 15th.
+IOT,1,233,233,N,Miscellaneous,Cape Race Radio Station,Visual,48.1,-50.96666667,1925,1925,May,5/16/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1864 May 27: 15th.
+IOT,1,234,234,N,Miscellaneous,Cape Race Radio Station,Visual,47.96666667,-50.76666667,1925,1925,May,5/16/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1864 May 27: 15th.
+IOT,1,235,235,N,Miscellaneous,Cape Race Radio Station,Visual,48.11666667,-49.68333333,1925,1925,May,5/16/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP. HB 1864 May 27: 15th.
+IOT,1,236,236,N,Ship,Empress of Scotland (SS),Visual,47.5,-47.85,1925,1925,May,5/16/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,237,237,N,Ship,Empress of Scotland (SS),Visual,47.55,-47.61666667,1925,1925,May,5/16/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,238,238,N,Ship,Grainton (SS),Visual,48.01666667,-49.21666667,1925,1925,May,5/16/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,239,239,N,Ship,Johanne Dybward (SS),Visual,48.2,-49.81666667,1925,1925,May,5/16/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,602,602,N,Ship,Unknown,Visual,47.66666667,-47.21666667,1925,1925,May,5/16/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1864 May 27
+IOT,1,675,675,N,Ship,Gudrun Maersk,Visual,50.3,-45.65,1925,1925,May,5/16/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17. #s 675 & 676 consecutive dates of May 16 & Jun 17; unsure if correct
+IOT,1,600,600,N,Miscellaneous,Belle Isle,Visual,51.95,-55.3,1925,1925,May,5/17/25,,Berg,5,,,,,,,,,,,,,,,,,,,,,"HB 1864 May 27: strings of ice in straits, 5 bergs"
+IOT,1,240,243,Y,Miscellaneous,Cape Race Radio Station,Visual,48.11666667,-49.35,1925,1925,May,5/18/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. Repeat of #243
+IOT,1,241,241,N,Ship,Zwartee Zee (SS_,Visual,45.96666667,-47.6,1925,1925,May,5/18/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,242,242,N,Ship,Emanuel Stavarondis (SS),Visual,47.16666667,-49.58333333,1925,1925,May,5/18/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,243,243,N,Ship,Montrose (SS),Visual,48.11666667,-49.35,1925,1925,May,5/18/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,244,244,N,Ship,Admiral Hamilton (SS),Visual,47.55,-50.85,1925,1925,May,5/18/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,245,245,N,Ship,Montrose (SS),Visual,48.55,-47.66666667,1925,1925,May,5/18/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,246,246,N,Ship,Lancastria (SS),Visual,47.96666667,-49.41666667,1925,1925,May,5/18/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,247,247,N,Ship,Baron Garioch (SS),Visual,45.13333333,-48.75,1925,1925,May,5/18/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1864 May 27: 19th
+IOT,1,248,248,N,Ship,Salacia (SS),Visual,48.28333333,-48.86666667,1925,1925,May,5/18/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,604.1,579,Y,Ship,Modoc (IIP),Visual,44.36666667,-48.46666667,1925,1925,May,5/18/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"HB 1864 May 27: lying near berg [probable #579], many growlers in vicinity"
+IOT,1,604.2,604.2,N,Ship,Modoc (IIP),Visual,44.36666667,-48.46666667,1925,1925,May,5/18/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,"HB 1864 May 27: lying near berg, many growlers in vicinity"
+IOT,1,605,605,N,Ship,Unknown,Visual,47.58333333,-51.26666667,1925,1925,May,5/18/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1864 May 27
+IOT,1,249,249,N,Ship,Lancastria (SS),Visual,48.55,-46.66666667,1925,1925,May,5/19/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,250,250,N,Ship,Emanuel Stavarondis (SS),Visual,47.91666667,-46.16666667,1925,1925,May,5/19/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,251,251,N,Ship,Christina (SS),Visual,47.5,-48.33333333,1925,1925,May,5/19/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,252.01,252.01,N,Ship,Christina (SS),Visual,47.58333333,-49.13333333,1925,1925,May,5/19/25,,Berg,3,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,0,252.02,252.02,N,Ship,Christina (SS),Visual,49.13333333,-49.03333333,1925,1925,May,5/19/25,,Berg,,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,253,253,N,Ship,Garioch (SS),Visual,45.41666667,-48.53333333,1925,1925,May,5/19/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,254,254,N,Ship,Garioch (SS),Visual,45.96666667,-47.85,1925,1925,May,5/19/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,255,255,N,Ship,Bothwell (SS),Visual,46.5,-47.26666667,1925,1925,May,5/19/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,256,256,N,Ship,Bothwell (SS),Visual,46.48333333,-48,1925,1925,May,5/19/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,257,257,N,Ship,Black Heath (SS),Visual,48.91666667,-50.58333333,1925,1925,May,5/19/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,258,258,N,Ship,Manchester Hero (SS),Visual,47.53333333,-49.13333333,1925,1925,May,5/19/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,259,259,N,Ship,Manchester Hero (SS),Visual,47.56666667,-49.08333333,1925,1925,May,5/19/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,260,260,N,Ship,Manchester Hero (SS),Visual,47.58333333,-49.03333333,1925,1925,May,5/19/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,261,261,N,Ship,Admiral Hamilton (SS),Visual,48.36666667,-48.75,1925,1925,May,5/19/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,262,262,N,Ship,Canada (SS),Visual,47.7,-49.63333333,1925,1925,May,5/19/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,263,263,N,Ship,Canada (SS),Visual,47.68333333,-49.55,1925,1925,May,5/19/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP
+IOT,1,264,264,N,Ship,Canada (SS),Visual,47.58333333,-49.35,1925,1925,May,5/19/25,,Large,,,,,,3,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,265,265,N,Ship,Canada (SS),Visual,47.68333333,-49.63333333,1925,1925,May,5/19/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP
+IOT,1,266,266,N,Ship,Canada (SS),Visual,47.75,-49.35,1925,1925,May,5/19/25,,Very Large,,,,,,,1,,,,,,,,,,,,,,,IIP
+IOT,1,267,267,N,Ship,Lancastria (SS),Visual,48.55,-46.66666667,1925,1925,May,5/19/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,268,268,N,Ship,Glentworth (SS),Visual,47.61666667,-49.33333333,1925,1925,May,5/19/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,269,269,N,Ship,Glentworth (SS),Visual,47.58333333,-49.43333333,1925,1925,May,5/19/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,270,270,N,Ship,Glentworth (SS),Visual,47.68333333,-49.31666667,1925,1925,May,5/19/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,271,271,N,Ship,Concordia (SS),Visual,47.66666667,-50.61666667,1925,1925,May,5/19/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP
+IOT,1,272,272,N,Ship,Black Heath (SS),Visual,48.7,-51,1925,1925,May,5/19/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,273,273,N,Ship,Black Heath (SS),Visual,48.41666667,-51.06666667,1925,1925,May,5/19/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1864 May 27: 20th
+IOT,1,274,274,N,Ship,Black Heath (SS),Visual,48.33333333,-51.58333333,1925,1925,May,5/19/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1864 May 27: 20th
+IOT,1,275,275,N,Ship,Black Heath (SS),Visual,48.4,-51.58333333,1925,1925,May,5/19/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,276,276,N,Ship,Black Heath (SS),Visual,48.4,-51.66666667,1925,1925,May,5/19/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,277,277,N,Ship,Aval (SS),Visual,47.43333333,-47.5,1925,1925,May,5/19/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,278,278,N,Ship,Aval (SS),Visual,47.5,-47.83333333,1925,1925,May,5/19/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,279,279,N,Miscellaneous,Cape Race Radio Station,Visual,48.6,-49.25,1925,1925,May,5/19/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP
+IOT,1,280,280,N,Miscellaneous,Cape Race Radio Station,Visual,47.56666667,-49.08333333,1925,1925,May,5/19/25,,Very Large,,,,,,,1,,,,,,,,,,,,,,,IIP
+IOT,1,606,579,Y,Ship,Modoc (IIP),Visual,44.55,-48.2,1925,1925,May,5/19/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1864 May 27. [probable resight of #579]
+IOT,1,607,607,N,Ship,Unknown,Visual,47.93333333,-49.08333333,1925,1925,May,5/19/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1864 May 27
+IOT,1,630,630,N,Ship,Trondhjemsfjord (SS),Visual,48.76666667,-49.23333333,1925,1925,May,5/19/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,631,631,N,Ship,Trondhjemsfjord (SS),Visual,48.28333333,-49.7,1925,1925,May,5/19/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,281,281,N,Miscellaneous,Cape Race Radio Station,Visual,48.31666667,-49.55,1925,1925,May,5/20/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,282,282,N,Miscellaneous,Cape Race Radio Station,Visual,48.41666667,-49.33333333,1925,1925,May,5/20/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,283,283,N,Ship,Aurania (SS),Visual,48.36666667,-48.41666667,1925,1925,May,5/20/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,284,284,N,Ship,Cornishman (SS),Visual,48,-49.21666667,1925,1925,May,5/20/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,285,285,N,Ship,Cornishman (SS),Visual,48.06666667,-49,1925,1925,May,5/20/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,286,286,N,Ship,Cornishman (SS),Visual,48.06666667,-48.7,1925,1925,May,5/20/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1864 May 27: 48.04N
+IOT,1,287,287,N,Ship,Cornishman (SS),Visual,48.15,-48.53333333,1925,1925,May,5/20/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,288,288,N,Ship,Cornishman (SS),Visual,48.2,-48.3,1925,1925,May,5/20/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,289,289,N,Ship,Carrigan Head (SS),Visual,47.43333333,-49.43333333,1925,1925,May,5/20/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1864 May 27: 47.46N
+IOT,1,290,290,N,Ship,Carrigan Head (SS),Visual,48.01666667,-48.2,1925,1925,May,5/20/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,291,291,N,Ship,Carrigan Head (SS),Visual,48.06666667,-49.06666667,1925,1925,May,5/20/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,292,292,N,Ship,Carrigan Head (SS),Visual,48.01666667,-48.78333333,1925,1925,May,5/20/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1864 May 27: 48.10N
+IOT,1,293,293,N,Ship,Carrigan Head (SS),Visual,48.18333333,-48.51666667,1925,1925,May,5/20/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,294,294,N,Ship,Sirrah (SS),Visual,49.55,-49.63333333,1925,1925,May,5/20/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,295,295,N,Ship,Sirrah (SS),Visual,47.63333333,-49.28333333,1925,1925,May,5/20/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,296,296,N,Ship,Sirrah (SS),Visual,47.51666667,-49.05,1925,1925,May,5/20/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,297,297,N,Ship,Megantic (SS),Visual,47.76666667,-49.71666667,1925,1925,May,5/20/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,298,298,N,Ship,Megantic (SS),Visual,47.73333333,-49.08333333,1925,1925,May,5/20/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,299,299,N,Ship,Megantic (SS),Visual,47.76666667,-49.25,1925,1925,May,5/20/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,300,300,N,Ship,Celtic (SS),Visual,47.55,-49.56666667,1925,1925,May,5/20/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1864 May 27: 49.38W
+IOT,1,608,579,Y,Ship,Modoc (IIP),Visual,44.81666667,-48.65,1925,1925,May,5/20/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1864 May 27: lying near berg [probable #579]
+IOT,1,609,609,N,Ship,Unknown,Visual,48.15,-47.83333333,1925,1925,May,5/20/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1864 May 27
+IOT,1,610,610,N,Ship,Unknown,Visual,48.66666667,-50.61666667,1925,1925,May,5/20/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1864 May 27
+IOT,1,632,632,N,Ship,Colonian (SS),Visual,48.88333333,-46.45,1925,1925,May,5/20/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,633.1,633.1,N,Ship,Colonian (SS),Visual,48.26666667,-47.6,1925,1925,May,5/20/25,,Large,,,,,,2,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,633.2,633.2,N,Ship,Colonian (SS),Visual,48.26666667,-47.6,1925,1925,May,5/20/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,634,634,N,Ship,Colonian (SS),Visual,48.26666667,-47.75,1925,1925,May,5/20/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,301,301,N,Ship,Montreal (SS),Visual,48.5,-48.3,1925,1925,May,5/21/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,302,302,N,Miscellaneous,Cape Race Radio Station,Visual,47.23333333,-52.56666667,1925,1925,May,5/21/25,,Medium,,,,,1,,,,,,102,E,43,E,,,,,,,,IIP: very large berg. HB 1870 Jul 8: large berg ~140' high & 335 long.
+IOT,1,303,303,N,Ship,Montreal (SS),Visual,48.75,-48.35,1925,1925,May,5/21/25,,Very Large,,,,,,,1,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,304,304,N,Miscellaneous,Cape Race Radio Station,Visual,47.11666667,-52.66666667,1925,1925,May,5/21/25,,Growler,,2,,,,,,,,,,,,,,,,,,,,IIP: growlers 52.00W. HB 1870 Jul 8
+IOT,1,305,305,N,Ship,Mabeldis (SS),Visual,44.66666667,-47.83333333,1925,1925,May,5/21/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,306,306,N,Miscellaneous,Cape Race Radio Station,Visual,47.18333333,-52.71666667,1925,1925,May,5/21/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP: 53.43W. HB 1870 Jul 8
+IOT,1,307.1,307.1,N,Ship,Tuscania (SS),Visual,44.68333333,-47.6,1925,1925,May,5/21/25,,Large,,,,,,1,,,,Pinnacle,,,61,E,,,,,,,,IIP. HB 1864 May 27: 47.37W. HB 1865 Jun 3: large saddle shaped berg ~200' high with many growlers
+IOT,1,307.2,307.2,N,Ship,Tuscania (SS),Visual,44.68333333,-47.6,1925,1925,May,5/21/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1865 Jun 3: large saddle shaped berg ~200' high with many growlers
+IOT,1,308,308,N,Miscellaneous,Cape Race Radio Station,Visual,47.16666667,-52.8,1925,1925,May,5/21/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1870 Jul 8
+IOT,1,309,309,N,Ship,Montcalm (SS),Visual,48,-50.26666667,1925,1925,May,5/21/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP. HB 1864 May 27: 50.10W
+IOT,1,310,310,N,Miscellaneous,Cape Race Radio Station,Visual,48.28333333,-47.5,1925,1925,May,5/21/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,311,311,N,Miscellaneous,Cape Race Radio Station,Visual,48.25,-47.63333333,1925,1925,May,5/21/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP & HB 1864 May 27
+IOT,1,312,312,N,Miscellaneous,Cape Race Radio Station,Visual,47.21666667,-52.78333333,1925,1925,May,5/21/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,IIP: growlers. HB 1870 Jul 8
+IOT,1,313,313,N,Miscellaneous,Cape Race Radio Station,Visual,47.86666667,-49.45,1925,1925,May,5/21/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1864 May 27: 49.21W
+IOT,1,314,314,N,Ship,Colonian (SS),Visual,47.61666667,-49.66666667,1925,1925,May,5/21/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP: Cape Race Station. HB 1866 Jun 10
+IOT,1,315,315,N,Ship,Carso (SS),Visual,47.9,-49.41666667,1925,1925,May,5/21/25,,Small,,,,3,,,,,,,,,,,,,,,,,,IIP
+IOT,1,315,315,N,Ship,Carso (SS),Visual,48.15,-48.91666667,1925,1925,May,5/21/25,,Small,,,,3,,,,,,,,,,,,,,,,,,IIP
+IOT,1,611,579,Y,Ship,Modoc (IIP),Visual,44.53333333,-48.61666667,1925,1925,May,5/21/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1864 May 27: lying near berg [probable #579]
+IOT,1,612,612,N,Ship,Unknown,Visual,44.86666667,-48.95,1925,1925,May,5/21/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1864 May 27
+IOT,1,613,613,N,Ship,Unknown,Visual,48.88333333,-46.45,1925,1925,May,5/21/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1864 May 27
+IOT,1,614,614,N,Ship,Unknown,Visual,48.33333333,-48.3,1925,1925,May,5/21/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1864 May 27
+IOT,1,615,615,N,Ship,Unknown,Visual,47.88333333,-50.25,1925,1925,May,5/21/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1864 May 27
+IOT,1,635,635,N,Ship,Colonian (SS),Visual,47.88333333,-49.45,1925,1925,May,5/21/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,797,797,N,Ship,Unknown,Visual,46.98333333,-52.7,1925,1925,May,5/21/25,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1870 Jul 8: 2 growlers 8 miles E (mag) from C.Broyle
+IOT,1,316,316,N,Ship,Orduna (SS),Visual,46.66666667,-47.23333333,1925,1925,May,5/22/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1865 Jun 3: 47.11W
+IOT,1,636,636,N,Ship,Ariano (SS),Visual,48.1,-48.6,1925,1925,May,5/22/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,317,317,N,Miscellaneous,Cape Race Radio Station,Visual,47.66666667,-49.5,1925,1925,May,5/23/25,,Large,,,,,,2,,,,,,,,,,,,,,,,IIP
+IOT,1,318,318,N,Ship,Ariano (SS),Visual,47.86666667,-49.18333333,1925,1925,May,5/23/25,,Large,,,,,,3,,,,,,,,,,,,,,,,IIP: Cape Race Station. HB 1865 Jun 3. HB 1866 Jun 10
+IOT,1,319,319,N,Ship,Borsiose (SS),Visual,46.5,-52.63333333,1925,1925,May,5/23/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. 20 miles 118.25° from C.Race
+IOT,1,320,320,N,Ship,Borsiose (SS),Visual,44.85,-47.5,1925,1925,May,5/23/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1865 Jun 3
+IOT,1,321,321,N,Ship,Melita (SS),Visual,47.96666667,-47.88333333,1925,1925,May,5/23/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1865 Jun 3
+IOT,1,322,322,N,Ship,Melita (SS),Visual,47.9,-47.86666667,1925,1925,May,5/23/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1865 Jun 3
+IOT,1,323,323,N,Ship,Melita (SS),Visual,48.1,-47.83333333,1925,1925,May,5/23/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1865 Jun 3
+IOT,1,324,324,N,Ship,Bovas (SS),Visual,48.16666667,-47.13333333,1925,1925,May,5/23/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,325,325,N,Ship,Wildrecht (SS),Visual,46.76666667,-47.91666667,1925,1925,May,5/23/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,616,616,N,Miscellaneous,Belle Isle,Visual,51.91666667,-55.3,1925,1925,May,5/23/25,,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 1865 Jun 3
+IOT,1,617,617,N,Ship,Unknown,Visual,48.88333333,-45.83333333,1925,1925,May,5/23/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1865 Jun 3
+IOT,1,618,618,N,Ship,Unknown,Visual,44.76666667,-48.26666667,1925,1925,May,5/23/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1865 Jun 3
+IOT,1,637.1,637.1,N,Ship,Ariano (SS),Visual,47.63333333,-49.41666667,1925,1925,May,5/23/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1866 Jun 10: large berg & several growlers
+IOT,1,637.2,637.2,N,Ship,Ariano (SS),Visual,47.63333333,-49.41666667,1925,1925,May,5/23/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10: large berg & several growlers
+IOT,1,747,747,N,Ship,Wieldrecht (SS),Visual,46.66666667,-47.91666667,1925,1925,May,5/23/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1
+IOT,1,326,326,N,Ship,Aylestone (SS),Visual,46.05,-47.95,1925,1925,May,5/24/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1865 Jun 3: 47.50W
+IOT,1,327,327,N,Ship,Aylestone (SS),Visual,46.16666667,-47.66666667,1925,1925,May,5/24/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1865 Jun 3
+IOT,1,328,328,N,Ship,Tampa (IIP),Visual,44.76666667,-48.08333333,1925,1925,May,5/24/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,329,329,N,Ship,Sachem (SS),Visual,48.15,-51,1925,1925,May,5/24/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1865 Jun 3
+IOT,1,330,330,N,Ship,Maribon (SS),Visual,48.06666667,-48.51666667,1925,1925,May,5/24/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1865 Jun 3
+IOT,1,331,331,N,Ship,Maribon (SS),Visual,47.73333333,-49.65,1925,1925,May,5/24/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1865 Jun 3
+IOT,1,332,332,N,Miscellaneous,Cape Race Radio Station,Visual,47.68333333,-49.33333333,1925,1925,May,5/24/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,333,333,N,Ship,Maribon (SS),Visual,47.7,-49.66666667,1925,1925,May,5/24/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,334,334,N,Ship,Maribon (SS),Visual,48.23333333,-48.23333333,1925,1925,May,5/24/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP. HB 1865 Jun 3
+IOT,1,335,335,N,Ship,Maribon (SS),Visual,47.51666667,-49.36666667,1925,1925,May,5/24/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP. HB 1865 Jun 3
+IOT,1,336,336,N,Ship,Maribon (SS),Visual,47.63333333,-49.15,1925,1925,May,5/24/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1865 Jun 3
+IOT,1,619,619,N,Ship,Tampa (IIP),Visual,44.5,-48.15,1925,1925,May,5/24/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1865 Jun 3
+IOT,1,620,620,N,Ship,Unknown,Visual,47.23333333,-46.78333333,1925,1925,May,5/24/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1865 Jun 3
+IOT,1,621,621,N,Ship,Unknown,Visual,47.08333333,-47.36666667,1925,1925,May,5/24/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1865 Jun 3
+IOT,1,622,622,N,Ship,Unknown,Visual,47.91666667,-49.13333333,1925,1925,May,5/24/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1865 Jun 3
+IOT,1,623,623,N,Ship,Unknown,Visual,47.85,-49.33333333,1925,1925,May,5/24/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1865 Jun 3
+IOT,1,624,624,N,Ship,Emilie L.D. (SS),Visual,48.16666667,-48.06666667,1925,1925,May,5/24/25,,Small,,,,1,,,,,,,40,E,4.6,E,,,,,,,,HB 1865 Jun 3: unknown. HB 1867 Jun 17: small berg ~130' long & 15' high on 26th in 48.10N 48.00W
+IOT,1,337,337,N,Ship,Tampa (IIP),Visual,44.81666667,-47.61666667,1925,1925,May,5/25/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1865 Jun 3
+IOT,1,625,625,N,Ship,Tampa (IIP),Visual,44.83333333,-47.88333333,1925,1925,May,5/25/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1865 Jun 3
+IOT,1,626,626,N,Ship,Tampa (IIP),Visual,44.78333333,-48.7,1925,1925,May,5/25/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1865 Jun 3
+IOT,1,338,338,N,Ship,Gracia (SS),Visual,48.16666667,-49.25,1925,1925,May,5/26/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP. HB 1865 Jun 3
+IOT,1,339,339,N,Ship,Tampa (IIP),Visual,44.7,-47.85,1925,1925,May,5/26/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1865 Jun 3: lying near berg.
+IOT,1,340,340,N,Ship,Tampa (IIP),Visual,48.21666667,-49.06666667,1925,1925,May,5/26/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1865 Jun 3
+IOT,1,341,341,N,Miscellaneous,Cape Race Radio Station,Visual,48.25,-50.18333333,1925,1925,May,5/26/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,342,342,N,Miscellaneous,Cape Race Radio Station,Visual,49.81666667,-40.58333333,1925,1925,May,5/26/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,343,343,N,Miscellaneous,Cape Race Radio Station,Visual,48.75,-50.65,1925,1925,May,5/26/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,344,344,N,Miscellaneous,Cape Race Radio Station,Visual,48.58333333,-51.61666667,1925,1925,May,5/26/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,345,345,N,Miscellaneous,Cape Race Radio Station,Visual,48.51666667,-51.58333333,1925,1925,May,5/26/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,346,346,N,Miscellaneous,Cape Race Radio Station,Visual,48.36666667,-51.55,1925,1925,May,5/26/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,347,347,N,Miscellaneous,Cape Race Radio Station,Visual,48.66666667,-50.55,1925,1925,May,5/26/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP
+IOT,1,348,348,N,Miscellaneous,Cape Race Radio Station,Visual,49.46666667,-44.96666667,1925,1925,May,5/26/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP
+IOT,1,349,349,N,Ship,Doric (SS),Visual,48.86666667,-46.06666667,1925,1925,May,5/26/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP. HB 1865 Jun 3
+IOT,1,350,350,N,Ship,Kelberger (SS),Visual,45.58333333,-48.15,1925,1925,May,5/26/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1865 Jun 3
+IOT,1,351,351,N,Ship,Cape Race Radio Station,Visual,48.08333333,-46.53333333,1925,1925,May,5/26/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP
+IOT,1,660.1,660.1,N,Miscellaneous,Belle Isle,Visual,51.91666667,-55.3,1925,1925,May,5/26/25,,Berg,12,,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,660.2,660.2,N,Miscellaneous,Belle Isle,Visual,51.91666667,-55.3,1925,1925,May,5/26/25,,Growler,,6,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,352,352,N,Ship,Gothia (SS),Visual,47.43333333,-45.16666667,1925,1925,May,5/27/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1865 Jun 3
+IOT,1,353,353,N,Ship,Blijdendijk (SS),Visual,47.63333333,-48.1,1925,1925,May,5/27/25,,Very Large,,,,,,,1,,,Dry-dock,,,46,E,,,,,,,,"IIP. HB 1870 Jul 8: very large berg consisiting of 2 parts, with the sea breaking between; one part was flat & very white while the other was ~150' high & grey in appearance."
+IOT,1,354,354,N,Ship,Batsford (SS),Visual,47.41666667,-48.28333333,1925,1925,May,5/27/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,355,355,N,Ship,Blijdendijk (SS),Visual,47.63333333,-48.03333333,1925,1925,May,5/27/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1870 Jul 8
+IOT,1,356,353,Y,Ship,Tampa (IIP),Visual,47.63333333,-48.1,1925,1925,May,5/27/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. Resight of #353
+IOT,1,627,339,Y,Ship,Tampa (IIP),Visual,44.46666667,-48.36666667,1925,1925,May,5/27/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1865 Jun 3
+IOT,1,357,357,N,Ship,Regina (SS),Visual,48.35,-48.66666667,1925,1925,May,5/28/25,,Medium,,,,,1,,,,,,91,E,37,E,,,,,,,,IIP. HB 1866 Jun 10: large berg ~ 120' high & 300' long
+IOT,1,358,358,N,Ship,Letitia (SS),Visual,48.1,-48,1925,1925,May,5/28/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10: 48.08N
+IOT,1,359,359,N,Ship,Regina (SS),Visual,46.65,-52.36666667,1925,1925,May,5/28/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,360,360,N,Miscellaneous,Cape Race Radio Station,Visual,48.56666667,-48.46666667,1925,1925,May,5/28/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,361,361,N,Miscellaneous,Cape Race Radio Station,Visual,48.5,-49.26666667,1925,1925,May,5/28/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,362,362,N,Ship,Regina (SS),Visual,47.03333333,-52.63333333,1925,1925,May,5/28/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP: Cape Race Station. HB 1866 Jun 10: 52.39W
+IOT,1,363,363,N,Miscellaneous,Cape Race Radio Station,Visual,48.21666667,-46.1,1925,1925,May,5/28/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP
+IOT,1,661.1,661.1,N,Miscellaneous,Belle Isle,Visual,51.91666667,-55.3,1925,1925,May,5/28/25,,Berg,12,,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,661.2,661.2,N,Miscellaneous,Belle Isle,Visual,51.91666667,-55.3,1925,1925,May,5/28/25,,Growler,,24,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,664,664,N,Ship,Modoc (IIP),Visual,44.85,-47.08333333,1925,1925,May,5/28/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1866 Jun 10: lying near large berg
+IOT,1,665,665,N,Ship,Modoc (IIP),Visual,44.93333333,-47.6,1925,1925,May,5/28/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,364,364,N,Ship,Elaine Llewellyn (SS),Visual,47.86666667,-48.73333333,1925,1925,May,5/29/25,,Berg,3,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,365,365,N,Ship,Ascania (SS),Visual,47.78333333,-48.3,1925,1925,May,5/29/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP & HB 1866 Jun 10
+IOT,1,366,366,N,Ship,Ascania (SS),Visual,47.88333333,-48.65,1925,1925,May,5/29/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP & HB 1866 Jun 10
+IOT,1,367,367,N,Ship,Lochtic (SS),Visual,49.23333333,-45.01666667,1925,1925,May,5/29/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP & HB 1866 Jun 10
+IOT,1,368,368,N,Ship,Elaine Llewellyn (SS),Visual,47.86666667,-48.73333333,1925,1925,May,5/29/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,369,369,N,Ship,Ascania (SS),Visual,47.98333333,-48.28333333,1925,1925,May,5/29/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP & HB 1866 Jun 10
+IOT,1,370,370,N,Ship,Salmonpool (SS),Visual,47.63333333,-48.33333333,1925,1925,May,5/29/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP & HB 1866 Jun 10
+IOT,1,371,371,N,Ship,Salmonpool (SS),Visual,47.96666667,-48.16666667,1925,1925,May,5/29/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,372,372,N,Ship,Elaine Llewellyn (SS),Visual,47.21666667,-47.5,1925,1925,May,5/29/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP & HB 1866 Jun 10
+IOT,1,373,373,N,Miscellaneous,Cape Race Radio Station,Visual,47.03333333,-52.66666667,1925,1925,May,5/29/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP: 9 miles E Ferryland Light. HB 1866: 10 miles.
+IOT,1,374,374,N,Miscellaneous,Cape Race Radio Station,Visual,46.93333333,-52.73333333,1925,1925,May,5/29/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP & HB 1866 Jun 10: 7 miles E of Bull Head
+IOT,1,375,375,N,Miscellaneous,Cape Race Radio Station,Visual,47.56666667,-52.58333333,1925,1925,May,5/29/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP & HB 1866 Jun 10: 4 - 5 miles E pf St.John's
+IOT,1,376,376,N,Miscellaneous,Cape Race Radio Station,Visual,46.65,-52.85,1925,1925,May,5/29/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,377,377,N,Ship,Citos (SS),Visual,44.93333333,-46.75,1925,1925,May,5/30/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP & HB 1866 Jun 10
+IOT,1,378,378,N,Ship,Kurdistan (SS),Visual,47.96666667,-49.61666667,1925,1925,May,5/30/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP & HB 1866 Jun 10
+IOT,1,379,379,N,Ship,Tampa (IIP),Visual,47.28333333,-47.91666667,1925,1925,May,5/30/25,,Very Large,,,,,,,1,,,,,,,,,,,,,,,IIP & HB 1866 Jun 10
+IOT,1,380,380,N,Ship,Tampa (IIP),Visual,48,-49.38333333,1925,1925,May,5/30/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP & HB 1866 Jun 10
+IOT,1,381,381,N,Ship,Tampa (IIP),Visual,48.23333333,-49,1925,1925,May,5/30/25,,Large,,,,,,2,,,,,,,,,,,,,,,,IIP & HB 1866 Jun 10
+IOT,1,382,382,N,Ship,Lock Tay (SS),Visual,48.15,-49,1925,1925,May,5/30/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,383,383,N,Ship,Lock Tay (SS),Visual,48,-49.63333333,1925,1925,May,5/30/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP
+IOT,1,384,384,N,Ship,Assyria (SS),Visual,47.43333333,-51.83333333,1925,1925,May,5/30/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP & HB 1866 Jun 10
+IOT,1,385,385,N,Ship,East Side (SS),Visual,44.6,-46.81666667,1925,1925,May,5/30/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,386,386,N,Ship,East Side (SS),Visual,44.53333333,-47.2,1925,1925,May,5/30/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,387,387,N,Miscellaneous,Cape Race Radio Station,Visual,46.65,-52.65,1925,1925,May,5/30/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,638,638,N,Ship,Assyria (SS),Visual,48.53333333,-49.46666667,1925,1925,May,5/30/25,,Small,,,,2,,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,639,639,N,Ship,Assyria (SS),Visual,48.2,-49.93333333,1925,1925,May,5/30/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,640,640,N,Ship,Assyria (SS),Visual,48.08333333,-50.01666667,1925,1925,May,5/30/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,641,641,N,Ship,Assyria (SS),Visual,48.2,-50.1,1925,1925,May,5/30/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,642,642,N,Ship,Assyria (SS),Visual,47.91666667,-50.33333333,1925,1925,May,5/30/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,643,643,N,Ship,Assyria (SS),Visual,46.61666667,-52.76666667,1925,1925,May,5/30/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,666,666,N,Ship,Unknown,Visual,48.16666667,-50,1925,1925,May,5/30/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,667,667,N,Ship,Unknown,Visual,48.43333333,-49.46666667,1925,1925,May,5/30/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,668,668,N,Ship,Unknown,Visual,48.15,-49.5,1925,1925,May,5/30/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,669,669,N,Ship,Unknown,Visual,44.76666667,-46.88333333,1925,1925,May,5/30/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,670,670,N,Ship,Unknown,Visual,44.68333333,-47.26666667,1925,1925,May,5/30/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,671,671,N,Ship,Oscar II (SS),Visual,44.03333333,-48.93333333,1925,1925,May,5/30/25,,Very Large,,,,,,,1,,,,,,,,,,,,,,,HB 1866 Jun 10. HB 1867 Jun 17
+IOT,1,677.1,643,N,Ship,Stavangerfjord (SS),Visual,46.61666667,-52.63333333,1925,1925,May,5/30/25,,Medium,,,,,1,,,,,,,,32,E,,,,,,,,HB 1867 Jun 17: large berg 105' high [probable resight of 643] with nukerous small growlers in vicinity
+IOT,1,677.2,677.2,N,Ship,Stavangerfjord (SS),Visual,46.61666667,-52.63333333,1925,1925,May,5/30/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17: large berg 105' high [probable resight of 643] with nukerous small growlers in vicinity
+IOT,1,678,678,N,Ship,Eldrid (SS),Visual,48.13333333,-49.26666667,1925,1925,May,5/30/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1867 Jun 17
+IOT,1,679,679,N,Ship,Eldrid (SS),Visual,47.93333333,-49.33333333,1925,1925,May,5/30/25,,Small,,,,2,,,,,,,,,,,,,,,,,,HB 1867 Jun 17
+IOT,1,388,388,N,Ship,Montreal (SS),Visual,46.56666667,-52.61666667,1925,1925,May,5/31/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,389,389,N,Ship,Tampa (IIP),Visual,46.33333333,-48.05,1925,1925,May,5/31/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10
+IOT,1,390,390,N,Ship,Tampa (IIP),Visual,46.65,-52.53333333,1925,1925,May,5/31/25,,Small,,,,3,,,,,,,,,,,,,,,,,,IIP
+IOT,1,391,391,N,Ship,Salacia (SS),Visual,48,-49.18333333,1925,1925,May,5/31/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10
+IOT,1,392,392,N,Ship,Salacia (SS),Visual,48.15,-49.11666667,1925,1925,May,5/31/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10
+IOT,1,393,393,N,Ship,Salacia (SS),Visual,47.95,-49.15,1925,1925,May,5/31/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10
+IOT,1,394,394,N,Ship,Penhill (SS),Visual,47.28333333,-48.03333333,1925,1925,May,5/31/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10
+IOT,1,395,395,N,Ship,Penhill (SS),Visual,47.33333333,-47.53333333,1925,1925,May,5/31/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10
+IOT,1,396,396,N,Ship,Penhill (SS),Visual,47.36666667,-47.05,1925,1925,May,5/31/25,,Very Large,,,,,,,1,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10
+IOT,1,397,397,N,Ship,Porsanger (SS),Visual,46.16666667,-48,1925,1925,May,5/31/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,398,398,N,Ship,Canadian Mariner (SS),Visual,48.6,-44.56666667,1925,1925,May,5/31/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP
+IOT,1,399,399,N,Miscellaneous,Cape Race Radio Station,Visual,47.58333333,-45.5,1925,1925,May,5/31/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,400,400,N,Miscellaneous,Cape Race Radio Station,Visual,47.83333333,-45.8,1925,1925,May,5/31/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,644,644,N,Ship,Montcalm (SS),Visual,51.6,-56.51666667,1925,1925,May,5/31/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,645.11,645.11,N,Ship,Montcalm (SS),Visual,51.6,-56.51666667,1925,1925,May,5/31/25,,Large,,,,,,5,,,,,,,,,,,,,,,,"HB 1866 Jun 10: thence to Belle Isle, mostly N of the track & well scattered"
+IOT,0,645.12,645.12,N,Ship,Montcalm (SS),Visual,51.91666667,-55.38333333,1925,1925,May,5/31/25,,Large,,,,,,,,,,,,,,,,,,,,,,"HB 1866 Jun 10: thence to Belle Isle, mostly N of the track & well scattered"
+IOT,1,645.21,645.21,N,Ship,Montcalm (SS),Visual,51.6,-56.51666667,1925,1925,May,5/31/25,,Growler,,10,,,,5,,,,,,,,,,,,,,,,"HB 1866 Jun 10: thence to Belle Isle, mostly N of the track & well scattered"
+IOT,0,645.22,645.22,N,Ship,Montcalm (SS),Visual,51.91666667,-55.38333333,1925,1925,May,5/31/25,,Growler,,,,,,,,,,,,,,,,,,,,,,"HB 1866 Jun 10: thence to Belle Isle, mostly N of the track & well scattered"
+IOT,1,646,646,N,Ship,Montcalm (SS),Visual,51.93333333,-55.48333333,1925,1925,May,5/31/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10: low lying berg
+IOT,1,401,401,N,Miscellaneous,Cape Race Radio Station,Visual,46.51666667,-52.86666667,1925,1925,June,6/1/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP: 10 miles from C.Race. HB 1866 Jun 10: berg aground 12 miles SE C.Race
+IOT,1,402,402,N,Ship,Aurania (SS),Visual,48.03333333,-49,1925,1925,June,6/1/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10
+IOT,1,403,403,N,Ship,Aurania (SS),Visual,48.03333333,-48.91666667,1925,1925,June,6/1/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,404,404,N,Ship,Aurania (SS),Visual,48.16666667,-48.8,1925,1925,June,6/1/25,,Very Large,,,,,,,1,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10
+IOT,1,405,405,N,Ship,Canadian Mariner (SS),Visual,47.8,-48.53333333,1925,1925,June,6/1/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10
+IOT,1,647.01,647.01,N,Ship,Montcalm (SS),Visual,51.85,-55.26666667,1925,1925,June,6/1/25,,Berg,4,,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,0,647.02,647.02,N,Ship,Montcalm (SS),Visual,51.93333333,-55.1,1925,1925,June,6/1/25,,Berg,,,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,648.1,648.1,N,Ship,Montcalm (SS),Visual,51.95,-54.91666667,1925,1925,June,6/1/25,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,648.2,648.2,N,Ship,Montcalm (SS),Visual,51.95,-54.91666667,1925,1925,June,6/1/25,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,649,649,N,Ship,Montcalm (SS),Visual,52.11666667,-54.51666667,1925,1925,June,6/1/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,650,650,N,Ship,Montcalm (SS),Visual,52.2,-54,1925,1925,June,6/1/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,651,651,N,Ship,Montcalm (SS),Visual,52.05,-53.83333333,1925,1925,June,6/1/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,652,652,N,Ship,Montcalm (SS),Visual,52.26666667,-53.66666667,1925,1925,June,6/1/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,653,653,N,Ship,Montcalm (SS),Visual,52.56666667,-51.83333333,1925,1925,June,6/1/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,406,406,N,Ship,Tuscania (SS),Visual,46.53333333,-52.86666667,1925,1925,June,6/2/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10
+IOT,1,407,407,N,Ship,Megantic (SS),Visual,47.91666667,-49,1925,1925,June,6/2/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10
+IOT,1,408,408,N,Ship,Brandon (SS),Visual,48.25,-45.4,1925,1925,June,6/2/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10
+IOT,1,409,409,N,Ship,Megantic (SS),Visual,48.06666667,-48.58333333,1925,1925,June,6/2/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10
+IOT,1,410.1,410.1,N,Ship,Verbania (SS),Visual,48.01666667,-47.86666667,1925,1925,June,6/2/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10. HB 1867 Jun 17: large bergs & growlers 5 miles to the N [calculated]
+IOT,1,410.2,410.2,N,Ship,Verbania (SS),Visual,48.01666667,-47.86666667,1925,1925,June,6/2/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10. HB 1867 Jun 17: large bergs & growlers 5 miles to the N [calculated]
+IOT,1,411,411,N,Ship,Canadian Raider (SS),Visual,47.83333333,-46.33333333,1925,1925,June,6/2/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10
+IOT,1,412,412,N,Ship,Tampa (IIP),Visual,43.2,-49.03333333,1925,1925,June,6/2/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10
+IOT,1,417.01,417.01,N,Ship,Verbania (SS),Visual,48.01666667,-47.86666667,1925,1925,June,6/2/25,,Medium,,,,,4,,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10: 47:52W. Fuller entry in HB 1867 Jun 17
+IOT,0,417.02,417.02,N,Ship,Verbania (SS),Visual,47.86666667,-47.86666667,1925,1925,June,6/2/25,,Medium,,,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17
+IOT,1,654.1,654.1,N,Ship,Manchester Importer (SS),Visual,51.91666667,-54.86666667,1925,1925,June,6/2/25,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,654.2,654.2,N,Ship,Manchester Importer (SS),Visual,51.91666667,-54.86666667,1925,1925,June,6/2/25,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,655,655,N,Ship,Manchester Importer (SS),Visual,52,-54.91666667,1925,1925,June,6/2/25,,Very Large,,,,,,,1,,,Tabular,,,,,,,,,,,,"HB 1866 Jun 10: large flat-topped berg, evidently of enormous proportions"
+IOT,1,656,656,N,Ship,Manchester Importer (SS),Visual,52.21666667,-54.55,1925,1925,June,6/2/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,657,657,N,Ship,Manchester Importer (SS),Visual,52.11666667,-54.03333333,1925,1925,June,6/2/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10: large growler
+IOT,1,658,658,N,Ship,Manchester Importer (SS),Visual,52.2,-53.66666667,1925,1925,June,6/2/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,659,659,N,Ship,Manchester Importer (SS),Visual,52.25,-53.08333333,1925,1925,June,6/2/25,,Berg,1,,,,,,,,,Dome,,,,,,,,,,,,HB 1866 Jun 10: an oval shaped berg
+IOT,1,662.1,662.1,N,Miscellaneous,Belle Isle,Visual,51.91666667,-55.3,1925,1925,June,6/2/25,,Berg,5,,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,662.2,662.2,N,Miscellaneous,Belle Isle,Visual,51.91666667,-55.3,1925,1925,June,6/2/25,,Growler,,3,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,663,663,N,Miscellaneous,Cape Race Radio Station,Visual,46.55,-52.91666667,1925,1925,June,6/2/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10: berg aground 9 miles SE C.Race
+IOT,1,413,413,N,Ship,Manistee (SS),Visual,48.16666667,-40,1925,1925,June,6/3/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10
+IOT,1,414,414,N,Ship,Tuscania (SS),Visual,48.21666667,-48.83333333,1925,1925,June,6/3/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10
+IOT,1,415,415,N,Ship,Veendam (SS),Visual,48,-48.2,1925,1925,June,6/3/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10 & HB 1867 Jun 17
+IOT,1,416,416,N,Ship,Veendam (SS),Visual,48.1,-48.16666667,1925,1925,June,6/3/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10 & HB 1867 Jun 17
+IOT,1,418,418,N,Ship,Veendam (SS),Visual,47.81666667,-48.38333333,1925,1925,June,6/3/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP: 47.29N. HB 1866 Jun 10 & HB 1867 Jun 17: 47.49N
+IOT,1,419,419,N,Ship,Veendam (SS),Visual,47.88333333,-48.43333333,1925,1925,June,6/3/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10 & HB 1867 Jun 17
+IOT,1,420,420,N,Ship,Veendam (SS),Visual,47.96666667,-49.53333333,1925,1925,June,6/3/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10 & HB 1867 Jun 17
+IOT,1,421,421,N,Ship,Brandon (SS),Visual,46.55,-52.93333333,1925,1925,June,6/3/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,422,422,N,Ship,Veendam (SS),Visual,46.61666667,-52.88333333,1925,1925,June,6/3/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,672,412,Y,Ship,Tampa (IIP),Visual,43.01666667,-49.58333333,1925,1925,June,6/3/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,680,680,N,Ship,Verbania (SS),Visual,46.58333333,-52.96666667,1925,1925,June,6/3/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1867 Jun 17: 6 miles SE C.Race
+IOT,1,423,423,N,Miscellaneous,Cape Race Radio Station,Visual,47.68333333,-49.61666667,1925,1925,June,6/4/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10
+IOT,1,424,424,N,Miscellaneous,Cape Race Radio Station,Visual,46.75,-40.1,1925,1925,June,6/4/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10: 46.49N
+IOT,1,425,425,N,Ship,Blairberg (SS),Visual,47.38333333,-47.35,1925,1925,June,6/4/25,,Berg,2,,,,,,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10
+IOT,1,426,426,N,Ship,Bothwell (SS),Visual,47.7,-47.56666667,1925,1925,June,6/4/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10
+IOT,1,427,427,N,Ship,Bothwell (SS),Visual,46.58333333,-47.56666667,1925,1925,June,6/4/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10
+IOT,1,428,428,N,Ship,Bothwell (SS),Visual,47.76666667,-46.96666667,1925,1925,June,6/4/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10
+IOT,1,429,429,N,Ship,Bothwell (SS),Visual,47.93333333,-47.76666667,1925,1925,June,6/4/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1866 Jun 10
+IOT,1,673,412,Y,Ship,Tampa (IIP),Visual,43.03333333,-49.03333333,1925,1925,June,6/4/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,674,674,N,Ship,Unknown,Visual,47.83333333,-48.01666667,1925,1925,June,6/4/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1866 Jun 10
+IOT,1,430,430,N,Ship,Haulerwig (SS),Visual,46.4,-47.4,1925,1925,June,6/5/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1867 Jun 17
+IOT,1,681.11,681.11,N,Ship,Kalimba (SS),Visual,52.21666667,-54,1925,1925,June,6/5/25,,Berg,10,,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17: 10 bergs & 1 growler thence to Belle Isle on the Pentland Firth track
+IOT,0,681.12,681.12,N,Ship,Kalimba (SS),Visual,51.95,-55.3,1925,1925,June,6/5/25,,Berg,,,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17: 10 bergs & 1 growler thence to Belle Isle on the Pentland Firth track
+IOT,1,681.21,681.21,N,Ship,Kalimba (SS),Visual,52.21666667,-54,1925,1925,June,6/5/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17: 10 bergs & 1 growler thence to Belle Isle on the Pentland Firth track
+IOT,0,681.22,681.22,N,Ship,Kalimba (SS),Visual,51.95,-55.3,1925,1925,June,6/5/25,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17: 10 bergs & 1 growler thence to Belle Isle on the Pentland Firth track
+IOT,1,700,700,N,Miscellaneous,Cape Race Radio Station,Visual,46.53333333,-52.9,1925,1925,June,6/5/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,"HB 1867 Jun 17: berg 10 miles SE C.Race, aground"
+IOT,1,701,701,N,Miscellaneous,Cape Race Radio Station,Visual,46.65,-52.95,1925,1925,June,6/5/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,"HB 1867 Jun 17: berg 5 miles E C.Race, aground"
+IOT,1,708,412,Y,Ship,Tampa (IIP),Visual,43,-49.51666667,1925,1925,June,6/5/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1867 Jun 17: lying near large berg
+IOT,1,431,431,N,Ship,Hoosac (SS),Visual,45.65,-45.13333333,1925,1925,June,6/6/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,698,698,N,Ship,Saxilby (SS),Visual,50.61666667,-51.36666667,1925,1925,June,6/6/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1867 Jun 17
+IOT,1,704,704,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1925,1925,June,6/6/25,,Berg,4,,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17
+IOT,1,705.1,705.1,N,Miscellaneous,Belle Isle,Visual,51.95,-55.3,1925,1925,June,6/6/25,,Berg,7,,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17
+IOT,1,705.2,705.2,N,Miscellaneous,Belle Isle,Visual,51.95,-55.3,1925,1925,June,6/6/25,,Growler,,4,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17
+IOT,1,709,709,N,Ship,Tampa (IIP),Visual,42.83333333,-50.15,1925,1925,June,6/6/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17: several growlers in vicinity
+IOT,1,710,431,Y,Ship,Unknown,Visual,45.43333333,-45.06666667,1925,1925,June,6/6/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17 [probable resight of 431]
+IOT,1,432,432,N,Ship,P.L.M 23 (SS),Visual,45,-48.9,1925,1925,June,6/7/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1867 Jun 17
+IOT,1,697,697,N,Ship,Gorm (SS),Visual,51.96666667,-54.63333333,1925,1925,June,6/7/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1867 Jun 17
+IOT,1,711,711,N,Ship,Ice Patrol,Visual,42.56666667,-50.73333333,1925,1925,June,6/7/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1867 Jun 17
+IOT,1,433,433,N,Ship,Baron Herries (SS),Visual,46.76666667,-47.1,1925,1925,June,6/8/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1867 Jun 17: 7th
+IOT,1,434,434,N,Ship,Baron Herries (SS),Visual,46.68333333,-47.6,1925,1925,June,6/8/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1867 Jun 17: 7th
+IOT,1,435,435,N,Ship,Baron Herries (SS),Visual,46.66666667,-47.88333333,1925,1925,June,6/8/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1867 Jun 17: 7th
+IOT,1,436,436,N,Ship,Tortugas (SS),Visual,45.66666667,-45,1925,1925,June,6/8/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1867 Jun 17. HB 1873 Jul 29
+IOT,1,437,437,N,Ship,Bay State (SS),Visual,45.78333333,-44.61666667,1925,1925,June,6/8/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1867 Jun 17: 44.07W. HB 1868 Jun 24
+IOT,1,438,438,N,Miscellaneous,Cape Race Radio Station,Visual,47.23333333,-51.41666667,1925,1925,June,6/8/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP
+IOT,1,439,439,N,Miscellaneous,Cape Race Radio Station,Visual,47.4,-52.1,1925,1925,June,6/8/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,682,682,N,Ship,Manchester Brigade (SS),Visual,51.81666667,-55.38333333,1925,1925,June,6/8/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17
+IOT,1,683,683,N,Ship,Manchester Brigade (SS),Visual,51.6,-55.53333333,1925,1925,June,6/8/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17
+IOT,1,684,684,N,Ship,Manchester Brigade (SS),Visual,51.75,-55.6,1925,1925,June,6/8/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17
+IOT,1,685,685,N,Ship,Manchester Brigade (SS),Visual,51.73333333,-55.66666667,1925,1925,June,6/8/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17
+IOT,1,686,686,N,Ship,Manchester Brigade (SS),Visual,51.63333333,-56.08333333,1925,1925,June,6/8/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17
+IOT,1,687,687,N,Ship,Manchester Brigade (SS),Visual,51.65,-56.11666667,1925,1925,June,6/8/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17
+IOT,1,688,688,N,Ship,Manchester Brigade (SS),Visual,51.55,-56.3,1925,1925,June,6/8/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17
+IOT,1,689,689,N,Ship,Manchester Brigade (SS),Visual,51.38333333,-56.83333333,1925,1925,June,6/8/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17
+IOT,1,690,690,N,Ship,Manchester Brigade (SS),Visual,51.35,-57.25,1925,1925,June,6/8/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17
+IOT,1,691,691,N,Ship,Manchester Brigade (SS),Visual,51.3,-57.26666667,1925,1925,June,6/8/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17
+IOT,1,692,692,N,Ship,Bosworth (SS),Visual,51.95,-54.55,1925,1925,June,6/8/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1867 Jun 17
+IOT,1,696,696,N,Ship,Nordkyn (SS),Visual,52.01666667,-54.68333333,1925,1925,June,6/8/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1867 Jun 17: large berg 25 miles 80° true from Belle Isle
+IOT,1,699,699,N,Ship,Montclare (SS),Visual,51.95,-54.48333333,1925,1925,June,6/8/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17: berg 32 miles E of Belle Isle
+IOT,1,702,700,Y,Miscellaneous,Cape Race Radio Station,Visual,46.53333333,-52.9,1925,1925,June,6/8/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,"HB 1867 Jun 17: berg 10 miles SE C.Race, aground, probably same as #700"
+IOT,1,703,703,N,Miscellaneous,Cape Race Radio Station,Visual,46.65,-53.05,1925,1925,June,6/8/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,"HB 1867 Jun 17: berg 1 mile E C.Race, aground"
+IOT,1,706,706,N,Miscellaneous,Belle Isle,Visual,51.95,-55.3,1925,1925,June,6/8/25,,Berg,11,,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17
+IOT,1,440,440,N,Ship,Manchester Merchant (SS),Visual,44.18333333,-48.76666667,1925,1925,June,6/9/25,,Medium,,,,,1,,,,,,76,E,15,E,,,,,,,,IIP. HB 1867 Jun 17. HB 1868 Jun 24: berg 50' high & 250' long
+IOT,1,441,441,N,Miscellaneous,Cape Race Radio Station,Visual,47.45,-49.18333333,1925,1925,June,6/9/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1867 Jun 17
+IOT,1,442,442,N,Miscellaneous,Cape Race Radio Station,Visual,47.3,-50.85,1925,1925,June,6/9/25,,Small,,,,2,,,,,,,,,,,,,,,,,,IIP. HB 1867 Jun 17
+IOT,1,443,443,N,Ship,West Pool (SS),Visual,45,-47.88333333,1925,1925,June,6/9/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,444,444,N,Ship,West Pool (SS),Visual,45.26666667,-46.55,1925,1925,June,6/9/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1867 Jun 17
+IOT,1,445,445,N,Ship,West Pool (SS),Visual,45,-47.88333333,1925,1925,June,6/9/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,446,446,N,Ship,Antonio (SS),Visual,46.5,-52.86666667,1925,1925,June,6/9/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,447,447,N,Ship,Antonio (SS),Visual,46.83333333,-52.85,1925,1925,June,6/9/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP
+IOT,1,448,448,N,Ship,Asyria (SS),Visual,46.51666667,-53.1,1925,1925,June,6/9/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,449,449,N,Ship,Bay State (SS),Visual,45.21666667,-46.78333333,1925,1925,June,6/9/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP. IIP. HB1868: Jun 24: 8th
+IOT,1,450,450,N,Ship,Bay State (SS),Visual,44.96666667,-48.25,1925,1925,June,6/9/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP. HB 1867 Jun 17 & IIP. HB1868: Jun 24
+IOT,1,451,451,N,Ship,Bay State (SS),Visual,45.05,-48.7,1925,1925,June,6/9/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP. HB 1867 Jun 17 & IIP. HB1868: Jun 24
+IOT,1,693.11,693.11,N,Ship,Bosworth (SS),Visual,51.95,-55.4,1925,1925,June,6/9/25,,Berg,13,,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17: 13 bergs & numerous growlers between Belle Isle & C.Norman
+IOT,0,693.12,693.12,N,Ship,Bosworth (SS),Visual,51.66666667,-55.9,1925,1925,June,6/9/25,,Berg,,,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17: 13 bergs & numerous growlers between Belle Isle & C.Norman
+IOT,1,693.21,693.21,N,Ship,Bosworth (SS),Visual,51.95,-55.4,1925,1925,June,6/9/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17: 13 bergs & numerous growlers between Belle Isle & C.Norman
+IOT,0,693.22,693.22,N,Ship,Bosworth (SS),Visual,51.66666667,-55.9,1925,1925,June,6/9/25,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17: 13 bergs & numerous growlers between Belle Isle & C.Norman
+IOT,1,694.11,694.11,N,Ship,Bosworth (SS),Visual,51.66666667,-55.9,1925,1925,June,6/9/25,,Berg,8,,,,,,,,,,,,,,,,,,,,,"HB 1867 Jun 17: between C.Norman & Greenly Is., 8 bergs & several growlers, & 2 scattered pieces of ice"
+IOT,0,694.12,694.12,N,Ship,Bosworth (SS),Visual,51.35,-57.2,1925,1925,June,6/9/25,,Berg,,,,,,,,,,,,,,,,,,,,,,"HB 1867 Jun 17: between C.Norman & Greenly Is., 8 bergs & several growlers, & 2 scattered pieces of ice"
+IOT,1,694.21,694.21,N,Ship,Bosworth (SS),Visual,51.66666667,-55.9,1925,1925,June,6/9/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,"HB 1867 Jun 17: between C.Norman & Greenly Is., 8 bergs & several growlers, & 2 scattered pieces of ice"
+IOT,0,694.22,694.22,N,Ship,Bosworth (SS),Visual,51.35,-57.2,1925,1925,June,6/9/25,,Growler,,,,,,,,,,,,,,,,,,,,,,"HB 1867 Jun 17: between C.Norman & Greenly Is., 8 bergs & several growlers, & 2 scattered pieces of ice"
+IOT,1,695,695,N,Ship,Bosworth (SS),Visual,51.3,-57.41666667,1925,1925,June,6/9/25,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17
+IOT,1,707,707,N,Miscellaneous,Belle Isle,Visual,51.95,-55.3,1925,1925,June,6/9/25,,Berg,5,,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17
+IOT,1,712,712,N,Ship,Ice Patrol,Visual,41.98333333,-50.56666667,1925,1925,June,6/9/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1867 Jun 17: lying alongside large berg
+IOT,1,452,452,N,Ship,Collame (SS),Visual,42.01666667,-50.56666667,1925,1925,June,6/10/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. IIP. HB1868: Jun 24
+IOT,1,453,453,N,Ship,Pittsburgh (SS),Visual,47.28333333,-49.08333333,1925,1925,June,6/10/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,454,454,N,Ship,Assyria (SS),Visual,47.26666667,-51.05,1925,1925,June,6/10/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,455,455,N,Ship,Assyria (SS),Visual,47.35,-50.86666667,1925,1925,June,6/10/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP. HB 1867 Jun 17: 50.55W
+IOT,1,456.1,456.1,N,Ship,Assyria (SS),Visual,47.56666667,-50.66666667,1925,1925,June,6/10/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP
+IOT,1,456.2,456.2,N,Ship,Assyria (SS),Visual,47.56666667,-50.66666667,1925,1925,June,6/10/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1867 Jun 17: 50.50W
+IOT,1,457.1,457.1,N,Ship,Assyria (SS),Visual,47.35,-50.86666667,1925,1925,June,6/10/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP
+IOT,1,457.2,457.2,N,Ship,Assyria (SS),Visual,47.35,-50.86666667,1925,1925,June,6/10/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,458,458,N,Ship,Pittsburgh (SS),Visual,47.28333333,-49.08333333,1925,1925,June,6/10/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP
+IOT,1,459,459,N,Ship,City Of Birmingham (SS),Visual,42.66666667,-47.16666667,1925,1925,June,6/10/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1867 Jun 17. IIP investigated next day & existence doubtful.
+IOT,1,713,712,Y,Ship,Ice Patrol,Visual,42.03333333,-50.26666667,1925,1925,June,6/10/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1867 Jun 17: lying alongside large berg. [probable same as #712]
+IOT,1,715,452,Y,Ship,Rochambeau (SS),Visual,41.78333333,-50.53333333,1925,1925,June,6/10/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB1868: Jun 24. [probably same as #452]
+IOT,1,460,460,N,Miscellaneous,Cape Race Radio Station,Visual,47.28333333,-49.08333333,1925,1925,June,6/11/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP. HB 1867 Jun 17: 10th
+IOT,1,714,712,Y,Ship,Ice Patrol,Visual,42.13333333,-49.75,1925,1925,June,6/11/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1867 Jun 17
+IOT,1,716,716,N,Ship,Melita (SS),Visual,51.83333333,-55.16666667,1925,1925,June,6/11/25,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB1868: Jun 24
+IOT,1,717,717,N,Ship,Melita (SS),Visual,51.73333333,-55.56666667,1925,1925,June,6/11/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB1868: Jun 24
+IOT,1,718,718,N,Ship,Melita (SS),Visual,51.63333333,-56.5,1925,1925,June,6/11/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB1868: Jun 24
+IOT,1,461,461,N,Miscellaneous,Cape Race Radio Station,Visual,47,-52.28333333,1925,1925,June,6/12/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,719,719,N,Ship,Empress of Scotland (SS),Visual,52.06666667,-54.9,1925,1925,June,6/12/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB1868: Jun 24
+IOT,1,720,720,N,Ship,Empress of Scotland (SS),Visual,51.95,-54.06666667,1925,1925,June,6/12/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB1868: Jun 24
+IOT,1,721,721,N,Ship,Empress of Scotland (SS),Visual,51.56666667,-54.21666667,1925,1925,June,6/12/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB1868: Jun 24
+IOT,1,462,462,N,Ship,Cairngowan (SS),Visual,47.66666667,-51.96666667,1925,1925,June,6/13/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP: Cape Race Station. HB1868 Jun 24: 15th, 51.18W"
+IOT,1,463,463,N,Ship,Cairngowan (SS),Visual,47.18333333,-52.18333333,1925,1925,June,6/13/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB1868 Jun 24: 15th
+IOT,1,464,464,N,Miscellaneous,Cape Race Radio Station,Visual,48.11666667,-50.18333333,1925,1925,June,6/13/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP
+IOT,1,465,465,N,Ship,Galtymore (SS),Visual,48.48333333,-50.36666667,1925,1925,June,6/13/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP. HB 1869 Jul 1: large berg
+IOT,1,466,466,N,Miscellaneous,Cape Race Radio Station,Visual,47.9,-51.61666667,1925,1925,June,6/13/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,467,467,N,Ship,Liverza (SS),Visual,46.7,-46.33333333,1925,1925,June,6/13/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB1868 Jun 24
+IOT,1,469,469,N,Ship,Digby (SS),Visual,47.11666667,-50.18333333,1925,1925,June,6/13/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP & HB 1870 Jul 8
+IOT,1,470,470,N,Ship,Digby (SS),Visual,47.9,-51.61666667,1925,1925,June,6/13/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP & HB 1870 Jul 8
+IOT,1,471,471,N,Miscellaneous,Cape Race Radio Station,Visual,48.48333333,-50.36666667,1925,1925,June,6/13/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,737,737,N,Miscellaneous,Belle Isle,Visual,51.91666667,-55.3,1925,1925,June,6/13/25,,Berg,10,,,,,,,,,,,,,,,,,,,,,HB1868: Jun 24
+IOT,1,739,739,N,Ship,Modoc (IIP),Visual,42.21666667,-49.48333333,1925,1925,June,6/13/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB1868 Jun 24: lying near large berg
+IOT,1,748,462,Y,Ship,Galtymore (SS),Visual,47.66666667,-51.28333333,1925,1925,June,6/13/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1869 Jul 1. Probable resight of #463
+IOT,1,749,749,N,Ship,Galtymore (SS),Visual,47.96666667,-51.56666667,1925,1925,June,6/13/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1869 Jul 1
+IOT,1,786,786,N,Miscellaneous,Cape Race Radio Station,Visual,46.51666667,-52.68333333,1925,1925,June,6/13/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1: berg 18 miles E (mag) off C.Race
+IOT,1,472,472,N,Ship,Achem (SS),Visual,47.83333333,-52.51666667,1925,1925,June,6/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,473,473,N,Ship,Achem (SS),Visual,48,-51.75,1925,1925,June,6/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP & HB1868 Jun 24
+IOT,1,474,474,N,Ship,Achem (SS),Visual,48.16666667,-51.33333333,1925,1925,June,6/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP & HB1868 Jun 24
+IOT,1,475,475,N,Ship,Manchester Spinner (SS),Visual,48.25,-50.33333333,1925,1925,June,6/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP & HB1868 Jun 24
+IOT,1,476,476,N,Ship,Manchester Spinner (SS),Visual,48.45,-49.05,1925,1925,June,6/14/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP & HB1868 Jun 24
+IOT,1,477,477,N,Miscellaneous,Cape Race Radio Station,Visual,47.65,-50.6,1925,1925,June,6/14/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP & HB1868 Jun 24
+IOT,1,478,478,N,Ship,Fredensbro (SS),Visual,42.38333333,-49.5,1925,1925,June,6/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,723,723,N,Ship,Concordia (SS),Visual,51.58333333,-54,1925,1925,June,6/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB1868: Jun 24: a low berg
+IOT,1,724,724,N,Ship,Concordia (SS),Visual,51.6,-54.8,1925,1925,June,6/14/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB1868: Jun 24
+IOT,1,725,725,N,Ship,Concordia (SS),Visual,51.65,-54.81666667,1925,1925,June,6/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB1868: Jun 24
+IOT,1,726,726,N,Ship,Concordia (SS),Visual,51.96666667,-55.06666667,1925,1925,June,6/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB1868: Jun 24
+IOT,1,727,727,N,Ship,Concordia (SS),Visual,52,-55.15,1925,1925,June,6/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB1868: Jun 24
+IOT,1,728,728,N,Ship,Concordia (SS),Visual,51.76666667,-55.25,1925,1925,June,6/14/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB1868: Jun 24: growlers & several pieces
+IOT,1,729,729,N,Ship,Concordia (SS),Visual,51.81666667,-55.4,1925,1925,June,6/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB1868: Jun 24
+IOT,1,730,730,N,Ship,Concordia (SS),Visual,51.85,-55.43333333,1925,1925,June,6/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB1868: Jun 24
+IOT,1,731,731,N,Ship,Concordia (SS),Visual,51.75,-55.6,1925,1925,June,6/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB1868: Jun 24
+IOT,1,732,732,N,Ship,Concordia (SS),Visual,51.78333333,-55.9,1925,1925,June,6/14/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB1868: Jun 24
+IOT,1,733,733,N,Ship,Concordia (SS),Visual,51.65,-56.05,1925,1925,June,6/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB1868: Jun 24
+IOT,1,734,734,N,Ship,Concordia (SS),Visual,51.63333333,-56.06666667,1925,1925,June,6/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB1868: Jun 24
+IOT,1,735,735,N,Ship,Concordia (SS),Visual,51.6,-56.18333333,1925,1925,June,6/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB1868: Jun 24
+IOT,1,740,739,Y,Ship,Modoc (IIP),Visual,42.06666667,-49.45,1925,1925,June,6/14/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB1868 Jun 24: lying near large berg [probable resight of #739]
+IOT,1,741,741,N,Ship,Unknown,Visual,47.83333333,-50.08333333,1925,1925,June,6/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB1868 Jun 24
+IOT,1,742,742,N,Ship,Unknown,Visual,48.3,-50.08333333,1925,1925,June,6/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB1868 Jun 24
+IOT,1,479,479,N,Ship,Irma Kimmi (SS),Visual,41.58333333,-49.83333333,1925,1925,June,6/15/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,480,480,N,Ship,Igotz Mendi (SS),Visual,43.86666667,-48.85,1925,1925,June,6/15/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP & HB1868 Jun 24
+IOT,1,481,481,N,Ship,Argosy (SS),Visual,42.88333333,-49.41666667,1925,1925,June,6/15/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,722.01,722.01,N,Ship,Montrose (SS),Visual,51.96666667,-54.96666667,1925,1925,June,6/15/25,,Berg,6,,,,,,,,,,,,,,,,,,,,,HB1868: Jun 24
+IOT,0,722.02,722.02,N,Ship,Montrose (SS),Visual,51.91666667,-55.3,1925,1925,June,6/15/25,,Berg,,,,,,,,,,,,,,,,,,,,,,HB1868: Jun 24
+IOT,1,736,736,N,Ship,Canadian Victor (SS),Visual,51.91666667,-54.9,1925,1925,June,6/15/25,,Berg,2,,,,,,,,,,,,,,,,,,,,,"HB1868 Jun 24: 2 bergs, 1 on each side of the track 15 miles E of Belle Isle"
+IOT,1,738,738,N,Miscellaneous,Belle Isle,Visual,51.91666667,-55.3,1925,1925,June,6/15/25,,Berg,6,,,,,,,,,,,,,,,,,,,,,HB1868 Jun 24
+IOT,1,743,739,Y,Ship,Modoc (IIP),Visual,42.6,-49.51666667,1925,1925,June,6/15/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB1868 Jun 24: lying near large berg [probable resight of #739]
+IOT,1,823,823,N,Ship,Phonix,Visual,51.5,-56.5,1925,1925,June,6/15/25,,Berg,12,,,,,,,,,,,,,,,,,,,,,HB 1873 Jul 29: 12 bergs in the Straits of Belle Isle
+IOT,1,824,824,N,Ship,Phonix,Visual,51.83333333,-55.38333333,1925,1925,June,6/15/25,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1873 Jul 29: 2 bergs ashore at S.Pt. Belle Isle
+IOT,1,482,482,N,Miscellaneous,Cape Race Radio Station,Visual,48.31666667,-47.86666667,1925,1925,June,6/16/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP & HB1868 Jun 24
+IOT,1,483,483,N,Ship,Bergensfjord (SS),Visual,47.96666667,-50.5,1925,1925,June,6/16/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP & HB1868 Jun 24
+IOT,1,484,484,N,Ship,Bergensfjord (SS),Visual,47.61666667,-50.48333333,1925,1925,June,6/16/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP & HB1868 Jun 24
+IOT,1,744,739,Y,Ship,Modoc (IIP),Visual,41.96666667,-49.25,1925,1925,June,6/16/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"HB1868 Jun 24: lying near large berg, disintegrating rapidly [probable resight of #739]"
+IOT,1,750,750,N,Ship,Canada (SS),Visual,51.58333333,-56.23333333,1925,1925,June,6/16/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1869 Jul 1
+IOT,1,751,751,N,Ship,Canada (SS),Visual,51.68333333,-55,1925,1925,June,6/16/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1869 Jul 1
+IOT,1,752,751,Y,Ship,Brandon (SS),Visual,51.66666667,-55,1925,1925,June,6/16/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1. Probable resight of #751
+IOT,1,753,753,N,Ship,Brandon (SS),Visual,51.96666667,-54.95,1925,1925,June,6/16/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1
+IOT,1,754,754,N,Ship,Brandon (SS),Visual,51.75,-54.83333333,1925,1925,June,6/16/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1
+IOT,1,755,755,N,Ship,Brandon (SS),Visual,51.63333333,-52.75,1925,1925,June,6/16/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1
+IOT,1,756.1,753,Y,Ship,Canadian Victor (SS),Visual,51.91666667,-54.9,1925,1925,June,6/16/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1. Position approximate. Passed 2 bergs on each side of track 15 miles E of Belle Isle [probable resight of #s 753 & 754]
+IOT,1,756.2,754,Y,Ship,Canadian Victor (SS),Visual,51.91666667,-54.9,1925,1925,June,6/16/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1. Position approximate. Passed 2 bergs on each side of track 15 miles E of Belle Isle [probable resight of #s 753 & 754]
+IOT,1,757.01,757.01,N,Ship,Canadian Victor (SS),Visual,51.91666667,-55.38333333,1925,1925,June,6/16/25,,Berg,10,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1: 10 bergs between Belle Isle & Pt.Amour on each side of the track
+IOT,0,757.02,757.02,N,Ship,Canadian Victor (SS),Visual,51.41666667,-56.86666667,1925,1925,June,6/16/25,,Berg,,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1: 10 bergs between Belle Isle & Pt.Amour on each side of the track
+IOT,1,758,758,N,Ship,Canadian Victor (SS),Visual,51.4,-57,1925,1925,June,6/16/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1869 Jul 1: small berg between Pt.Amour & Greenly Is.
+IOT,1,798.1,798.1,N,Ship,Digby (SS),Visual,47.51666667,-52.61666667,1925,1925,June,6/16/25,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1870 Jul 8: several bergs & growlers ashore between C.Broyle & C.Spear
+IOT,1,798.2,798.2,N,Ship,Digby (SS),Visual,47.51666667,-52.61666667,1925,1925,June,6/16/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1870 Jul 8: several bergs & growlers ashore between C.Broyle & C.Spear
+IOT,1,485,485,N,Miscellaneous,Cape Race Radio Station,Visual,46.65,-52.63333333,1925,1925,June,6/17/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,486,486,N,Ship,Hellig Olav (SS),Visual,42.8,-49.58333333,1925,1925,June,6/17/25,,Very Large,,,,,,,1,,,,,,,,,,,,,,,IIP. HB1868 Jun 24: 18th. HB 1869 Jul 1: 42.50N 17th.
+IOT,1,676,676,N,Ship,Gudrun Maersk,Visual,49.95,-48.51666667,1925,1925,June,6/17/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1867 Jun 17. #s 675 & 676 consecutive dates of May 16 & Jun 17; unsure if correct
+IOT,1,745,739,Y,Ship,Modoc (IIP),Visual,42.13333333,-48.9,1925,1925,June,6/17/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB1868 Jun 24: lying near berg [probable resight of #739]
+IOT,1,487,487,N,Miscellaneous,Cape Race Radio Station,Visual,46.4,-44.03333333,1925,1925,June,6/18/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP & HB1868 Jun 24
+IOT,1,488,488,N,Ship,Cold Harbor (SS),Visual,46.45,-44.15,1925,1925,June,6/18/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP & HB1868 Jun 24
+IOT,1,489,489,N,Ship,Estonia (SS),Visual,46.46666667,-44.26666667,1925,1925,June,6/18/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP. HB 1870 Jul 8
+IOT,1,746,739,Y,Ship,Modoc (IIP),Visual,42.23333333,-48.58333333,1925,1925,June,6/18/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB1868 Jun 24: lying near berg rapidly disintegrating & drifting NE [probable resight of #739]
+IOT,1,759,759,N,Ship,Megantic (SS),Visual,51.85,-53.35,1925,1925,June,6/19/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1869 Jul 1
+IOT,1,760,760,N,Ship,Megantic (SS),Visual,51.81666667,-55.35,1925,1925,June,6/19/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1869 Jul 1
+IOT,1,761,761,N,Ship,Megantic (SS),Visual,51.76666667,-55.63333333,1925,1925,June,6/19/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1: a low berg
+IOT,1,762,762,N,Ship,Megantic (SS),Visual,51.66666667,-55.9,1925,1925,June,6/19/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1: off C.Norman
+IOT,1,763,763,N,Ship,Megantic (SS),Visual,51.5,-56.5,1925,1925,June,6/19/25,,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1. 3 bergs on N shore [position approximate]
+IOT,1,764,764,N,Ship,Megantic (SS),Visual,51.5,-56.51666667,1925,1925,June,6/19/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1: medium growler
+IOT,1,765,765,N,Ship,Megantic (SS),Visual,51.43333333,-54.83333333,1925,1925,June,6/19/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1
+IOT,1,766,766,N,Ship,Montcalm (SS),Visual,51.76666667,-55.46666667,1925,1925,June,6/19/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1
+IOT,1,767,767,N,Ship,Montcalm (SS),Visual,51.65,-55.63333333,1925,1925,June,6/19/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1
+IOT,1,768,768,N,Ship,Montcalm (SS),Visual,51.71666667,-56.08333333,1925,1925,June,6/19/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1
+IOT,1,769,769,N,Ship,Montcalm (SS),Visual,51.7,-56.18333333,1925,1925,June,6/19/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1
+IOT,1,770,770,N,Ship,Montcalm (SS),Visual,51.66666667,-56.35,1925,1925,June,6/19/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1
+IOT,1,771,771,N,Ship,Montcalm (SS),Visual,51.6,-56.36666667,1925,1925,June,6/19/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1
+IOT,1,772,772,N,Ship,Montcalm (SS),Visual,51.51666667,-56.31666667,1925,1925,June,6/19/25,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1
+IOT,1,773,773,N,Ship,Montcalm (SS),Visual,51.43333333,-56.81666667,1925,1925,June,6/19/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1 [should be lat 51.26N]
+IOT,1,774,774,N,Ship,Montcalm (SS),Visual,51.08333333,-57.66666667,1925,1925,June,6/19/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1
+IOT,1,775,763,Y,Ship,Darlwen (SS),Visual,51.5,-56.5,1925,1925,June,6/19/25,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1869 Jul 1: between Belle Isle & C.Norman, 7 bergs & several small growlers on the track; only 1 berg near the track between C.Norman & Pt.Amours; most W ice 57W [positions approx.]"
+IOT,1,787,763,Y,Miscellaneous,Point Amour,Visual,51.41666667,-56.86666667,1925,1925,June,6/19/25,,Berg,5,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1. Probable resight of bergs already identified this day [#763]
+IOT,1,789,763,Y,Miscellaneous,Belle Isle,Visual,51.91666667,-55.38333333,1925,1925,June,6/19/25,,Berg,5,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1. Probable resight of bergs already identified this day [#763]
+IOT,1,790,790,N,Miscellaneous,Belle Isle,Visual,51.91666667,-55.38333333,1925,1925,June,6/19/25,,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1
+IOT,1,791.1,739,Y,Ship,Modoc (IIP),Visual,42.35,-48.5,1925,1925,June,6/19/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1: lying near berg [probable resight of #739] with 3 large growlers in vicinity
+IOT,1,791.2,739,Y,Ship,Modoc (IIP),Visual,42.35,-48.5,1925,1925,June,6/19/25,,Growler,,3,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1: lying near berg [probable resight of #739] with 3 large growlers in vicinity
+IOT,1,490,490,N,Ship,Lord Kelvin (SS),Visual,48.25,-52.51666667,1925,1925,June,6/20/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP & HB 1869 Jul 1
+IOT,1,491,491,N,Ship,Lord Kelvin (SS),Visual,48.33333333,-52.58333333,1925,1925,June,6/20/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP & HB 1869 Jul 1
+IOT,1,492,492,N,Ship,Lord Kelvin (SS),Visual,48.35,-52.58333333,1925,1925,June,6/20/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP & HB 1869 Jul 1
+IOT,1,493,493,N,Ship,Lord Kelvin (SS),Visual,48.4,-52.73333333,1925,1925,June,6/20/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,494,494,N,Ship,Lord Kelvin (SS),Visual,48.55,-52.65,1925,1925,June,6/20/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP & HB 1869 Jul 1: ""48.03 (?)"""
+IOT,1,788,788,N,Miscellaneous,Point Amour,Visual,51.41666667,-56.86666667,1925,1925,June,6/20/25,,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1
+IOT,1,792.1,739,Y,Ship,Modoc (IIP),Visual,42.66666667,-48.43333333,1925,1925,June,6/20/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1: lying alongside berg [probable resight of #739] with numerous growlers in vicinity
+IOT,1,792.2,739,Y,Ship,Modoc (IIP),Visual,42.66666667,-48.43333333,1925,1925,June,6/20/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1: lying alongside berg [probable resight of #739] with numerous growlers in vicinity
+IOT,1,495.1,495.1,N,Ship,Reaper (SS),Visual,42.75,-50.1,1925,1925,June,6/21/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1869 Jul 1: berg & growlers
+IOT,1,495.2,495.2,N,Ship,Reaper (SS),Visual,42.75,-50.1,1925,1925,June,6/21/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1: berg & growlers
+IOT,1,496.1,495.1,Y,Ship,Liberty (SS),Visual,42.78333333,-50.1,1925,1925,June,6/21/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP [probably repeat of 495]. HB 1870 Jul 8
+IOT,1,496.2,495.2,Y,Ship,Liberty (SS),Visual,42.78333333,-50.1,1925,1925,June,6/21/25,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1870 Jul 8
+IOT,1,497,497,N,Miscellaneous,Cape Race Radio Station,Visual,47.91666667,-50.91666667,1925,1925,June,6/21/25,,Medium,,,,,3,,,,,,,,,,,,,,,,,IIP
+IOT,1,793.1,739,Y,Ship,Modoc (IIP),Visual,42.51666667,-48.2,1925,1925,June,6/21/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1: lying alongside berg [probable resight of #739] with several growlers in vicinity
+IOT,1,793.2,739,Y,Ship,Modoc (IIP),Visual,42.51666667,-48.2,1925,1925,June,6/21/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1: lying alongside berg [probable resight of #739] with several growlers in vicinity
+IOT,1,498.1,739,Y,Ship,France (SS),Visual,42.3,-48.16666667,1925,1925,June,6/22/25,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP [probable resight of #739]. HB 1872 Jul 22: large berg with many growlers (1,500 yards to the N)."
+IOT,1,498.2,739,Y,Ship,France (SS),Visual,42.3,-48.16666667,1925,1925,June,6/22/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,"HB 1872 Jul 22: large berg with many growlers (1,500 yards to the N)."
+IOT,1,499,499,N,Ship,Lord Kelvin (SS),Visual,48.35,-52.56666667,1925,1925,June,6/22/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,776,776,N,Ship,Salacia (SS),Visual,51.85,-55.43333333,1925,1925,June,6/22/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1
+IOT,1,777,777,N,Ship,Salacia (SS),Visual,51.8,-55.5,1925,1925,June,6/22/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1
+IOT,1,778,778,N,Ship,Salacia (SS),Visual,51.8,-55.56666667,1925,1925,June,6/22/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1
+IOT,1,779,779,N,Ship,Salacia (SS),Visual,51.7,-55.5,1925,1925,June,6/22/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1
+IOT,1,780.1,780.1,N,Ship,Salacia (SS),Visual,51.76666667,-55.75,1925,1925,June,6/22/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1: berg & small growlers
+IOT,1,780.2,780.2,N,Ship,Salacia (SS),Visual,51.76666667,-55.75,1925,1925,June,6/22/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1: berg & small growlers
+IOT,1,781,781,N,Ship,Salacia (SS),Visual,51.68333333,-55.85,1925,1925,June,6/22/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1
+IOT,1,782,782,N,Ship,Salacia (SS),Visual,51.51666667,-56.56666667,1925,1925,June,6/22/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1
+IOT,1,783,783,N,Ship,Salacia (SS),Visual,51.45,-56.75,1925,1925,June,6/22/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1
+IOT,1,784.1,784.1,N,Ship,Salacia (SS),Visual,51.28333333,-57.13333333,1925,1925,June,6/22/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1
+IOT,1,784.2,784.2,N,Ship,Salacia (SS),Visual,51.28333333,-57.13333333,1925,1925,June,6/22/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1
+IOT,1,785,785,N,Ship,Salacia (SS),Visual,51.26666667,-57.2,1925,1925,June,6/22/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1: growler S of the track ~7 miles S from Greenly Is.
+IOT,1,794.1,739,Y,Ship,Modoc (IIP),Visual,42.33333333,-48.21666667,1925,1925,June,6/22/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1: lying alongside berg [probable resight of #739] with growlers in vicinity
+IOT,1,794.2,739,Y,Ship,Modoc (IIP),Visual,42.33333333,-48.21666667,1925,1925,June,6/22/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1: lying alongside berg [probable resight of #739] with growlers in vicinity
+IOT,1,535,535,N,Ship,Saugus (SS),Visual,42.35,-48.18333333,1925,1925,June,6/23/25,,Medium,,,,,1,,,,,Dry-dock,,,30,E,,,,,,,,"SICDB: struck iceberg. HB 1869 Jul 1. [probable resight of #739]. HB 1870 Jul 8: ""41.55N (?) 48.00W in dense fog struck & remained grounded for 1 hour 10 minutes on an underwater ledge of an iceberg, water temp. 54°, air 58°""."
+IOT,1,795,739,Y,Ship,Modoc (IIP),Visual,42.33333333,-48.21666667,1925,1925,June,6/23/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1: our position in dense fog near  berg [probable resight of #739] last sighted June 22
+IOT,1,501,739,Y,Ship,Hektor (SS),Visual,42.43333333,-48.1,1925,1925,June,6/24/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP [probable resight of #739]
+IOT,1,796.1,739,Y,Ship,Modoc (IIP),Visual,42.5,-48,1925,1925,June,6/24/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1: lying alongside berg [probable resight of #739] with several growlers in vicinity
+IOT,1,796.2,739,Y,Ship,Modoc (IIP),Visual,42.5,-48,1925,1925,June,6/24/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1869 Jul 1: lying alongside berg [probable resight of #739] with several growlers in vicinity
+IOT,1,500,500,N,Ship,Assyria (SS),Visual,49.33333333,-46.01666667,1925,1925,June,6/25/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
+IOT,1,502.1,495.1,Y,Ship,Modoc (IIP),Visual,42.68333333,-50.93333333,1925,1925,June,6/25/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP. HB 1869: small bergs & growlers repoerted on 21 June [resight of 495]
+IOT,1,502.2,495.2,Y,Ship,Modoc (IIP),Visual,42.68333333,-50.93333333,1925,1925,June,6/25/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1869: small bergs & growlers repoerted on 21 June [resight of 495]
+IOT,1,505,505,N,Ship,Drubergen (SS),Visual,49,-50.16666667,1925,1925,June,6/26/25,,Berg,2,,,,,,,,,,,,,,,,,,,,,IIP & HB 1875 Aug 12
+IOT,1,506,506,N,Ship,Drubergen (SS),Visual,49.23333333,-49.13333333,1925,1925,June,6/26/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP & HB 1875 Aug 12
+IOT,1,799.11,799.11,N,Ship,Regina (SS),Visual,51.91666667,-55.38333333,1925,1925,June,6/26/25,,Berg,18,,,,,,,,,,,,,,,,,,,,,HB 1870 Jul 8: between Belle Isle & Pt.Amour passed 18 bergs & several growlers
+IOT,0,799.12,799.12,N,Ship,Regina (SS),Visual,51.41666667,-56.86666667,1925,1925,June,6/26/25,,Berg,,,,,,,,,,,,,,,,,,,,,,HB 1870 Jul 8: between Belle Isle & Pt.Amour passed 18 bergs & several growlers
+IOT,1,799.21,799.21,N,Ship,Regina (SS),Visual,51.91666667,-55.38333333,1925,1925,June,6/26/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1870 Jul 8: between Belle Isle & Pt.Amour passed 18 bergs & several growlers
+IOT,0,799.22,799.22,N,Ship,Regina (SS),Visual,51.41666667,-56.86666667,1925,1925,June,6/26/25,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1870 Jul 8: between Belle Isle & Pt.Amour passed 18 bergs & several growlers
+IOT,1,800,800,N,Ship,Regina (SS),Visual,51.21666667,-57.2,1925,1925,June,6/26/25,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1870 Jul 8: 2 bergs 21 miles W of Pt.Amour
+IOT,1,801,801,N,Miscellaneous,Point Amour,Visual,51.41666667,-56.86666667,1925,1925,June,6/26/25,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1870 Jul 8
+IOT,1,802,802,N,Miscellaneous,Belle Isle,Visual,51.91666667,-55.3,1925,1925,June,6/26/25,,Berg,8,,,,,,,,,,,,,,,,,,,,,HB 1870 Jul 8
+IOT,1,825,825,N,Ship,Emilie L.D. (SS),Visual,51.18333333,-57.38333333,1925,1925,June,6/26/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1873 Jul 29
+IOT,1,826,826,N,Ship,Emilie L.D. (SS),Visual,51.2,-57.36666667,1925,1925,June,6/26/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1873 Jul 29
+IOT,1,827,827,N,Ship,Emilie L.D. (SS),Visual,51.45,-56.76666667,1925,1925,June,6/26/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1873 Jul 29
+IOT,1,828,828,N,Ship,Emilie L.D. (SS),Visual,51.33333333,-56.71666667,1925,1925,June,6/26/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1873 Jul 29
+IOT,1,829,829,N,Ship,Emilie L.D. (SS),Visual,51.53333333,-56.53333333,1925,1925,June,6/26/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1873 Jul 29
+IOT,1,830,830,N,Ship,Emilie L.D. (SS),Visual,51.8,-56.08333333,1925,1925,June,6/26/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1873 Jul 29
+IOT,1,831,831,N,Ship,Emilie L.D. (SS),Visual,51.71666667,-55.7,1925,1925,June,6/26/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1873 Jul 29
+IOT,1,832,832,N,Ship,Emilie L.D. (SS),Visual,51.65,-55.85,1925,1925,June,6/26/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1873 Jul 29
+IOT,1,833,833,N,Ship,Emilie L.D. (SS),Visual,51.78333333,-55.55,1925,1925,June,6/26/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1873 Jul 29
+IOT,1,834,834,N,Ship,Emilie L.D. (SS),Visual,51.91666667,-55.58333333,1925,1925,June,6/26/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1873 Jul 29
+IOT,1,503.1,503.1,N,Ship,Korsholman (SS),Visual,48.5,-49.26666667,1925,1925,June,6/28/25,,Berg,2,,,,,,,,,,,,,,,,,,,,,IIP. HB 1870 Jul 8: 2 bergs & several growlers
+IOT,1,503.2,503.2,N,Ship,Korsholman (SS),Visual,48.5,-49.26666667,1925,1925,June,6/28/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1870 Jul 8: 2 bergs & several growlers
+IOT,1,504.1,504.1,N,Ship,Loch Fay (SS),Visual,49.58333333,-45.31666667,1925,1925,June,6/28/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1872 Jul 22: large berg with many small pieces in vicinity
+IOT,1,504.2,504.2,N,Ship,Loch Fay (SS),Visual,49.58333333,-45.31666667,1925,1925,June,6/28/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1872 Jul 22: large berg with many small pieces in vicinity
+IOT,1,804,804,N,Ship,Loch Fay (SS),Visual,47.81666667,-52.53333333,1925,1925,June,6/28/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1872 Jul 22: large berg ~10 miles off C.St.Francis
+IOT,1,507.1,804,Y,Ship,Drubergen (SS),Visual,47.81666667,-52.53333333,1925,1925,June,6/29/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. [probable resight of 804]. HB 1875 Aug 12: large & small berg 10 miles E of C.St.Francis
+IOT,1,507.2,804,Y,Ship,Drubergen (SS),Visual,47.81666667,-52.53333333,1925,1925,June,6/29/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1875 Aug 12: large & small berg 10 miles E of C.St.Francis
+IOT,1,803,739,Y,Ship,Tampa (IIP),Visual,43.06666667,-47,1925,1925,June,6/30/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1870 Jul 8: lying alongside small growler (rapidly disintegrating) of berg last seen by patrol vessel (June 24); disappeared next day. 
+IOT,1,805,805,N,Ship,Loch Fay (SS),Visual,47.83333333,-52.83333333,1925,1925,June,6/30/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1872 Jul 22: just inside Cape St.Francis
+IOT,1,508,508,N,Ship,Stavangerfjord (SS),Visual,48.45,-49.75,1925,1925,July,7/2/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP. HB 1872 Jul 15
+IOT,1,509,509,N,Ship,Drubergen (SS),Visual,48.41666667,-49.5,1925,1925,July,7/5/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP. HB 1875 Aug 12
+IOT,1,510,510,N,Ship,Nevada (SS),Visual,49.7,-48.83333333,1925,1925,July,7/5/25,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP. HB 1872 Jul 22
+IOT,1,511,511,N,Ship,Clairton (SS),Visual,48.06666667,-48.68333333,1925,1925,July,7/6/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,512,512,N,Ship,Clairton (SS),Visual,48.01666667,-48.66666667,1925,1925,July,7/6/25,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP
+IOT,1,513,513,N,Miscellaneous,Cape Race Radio Station,Visual,48.08333333,-47.75,1925,1925,July,7/8/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
+IOT,1,858,858,N,Ship,Drubergen (SS),Visual,47.75,-53,1925,1925,July,7/9/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1875 Aug 12: medium berg in Conception Bay [position approximate]
+IOT,1,806,806,N,Ship,Athenia (SS),Visual,52.95,-51.5,1925,1925,July,7/10/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1872 Jul 22: small low-lying berg
+IOT,1,807,807,N,Ship,Athenia (SS),Visual,51.96666667,-54.91666667,1925,1925,July,7/10/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1872 Jul 22
+IOT,1,808,808,N,Ship,Athenia (SS),Visual,51.81666667,-54.93333333,1925,1925,July,7/10/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1872 Jul 22
+IOT,1,809,809,N,Ship,Athenia (SS),Visual,51.93333333,-55.16666667,1925,1925,July,7/10/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1872 Jul 22
+IOT,1,810,810,N,Ship,Athenia (SS),Visual,51.85,-55.36666667,1925,1925,July,7/10/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1872 Jul 22
+IOT,1,811.1,811.1,N,Ship,Athenia (SS),Visual,52,-55.38333333,1925,1925,July,7/10/25,,Large,,,,,,4,,,,,,,,,,,,,,,,HB 1872 Jul 22: 4 large bergs & 2 growlers off N end Belle Isle
+IOT,1,811.2,811.2,N,Ship,Athenia (SS),Visual,52,-55.38333333,1925,1925,July,7/10/25,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1872 Jul 22: 4 large bergs & 2 growlers off N end Belle Isle
+IOT,1,812,812,N,Ship,Athenia (SS),Visual,51.78333333,-55.76666667,1925,1925,July,7/10/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1872 Jul 22
+IOT,1,813,813,N,Ship,Athenia (SS),Visual,51.46666667,-56.93333333,1925,1925,July,7/10/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1872 Jul 22: large berg in Forteau Bay
+IOT,1,814,814,N,Ship,Manchester Producer (SS),Visual,51.9,-54.48333333,1925,1925,July,7/12/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1872 Jul 22
+IOT,1,815,815,N,Ship,Elswick Tower (SS),Visual,53.05,-51.66666667,1925,1925,July,7/12/25,,Small,,,,2,,,,,,,,,,,,,,,,,,HB 1872 Jul 22
+IOT,1,816.1,816.1,N,Ship,Corrientes (SS),Visual,51.8,-54.88333333,1925,1925,July,7/13/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1872 Jul 22: berg & several growlers
+IOT,1,816.2,816.2,N,Ship,Corrientes (SS),Visual,51.8,-54.88333333,1925,1925,July,7/13/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1872 Jul 22: berg & several growlers
+IOT,1,817.1,817.1,N,Ship,Corrientes (SS),Visual,51.91666667,-54.6,1925,1925,July,7/13/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1872 Jul 22: large berg & small pieces
+IOT,1,817.2,817.2,N,Ship,Corrientes (SS),Visual,51.91666667,-54.6,1925,1925,July,7/13/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1872 Jul 22: large berg & small pieces
+IOT,1,818,818,N,Ship,Queen Olga (SS),Visual,51.28333333,-54.66666667,1925,1925,July,7/13/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1872 Jul 22
+IOT,1,819,819,N,Ship,Queen Olga (SS),Visual,52,-55.5,1925,1925,July,7/13/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1872 Jul 22
+IOT,1,820,820,N,Ship,Queen Olga (SS),Visual,51.95,-55.6,1925,1925,July,7/13/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1872 Jul 22
+IOT,1,821,821,N,Ship,Queen Olga (SS),Visual,51.83333333,-55.75,1925,1925,July,7/13/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1872 Jul 22
+IOT,1,822.1,822.1,N,Ship,Queen Olga (SS),Visual,51.83333333,-55.38333333,1925,1925,July,7/13/25,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1872 Jul 22: several bergs & growlers off S.Pt., Belle Isle"
+IOT,1,822.2,822.2,N,Ship,Queen Olga (SS),Visual,51.83333333,-55.38333333,1925,1925,July,7/13/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,"HB 1872 Jul 22: several bergs & growlers off S.Pt., Belle Isle"
+IOT,1,835,835,N,Ship,Brandon (SS),Visual,51.68333333,-54.5,1925,1925,July,7/16/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1873 Jul 29
+IOT,1,836,836,N,Ship,Brandon (SS),Visual,51.83333333,-55.38333333,1925,1925,July,7/16/25,,Berg,3,,,,,,,,,,,,,,,,,,,,,"HB 1873 Jul 29: 3 bergs off S.Pt., Belle Isle"
+IOT,1,837,837,N,Ship,Montcalm (SS),Visual,51.81666667,-54.68333333,1925,1925,July,7/16/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1873 Jul 29
+IOT,1,838,838,N,Ship,Montcalm (SS),Visual,51.73333333,-55.81666667,1925,1925,July,7/16/25,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1873 Jul 29: 2 bergs 7 miles 25° off C.Norman
+IOT,1,839,839,N,Ship,Montcalm (SS),Visual,51.78333333,-56.2,1925,1925,July,7/16/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1873 Jul 29
+IOT,1,840.1,840.1,N,Ship,Nascopie (SS),Visual,53.21666667,-52.25,1925,1925,July,7/16/25,,Small,,,,2,,,,,,,,,,,,,,,,,,HB 1873 Jul 29: 2 small bergs & seveal growlers
+IOT,1,840.2,840.2,N,Ship,Nascopie (SS),Visual,53.21666667,-52.25,1925,1925,July,7/16/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1873 Jul 29: 2 small bergs & seveal growlers
+IOT,1,841,841,N,Ship,Megantic (SS),Visual,51.71666667,-55.33333333,1925,1925,July,7/16/25,,Large,,,,,,2,,,,,,,,,,,,,,,,HB 1873 Jul 29
+IOT,1,842,842,N,Ship,Megantic (SS),Visual,51.91666667,-55.5,1925,1925,July,7/16/25,,Large,,,,,,3,,,,,,,,,,,,,,,,HB 1873 Jul 29
+IOT,1,843,843,N,Ship,Megantic (SS),Visual,51.73333333,-55.7,1925,1925,July,7/16/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1873 Jul 29
+IOT,1,884,884,N,Ship,Bothwell (SS),Visual,51.71666667,-55.8,1925,1925,July,7/16/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,885,885,N,Ship,Bothwell (SS),Visual,52,-55.5,1925,1925,July,7/16/25,,Berg,4,,,,,,,,,,,,,,,,,,,,,"HB 1876 Aug 19: 4 bergs in N.Channel, Belle Isle [position approximate]"
+IOT,1,886,886,N,Ship,Bothwell (SS),Visual,51.68333333,-54.58333333,1925,1925,July,7/16/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,844,844,N,Ship,Metagama (SS),Visual,52.7,-52.06666667,1925,1925,July,7/17/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1873 Jul 29
+IOT,1,845,845,N,Ship,Metagama (SS),Visual,52.7,-52.03333333,1925,1925,July,7/17/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1873 Jul 29
+IOT,1,846,846,N,Ship,Metagama (SS),Visual,52.71666667,-51.75,1925,1925,July,7/17/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1873 Jul 29: small low berg
+IOT,1,852.1,852.1,N,Ship,Porsanger (SS),Visual,53.21666667,-52.26666667,1925,1925,July,7/17/25,,Small,,,,2,,,,,,,,,,,,,,,,,,HB 1873 Jul 29
+IOT,1,852.2,852.2,N,Ship,Porsanger (SS),Visual,53.21666667,-52.26666667,1925,1925,July,7/17/25,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1873 Jul 29
+IOT,1,853.1,853.1,N,Ship,Oxonian (SS),Visual,51.71666667,-55,1925,1925,July,7/17/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1873 Jul 29
+IOT,1,853.2,853.2,N,Ship,Oxonian (SS),Visual,51.71666667,-55,1925,1925,July,7/17/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1873 Jul 29
+IOT,1,854,854,N,Ship,Oxonian (SS),Visual,51.78333333,-55.25,1925,1925,July,7/17/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1873 Jul 29: small berg 8 miles 161° from Belle Isle
+IOT,1,855,855,N,Ship,Brandon (SS),Visual,51.96666667,-55.63333333,1925,1925,July,7/18/25,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1873 Jul 29: large number of bergs in North Channel [position approximate]
+IOT,1,856,856,N,Ship,Brandon (SS),Visual,51.83333333,-55.78333333,1925,1925,July,7/18/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1873 Jul 29: berg 15 miles W of S.Pt. Belle Isle
+IOT,1,857,857,N,Ship,Brandon (SS),Visual,51.75,-55.8,1925,1925,July,7/18/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1873 Jul 29: berg 8 miles 30° from C.Norman
+IOT,1,847,847,N,Ship,Lord Londonderry (SS),Visual,51.76666667,-55.38333333,1925,1925,July,7/19/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1873 Jul 29: low lying berg 4 miles S of S.Pt. Belle Isle
+IOT,1,848,848,N,Ship,Lord Londonderry (SS),Visual,51.63333333,-55.38333333,1925,1925,July,7/19/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1873 Jul 29: berg 2 miles E C.Bauld
+IOT,1,849,849,N,Ship,Lord Londonderry (SS),Visual,51.63333333,-55.3,1925,1925,July,7/19/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1873 Jul 29: berg 5 miles E C.Bauld
+IOT,1,850,850,N,Ship,Lord Londonderry (SS),Visual,52,-55.5,1925,1925,July,7/19/25,,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 1873 Jul 29: 3 bergs in N Channel [position approximate]
+IOT,1,851,851,N,Ship,Lord Londonderry (SS),Visual,51.76666667,-55.78333333,1925,1925,July,7/19/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1873 Jul 29
+IOT,1,859,859,N,Ship,Alchiba (SS),Visual,52.05,-55,1925,1925,July,7/20/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1875 Aug 12
+IOT,1,860,860,N,Ship,Alchiba (SS),Visual,51.81666667,-55.68333333,1925,1925,July,7/20/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1875 Aug 12
+IOT,1,861,861,N,Ship,Alchiba (SS),Visual,51.75,-55.76666667,1925,1925,July,7/20/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1875 Aug 12
+IOT,1,877,877,N,Ship,Montrose (SS),Visual,51.9,-54.98333333,1925,1925,August,8/1/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1875 Aug 12
+IOT,1,878,878,N,Ship,Montrose (SS),Visual,51.95,-55.4,1925,1925,August,8/1/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1875 Aug 12
+IOT,1,879,879,N,Ship,Manchester Regiment (SS),Visual,52.95,-51.45,1925,1925,August,8/1/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1875 Aug 12
+IOT,1,880.01,880.01,N,Ship,Manchester Regiment (SS),Visual,51.91666667,-55.38333333,1925,1925,August,8/1/25,,Growler,,5,,,,,,,,,,,,,,,,,,,,HB 1875 Aug 12: 5 small growlers between Belle Isle & C.Norman
+IOT,0,880.02,880.02,N,Ship,Manchester Regiment (SS),Visual,51.66666667,-55.9,1925,1925,August,8/1/25,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1875 Aug 12: 5 small growlers between Belle Isle & C.Norman
+IOT,1,881,881,N,Ship,Manchester Regiment (SS),Visual,51.73333333,-55.9,1925,1925,August,8/1/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1875 Aug 12: a small berg ~ 6 miles off C.Norman
+IOT,1,882,882,N,Ship,Manchester Regiment (SS),Visual,51.6,-56.25,1925,1925,August,8/1/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1875 Aug 12: a long berg apparantly aground [lat of 52 should be 51N]
+IOT,1,883.01,883.01,N,Ship,Manchester Regiment (SS),Visual,51.6,-56.25,1925,1925,August,8/1/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1875 Aug 12: to Pt.Amour several small growlers [lst of 52 should be 51]
+IOT,0,883.02,883.02,N,Ship,Manchester Regiment (SS),Visual,51.45,-56.86666667,1925,1925,August,8/1/25,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1875 Aug 12: to Pt.Amour several small growlers
+IOT,1,935,935,N,Ship,Ariano (SS),Visual,51.81666667,-54.98333333,1925,1925,August,8/1/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1878 Sep 2
+IOT,1,936,936,N,Ship,Ariano (SS),Visual,51.73333333,-54.96666667,1925,1925,August,8/1/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1878 Sep 2
+IOT,1,937,937,N,Ship,Ariano (SS),Visual,51.65,-56.41666667,1925,1925,August,8/1/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1878 Sep 2: large berg 5 miles S of Red Bay
+IOT,1,938,938,N,Ship,Ariano (SS),Visual,51.6,-56.46666667,1925,1925,August,8/1/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1878 Sep 2: large berg 8 miles S by W of Red Bay
+IOT,1,939,939,N,Ship,Ariano (SS),Visual,51.38333333,-56.75,1925,1925,August,8/1/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1878 Sep 2: growler 6 miles SE Pt.Amour
+IOT,1,940,940,N,Ship,Ariano (SS),Visual,51.4,-57,1925,1925,August,8/1/25,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1878 Sep 2: 2 growlers between Greenly Is. & Pt.Amour
+IOT,1,871,871,N,Ship,Montnairn (SS),Visual,52.65,-51.83333333,1925,1925,August,8/2/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1875 Aug 12
+IOT,1,872,872,N,Ship,Kastalia (SS),Visual,52.6,-51.01666667,1925,1925,August,8/2/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1875 Aug 12
+IOT,1,873,873,N,Ship,Kastalia (SS),Visual,52.45,-51.5,1925,1925,August,8/2/25,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1875 Aug 12
+IOT,1,874,874,N,Ship,Kastalia (SS),Visual,52.7,-51.78333333,1925,1925,August,8/2/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1875 Aug 12
+IOT,1,875,875,N,Ship,Glenfinlas (SS),Visual,52.31666667,-51.26666667,1925,1925,August,8/2/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1875 Aug 12
+IOT,1,876,876,N,Ship,Glensloy (SS),Visual,51.76666667,-55.01666667,1925,1925,August,8/2/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1875 Aug 12: large berg 15 miles SE Belle Isle
+IOT,1,862,862,N,Ship,Montclare (SS),Visual,52.81666667,-51.76666667,1925,1925,August,8/3/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1875 Aug 12
+IOT,1,863.1,863.1,N,Ship,Vredenberg (SS),Visual,52.96666667,-53.11666667,1925,1925,August,8/3/25,,Large,,,,,,x,,,,,,,,,,,,,,,,HB 1875 Aug 12: several large bergs & growlers
+IOT,1,863.2,863.2,N,Ship,Vredenberg (SS),Visual,52.96666667,-53.11666667,1925,1925,August,8/3/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1875 Aug 12: several large bergs & growlers
+IOT,1,864.1,864.1,N,Miscellaneous,Belle Isle,Visual,52.36666667,-53.91666667,1925,1925,August,8/3/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1875 Aug 12: large berg & several growlers
+IOT,1,864.2,864.2,N,Miscellaneous,Belle Isle,Visual,52.36666667,-53.91666667,1925,1925,August,8/3/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1875 Aug 12: large berg & several growlers
+IOT,1,865.1,865.1,N,Miscellaneous,Belle Isle,Visual,52.63333333,-53.41666667,1925,1925,August,8/3/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1875 Aug 12: large berg & several growlers
+IOT,1,865.2,865.2,N,Miscellaneous,Belle Isle,Visual,52.63333333,-53.41666667,1925,1925,August,8/3/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1875 Aug 12: large berg & several growlers
+IOT,1,866,866,N,Miscellaneous,Belle Isle,Visual,52.93333333,-51.75,1925,1925,August,8/3/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1875 Aug 12: large low berg
+IOT,1,867,867,N,Miscellaneous,Belle Isle,Visual,52.31666667,-54,1925,1925,August,8/3/25,,Large,,,,,,2,,,,,,,,,,,,,,,,HB 1875 Aug 12
+IOT,1,868,868,N,Miscellaneous,Belle Isle,Visual,52.41666667,-54,1925,1925,August,8/3/25,,Medium,,,,,3,,,,,,,,,,,,,,,,,HB 1875 Aug 12
+IOT,1,869,869,N,Miscellaneous,Belle Isle,Visual,52.48333333,-53.56666667,1925,1925,August,8/3/25,,Small,,,,1,,,,,,,,,15,E,,,,,,,,HB 1875 Aug 12: low-lying berg ~50' high
+IOT,1,870,870,N,Miscellaneous,Belle Isle,Visual,52.51666667,-53.55,1925,1925,August,8/3/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1875 Aug 12
+IOT,1,941.1,941.1,N,Ship,Regina (SS),Visual,51.55,-56.45,1925,1925,August,8/3/25,,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 1878 Sep 2
+IOT,1,941.2,941.2,N,Ship,Regina (SS),Visual,51.55,-56.45,1925,1925,August,8/3/25,,Growler,,7,,,,,,,,,,,,,,,,,,,,HB 1878 Sep 2
+IOT,1,942,942,N,Ship,Regina (SS),Visual,52.1,-54.08333333,1925,1925,August,8/3/25,,Medium,,,,1,,,,,,,61,E,46,E,,,,,,,,HB 1878 Sep 2: large berg ~150' high & 200' long
+IOT,1,888,888,N,Ship,Cairnmona (SS),Visual,53.01666667,-52.5,1925,1925,August,8/4/25,,Large,,,,,,2,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,889.01,889.01,N,Ship,Cairnmona (SS),Visual,51.66666667,-55.9,1925,1925,August,8/4/25,,Small,,,,x,,,,,,,,,,,,,,,,,,HB 1876 Aug 19: several small bergs between C.Norman & Pt.Amour
+IOT,0,889.02,889.02,N,Ship,Cairnmona (SS),Visual,51.45,-56.86666667,1925,1925,August,8/4/25,,Small,,,,,,,,,,,,,,,,,,,,,,HB 1876 Aug 19: several small bergs between C.Norman & Pt.Amour
+IOT,1,890,890,N,Ship,Kastalia (SS),Visual,51.58333333,-56.4,1925,1925,August,8/4/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,891,891,N,Ship,Kastalia (SS),Visual,51.55,-56.48333333,1925,1925,August,8/4/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,968,968,N,Ship,Alchiba (SS),Visual,51.38333333,-56.85,1925,1925,August,8/4/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1880 Sep 16
+IOT,1,969,969,N,Ship,Alchiba (SS),Visual,51.43333333,-56.7,1925,1925,August,8/4/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1880 Sep 16
+IOT,1,970,970,N,Ship,Alchiba (SS),Visual,51.46666667,-56.66666667,1925,1925,August,8/4/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1880 Sep 16
+IOT,1,892,892,N,Ship,Doric (SS),Visual,52.78333333,-51.75,1925,1925,August,8/5/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1876 Aug 19. Later in issue gives 52.47N 51.55W; same berg?
+IOT,1,893,893,N,Ship,Doric (SS),Visual,52.13333333,-53.81666667,1925,1925,August,8/5/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1876 Aug 19. Later in issue gives 52.18N 53.49W; same berg?
+IOT,1,894,894,N,Ship,Ausonia (SS),Visual,51.75,-55,1925,1925,August,8/5/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,895,895,N,Ship,Ausonia (SS),Visual,52.31666667,-51.15,1925,1925,August,8/5/25,,Very Large,,,,,,,1,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,896,895,Y,Ship,Essex County (SS),Visual,52.43333333,-50,1925,1925,August,8/5/25,,Very Large,,,,,,,1,,,,,,,,,,,,,,,HB 1876 Aug 19 [probably same as #895]
+IOT,1,897,897,N,Ship,Afghanistan (SS),Visual,52.13333333,-54.2,1925,1925,August,8/5/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,898,898,N,Ship,Afghanistan (SS),Visual,52.01666667,-54.15,1925,1925,August,8/5/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,899,899,N,Ship,Cairngowan (SS),Visual,52.3,-54.2,1925,1925,August,8/5/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,900,900,N,Ship,Cairngowan (SS),Visual,52.36666667,-54.06666667,1925,1925,August,8/5/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,901,901,N,Ship,Cairngowan (SS),Visual,53,-51.98333333,1925,1925,August,8/5/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,902,902,N,Ship,Cairngowan (SS),Visual,53.05,-52.03333333,1925,1925,August,8/5/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,903,903,N,Ship,Cairngowan (SS),Visual,52.91666667,-51.86666667,1925,1925,August,8/5/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,904,904,N,Ship,Glentworth (SS),Visual,51.86666667,-54.31666667,1925,1925,August,8/5/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,905,905,N,Ship,Batsford (SS),Visual,52.35,-51.3,1925,1925,August,8/5/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,906,906,N,Ship,Batsford (SS),Visual,51.9,-54.21666667,1925,1925,August,8/5/25,,Very Large,,,,,,,1,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,907,907,N,Ship,Doric (SS),Visual,51.81666667,-55.73333333,1925,1925,August,8/5/25,,Large,,,,,,2,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,908.1,908.1,N,Ship,Doric (SS),Visual,51.43333333,-56.63333333,1925,1925,August,8/5/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,908.2,908.2,N,Ship,Doric (SS),Visual,51.43333333,-56.63333333,1925,1925,August,8/5/25,,Small,,,,2,,,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,971,906,Y,Ship,Alchiba (SS),Visual,51.93333333,-54.06666667,1925,1925,August,8/5/25,,Very Large,,,,,,,1,,,,,,,,,,,,,,,HB 1880 Sep 16. [likely same as #906]
+IOT,1,972,972,N,Ship,Alchiba (SS),Visual,52.11666667,-50.96666667,1925,1925,August,8/5/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1880 Sep 16
+IOT,1,887,887,N,Ship,Galtymore (SS),Visual,49.11666667,-46.9,1925,1925,August,8/6/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,909,909,N,Ship,Gracia (SS),Visual,52.76666667,-52.03333333,1925,1925,August,8/6/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1876 Aug 19. Mentioned later as 7th
+IOT,1,910.1,910.1,N,Ship,Gracia (SS),Visual,52.88333333,-52.11666667,1925,1925,August,8/6/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1876 Aug 19: small berg & several small pieces. Mentioned later as 7th
+IOT,1,910.2,910.2,N,Ship,Gracia (SS),Visual,52.88333333,-52.11666667,1925,1925,August,8/6/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1876 Aug 19: small berg & several small pieces
+IOT,1,911,911,N,Ship,Athenia (SS),Visual,51.55,-56.33333333,1925,1925,August,8/7/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,912,912,N,Ship,Athenia (SS),Visual,51.53333333,-56.4,1925,1925,August,8/7/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,913,913,N,Ship,Athenia (SS),Visual,51.55,-56.45,1925,1925,August,8/7/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,914,914,N,Ship,Athenia (SS),Visual,51.48333333,-56.63333333,1925,1925,August,8/7/25,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,915,915,N,Ship,Silksworth (SS),Visual,51.9,-54.3,1925,1925,August,8/7/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,916,916,N,Ship,Silksworth (SS),Visual,51.96666667,-54.08333333,1925,1925,August,8/7/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,917,917,N,Ship,Empress of Scotland (SS),Visual,52.11666667,-51.58333333,1925,1925,August,8/7/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,918,918,N,Ship,Empress of Scotland (SS),Visual,52.1,-51.21666667,1925,1925,August,8/7/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,919,919,N,Ship,Landvard (SS),Visual,52.61666667,-52.48333333,1925,1925,August,8/7/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,920,920,N,Ship,Gracia (SS),Visual,51.91666667,-52.41666667,1925,1925,August,8/7/25,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1876 Aug 19: 2 bergs off W side of Belle Isle
+IOT,1,921,921,N,Ship,Gracia (SS),Visual,51.55,-56.4,1925,1925,August,8/7/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,922,922,N,Ship,Gracia (SS),Visual,51.5,-56.6,1925,1925,August,8/7/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,923,923,N,Ship,Gracia (SS),Visual,51.48333333,-56.61666667,1925,1925,August,8/7/25,,Berg,,1,,,,,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,924,924,N,Ship,Gracia (SS),Visual,51.48333333,-56.8,1925,1925,August,8/7/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,925.1,925.1,N,Ship,Gracia (SS),Visual,51.36666667,-56.86666667,1925,1925,August,8/7/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1876 Aug 19: large berg & several small pieces
+IOT,1,925.2,925.2,N,Ship,Gracia (SS),Visual,51.36666667,-56.86666667,1925,1925,August,8/7/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1876 Aug 19: large berg & several small pieces
+IOT,1,926,926,N,Ship,Andijk (SS),Visual,51.95,-54.43333333,1925,1925,August,8/10/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1876 Aug 19
+IOT,1,927.1,927.1,N,Ship,Manchester Hero (SS),Visual,51.5,-56.5,1925,1925,August,8/10/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1876 Aug 19: small berg & several small pieces aground
+IOT,1,927.2,927.2,N,Ship,Manchester Hero (SS),Visual,51.5,-56.5,1925,1925,August,8/10/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1876 Aug 19: small berg & several small pieces aground
+IOT,1,928.1,928.1,N,Ship,Baron Herries (SS),Visual,51.93333333,-55.58333333,1925,1925,August,8/10/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1877 Aug 26
+IOT,1,928.2,928.2,N,Ship,Baron Herries (SS),Visual,51.93333333,-55.58333333,1925,1925,August,8/10/25,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1877 Aug 26
+IOT,1,929,929,N,Ship,Baron Herries (SS),Visual,51.65,-56.06666667,1925,1925,August,8/10/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1877 Aug 26
+IOT,1,973,973,N,Ship,Homer City (SS),Visual,53.06666667,-52.53333333,1925,1925,August,8/10/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1880 Sep 16
+IOT,1,930,930,N,Ship,Fanad Head (SS),Visual,51.63333333,-56.6,1925,1925,August,8/12/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,"HB 1877 Aug 26: berg aground off Nelly Is., Penware Bay"
+IOT,1,931,931,N,Ship,Fanad Head (SS),Visual,51.41666667,-56.86666667,1925,1925,August,8/12/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1877 Aug 26: growler aground off Pt.Amour
+IOT,1,934.1,934.1,N,Miscellaneous,Belle Isle,Visual,51.91666667,-55.3,1925,1925,August,8/13/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1877 Aug 26
+IOT,1,934.2,934.2,N,Miscellaneous,Belle Isle,Visual,51.91666667,-55.3,1925,1925,August,8/13/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1877 Aug 26
+IOT,1,932,932,N,Ship,Turcoman (SS),Visual,51.83333333,-55.56666667,1925,1925,August,8/14/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1877 Aug 26
+IOT,1,933,933,N,Ship,Turcoman (SS),Visual,51.51666667,-56.78333333,1925,1925,August,8/14/25,,Small,,,,2,,,,,,,,,,,,,,,,,,HB 1877 Aug 26: 2 small bergs aground on Northern Shore [position approximate]
+IOT,1,943,943,N,Ship,Regina (SS),Visual,52.81666667,-51.98333333,1925,1925,August,8/19/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1878 Sep 2
+IOT,1,944.1,944.1,N,Ship,Canadian Mariner (SS),Visual,52.5,-52.16666667,1925,1925,August,8/19/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1878 Sep 2
+IOT,1,944.2,944.2,N,Ship,Canadian Mariner (SS),Visual,52.5,-52.16666667,1925,1925,August,8/19/25,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1878 Sep 2
+IOT,1,945,945,N,Ship,Montclare (SS),Visual,53,-51.91666667,1925,1925,August,8/19/25,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1878 Sep 2
+IOT,1,946,946,N,Ship,Montclare (SS),Visual,52.78333333,-51.93333333,1925,1925,August,8/19/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1878 Sep 2
+IOT,1,947,947,N,Miscellaneous,Belle Isle,Visual,51.83333333,-55.3,1925,1925,August,8/20/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1878 Sep 2
+IOT,1,948.1,948.1,N,Ship,Megantic (SS),Visual,52.28333333,-53.6,1925,1925,August,8/24/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1879 Sep 9
+IOT,1,948.2,948.2,N,Ship,Megantic (SS),Visual,52.28333333,-53.6,1925,1925,August,8/24/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1879 Sep 9
+IOT,1,949.1,948.1,Y,Ship,Welland County (SS),Visual,52.21666667,-53.71666667,1925,1925,August,8/25/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1879 Sep 9. [probably same as 948.1]
+IOT,1,949.2,948.2,Y,Ship,Welland County (SS),Visual,52.21666667,-53.71666667,1925,1925,August,8/25/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1879 Sep 9. [probably same as 948.2]
+IOT,1,950,950,N,Ship,Ravenstone (SS),Visual,52.11666667,-54.65,1925,1925,August,8/26/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1879 Sep 9
+IOT,1,951,948.1,Y,Ship,Antonia (SS),Visual,52.18333333,-53.56666667,1925,1925,August,8/26/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1879 Sep 9
+IOT,1,952,952,N,Ship,Canadian Leader (SS),Visual,52.08333333,-54.11666667,1925,1925,August,8/26/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1879 Sep 9
+IOT,1,954,954,N,Ship,Aspasia Sravroudi (SS),Visual,51.15,-53.56666667,1925,1925,August,8/27/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1879 Sep 9
+IOT,1,955,955,N,Ship,Empress of Scotland (SS),Visual,51.93333333,-53.68333333,1925,1925,August,8/27/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1879 Sep 9
+IOT,1,953,953,N,Ship,Canadian Leader (SS),Visual,51.68333333,-56.01666667,1925,1925,August,8/28/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1879 Sep 9
+IOT,1,993,993,N,Ship,Elmworth (SS),Visual,51.65,-55.9,1925,1925,August,8/28/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1882 Sep 30: berg aground off C.Norman
+IOT,1,956,956,N,Ship,Minnedosa (SS),Visual,52.16666667,-51.25,1925,1925,August,8/29/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1879 Sep 9
+IOT,1,957,957,N,Ship,Minnedosa (SS),Visual,51.91666667,-54.73333333,1925,1925,August,8/29/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1879 Sep 9
+IOT,1,958.1,958.1,N,Ship,Glentworth (SS),Visual,52.5,-52.83333333,1925,1925,August,8/29/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1879 Sep 9: medium berg & large growler
+IOT,1,958.2,958.2,N,Ship,Glentworth (SS),Visual,52.5,-52.83333333,1925,1925,August,8/29/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1879 Sep 9: medium berg & large growler
+IOT,1,959,957,Y,Ship,Hunstanworth (SS),Visual,51.83333333,-55,1925,1925,August,8/29/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1879 Sep 9. [possibly same as #957]
+IOT,1,960,960,N,Ship,Manchester Corporation (SS),Visual,52.83333333,-53.58333333,1925,1925,August,8/29/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1879 Sep 9
+IOT,1,961,961,N,Ship,Manchester Corporation (SS),Visual,52.58333333,-54.03333333,1925,1925,August,8/29/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1879 Sep 9
+IOT,1,962,962,N,Ship,Carso (SS),Visual,52.4,-53.48333333,1925,1925,August,8/30/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1879 Sep 9
+IOT,1,963,963,N,Ship,Carso (SS),Visual,52.38333333,-53.36666667,1925,1925,August,8/30/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1879 Sep 9
+IOT,1,964,961,Y,Ship,Ellerdale (SS),Visual,52.46666667,-54.05,1925,1925,August,8/30/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1879 Sep 9. [possibly same as #961]
+IOT,1,965,965,N,Ship,Marburn (SS),Visual,52.23333333,-53.76666667,1925,1925,August,8/30/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1879 Sep 9
+IOT,1,966,966,N,Ship,Marburn (SS),Visual,52.35,-53.8,1925,1925,August,8/30/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1879 Sep 9
+IOT,1,967,967,N,Ship,Marburn (SS),Visual,52.48333333,-53.13333333,1925,1925,August,8/30/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1879 Sep 9
+IOT,1,974,974,N,Ship,Letitia (SS),Visual,52.4,-54.21666667,1925,1925,August,8/31/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1880 Sep 16
+IOT,1,975,975,N,Ship,Letitia (SS),Visual,52.55,-53.33333333,1925,1925,August,8/31/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1880 Sep 16
+IOT,1,976.1,976.1,N,Ship,Letitia (SS),Visual,52.43333333,-53.23333333,1925,1925,August,8/31/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1880 Sep 16
+IOT,1,976.2,976.2,N,Ship,Letitia (SS),Visual,52.43333333,-53.23333333,1925,1925,August,8/31/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1880 Sep 16
+IOT,1,977,977,N,Ship,Ausonia (SS),Visual,52.03333333,-53.71666667,1925,1925,September,9/1/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1880 Sep 16
+IOT,1,978,978,N,Ship,Montroyal (SS),Visual,52.43333333,-53.38333333,1925,1925,September,9/2/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1880 Sep 16
+IOT,1,979,979,N,Ship,Ascania (SS),Visual,51.65,-54.45,1925,1925,September,9/5/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1880 Sep 16
+IOT,1,980.1,980.1,N,Ship,Carrington Head (SS),Visual,52.31666667,-53.86666667,1925,1925,September,9/5/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1880 Sep 16
+IOT,1,980.2,980.2,N,Ship,Carrington Head (SS),Visual,52.31666667,-53.86666667,1925,1925,September,9/5/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1880 Sep 16
+IOT,1,981,981,N,Ship,Carrington Head (SS),Visual,52.23333333,-54.31666667,1925,1925,September,9/5/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1880 Sep 16
+IOT,1,982,982,N,Ship,Gracia (SS),Visual,51.46666667,-56.6,1925,1925,September,9/6/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1880 Sep 16
+IOT,1,983,983,N,Ship,Gracia (SS),Visual,51.45,-56.63333333,1925,1925,September,9/6/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1880 Sep 16
+IOT,1,984,984,N,Ship,Montcalm (SS),Visual,51.4,-56.93333333,1925,1925,September,9/9/25,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1881 Sep 23
+IOT,1,985,985,N,Ship,Montcalm (SS),Visual,52.63333333,-53.08333333,1925,1925,September,9/9/25,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1881 Sep 23: large growler
+IOT,1,986,986,N,Ship,Montcalm (SS),Visual,52.4,-53.61666667,1925,1925,September,9/10/25,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1881 Sep 23
+IOT,1,987,987,N,Ship,Briseis (SS),Visual,52.06666667,-53.86666667,1925,1925,September,9/10/25,,Growler,,3,,,,,,,,,,,,,,,,,,,,HB 1881 Sep 23
+IOT,1,988,988,N,Ship,Sio Vos Non Vobis (SS),Visual,51.8,-54.71666667,1925,1925,September,9/10/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1881 Sep 23
+IOT,1,989,989,N,Ship,Eksjo (SS),Visual,52.8,-53.83333333,1925,1925,September,9/11/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1881 Sep 23
+IOT,1,990,990,N,Ship,Antonia (SS),Visual,51.93333333,-54.85,1925,1925,September,9/13/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1881 Sep 23
+IOT,1,991,990,Y,Ship,Metagama (SS),Visual,51.93333333,-54.86666667,1925,1925,September,9/13/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1881 Sep 23. [probably same as #990]
+IOT,1,994,990,Y,Ship,Ariano (SS),Visual,51.95,-54.75,1925,1925,September,9/13/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1882 Sep 30. [probable resight of #990]
+IOT,1,992,992,N,Ship,Metagama (SS),Visual,52.38333333,-53.01666667,1925,1925,September,9/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1881 Sep 23
+IOT,1,995,990,Y,Ship,Manchester Corporation (SS),Visual,51.71666667,-54.61666667,1925,1925,September,9/15/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1882 Sep 30. [probable resight of #990]
+IOT,1,996,996,N,Ship,Manchester Corporation (SS),Visual,51.91666667,-53.71666667,1925,1925,September,9/15/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1882 Sep 30
+IOT,1,997,996,Y,Ship,Essex County (SS),Visual,52,-54,1925,1925,September,9/15/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1882 Sep 30. [probable resight of #996]
+IOT,1,1002,1002,N,Ship,Regina (SS),Visual,51.88333333,-55.1,1925,1925,September,9/29/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1886 Oct 28
+IOT,1,1003,1003,N,Ship,Salacia (SS),Visual,51.26666667,-57.05,1925,1925,October,10/14/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1886 Oct 28
+IOT,1,998,1003,Y,Ship,Regina (SS),Visual,51.26666667,-57.03333333,1925,1925,October,10/15/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1886 Oct 28. [probable resight of #1003]
+IOT,1,999,999,N,Ship,Regina (SS),Visual,51.63333333,-55.68333333,1925,1925,October,10/15/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1886 Oct 28
+IOT,1,1000.1,1000.1,N,Ship,Regina (SS),Visual,51.68333333,-55.56666667,1925,1925,October,10/15/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1886 Oct 28: large berg & several small growlers
+IOT,1,1000.2,1000.2,N,Ship,Regina (SS),Visual,51.68333333,-55.56666667,1925,1925,October,10/15/25,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1886 Oct 28: large berg & several small growlers
+IOT,1,1001,1001,N,Ship,Regina (SS),Visual,52.06666667,-55.36666667,1925,1925,October,10/15/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1886 Oct 28
+IOT,1,1004,1004,N,Ship,Montclare (SS),Visual,52,-55.5,1925,1925,October,10/15/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1886 Oct 28: berg in N Channel [position approximate]
+IOT,1,1005,1005,N,Ship,Montclare (SS),Visual,51.66666667,-55.66666667,1925,1925,October,10/15/25,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1886 Oct 28: 2 bergs aground between C.Norman & C.Bauld
+IOT,1,1006,1006,N,Ship,Montclare (SS),Visual,51.21666667,-57.2,1925,1925,October,10/15/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,"HB 1886 Oct 28: berg 10 miles S of Greenly Is., moving SW"
+IOT,1,1007,1007,N,Ship,Letitia (SS),Visual,51.76666667,-55.4,1925,1925,October,10/15/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1886 Oct 28
+IOT,1,1008,1008,N,Ship,Letitia (SS),Visual,51.78333333,-55.41666667,1925,1925,October,10/15/25,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1886 Oct 28
+IOT,1,1009,1009,N,Ship,Letitia (SS),Visual,51.7,-55.58333333,1925,1925,October,10/15/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1886 Oct 28
+IOT,1,1010,1010,N,Ship,Letitia (SS),Visual,51.68333333,-55.68333333,1925,1925,October,10/15/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1886 Oct 28
+IOT,1,1011,1011,N,Miscellaneous,Belle Isle,Visual,51.5,-56.5,1925,1925,October,10/16/25,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1886 Oct 28: 2 bergs in steamer's track [position approximate]
+IOT,1,1013,1013,N,Ship,Laval County (SS),Visual,52.21666667,-54.2,1925,1925,October,10/17/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1886 Oct 28
+IOT,1,1014,1014,N,Ship,Grey County (SS),Visual,51.28333333,-57.08333333,1925,1925,October,10/18/25,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1886 Oct 28
+IOT,1,1012,1013,Y,Ship,Manchester Corporation (SS),Visual,52.21666667,-54.28333333,1925,1925,October,10/19/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1886 Oct 28. [probable resight of 1013]
+IOT,1,1015,1015,N,Miscellaneous,Belle Isle,Visual,51.5,-56.5,1925,1925,October,10/19/25,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1886 Oct 28: 2 bergs in steamer's track [position approximate]
+IOT,1,1016,1016,N,Ship,Verentia (SS),Visual,51.61666667,-54.91666667,1925,1925,October,10/23/25,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1888 Nov 11: low lying berg
+IOT,1,1017,1017,N,Ship,Verentia (SS),Visual,51.48333333,-56.48333333,1925,1925,October,10/23/25,,Small,,,,1,,,,,,,,,6,E,,,,,,,,HB 1888 Nov 11: berg showing ~20' above the water

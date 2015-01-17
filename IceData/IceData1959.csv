@@ -1,0 +1,16 @@
+data source,Flag,IIP #,Iceberg #,resight,sighting source,Vessel Name,sighting method,latitude,longitude,Ice Season,Year,Month,date,time,size,#Bergy Bits,Small,Medium,Large,Very Large,Ice Island,Unidentified,shape,length,length flag,height,height flag,width,width flag,draft,draft flag,mass,mass flag,drill site,Comments
+IOT,1,1,1,N,Ship,SS Beavercove,Visual,48,-42.3,1959,1959,April,4/14/1959,,Growler,,,,,,,,,,,,,,,,,,,,Large Growler
+IOT,1,14,14,N,Unknown,Unknown,Visual,42.83333333,-49.5,1959,1959,May,5/1/1959,,Very Large,,,,,1,,,,300,E,84,E,,,,,,,,John. P. Newell:  Exceptionally Large Icebergs and Ice Islands ...
+IOT,1,2,2,N,Ship,SS Tarakan,Visual,42.33333333,-52.33333333,1959,1959,May,5/13/1959,,Large,,,,1,,,,,,,,,,,,,,,,
+IOT,1,3,3,N,Ship,USCGC Androscoggin,Visual,40.08333333,-48.33333333,1959,1959,May,5/21/1959,,Small,,1,,,,,,,,,,,,,,,,,,
+IOT,1,4,4,N,Ship,USS Camp,Visual,44,-43.6,1959,1959,June,6/22/1959,,Berg,,,,,,,,,,,,,,,,,,,,
+IOT,1,5,4,Y,Ship,SS Gripsholm,Radar,44.05,-42.93333333,1959,1959,June,6/24/1959,,Unidentified,,,,,,,1,,,,,,,,,,,,,Same as reported June 22
+IOT,1,6,6,N,Ship,M/V Hermodur,Visual,57.15,-36.55,1959,1959,November,11/13/1959,,Berg,,,,,,,,,,,,,,,,,,,,
+IOT,1,7,7,N,Ship,SS Mormacrio,Visual,57.56666667,-42.6,1959,1959,November,11/14/1959,,Berg,,,,,,,,,,,,,,,,,,,,
+IOT,1,8.1,8.1,N,Ship,SS Mormacrio,Visual,57.78333333,-38.85,1959,1959,December,12/15/1959,,Berg,,,,,,,,,,,,,,,,,,,,
+IOT,1,8.2,8.2,N,Ship,SS Mormacrio,Visual,57.78333333,-38.85,1959,1959,December,12/15/1959,,Growler,,,,,,,,,,,,,,,,,,,,
+IOT,1,9,9,N,Ship,SS Mormacrio,Visual,58.2,-38.66666667,1959,1959,December,12/15/1959,,Large,,,,2,,,,,,,,,,,,,,,,
+IOT,1,10,10,N,Ship,SS Mormacrio,Visual,58.46666667,-37.6,1959,1959,December,12/15/1959,,Very Large,,,,,1,,,,,,,,,,,,,,,
+IOT,1,11,11,N,Ship,M/V Baden,Visual,55.75,-42.08333333,1959,1959,December,12/28/1959,,Berg,,,,,,,,,,,,,,,,,,,,
+IOT,1,12,12,N,Ship,USCG Casco (OSV Bravo),Visual,56.5,-51.05,1959,1959,December,12/31/1959,,Growler,,,,,,,,,,,,,,,,,,,,
+IOT,1,13,13,N,Ship,USCG Casco (OSV Bravo),Visual,56.5,-50.8,1959,1959,December,12/31/1959,,Berg,,,,,,,,,,,,,,,,,,,,
