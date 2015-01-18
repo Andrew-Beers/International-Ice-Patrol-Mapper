@@ -1,0 +1,121 @@
+body {
+background-color: black;
+margin: 0;
+padding: 0;
+border: 0;
+}
+
+svg {
+margin: 0;
+padding: 0;
+border: 0;
+display: block;
+}
+
+.icelabel {
+  font: 11px sans-serif;
+  fill: white;
+  shape-rendering: crispEdges;
+}
+
+.buttonlabels {
+  font: 11px sans-serif;
+  fill: white;
+  -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.buttons shadowy {
+   -moz-box-shadow:    inset 0 0 2px #000000;
+   -webkit-box-shadow: inset 0 0 2px #000000;
+   box-shadow:         inset 0 0 2px #000000;
+}
+
+.axis text {
+  font: 11px sans-serif;
+  color: white;
+}
+
+.axis path {
+  display: none;
+}
+
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.grid-background {
+  fill: grid;
+  stroke: steeblue;
+  stroke-width1: 2px;
+}
+
+.background {
+  fill: black;
+}
+
+.grid line,
+.grid path {
+  fill: none;
+  stroke: #fff;
+  shape-rendering: crispEdges;
+}
+
+.grid .minor.tick line {
+  stroke-opacity: .5;
+}
+
+.brush .extent {
+  stroke: white;
+  stroke-width1: 2px;
+  fill-opacity: .5;
+  fill: steelblue;
+  shape-rendering: crispEdges;
+}
+
+.node {
+    fill: #ccc;
+    stroke: #fff;
+    stroke-width1: 2px;
+}
+
+.area {
+  fill: steelblue;
+  clip-path: url(#clip);
+}
+
+.link {
+    stroke: #777;
+    stroke-width1: 2px;
+}
+
+.land-glow {
+  fill: #000;
+  fill-opacity: .2;
+  filter: url(#glow);
+}
+
+.pulsor { 
+    line-height: 50px;
+    border-radius: 500px;
+    box-shadow: 0 0 1px #0099CC; 
+    background-color: green;
+    text-shadow: 0 0 5px #0099CC; 
+    font-family: sans-serif; 
+    font-weight: bold; 
+    color: #0099CC; 
+    text-align: center;   
+    cursor: pointer; 
+}
+
+.pulsor:hover {
+    -webkit-animation: pulsate .8s infinite alternate;
+    -moz-animation: pulsate .8s infinite alternate;
+    -animation: pulsate .8s infinite alternate;
+}
