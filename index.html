@@ -21,6 +21,7 @@ var FilteredList = [];
 var iceYears = Array.apply(0, Array(60)).map(function (x, y) { return y+1900; });
 var ColorList = [];
 var HistList = [];
+var HistDraw = [];
 var AllColors = ["red", "green", "blue", "yellow", "white", "purple", "orange", "gray"];
 var PickColor = "red";
 
@@ -28,6 +29,15 @@ d3.selection.prototype.moveToFront = function() {
   return this.each(function(){
     this.parentNode.appendChild(this);
   });
+};
+
+d3.selection.prototype.moveToBack = function() { 
+    return this.each(function() { 
+        var firstChild = this.parentNode.firstChild; 
+        if (firstChild) { 
+            this.parentNode.insertBefore(this, firstChild); 
+        } 
+    }); 
 };
 
 queue(1)
@@ -44,7 +54,8 @@ d3.csv("IceData/IceData" + entry + ".csv")
                             day: parseInt(DayNumber(new Date(d.date))),
                             year: (1900 + parseInt(YearNumber(new Date(d.date)))),
                             lon: projection([d.longitude, d.latitude])[0],
-                            lat: projection([d.longitude, d.latitude])[1]
+                            lat: projection([d.longitude, d.latitude])[1],
+                            resight: d.resight
                           }})
                         .get(function(error, rows) {
                           TotalIceList[entry] = rows;
@@ -75,6 +86,7 @@ var path = d3.geo.path()
 var DayNumber = d3.time.format("%_j");
 var YearNumber = d3.time.format("%_y")
 var YearColor = d3.scale.ordinal().domain(iceYears).range(ColorList);
+var xHist = d3.scale.linear().domain([0, 366]).range([0, width1]);
 
 var x = d3.time.scale().domain([new Date(2013, 0, 1), new Date(2013, 11, 31)]).range([0, width1]);
 
@@ -83,11 +95,6 @@ var svg = d3.select("body").append("svg")
     .attr("height", height + margin.top + margin.bottom)
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-
-svg.append("rect")
-    .attr("class", "background")
-    .attr("width", width1)
-    .attr("height", height);
 
 d3.json("ne_50m_land.json", function(error, topology) {
     svg.append("g").attr("class","MapPath").selectAll("path")
@@ -109,12 +116,13 @@ var brush = d3.svg.brush()
     .on("brush", UpdateIce);
 
 
-svg.append("rect")
+var BrushBackground = svg.append("rect")
     .attr("class", "grid-background")
     .attr("width", width1)
-    .attr("height", (Bheight + Bmargin.top));
+    .attr("height", (Bheight + Bmargin.top))
+    .attr("opacity", "0%");
 
-svg.append("g")
+var BrushGrid = svg.append("g")
     .attr("class", "x grid")
     .attr("transform", "translate(0," + (Bheight + Bmargin.top) + ")")
     .call(d3.svg.axis()
@@ -124,7 +132,7 @@ svg.append("g")
         .tickSize(-Bheight)
         .tickFormat(""))
 
-svg.append("g")
+var BrushAxis = svg.append("g")
     .attr("class", "x axis")
     .attr("transform", "translate(0," + (Bheight + Bmargin.top) + ")")
     .call(d3.svg.axis()
@@ -196,7 +204,7 @@ var colorbuttons = svg.append("g")
                       .attr("cy", function(d, i){return 550 + 25 + (i%2)*15;})
                       .attr("r", 6)
                       .attr("fill", function(d){return d})
-                      .attr("stroke", "gray")
+                      .attr("stroke", function(d){if d == PickColor {return "#0033CC";}else{return "gray";}})
                       .attr("stroke-width", "1px")
                       .attr("shape-rendering", "crispEdges")
                       .on("click", function(d){console.log(d); PickColor = d; return;}); 
@@ -299,18 +307,16 @@ TotalIceList[Year].forEach(function(entry){
 HistData = HistData.concat(entry.day);
 });
 
-var xHist = d3.scale.linear().domain([0, 366]).range([0, width1]);
-
 var data = d3.layout.histogram()
     .bins(xHist.ticks(365))
     (HistData);
 
 var yHist = d3.scale.linear().domain([0, d3.max(data, function(d) { return d.y; })]).range([600, 552]);
 
-var bar = svg.selectAll(".bar")
+var bar = svg.selectAll(".bar" + Year)
     .data(data)
     .enter().append("g")
-    .attr("class", "bar")
+    .attr("class", "bar" + Year)
     .attr("transform", function(d) { return "translate(" + xHist(d.x) + "," + yHist(d.y) + ")"; });
 
 bar.append("rect")
@@ -319,7 +325,6 @@ bar.append("rect")
     .attr("fill", YearColor(Year))
     .attr("opacity", "60%");
 
-// gBrush.moveToFront();
 }
 
 
@@ -336,7 +341,8 @@ EndingDay = parseInt(DayNumber(new Date(brush.extent()[1])));
 
 FilteredList = CurrentIceList.filter(function(d) {
                 return (d.day >= StartingDay 
-                && d.day <= EndingDay);
+                && d.day <= EndingDay
+                && d.resight == "N");
             });};
 
 IceIn = svg.selectAll('.icepoints').data(FilteredList)
