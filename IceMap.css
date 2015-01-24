@@ -13,14 +13,18 @@ display: block;
 }
 
 .icelabel {
-  font: 11px sans-serif;
+  font: 11px;
+  font-family: Helvetica;
   fill: white;
   shape-rendering: crispEdges;
 }
 
 .buttonlabels {
+  font-size: 11px;
   font: 11px sans-serif;
   fill: white;
+  color: white;
+  cursor: default;
   -webkit-touch-callout: none;
     -webkit-user-select: none;
     -khtml-user-select: none;
@@ -29,10 +33,21 @@ display: block;
     user-select: none;
 }
 
-.buttons shadowy {
-   -moz-box-shadow:    inset 0 0 2px #000000;
-   -webkit-box-shadow: inset 0 0 2px #000000;
-   box-shadow:         inset 0 0 2px #000000;
+.TitleText {
+  font: 25px;
+  font-family: Helvetica;
+  font-size: 25px;
+  fill: white;
+  font-color: white;
+  cursor: default;
+}
+
+.buttons{
+cursor: hand;
+}
+
+.buttons:hover {
+fill: white;
 }
 
 .axis text {
