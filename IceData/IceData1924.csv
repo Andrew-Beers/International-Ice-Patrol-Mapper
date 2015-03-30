@@ -1,579 +1,579 @@
-data source,Flag,IIP #,Iceberg #,resight,sighting source,Vessel Name,sighting method,latitude,longitude,Ice Season,Year,Month,date,time,size,#bergs,#growlers,#Bergy Bits,Small,Medium,Large,Very Large,Ice Island,Unidentified,shape,length,length flag,height,height flag,width,width flag,draft,draft flag,mass,mass flag,drill site,Comments
-IOT,1,1,1,N,Miscellaneous,Cape Race Radio Station,Visual,46.61666667,-46.13333333,1924,1924,January,1/14/24,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
-IOT,1,2,2,N,Ship,Chicago (SS),Visual,47.93333333,-48.16666667,1924,1924,January,1/18/24,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1796 Feb 6"
-IOT,1,3,1,Y,Miscellaneous,Cape Race Radio Station,Visual,45.95,-44.41666667,1924,1924,January,1/21/24,,Medium,,,,,1,,,,,,,,,,,,,,,,,"IIP, also HB 1796 Feb 6 which has date of Jan 26."
-IOT,1,4,1,Y,Miscellaneous,Cape Race Radio Station,Visual,45.95,-44.58333333,1924,1924,January,1/21/24,,Medium,,,,,1,,,,,,,,19,E,,,,,,,,IIP
-IOT,1,314,314,N,Ship,La Savoie (SS),Visual,45.83333333,-44.26666667,1924,1924,January,1/25/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1796 Feb 6
-IOT,1,315,315,N,Ship,Baltic (SS),Visual,45.95,-44.58333333,1924,1924,January,1/25/24,,Large,,,,,,1,,,,,122,E,40,E,,,,,,,,"HB 1796 Feb 6: 120' high, 400' long (could this be the same as #1?)"
-IOT,1,5.1,5.1,N,Miscellaneous,Cape Race Radio Station,Visual,45.83333333,-44.33333333,1924,1924,January,1/26/24,,Medium,,,,,1,,,,,,,,,,,,,,,,,"IIP,also HB 1796 Feb 6: 62' high"
-IOT,1,5.2,5.2,N,Miscellaneous,Cape Race Radio Station,Visual,45.83333333,-44.33333333,1924,1924,January,1/26/24,,Growler,,2,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1796 Feb 6: N and NW respectively from the berg."
-IOT,1,149,149,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,February,2/11/24,,Berg,9,,,,,,,,,,,,,,,,,,,,,HB 1798 Feb 20 CSS
-IOT,1,14.01,14.01,N,Miscellaneous,Cape Race Radio Station,Visual,46.03333333,-47.23333333,1924,1924,February,2/21/24,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP
-IOT,0,14.02,14.02,N,Miscellaneous,Cape Race Radio Station,Visual,48.56666667,-50,1924,1924,February,2/21/24,,Small,,,,,,,,,,,,,,,,,,,,,,IIP
-IOT,1,19,19,N,Miscellaneous,Cape Race Radio Station,Visual,43.63333333,-49,1924,1924,March,3/1/24,,Medium,,,,,1,,,,,,,,,,,,,,,,,IIP: Medium low-lying berg
-IOT,1,20,20,N,Miscellaneous,Cape Race Radio Station,Visual,43.63333333,-48.91666667,1924,1924,March,3/1/24,,Growler,,2,,,,,,,,,,,,,,,,,,,,IIP
-IOT,1,22.01,22.01,N,Miscellaneous,Cape Race Radio Station,Visual,44.46666667,-48.33333333,1924,1924,March,3/1/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP
-IOT,0,22.02,22.02,N,Miscellaneous,Cape Race Radio Station,Visual,44.45,-48.56666667,1924,1924,March,3/1/24,,Growler,,,,,,,,,,,,,,,,,,,,,,IIP
-IOT,1,317.1,317.1,N,Ship,La Savoie (SS),Visual,43,-49.66666667,1924,1924,March,3/4/24,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1804 Apr 2
-IOT,1,317.2,317.2,N,Ship,La Savoie (SS),Visual,43,-49.66666667,1924,1924,March,3/4/24,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1804 Apr 2
-IOT,1,25,25,N,Miscellaneous,Cape Race Radio Station,Visual,48,-47.3,1924,1924,March,3/5/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP: Field ice and several growlers
-IOT,1,26.01,26.01,N,Ship,Veendam (SS),Visual,48,-47.5,1924,1924,March,3/5/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP positions corrected with more likely HB 1807 Apr 23: field ice and several growlers
-IOT,0,26.02,26.02,N,Ship,Veendam (SS),Visual,47.3,-48.16666667,1924,1924,March,3/5/24,,Growler,,,,,,,,,,,,,,,,,,,,,,IIP
-IOT,1,27.01,27.01,N,Ship,Veendam (SS),Visual,45.41666667,-48.75,1924,1924,March,3/6/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP positions corrected with more likely HB 1807 Apr 23: field ice and several growlers
-IOT,0,27.02,27.02,N,Ship,Veendam (SS),Visual,45.58333333,-47.5,1924,1924,March,3/6/24,,Growler,,,,,,,,,,,,,,,,,,,,,,IIP
-IOT,1,316.01,316.01,N,Ship,Wandsworth Works (SS),Visual,42.51666667,-46.98333333,1924,1924,March,3/6/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1803 Mar 26.  Compare #27
-IOT,0,316.02,316.02,N,Ship,Wandsworth Works (SS),Visual,42.51666667,-46.98333333,1924,1924,March,3/6/24,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1803 Mar 26.  Compare #27
-IOT,1,28.11,28.11,N,Miscellaneous,Cape Race Radio Station,Visual,42.51666667,-46.98333333,1924,1924,March,3/12/24,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
-IOT,0,28.12,28.12,N,Miscellaneous,Cape Race Radio Station,Visual,46.18333333,-48.71666667,1924,1924,March,3/12/24,,Large,,,,,,,,,,,,,,,,,,,,,,IIP
-IOT,1,28.21,28.21,N,Miscellaneous,Cape Race Radio Station,Visual,42.51666667,-46.98333333,1924,1924,March,3/12/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP
-IOT,0,28.22,28.22,N,Miscellaneous,Cape Race Radio Station,Visual,46.18333333,-48.71666667,1924,1924,March,3/12/24,,Growler,,,,,,,,,,,,,,,,,,,,,,IIP
-IOT,1,30,34,Y,Miscellaneous,Cape Race Radio Station,Visual,47.56666667,-52.53333333,1924,1924,March,3/14/24,,Berg,2,,,,,,,,,,,,,,,,,,,,,IIP
-IOT,1,31,35,Y,Miscellaneous,Cape Race Radio Station,Visual,46.21666667,-48.51666667,1924,1924,March,3/15/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
-IOT,1,34,34,N,Miscellaneous,Cape Race Radio Station,Visual,46.31666667,-48.43333333,1924,1924,March,3/17/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1824 Apr 2"
-IOT,1,35,35,N,Miscellaneous,Cape Race Radio Station,Visual,46.4,-48.53333333,1924,1924,March,3/17/24,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1824 Apr 2"
-IOT,1,323,323,N,Ship,Jeseric (SS),Visual,45.3,-49.6,1924,1924,March,3/20/24,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1807 Apr 23
-IOT,1,37,37,N,Ship,Lituania (SS),Visual,45.3,-49.6,1924,1924,March,3/25/24,,Large,,,,,,1,,,,,,,,,,,,,,,,"IIP, also HB 1824 Apr 2"
-IOT,1,38,38,N,Ship,Gorm (SS),Visual,45,-49.25,1924,1924,March,3/26/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,IIP. HB 1824 Apr 2
-IOT,1,39,37,Y,Ship,Patrol Vessel,Visual,45.58333333,-49.5,1924,1924,March,3/26/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1824 Apr 2 reported as 27th.
-IOT,1,333,37,Y,Ship,Ice Patrol,Visual,45.58333333,-49.51666667,1924,1924,March,3/26/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,"HB 1804 Apr 2: Anchored near berg reported yesterday (45.18N, 49.36W)"
-IOT,1,40,34,Y,Ship,West Quechee (SS),Visual,44.51666667,-49.05,1924,1924,March,3/27/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
-IOT,1,41,34,Y,Ship,Patrol Vessel,Visual,44.45,-49.08333333,1924,1924,March,3/27/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1805 Apr 9"
-IOT,1,318,318,N,Ship,Unknown,Visual,44.58333333,-48.83333333,1924,1924,March,3/27/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1824 Apr 2 & HB 1805 Apr 9
-IOT,1,334,334,N,Ship,Unknown,Visual,46.38333333,-53.63333333,1924,1924,March,3/27/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1804 Apr 2: growler ~28 miles 236° C.Race
-IOT,1,43,34,Y,Ship,Patrol Vessel,Visual,44.31666667,-49.13333333,1924,1924,March,3/29/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1805 Apr 9"
-IOT,1,319,318,Y,Ship,Unknown,Visual,44.41666667,-50.11666667,1924,1924,March,3/29/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1805 Apr 9: aground
-IOT,1,44,44,N,Ship,John W. Mackay (SS),Visual,45.91666667,-49.18333333,1924,1924,March,3/30/24,,Large,,,,,,1,,,,,136,E,,,,,,,,,,IIP: 445 feet long. Also HB 1805 Apr 9
-IOT,1,150,150,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,March,3/31/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1805 Apr 9 CSS
-IOT,1,46,34,Y,Ship,Cairnvalona (SS),Visual,43.71666667,-49.3,1924,1924,April,4/1/24,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP probable typo of 40°18' corrected. Stated correctly in HB 1806 Apr 16: water temp 31°F
-IOT,1,47,34,Y,Ship,Patrol Vessel,Visual,43.71666667,-49.25,1924,1924,April,4/1/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1805 Apr 9: drifting S at ½ knot"
-IOT,1,48,34,Y,Ship,Patrol Vessel,Visual,43.43333333,-49.33333333,1924,1924,April,4/2/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP: Berg, drifting 192 deg. true 0.9 knot per hour; also HB 1805 Apr 9: drifting S at 0.8 knot"
-IOT,1,49,49,N,Ship,Sachem (SS),Visual,46.05,-51.08333333,1924,1924,April,4/2/24,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP has 46°43'N.  HB 1805 Apr 9
-IOT,1,50.1,50.1,N,Ship,Sachem (SS),Visual,45.83333333,-48,1924,1924,April,4/2/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1805 Apr 9"
-IOT,1,50.2,50.2,N,Ship,Sachem (SS),Visual,45.83333333,-48,1924,1924,April,4/2/24,,Growler,,3,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1805 Apr 9: 3 growlers"
-IOT,1,151,151,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,April,4/2/24,,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 1806 Apr 16 CSS
-IOT,1,320,34,Y,Ship,Tampa (IIP),Visual,43.33333333,-49.33333333,1924,1924,April,4/3/24,2:00,Berg,1,,,,,,,,,,,,,,,,,,,,,"HB 1805 Apr 9: drifting near berg at 0.8 knots, presume same berg #34"
-IOT,1,321.1,321.1,N,Ship,Unknown,Visual,45.83333333,-49.5,1924,1924,April,4/3/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1805 Apr 9
-IOT,1,321.2,321.2,N,Ship,Unknown,Visual,45.83333333,-49.5,1924,1924,April,4/3/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1805 Apr 9
-IOT,1,52,34,Y,Ship,Cameronia (SS),Visual,42.56666667,-50.05,1924,1924,April,4/4/24,,Large,,,,,,1,,,,,,,56,E,,,,,,,,"IIP, also HB 1807 Apr 23: ~185' high"
-IOT,1,53,34,Y,Ship,Patrol Vessel,Visual,42.75,-49.86666667,1924,1924,April,4/4/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1806 Apr 16"
-IOT,1,54,34,Y,Ship,Patrol Vessel,Visual,42.58333333,-50.43333333,1924,1924,April,4/5/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1806 Apr 16"
-IOT,1,56,34,Y,Ship,Patrol Vessel,Visual,42.31666667,-50.61666667,1924,1924,April,4/6/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1806 Apr 16"
-IOT,1,58,34,Y,Ship,Patrol Vessel,Visual,42.05,-50.46666667,1924,1924,April,4/7/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1806 Apr 16"
-IOT,1,59,34,Y,Ship,Patrol Vessel,Visual,41.71666667,-49.6,1924,1924,April,4/8/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Berg drifting 110 deg true 1.5 knots per hour; also HB 1806 Apr 16
-IOT,1,60,34,Y,Ship,Patrol Vessel,Visual,41.43333333,-48.56666667,1924,1924,April,4/9/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Berg drifting 120 deg true 1.8 knots per hour; also HB 1806 Apr 16
-IOT,1,61,34,Y,Ship,Patrol Vessel,Visual,41.18333333,-48.3,1924,1924,April,4/10/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP: Berg drifting 141 deg true 0.9 knots per hour; also HB 1806 Apr 16: 1 knot, disintegrating fast."
-IOT,1,324,324,N,Ship,Nieuw Amsterdam (SS),Visual,41.45,-48.81666667,1924,1924,April,4/10/24,,Berg,1,,,,,,,,,Pinnacle,,,,,,,,,,,,HB 1807 Apr 23: two peaks
-IOT,1,322,34,Y,Ship,Tampa (IIP),Visual,40.66666667,-47.33333333,1924,1924,April,4/11/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1807 Apr 23: near remains of berg which will be dissipated by morning.
-IOT,1,65,65,N,Ship,Regina (SS),Visual,45.88333333,-51.98333333,1924,1924,April,4/16/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1807 Apr 23"
-IOT,1,152,152,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,April,4/16/24,,Berg,5,,,,,,,,,,,,,,,,,,,,,HB 1808 Apr 30 CSS
-IOT,1,66,65,Y,Ship,Patrol Vessel,Visual,45.91666667,-51.88333333,1924,1924,April,4/17/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1807 Apr 23"
-IOT,1,67,65,Y,Ship,Stavangerfjord (SS),Visual,45.45,-52.25,1924,1924,April,4/18/24,,Small,,,,1,,,,,,,,,,,,,,,,,,"IIP lat. of 43 incorrect, corrected by HB 1808 Apr 30"
-IOT,1,153,153,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,April,4/19/24,,Berg,8,,,,,,,,,,,,,,,,,,,,,HB 1808 Apr 30 CSS
-IOT,1,154,154,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,April,4/21/24,,Berg,35,,,,,,,,,,,,,,,,,,,,,HB 1808 Apr 30 CSS
-IOT,1,72,65,Y,Ship,Valacia (SS),Visual,44.95,-52,1924,1924,April,4/22/24,,Small,,,,1,,,,,,,,,,,,,,,,,,IIP. HB 1808 Apr 30: with this exception no ice seen or reported in the Atlantic for past two weeks.
-IOT,1,155,155,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,April,4/22/24,,Berg,50,,,,,,,,,,,,,,,,,,,,,HB 1808 Apr 30 CSS
-IOT,1,156,156,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,April,4/23/24,,Berg,65,,,,,,,,,,,,,,,,,,,,,HB 1809 May 7 CSS
-IOT,1,157.2,157.2,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,April,4/24/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,"NYMR, p.13, col.3&5; Numerous bergs"
-IOT,1,157.2,157.2,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,April,4/24/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,"NYMR, p.13, col.3&5;"
-IOT,1,158.1,158.1,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,April,4/24/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1809 May 7 CSS; Many bergs
-IOT,1,158.2,158.2,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,April,4/24/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1809 May 7 CSS
-IOT,1,181,181,N,Ship,Unknown,Visual,48.33333333,-62.16666667,1924,1924,April,4/25/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1809 May 7:  String of field ice with growlers
-IOT,1,182,182,N,Ship,Carmania (SS),Visual,47.96666667,-60.21666667,1924,1924,April,4/25/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1809 May 7: A small growler
-IOT,1,183,183,N,Ship,Mont Royal (SS),Visual,48.4,-62.08333333,1924,1924,April,4/25/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1809 May 7: Numerous growlers
-IOT,1,325.1,325.1,N,Ship,Belle Isle,Visual,51.95,-55.35,1924,1924,April,4/25/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1809 May 7: many bergs & growlers
-IOT,1,325.2,325.2,N,Ship,Belle Isle,Visual,51.95,-55.35,1924,1924,April,4/25/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1809 May 7: many bergs & growlers
-IOT,1,77,77,N,Ship,Saxonia (SS),Visual,46.18333333,-48.95,1924,1924,April,4/26/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1809 May 7"
-IOT,1,78,78,N,Ship,Saxonia (SS),Visual,46.13333333,-49.23333333,1924,1924,April,4/26/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,"IIP, also HB 1809 May 7"
-IOT,1,175.01,175.01,N,Ship,Rose Castle (SS),Visual,47.83333333,-61.15,1924,1924,April,4/26/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1809 May 7: Numerous growlers
-IOT,0,175.02,175.02,N,Ship,Rose Castle (SS),Visual,48.83333333,-64.2,1924,1924,April,4/26/24,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1809 May 7: Numerous growlers
-IOT,1,176,176,N,Ship,Melona (SS),Visual,48.63333333,-63,1924,1924,April,4/26/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1809 May 7
-IOT,1,177,177,N,Ship,Andania (SS),Visual,48.3,-62.05,1924,1924,April,4/26/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1809 May 7: Small growlers
-IOT,1,178,178,N,Ship,Canadian Mariner (SS),Visual,48.75,-63.58333333,1924,1924,April,4/26/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1809 May 7: Long string of loose ice with large pieces and growlers
-IOT,1,179.01,179.01,N,Ship,Ocean King (Tug),Visual,48.16666667,-62.15,1924,1924,April,4/26/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1809 May 7: Strings of broken ice and growlers
-IOT,0,179.02,179.02,N,Ship,Ocean King (Tug),Visual,48.65,-63.3,1924,1924,April,4/26/24,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1809 May 7: Strings of broken ice and growlers
-IOT,1,180.01,180.01,N,Ship,Montcalm (CGS),Visual,48.53333333,-61.7,1924,1924,April,4/26/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1809 May 7 CSS:  Strings of broken ice and slob with some growlers
-IOT,0,180.02,180.02,N,Ship,Montcalm (CGS),Visual,48.6,-63.1,1924,1924,April,4/26/24,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1809 May 7 CSS:  Strings of broken ice and slob with some growlers
-IOT,1,326.1,326.1,N,Ship,Belle Isle,Visual,51.95,-55.35,1924,1924,April,4/26/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1809 May 7: many bergs & growlers
-IOT,1,326.2,326.2,N,Ship,Belle Isle,Visual,51.95,-55.35,1924,1924,April,4/26/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1809 May 7: many bergs & growlers
-IOT,1,159,159,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,April,4/27/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1809 May 7 CSS; Many bergs
-IOT,1,173.01,173.01,N,Ship,Cairntorr (SS),Visual,48.38333333,-62.33333333,1924,1924,April,4/27/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1809 May 7: Detached growlers for 20 miles to the southwestward
-IOT,0,173.02,173.02,N,Ship,Cairntorr (SS),Visual,48.38333333,-62.76666667,1924,1924,April,4/27/24,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1809 May 7: Detached growlers for 20 miles to the southwestward
-IOT,1,174.01,174.01,N,Ship,Montcalm (CGS),Visual,48.45,-62.28333333,1924,1924,April,4/27/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1809 May 7 CSS: Few growlers
-IOT,0,174.02,174.02,N,Ship,Montcalm (CGS),Visual,49,-62.91666667,1924,1924,April,4/27/24,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1809 May 7 CSS: Few growlers
-IOT,1,327.1,327.1,N,Ship,Belle Isle,Visual,51.95,-55.35,1924,1924,April,4/27/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1809 May 7: many bergs & growlers
-IOT,1,327.2,327.2,N,Ship,Belle Isle,Visual,51.95,-55.35,1924,1924,April,4/27/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1809 May 7: many bergs & growlers
-IOT,1,160,160,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,April,4/28/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1809 May 7 CSS: Many bergs
-IOT,1,170,170,N,Ship,Welland County (SS),Visual,48,-61.83333333,1924,1924,April,4/28/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1809 May 7: Occasional growlers
-IOT,1,171.01,171.01,N,Ship,Welland County (SS),Visual,48.58333333,-63.33333333,1924,1924,April,4/28/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1809 May 7: Passed through open field ice and growlers
-IOT,0,171.02,171.02,N,Ship,Welland County (SS),Visual,48.71666667,-63.66666667,1924,1924,April,4/28/24,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1809 May 7: Passed through open field ice and growlers
-IOT,1,172,172,N,Ship,Montcalm (CGS),Visual,48.53333333,-63.16666667,1924,1924,April,4/28/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1809 May 7 CSS: A few growlers
-IOT,1,328.1,328.1,N,Ship,Belle Isle,Visual,51.95,-55.35,1924,1924,April,4/28/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1809 May 7: many bergs & growlers
-IOT,1,328.2,328.2,N,Ship,Belle Isle,Visual,51.95,-55.35,1924,1924,April,4/28/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1809 May 7: many bergs & growlers
-IOT,1,161,161,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,April,4/29/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1809 May 7 CSS: Many bergs
-IOT,1,165,165,N,Ship,Balfour (SS),Visual,49.38333333,-63.6,1924,1924,April,4/29/24,,Growler,,6,,,,,,,,,,,,,,,,,,,,"HB 1810 May 14: 6 Large growlers, 12 miles off Southwest Point"
-IOT,1,166,166,N,Ship,Canadian Commander (SS),Visual,48.9,-62.25,1924,1924,April,4/29/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1809 May 7: 
-IOT,1,167.01,167.01,N,Ship,Canadian Commander (SS),Visual,48,-63.16666667,1924,1924,April,4/29/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,"HB 1809 May 7: Few growlers, dangerous at night"
-IOT,0,167.02,167.02,N,Ship,Canadian Commander (SS),Visual,48.83333333,-64.2,1924,1924,April,4/29/24,,Growler,,,,,,,,,,,,,,,,,,,,,,"HB 1809 May 7: Few growlers, dangerous at night"
-IOT,1,168,168,N,Ship,Balfour (SS),Visual,48.76666667,-62.25,1924,1924,April,4/29/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1809 May 7: 18 miles off of South Point Anticosti
-IOT,1,169,169,N,Ship,Imperoyal (SS),Visual,48.58333333,-62.63333333,1924,1924,April,4/29/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1809 May 7: Scattered broken ice and growlers
-IOT,1,329.1,329.1,N,Ship,Belle Isle,Visual,51.95,-55.35,1924,1924,April,4/29/24,,Berg,53,,,,,,,,,,,,,,,,,,,,,HB 1809 May 7
-IOT,1,329.2,329.2,N,Ship,Belle Isle,Visual,51.95,-55.35,1924,1924,April,4/29/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1809 May 7: some growlers
-IOT,1,162,162,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,April,4/30/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1810 May 14 CSS: Many bergs
-IOT,1,163.1,163.1,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,April,4/30/24,,Berg,70,,,,,,,,,,,,,,,,,,,,,HB 1810 May 14 CSS
-IOT,1,163.2,163.2,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,April,4/30/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1810 May 14 CSS; Many growlers
-IOT,1,164.01,164.01,N,Ship,Lingan (SS),Visual,47.83333333,-61.15,1924,1924,April,4/30/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,"HB 1810 May 14: Numerous growlers from Bird Rocks to 10 miles off South Point, Anticosti"
-IOT,0,164.02,164.02,N,Ship,Lingan (SS),Visual,48.9,-62.25,1924,1924,April,4/30/24,,Growler,,,,,,,,,,,,,,,,,,,,,,"HB 1810 May 14: Numerous growlers from Bird Rocks to 10 miles off South Point, Anticosti"
-IOT,1,184,184,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,May,5/1/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1810 May 14 CSS: Many bergs
-IOT,1,185,185,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,May,5/1/24,,Berg,75,,,,,,,,,,,,,,,,,,,,,HB 1810 May 14 CSS
-IOT,1,304,304,N,Ship,Montcalm (CGS),Visual,48.68333333,-63.78333333,1924,1924,May,5/1/24,,Growler,,3,,,,,,,,,,,,,,,,,,,,HB 1810 May 14 CSS: Three small growlers
-IOT,1,305,305,N,Ship,Montcalm (CGS),Visual,48.31666667,-62.93333333,1924,1924,May,5/1/24,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1810 May 14 CSS: Two large growlers
-IOT,1,306.01,306.01,N,Ship,Canadian Otter (SS),Visual,48.33333333,-62.4,1924,1924,May,5/1/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1810 May 14: Steamed through scattered growlers
-IOT,0,306.02,306.02,N,Ship,Canadian Otter (SS),Visual,48.55,-63.11666667,1924,1924,May,5/1/24,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1810 May 14
-IOT,1,307,307,N,Ship,Viking (SS),Visual,47.38333333,-63.58333333,1924,1924,May,5/1/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1810 May 14: Light open ice with scattered growlers
-IOT,1,308.01,308.01,N,Ship,Blackheath (SS),Visual,48.83333333,-63.16666667,1924,1924,May,5/1/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,"HB 1810 May 14:  A few large growlers, very dangerous at night or in fog"
-IOT,0,308.02,308.02,N,Ship,Blackheath (SS),Visual,49.06666667,-63.16666667,1924,1924,May,5/1/24,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1810 May 14
-IOT,1,309.01,309.01,N,Ship,Blackheath (SS),Visual,48.66666667,-62.16666667,1924,1924,May,5/1/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1810 May 14: Heavy open ice and growlers
-IOT,0,309.02,309.02,N,Ship,Blackheath (SS),Visual,48.8,-62.66666667,1924,1924,May,5/1/24,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1810 May 14
-IOT,1,186,186,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,May,5/2/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1810 May 14 CSS: Many bergs
-IOT,1,187,187,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,May,5/2/24,,Berg,75,,,,,,,,,,,,,,,,,,,,,HB 1810 May 14 CSS
-IOT,1,188.11,188.11,N,Ship,Welchman (SS),Visual,48.7,-62.83333333,1924,1924,May,5/2/24,,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 1810 May 14
-IOT,0,188.12,188.12,N,Ship,Welchman (SS),Visual,48.85,-63.16666667,1924,1924,May,5/2/24,,Berg,,,,,,,,,,,,,,,,,,,,,,HB 1810 May 14
-IOT,1,188.21,188.21,N,Ship,Welchman (SS),Visual,48.7,-62.83333333,1924,1924,May,5/2/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1810 May 14: Several growlers
-IOT,0,188.22,188.22,N,Ship,Welchman (SS),Visual,48.85,-63.16666667,1924,1924,May,5/2/24,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1810 May 14: Several growlers
-IOT,1,289,289,N,Ship,Athenia (SS),Visual,48.85,-64.2,1924,1924,May,5/2/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1810 May 14: Several growlers on track off Cap des Rosiers
-IOT,1,290,290,N,Ship,Minnedosa (SS),Visual,48.95,-63.83333333,1924,1924,May,5/2/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1810 May 14: Dangerous growler
-IOT,1,291,291,N,Ship,Minnedosa (SS),Visual,48.85,-63.58333333,1924,1924,May,5/2/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1810 May 14: Dangerous growler
-IOT,1,292,292,N,Ship,Minnedosa (SS),Visual,48.38333333,-63.16666667,1924,1924,May,5/2/24,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1810 May 14: Dangerous growlers
-IOT,1,293,293,N,Ship,Dunaff Head (SS),Visual,48.76666667,-63.4,1924,1924,May,5/2/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1810 May 14: Large growler
-IOT,1,294,294,N,Ship,Dunaff Head (SS),Visual,48.78333333,-63.33333333,1924,1924,May,5/2/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1810 May 14
-IOT,1,295,295,N,Ship,Dunaff Head (SS),Visual,48.76666667,-63.23333333,1924,1924,May,5/2/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1810 May 14
-IOT,1,296,296,N,Ship,Dunaff Head (SS),Visual,48.75,-62.9,1924,1924,May,5/2/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1810 May 14: Large growler
-IOT,1,297,297,N,Ship,Dunaff Head (SS),Visual,48.66666667,-62.9,1924,1924,May,5/2/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1810 May 14: Small growler
-IOT,1,298.01,298.01,N,Ship,Dunaff Head (SS),Visual,48.45,-62.38333333,1924,1924,May,5/2/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1810 May 14: Growlers and scattered pieces
-IOT,0,298.02,298.02,N,Ship,Dunaff Head (SS),Visual,48.55,-62.53333333,1924,1924,May,5/2/24,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1810 May 14
-IOT,1,299,299,N,Ship,Metagama (SS),Visual,49.43333333,-64.56666667,1924,1924,May,5/2/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1810 May 14
-IOT,1,300,300,N,Ship,Manchester Spinner (SS),Visual,48.65,-62.21666667,1924,1924,May,5/2/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1810 May 14: Very large growler
-IOT,1,301,301,N,Ship,Manchester Spinner (SS),Visual,48.75,-63.2,1924,1924,May,5/2/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1810 May 14: Numerous small growlers
-IOT,1,302,302,N,Ship,Manchester Spinner (SS),Visual,49.16666667,-64.03333333,1924,1924,May,5/2/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1810 May 14: Very large growler
-IOT,1,303,303,N,Ship,Manchester Spinner (SS),Visual,49.16666667,-64.03333333,1924,1924,May,5/2/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1810 May 14: Small growler
-IOT,1,189,189,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,May,5/3/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1810 May 14 CSS: Many bergs
-IOT,1,190.1,190.1,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,May,5/3/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1810 May 14 CSS: Many bergs
-IOT,1,190.2,190.2,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,May,5/3/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1810 May 14 CSS
-IOT,1,283,283,N,Ship,Carmania (SS),Visual,48.51666667,-62.73333333,1924,1924,May,5/3/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1810 May 14: Large growler
-IOT,1,284,284,N,Ship,Carmania (SS),Visual,48.48333333,-62.58333333,1924,1924,May,5/3/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1810 May 14: Large growler
-IOT,1,285,285,N,Ship,Empress of Scotland (SS),Visual,48.46666667,-62.43333333,1924,1924,May,5/3/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1810 May 14
-IOT,1,286,286,N,Ship,Empress of Scotland (SS),Visual,48.58333333,-62.85,1924,1924,May,5/3/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1810 May 14
-IOT,1,287,287,N,Ship,Empress of Scotland (SS),Visual,48.81666667,-63.73333333,1924,1924,May,5/3/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1810 May 14
-IOT,1,288,288,N,Ship,Empress of Scotland (SS),Visual,48.93333333,-63.58333333,1924,1924,May,5/3/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1810 May 14
-IOT,1,191,191,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,May,5/5/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1810 May 14 CSS: Many bergs
-IOT,1,192,192,N,Ship,Herman Frasch (SS),Visual,48.63333333,-63.06666667,1924,1924,May,5/5/24,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1810 May 14
-IOT,1,193.1,193.1,N,Ship,Montreal (SS),Visual,49.05,-64,1924,1924,May,5/5/24,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1810 May 14
-IOT,1,193.2,193.2,N,Ship,Montreal (SS),Visual,49.05,-64,1924,1924,May,5/5/24,,Growler,,3,,,,,,,,,,,,,,,,,,,,HB 1810 May 14 
-IOT,1,278,278,N,Ship,Calgary (SS),Visual,48.63333333,-62.13333333,1924,1924,May,5/5/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1810 May 14: Dangerous growler
-IOT,1,279.01,279.01,N,Ship,Herman Frasch (SS),Visual,48.63333333,-63.06666667,1924,1924,May,5/5/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1810 May 14: Several growlers
-IOT,0,279.02,279.02,N,Ship,Herman Frasch (SS),Visual,48.85,-64.2,1924,1924,May,5/5/24,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1810 May 14
-IOT,1,280,280,N,Ship,Andania (SS),Visual,49.26666667,-64.36666667,1924,1924,May,5/5/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1810 May 14
-IOT,1,281,281,N,Ship,Canada (SS),Visual,48.93333333,-63.81666667,1924,1924,May,5/5/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1810 May 14: Growler and piece of ice
-IOT,1,282,282,N,Ship,Canada (SS),Visual,49,-64,1924,1924,May,5/5/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1810 May 14: Growler and two pieces of ice
-IOT,1,194,194,N,Ship,Manchester Brigade (SS),Visual,48.65,-62.93333333,1924,1924,May,5/6/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,"NYMR, p.13, col.2 & HB 1810 May 14"
-IOT,1,195,195,N,Ship,Manchester Brigade (SS),Visual,48.78333333,-62.58333333,1924,1924,May,5/6/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,"NYMR, p.13, col.2 & HB 1810 May 14"
-IOT,1,196.1,196.1,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,May,5/6/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1810 May 14 CSS
-IOT,1,196.2,196.2,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,May,5/6/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1810 May 14 CSS
-IOT,1,197,197,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,May,5/6/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1810 May 14 CSS:  Many bergs
-IOT,1,202,202,N,Ship,Montcalm (CGS),Visual,49.2,-61.71666667,1924,1924,May,5/6/24,,Medium,,,,,1,,,,,,,,,,,,,,,,,"NYMR, p.13, col.2"
-IOT,1,203,203,N,Ship,Montcalm (CGS),Visual,49.06666667,-61.88333333,1924,1924,May,5/6/24,,Medium,,,,,1,,,,,,,,,,,,,,,,,"NYMR, p.13, col.2"
-IOT,1,275.01,275.01,N,Ship,Montcalm (CGS),Visual,49,-62.25,1924,1924,May,5/6/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1811 May 21 CSS: A few growlers
-IOT,0,275.02,275.02,N,Ship,Montcalm (CGS),Visual,49.08333333,-61.7,1924,1924,May,5/6/24,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1811 May 21 CSS
-IOT,1,276,276,N,Ship,Montcalm (CGS),Visual,47.68333333,-60.78333333,1924,1924,May,5/6/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1810 May 14 CSS: Several growlers
-IOT,1,277,277,N,Ship,Cairntorr (SS),Visual,48.63333333,-63.13333333,1924,1924,May,5/6/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1810 May 14: A dangerous growler
-IOT,1,198,198,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,May,5/7/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,"NYMR, p.13, col.2: Many bergs; also HB 1811 May 21 CSS"
-IOT,1,199,199,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,May,5/7/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,"NYMR, p.13, col.2: HB 1811 May 21 CSS"
-IOT,1,200.1,200.1,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,May,5/7/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1811 May 21 CSS: Many bergs
-IOT,1,200.2,200.2,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,May,5/7/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1811 May 21 CSS
-IOT,1,201.11,201.11,N,Ship,Tento (SS),Visual,49.08333333,-61.7,1924,1924,May,5/7/24,,Small,,,,x,,,,,,,,,,,,,,,,,,HB 1811 May 21: Several small bergs
-IOT,0,201.12,201.12,N,Ship,Tento (SS),Visual,49.38333333,-63.6,1924,1924,May,5/7/24,,Small,,,,,,,,,,,,,,,,,,,,,,HB 1811 May 21: Several small bergs
-IOT,1,201.21,201.21,N,Ship,Tento (SS),Visual,49.08333333,-61.7,1924,1924,May,5/7/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1811 May 21
-IOT,0,201.22,201.22,N,Ship,Tento (SS),Visual,49.38333333,-63.6,1924,1924,May,5/7/24,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1811 May 21
-IOT,1,273,273,N,Ship,Bothwell (SS),Visual,48.55,-62.65,1924,1924,May,5/7/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1811 May 21
-IOT,1,274.01,274.01,N,Ship,Montcalm (CGS),Visual,49.08333333,-61.7,1924,1924,May,5/7/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1811 May 21 CSS: A few growlers
-IOT,0,274.02,274.02,N,Ship,Montcalm (CGS),Visual,49.06666667,-61.83333333,1924,1924,May,5/7/24,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1811 May 21 CSS
-IOT,1,207.1,207.1,N,Ship,Point Amour,Visual,51.45,-56.86666667,1924,1924,May,5/8/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1811 May 21 CSS: Many bergs
-IOT,1,207.2,207.2,N,Ship,Point Amour,Visual,51.45,-56.86666667,1924,1924,May,5/8/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1811 May 21 CSS
-IOT,1,208,208,N,Ship,Belle Isle,Visual,51.95,-55.35,1924,1924,May,5/8/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1811 May 21 CSS: Many bergs
-IOT,1,209,209,N,Ship,Melita (SS),Visual,48.58333333,-62.53333333,1924,1924,May,5/8/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1811 May 21
-IOT,1,210,210,N,Ship,Caronia (SS),Visual,48.55,-62.56666667,1924,1924,May,5/8/24,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1811 May 21
-IOT,1,211,211,N,Ship,Arkansas (SS),Visual,48.55,-62.53333333,1924,1924,May,5/8/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1811 May 21
-IOT,1,212,212,N,Ship,Arkansas (SS),Visual,48.95,-63.73333333,1924,1924,May,5/8/24,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1811 May 21
-IOT,1,213.1,213.1,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,May,5/9/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1811 May 21 CSS: Many bergs
-IOT,1,213.2,213.2,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,May,5/9/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1811 May 21 CSS
-IOT,1,214,214,N,Ship,Antonia (SS),Visual,48.55,-62.6,1924,1924,May,5/9/24,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1811 May 21
-IOT,1,215,215,N,Ship,Megantic (SS),Visual,48.51666667,-62.66666667,1924,1924,May,5/9/24,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1811 May 21
-IOT,1,216,216,N,Ship,Afghanistan (SS),Visual,48.55,-62.61666667,1924,1924,May,5/9/24,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1811 May 21
-IOT,1,217,217,N,Ship,Afghanistan (SS),Visual,48.65,-63.5,1924,1924,May,5/9/24,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1811 May 21
-IOT,1,218,218,N,Ship,Mont Laurier (SS),Visual,48.5,-62.38333333,1924,1924,May,5/9/24,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1811 May 21
-IOT,1,219,219,N,Ship,Welland County (SS),Visual,48.85,-63.4,1924,1924,May,5/9/24,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1811 May 21
-IOT,1,220,220,N,Ship,Azov (SS),Visual,48.93333333,-64.3,1924,1924,May,5/9/24,,Medium,,,,,1,,,,,,,,23,E,,,,,,,,"HB 1812 May 28: Berg, about 75 feet out of the water off l'Anse au Griffon "
-IOT,1,270,270,N,Ship,Megantic (SS),Visual,48.91666667,-63.61666667,1924,1924,May,5/9/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1811 May 21: Low-lying growler
-IOT,1,271,271,N,Ship,Megantic (SS),Visual,48.93333333,-63.45,1924,1924,May,5/9/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1811 May 21
-IOT,1,272,272,N,Ship,Megantic (SS),Visual,48.86666667,-63.43333333,1924,1924,May,5/9/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1811 May 21: Small growler
-IOT,1,221,221,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,May,5/10/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1811 May 21 CSS: Many bergs
-IOT,1,222,222,N,Ship,Montcalm (CGS),Visual,48.48333333,-62.6,1924,1924,May,5/10/24,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1811 May 21 CSS
-IOT,1,223,223,N,Ship,Montcalm (CGS),Visual,48.83333333,-63.51666667,1924,1924,May,5/10/24,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1811 May 21 CSS
-IOT,1,224,224,N,Ship,Cairndhu (SS),Visual,48.53333333,-62.53333333,1924,1924,May,5/10/24,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1811 May 21
-IOT,1,225,225,N,Ship,Cairndhu (SS),Visual,48.88333333,-63.48333333,1924,1924,May,5/10/24,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1811 May 21
-IOT,1,226,226,N,Ship,Dalmazia (SS),Visual,48.58333333,-62.48333333,1924,1924,May,5/11/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1811 May 21
-IOT,1,227,227,N,Ship,Cabotia (SS),Visual,48.5,-62.43333333,1924,1924,May,5/11/24,,Small,,,,1,,,,,,,,,,,,,,,,,,"HB 1811 May 21: Small, low-lying berg"
-IOT,1,228,228,N,Ship,Ariano (SS),Visual,48.53333333,-62.6,1924,1924,May,5/11/24,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1811 May 21
-IOT,1,229,229,N,Ship,Briarwood (SS),Visual,48.51666667,-62.58333333,1924,1924,May,5/11/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1811 May 21
-IOT,1,230,230,N,Ship,Briarwood (SS),Visual,48.88333333,-63.25,1924,1924,May,5/11/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1811 May 21
-IOT,1,236,236,N,Miscellaneous,Fame Point,Visual,49.3,-64.63333333,1924,1924,May,5/11/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,"HB 1812 May 28 CSS: At dark, a berg 12 miles north of Fame Point"
-IOT,1,231.1,231.1,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,May,5/12/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1811 May 21 CSS: Many bergs
-IOT,1,231.2,231.2,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,May,5/12/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1811 May 21 CSS
-IOT,1,232,232,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,May,5/12/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1811 May 21 CSS: Many bergs
-IOT,1,233,233,N,Ship,Balfour (SS),Visual,48.83333333,-62.51666667,1924,1924,May,5/12/24,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1811 May 21
-IOT,1,234,234,N,Ship,Balfour (SS),Visual,48.51666667,-62.45,1924,1924,May,5/12/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1811 May 21
-IOT,1,235,235,N,Ship,Welshman (SS),Visual,48.51666667,-63.5,1924,1924,May,5/12/24,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1811 May 21
-IOT,1,269,269,N,Ship,Warfield (SS),Visual,48.5,-62.58333333,1924,1924,May,5/12/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1811 May 21
-IOT,1,237,237,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,May,5/13/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1811 May 21 CSS: Many bergs
-IOT,1,238,238,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,May,5/13/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1811 May 21 CSS: Many bergs
-IOT,1,239,239,N,Miscellaneous,Fame Point,Visual,49.03333333,-64.4,1924,1924,May,5/14/24,,Large,,,,,,1,,,,,,,,,,,,,,,,"NYMR, p.13, col.1&2: Large berg 10 miles east-southeast of Fame Point"
-IOT,1,240,240,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,May,5/14/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,"NYMR, p.13, col.1&2: Many bergs"
-IOT,1,266,266,N,Ship,Manchester Hero (SS),Visual,48.76666667,-63.13333333,1924,1924,May,5/14/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,"HB 1812 May 28: Small, dangerous growler"
-IOT,1,267.01,267.01,N,Ship,Black Heath (SS),Visual,48.08333333,-61.33333333,1924,1924,May,5/14/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,"NYMR, p.13, col.2"
-IOT,0,267.02,267.02,N,Ship,Black Heath (SS),Visual,48.5,-61.33333333,1924,1924,May,5/14/24,,Growler,,,,,,,,,,,,,,,,,,,,,,"NYMR, p.13, col.2"
-IOT,1,268,268,N,Ship,Manchester Hero (SS),Visual,48.26666667,-63.13333333,1924,1924,May,5/14/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,"NYMR, p.13, col.2: Small, dangerous growler"
-IOT,1,94,94,N,Ship,Oxonian (SS),Visual,46.23333333,-50.25,1924,1924,May,5/15/24,,Small,,,,1,,,,,,,,,,,,,,,,,,"IIP:Nature of ice reads ""Small Berg (?)""; also HB 1811 May 21 "
-IOT,1,241,241,N,Miscellaneous,Fame Point,Visual,49.16666667,-64.53333333,1924,1924,May,5/15/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,"NYMR, p.13, col.2: Iceberg now about 6 miles northeast of station"
-IOT,1,242,242,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,May,5/15/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,"NYMR, p.13, col.2: Numerous bergs"
-IOT,1,243.1,243.1,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,May,5/15/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,"NYMR, p.13, col.2: Numerous bergs"
-IOT,1,243.2,243.2,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,May,5/15/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,"NYMR, p.13, col.2"
-IOT,1,244,244,N,Miscellaneous,Fame Point,Visual,49.25,-64.53333333,1924,1924,May,5/16/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1812 May 28 CSS
-IOT,1,245,245,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,May,5/17/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1812 May 28 CSS: Many bergs
-IOT,1,246,246,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,May,5/17/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1812 May 28 CSS: Many bergs
-IOT,1,264,264,N,Ship,Hypathia (SS),Visual,47.28333333,-59.98333333,1924,1924,May,5/17/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1812 May 28: Large growler
-IOT,1,265,265,N,Ship,Canadian Runner (SS),Visual,48.98333333,-63.56666667,1924,1924,May,5/17/24,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1812 May 28
-IOT,1,247,247,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,May,5/18/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1812 May 28 CSS: Many bergs
-IOT,1,248.1,248.1,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,May,5/18/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1812 May 28 CSS: Many bergs
-IOT,1,248.2,248.2,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,May,5/18/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1812 May 28 CSS
-IOT,1,249,249,N,Ship,Comino (SS),Visual,49.25,-63.98333333,1924,1924,May,5/18/24,,Small,,,,1,,,,,,,,,,,,,,,,,,"HB 1812 May 28: a small berg & several pieces of ice [given position of 49.51N 63.59W lies on land, probably meant to be 49.15N]"
-IOT,1,262,262,N,Ship,Oxonian (SS),Visual,48.85,-63.61666667,1924,1924,May,5/18/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1812 May 28: Small growler
-IOT,1,263,263,N,Ship,Beemsterdijk (SS),Visual,48.93333333,-63.63333333,1924,1924,May,5/18/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1812 May 28
-IOT,1,330,330,N,Ship,Unknown,Visual,41,-51.3,1924,1924,May,5/19/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1812 May 28
-IOT,1,250,250,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,May,5/20/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,"NYMR, p.13, col.2: Many bergs"
-IOT,1,251.1,251.1,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,May,5/20/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,"NYMR, p.13, col.2"
-IOT,1,251.2,251.2,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,May,5/20/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,"NYMR, p.13, col.2"
-IOT,1,252,252,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,May,5/21/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1813 Jun 4 CSS: Many bergs
-IOT,1,253.1,253.1,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,May,5/21/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1813 Jun 4 CSS: Many bergs
-IOT,1,253.2,253.2,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,May,5/21/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1813 Jun 4 CSS
-IOT,1,331,331,N,Ship,Tampa (IIP),Visual,47.55,-52.66666667,1924,1924,May,5/23/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1813 Jun 4: grounded 1 mile southward of entrance to St. John's harbor
-IOT,1,254.1,254.1,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,May,5/24/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1813 Jun 4 CSS: Many bergs
-IOT,1,254.2,254.2,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,May,5/24/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1813 Jun 4 CSS
-IOT,1,255,255,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,May,5/24/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1813 Jun 4 CSS: Many bergs
-IOT,1,99,99,N,Ship,Patrol Vessel,Visual,48.7,-51.51666667,1924,1924,May,5/26/24,,Large,,,,,,1,,,,,,,,,,,,,,,,IIP
-IOT,1,101,101,N,Ship,Patrol Vessel,Visual,50.73333333,-53.31666667,1924,1924,May,5/27/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
-IOT,1,102,102,N,Ship,Patrol Vessel,Visual,50.83333333,-53.41666667,1924,1924,May,5/27/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
-IOT,1,103,103,N,Ship,Veerhaven (SS),Visual,48.78333333,-52.61666667,1924,1924,May,5/27/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
-IOT,1,104,104,N,Ship,Veerhaven (SS),Visual,51,-53.51666667,1924,1924,May,5/27/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
-IOT,1,105,105,N,Ship,Veerhaven (SS),Visual,51.25,-54.03333333,1924,1924,May,5/27/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
-IOT,1,106.1,106.1,N,Ship,Veerhaven (SS),Visual,51.43333333,-54.75,1924,1924,May,5/27/24,,Berg,7,,,,,,,,,,,,,,,,,,,,,IIP: 7 bergs within 20 miles
-IOT,1,106.2,106.2,N,Ship,Veerhaven (SS),Visual,51.43333333,-54.75,1924,1924,May,5/27/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP: Many growlers within 20 miles
-IOT,1,107,107,N,Ship,Veerhaven (SS),Visual,51.03333333,-53.98333333,1924,1924,May,5/27/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
-IOT,1,108.11,108.11,N,Ship,Veerhaven (SS),Visual,51.95,-55.35,1924,1924,May,5/27/24,,Berg,25,,,,,,,,,,,,,,,,,,,,,IIP: 25 bergs between Belle Isle and Cape Bauld
-IOT,0,108.12,108.12,N,Ship,Veerhaven (SS),Visual,51.63333333,-55.43333333,1924,1924,May,5/27/24,,Berg,,,,,,,,,,,,,,,,,,,,,,IIP
-IOT,1,108.21,108.21,N,Ship,Veerhaven (SS),Visual,51.95,-55.35,1924,1924,May,5/27/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,IIP: Growlers between Belle Isle and Cape Bauld
-IOT,0,108.22,108.22,N,Ship,Veerhaven (SS),Visual,51.63333333,-55.43333333,1924,1924,May,5/27/24,,Growler,,,,,,,,,,,,,,,,,,,,,,IIP
-IOT,1,109,109,N,Ship,Veerhaven (SS),Visual,51.95,-55.35,1924,1924,May,5/27/24,,Berg,7,,,,,,,,,,,,,,,,,,,,,"IIP: 7 bergs, grounded, east side Belle Isle"
-IOT,1,110,110,N,Ship,Veerhaven (SS),Visual,51.95,-55.35,1924,1924,May,5/27/24,,Berg,4,,,,,,,,,,,,,,,,,,,,,"IIP: 4 bergs, grounded, west side Belle Isle"
-IOT,1,111,99,Y,Ship,Veerhaven (SS),Visual,48.33333333,-51.33333333,1924,1924,May,5/27/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
-IOT,1,256.11,256.11,N,Ship,Ice Patrol,Visual,51.73333333,-55.35,1924,1924,May,5/27/24,,Berg,12,,,,,,,,,,,,,,,,,,,,,HB 1813 Jun 4
-IOT,0,256.12,256.12,N,Ship,Ice Patrol,Visual,51.95,-55.35,1924,1924,May,5/27/24,,Berg,,,,,,,,,,,,,,,,,,,,,,HB 1813 Jun 4
-IOT,1,256.21,256.21,N,Ship,Ice Patrol,Visual,51.73333333,-55.35,1924,1924,May,5/27/24,,Growler,,30,,,,,,,,,,,,,,,,,,,,HB 1813 Jun 4
-IOT,0,256.22,256.22,N,Ship,Ice Patrol,Visual,51.95,-55.35,1924,1924,May,5/27/24,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1813 Jun 4
-IOT,1,257,257,N,Ship,Ice Patrol,Visual,51.5,-56.5,1924,1924,May,5/27/24,,Berg,20,,,,,,,,,,,,,,,,,,,,,HB 1813 Jun 4
-IOT,1,258.1,258.1,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,May,5/27/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1814 Jun 11 CSS: Many Bergs
-IOT,1,258.2,258.2,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,May,5/27/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1814 Jun 11 CSS
-IOT,1,259,259,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,May,5/27/24,,Berg,41,,,,,,,,,,,,,,,,,,,,,HB 1814 Jun 11 CSS
-IOT,1,113.01,113.01,N,Ship,Veni (SS),Visual,51.63333333,-55.43333333,1924,1924,May,5/28/24,,Berg,35,,,,,,,,,,,,,,,,,,,,,"IIP: 35 Bergs and field ice, Cape Bauld to Hare Bay, on coast"
-IOT,0,113.02,113.02,N,Ship,Veni (SS),Visual,49.73333333,-54.28333333,1924,1924,May,5/28/24,,Berg,,,,,,,,,,,,,,,,,,,,,,IIP
-IOT,1,114.1,114.1,N,Ship,Veni (SS),Visual,50.83333333,-55.58333333,1924,1924,May,5/28/24,,Berg,16,,,,,,,,,,,,,,,,,,,,,"IIP: 16 bergs, inshore at Grey Islands"
-IOT,1,114.2,114.2,N,Ship,Veni (SS),Visual,50.83333333,-55.58333333,1924,1924,May,5/28/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,"IIP: Growlers, inshore at Grey Islands"
-IOT,1,115.1,115.1,N,Ship,Veni (SS),Visual,49.1,-53.18333333,1924,1924,May,5/28/24,,Berg,4,,,,,,,,,,,,,,,,,,,,,"IIP: given position with lon 54.11 is on land, perhaps 53.11W"
-IOT,1,115.2,115.2,N,Ship,Veni (SS),Visual,49.1,-53.18333333,1924,1924,May,5/28/24,,Growler,,35,,,,,,,,,,,,,,,,,,,,"IIP: given position with lon 54.11 is on land, perhaps 53.11W"
-IOT,1,116.01,116.01,N,Ship,Veni (SS),Visual,49.7,-54.76666667,1924,1924,May,5/28/24,,Berg,8,,,,,,,,,,,,,,,,,,,,,IIP
-IOT,0,116.02,116.02,N,Ship,Veni (SS),Visual,49.75,-54.16666667,1924,1924,May,5/28/24,,Berg,,,,,,,,,,,,,,,,,,,,,,IIP
-IOT,1,260.1,260.1,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,May,5/28/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1814 Jun 11 CSS: Many Bergs
-IOT,1,260.2,260.2,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,May,5/28/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1814 Jun 11 CSS
-IOT,1,261,261,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,May,5/28/24,,Berg,45,,,,,,,,,,,,,,,,,,,,,HB 1814 Jun 11 CSS: About 45 bergs
-IOT,1,332.01,332.01,N,Ship,Ice Patrol,Visual,51.63333333,-55.43333333,1924,1924,May,5/28/24,,Berg,67,,,,,,,,,,,,,,,,,,,,,"HB 1813 Jun 4: strung from C.Bauld, all less than 30 miles from coast, trapped and disintegrating in the bight between there and Funk Is."
-IOT,0,332.02,332.02,N,Ship,Ice Patrol,Visual,49.75,-54.7,1924,1924,May,5/28/24,,Berg,,,,,,,,,,,,,,,,,,,,,,"HB 1813 Jun 4: strung from C.Bauld, all less than 30 miles from coast, trapped and disintegrating in the bight between there and Funk Is."
-IOT,1,120,120,N,Ship,Holtby (SS),Visual,49.06666667,-53.3,1924,1924,June,6/1/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
-IOT,1,121,121,N,Ship,Holtby (SS),Visual,49.1,-53.36666667,1924,1924,June,6/1/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
-IOT,1,310.1,310.1,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,May,6/1/24,,Berg,23,,,,,,,,,,,,,,,,,,,,,HB 1814 Jun 11 CSS
-IOT,1,310.2,310.2,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,May,6/1/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1814 Jun 11 CSS: Many growlers
-IOT,1,122,104,Y,Ship,Patrol Vessel,Visual,48.48333333,-52.38333333,1924,1924,June,6/2/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
-IOT,1,311.1,311.1,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,May,6/2/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1814 Jun 11 CSS: Many Bergs
-IOT,1,311.2,311.2,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,May,6/2/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1814 Jun 11 CSS
-IOT,1,312,312,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,May,6/2/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1814 Jun 11 CSS: Many bergs
-IOT,1,124,99,Y,Ship,Cymeric Queen (SS),Visual,48.53333333,-51.21666667,1924,1924,June,6/3/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1815 Jun 18
-IOT,1,127,99,Y,Ship,Patrol Vessel,Visual,48.35,-51.16666667,1924,1924,June,6/5/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1815 Jun 18
-IOT,1,128,104,Y,Ship,Patrol Vessel,Visual,47.96666667,-52.61666667,1924,1924,June,6/6/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1815 Jun 18
-IOT,1,129,99,Y,Ship,Patrol Vessel,Visual,48.15,-51.23333333,1924,1924,June,6/6/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP. HB 1815 Jun 18
-IOT,1,130,130,N,Ship,Kenmore (SS),Visual,49.8,-53.36666667,1924,1924,June,6/6/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
-IOT,1,131,131,N,Ship,Kenmore (SS),Visual,49.8,-53.16666667,1924,1924,June,6/6/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP
-IOT,1,335.1,335.1,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/6/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1815 Jun 18: many bergs & growlers
-IOT,1,335.2,335.2,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/6/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1815 Jun 18: many bergs & growlers
-IOT,1,339.1,339.1,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,June,6/6/24,,Berg,26,,,,,,,,,,,,,,,,,,,,,HB 1815 Jun 18
-IOT,1,339.2,339.2,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,June,6/6/24,,Growler,,12,,,,,,,,,,,,,,,,,,,,HB 1815 Jun 18
-IOT,1,132,132,N,Ship,Patrol Vessel,Visual,49.28333333,-53.36666667,1924,1924,June,6/7/24,,Berg,2,,,,,,,,,,,,,,,,,,,,,IIP. HB 1815 Jun 18: 2 bergs (IIP 1) grounded near C.Freels
-IOT,1,336.1,336.1,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/8/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1815 Jun 18: many bergs & growlers
-IOT,1,336.2,336.2,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/8/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1815 Jun 18: many bergs & growlers
-IOT,1,340,340,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,June,6/8/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1815 Jun 18: many bergs
-IOT,1,133,3,Y,Ship,Patrol Vessel,Visual,47.76666667,-51.36666667,1924,1924,June,6/9/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Berg No.3 drifting 193 deg 0.5 knot per hour. HB 1815 Jun 18
-IOT,1,337.1,337.1,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/9/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1815 Jun 18: many bergs & growlers
-IOT,1,337.2,337.2,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/9/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1815 Jun 18: many bergs & growlers
-IOT,1,341,341,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,June,6/9/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1815 Jun 18: many bergs
-IOT,1,134,3,Y,Ship,Patrol Vessel,Visual,47.6,-51.46666667,1924,1924,June,6/10/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Berg No.3 drifting 201 deg 0.5 knot per hour.  HB 1815 Jun 18
-IOT,1,338.1,338.1,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/10/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1815 Jun 18: many bergs & growlers
-IOT,1,338.2,338.2,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/10/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1815 Jun 18: many bergs & growlers
-IOT,1,342,342,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,June,6/10/24,,Berg,25,,,,,,,,,,,,,,,,,,,,,HB 1815 Jun 18
-IOT,1,135,3,Y,Ship,Patrol Vessel,Visual,47.36666667,-51.55,1924,1924,June,6/11/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Berg No.3 drifting 198 deg 0.6 knot per hour. HB 1815 Jun 18
-IOT,1,343.1,343.1,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/11/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1816 Jun 25: many bergs & growlers
-IOT,1,343.2,343.2,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/11/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1816 Jun 25: many bergs & growlers
-IOT,1,137,3,Y,Ship,Patrol Vessel,Visual,47.01666667,-51.63333333,1924,1924,June,6/12/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Berg No.3 drifting 190 deg 0.9 knot per hour.  HB 1815 Jun 18
-IOT,1,344.1,344.1,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/12/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1816 Jun 25: many bergs & growlers
-IOT,1,344.2,344.2,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/12/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1816 Jun 25: many bergs & growlers
-IOT,1,348.1,348.1,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,June,6/12/24,,Berg,30,,,,,,,,,,,,,,,,,,,,,HB 1816 Jun 25: 30 bergs & many growlers
-IOT,1,348.2,348.2,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,June,6/12/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1816 Jun 25: 30 bergs & many growlers
-IOT,1,139.1,3,Y,Ship,Patrol Vessel,Visual,46.83333333,-51.75,1924,1924,June,6/13/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Berg No.3 drifted 202 deg 4 miles in 24 hours. HB 1816 Jun 25
-IOT,1,139.2,139.2,N,Ship,Patrol Vessel,Visual,46.83333333,-51.75,1924,1924,June,6/13/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,IIP. HB 1816 Jun 25: growler broken from berg bears 250°
-IOT,1,345.1,345.1,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/13/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1816 Jun 25: many bergs & growlers
-IOT,1,345.2,345.2,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/13/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1816 Jun 25: many bergs & growlers
-IOT,1,349.1,349.1,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,June,6/13/24,,Berg,35,,,,,,,,,,,,,,,,,,,,,HB 1816 Jun 25: 35 bergs & many growlers
-IOT,1,349.2,349.2,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,June,6/13/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1816 Jun 25: 35 bergs & many growlers
-IOT,1,141.1,3,Y,Ship,Patrol Vessel,Visual,46.75,-51.73333333,1924,1924,June,6/14/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Berg No.3 in eddy
-IOT,1,141.2,139.2,Y,Ship,Patrol Vessel,Visual,46.73333333,-51.85,1924,1924,June,6/14/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,IIP. HB 1816 Jun 25: growler 5 miles to W. [calculated]
-IOT,1,142.1,3,Y,Ship,Patrol Vessel,Visual,46.7,-52,1924,1924,June,6/15/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Berg No.3 drifting west with east wind. HB 1816 Jun 25: breaking up.
-IOT,1,142.2,139.2,Y,Ship,Patrol Vessel,Visual,46.63333333,-52,1924,1924,June,6/15/24,,Growler,,2,,,,,,,,,,,,,,,,,,,,IIP. HB 1816 Jun 25: 2 large growlers 4 miles S [calculated]
-IOT,1,346.1,346.1,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/15/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1816 Jun 25: many bergs & growlers
-IOT,1,346.2,346.2,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/15/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1816 Jun 25: many bergs & growlers
-IOT,1,350.1,350.1,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,June,6/15/24,,Berg,41,,,,,,,,,,,,,,,,,,,,,HB 1816 Jun 25: 41 bergs & many growlers
-IOT,1,350.2,350.2,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,June,6/15/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1816 Jun 25: 41 bergs & many growlers
-IOT,1,313,313,N,Ship,West Irmo (SS),Visual,38.05,-63.33333333,1924,1924,June,6/16/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,Marine Observer Vol.9 1932.  HB 1815 Jun 18
-IOT,1,347.1,347.1,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/16/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1816 Jun 25: many bergs & growlers
-IOT,1,347.2,347.2,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/16/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1816 Jun 25: many bergs & growlers
-IOT,1,351.1,351.1,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,June,6/16/24,,Berg,41,,,,,,,,,,,,,,,,,,,,,HB 1816 Jun 25: 41 bergs & many growlers
-IOT,1,351.2,351.2,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,June,6/16/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1816 Jun 25: 41 bergs & many growlers
-IOT,1,352,352,N,Ship,Idefjord (SS),Visual,51.83333333,-55.38333333,1924,1924,June,6/16/24,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1816 Jun 25: 2 bergs near S. point Belle Isle
-IOT,1,353.1,3,Y,Ship,Ice Patrol,Visual,46.81666667,-52.18333333,1924,1924,June,6/16/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1816 Jun 25: near berg & 3 growlers
-IOT,1,353.2,3,Y,Ship,Ice Patrol,Visual,46.81666667,-52.18333333,1924,1924,June,6/16/24,,Growler,,3,,,,,,,,,,,,,,,,,,,,HB 1816 Jun 25: near berg & 3 growlers
-IOT,1,354.1,3,Y,Ship,Ice Patrol,Visual,46.91666667,-52.1,1924,1924,June,6/17/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1816 Jun 25: near berg & 3 growlers
-IOT,1,354.2,3,Y,Ship,Ice Patrol,Visual,46.91666667,-52.1,1924,1924,June,6/17/24,,Growler,,3,,,,,,,,,,,,,,,,,,,,HB 1816 Jun 25: near berg & 3 growlers
-IOT,1,355.1,355.1,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/17/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2: many bergs & growlers
-IOT,1,355.2,355.2,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/17/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2: many bergs & growlers
-IOT,1,361,361,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,June,6/17/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2: many bergs
-IOT,1,368.11,368.11,N,Ship,Idefjord (SS),Visual,51.83333333,-55.38333333,1924,1924,June,6/17/24,,Berg,25,,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2: 25 bergs & 4 growlers from S point Belle Isle to Pt. Amour
-IOT,0,368.12,368.12,N,Ship,Idefjord (SS),Visual,51.45,-56.86666667,1924,1924,June,6/17/24,,Berg,,,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2: 25 bergs & 4 growlers from S point Belle Isle to Pt. Amour
-IOT,1,368.21,368.21,N,Ship,Idefjord (SS),Visual,51.83333333,-55.38333333,1924,1924,June,6/17/24,,Growler,,4,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2: 25 bergs & 4 growlers from S point Belle Isle to Pt. Amour
-IOT,0,368.22,368.22,N,Ship,Idefjord (SS),Visual,51.45,-56.86666667,1924,1924,June,6/17/24,,Growler,,,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2: 25 bergs & 4 growlers from S point Belle Isle to Pt. Amour
-IOT,1,144,3,Y,Ship,Patrol Vessel,Visual,47.25,-51.98333333,1924,1924,June,6/18/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Berg No.3 drifted north 30 miles in 3 days under influence of south wind. HB 1816 Jun 25
-IOT,1,356.1,356.1,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/18/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2: many bergs & growlers
-IOT,1,356.2,356.2,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/18/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2: many bergs & growlers
-IOT,1,362.1,362.1,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,June,6/18/24,,Berg,6,,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2: 6 bergs & many growlers
-IOT,1,362.2,362.2,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,June,6/18/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2: 6 bergs & many growlers
-IOT,1,367.1,367.1,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,June,6/18/24,,Berg,16,,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2
-IOT,1,367.2,367.2,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,June,6/18/24,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2
-IOT,1,357.1,357.1,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/19/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2: many bergs & growlers
-IOT,1,357.2,357.2,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/19/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2: many bergs & growlers
-IOT,1,363,363,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,June,6/19/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1817 Jul 2: many bergs, states 18th and could be typo for 19th"
-IOT,1,146,3,Y,Ship,Patrol Vessel,Visual,47.46666667,-51.36666667,1924,1924,June,6/20/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Berg No.3 drifted 62 deg 0.6 knot per hour. HB 1817 Jul 2
-IOT,1,364,364,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,June,6/20/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2: many bergs
-IOT,1,369,369,N,Ship,Grey County (SS),Visual,52.46666667,-55.35,1924,1924,June,6/20/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2
-IOT,1,370.1,370.1,N,Ship,Grey County (SS),Visual,52.41666667,-55.35,1924,1924,June,6/20/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2: berg & several growlers
-IOT,1,370.2,370.2,N,Ship,Grey County (SS),Visual,52.41666667,-55.35,1924,1924,June,6/20/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2: berg & several growlers
-IOT,1,371,371,N,Ship,Grey County (SS),Visual,52.38333333,-55.33333333,1924,1924,June,6/20/24,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2
-IOT,1,372,372,N,Ship,Grey County (SS),Visual,52.33333333,-55.35,1924,1924,June,6/20/24,,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2
-IOT,1,373,373,N,Ship,Grey County (SS),Visual,52.3,-55.35,1924,1924,June,6/20/24,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1817 Jul 2
-IOT,1,374,374,N,Ship,Grey County (SS),Visual,52.16666667,-55.36666667,1924,1924,June,6/20/24,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2
-IOT,1,375.1,375.1,N,Ship,Grey County (SS),Visual,52.11666667,-55.38333333,1924,1924,June,6/20/24,,Large,,,,,,3,,,,,,,,,,,,,,,,HB 1817 Jul 2
-IOT,1,375.2,375.2,N,Ship,Grey County (SS),Visual,52.11666667,-55.38333333,1924,1924,June,6/20/24,,Small,,,,4,,,,,,,,,,,,,,,,,,HB 1817 Jul 2
-IOT,1,376.1,376.1,N,Ship,Grey County (SS),Visual,51,-55.4,1924,1924,June,6/20/24,,Small,,,,5,,,,,,,,,,,,,,,,,,HB 1817 Jul 2: also numerous large & small growlers & scattered pieces
-IOT,1,376.2,376.2,N,Ship,Grey County (SS),Visual,51,-55.4,1924,1924,June,6/20/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2: also numerous large & small growlers & scattered pieces
-IOT,1,377,377,N,Ship,Grey County (SS),Visual,50.51666667,-58.55,1924,1924,June,6/20/24,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1817 Jul 2
-IOT,1,147,3,Y,Ship,Cornish Point (SS),Visual,47.28333333,-51.3,1924,1924,June,6/21/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Berg No.3 drifted 168 deg 0.5 knot per hour. HB 1817 Jul 2
-IOT,1,358.1,358.1,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/21/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2: many bergs & growlers
-IOT,1,358.2,358.2,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/21/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2: many bergs & growlers
-IOT,1,365,365,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,June,6/21/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2: some bergs
-IOT,1,366,366,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,June,6/21/24,,Berg,27,,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2
-IOT,1,148,3,Y,Ship,Cabotia (SS),Visual,47,-51.25,1924,1924,June,6/22/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,IIP: Berg No.3 drifted 175 deg 0.7 knot per hour. HB 1817 Jul 2
-IOT,1,359.1,359.1,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/22/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2: many bergs & growlers
-IOT,1,359.2,359.2,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/22/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2: many bergs & growlers
-IOT,1,360.1,360.1,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/23/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2: many bergs & growlers
-IOT,1,360.2,360.2,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/23/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2: many bergs & growlers
-IOT,1,378,378,N,Ship,Kastalia (SS),Visual,47.46666667,-51.41666667,1924,1924,June,6/23/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1817 Jul 2
-IOT,1,379,378,N,Ship,Tampa (IIP),Visual,46.98333333,-51.33333333,1924,1924,June,6/23/24,,Growler,,3,,,,,,,,,,,,,,,,,,,,"HB 1817 Jul 2: 3 small growlers, all that remains of a berg"
-IOT,1,380.1,380.1,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/24/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1818 Jul 9: many bergs & growlers
-IOT,1,380.2,380.2,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/24/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1818 Jul 9: many bergs & growlers
-IOT,1,383,383,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,June,6/24/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1818 Jul 9: some bergs
-IOT,1,387.1,378,Y,Ship,Cabotia (SS),Visual,47.36666667,-51.23333333,1924,1924,June,6/24/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1818 Jul 9: berg & several small pieces [very likely resight of #378]
-IOT,1,387.2,378,Y,Ship,Cabotia (SS),Visual,47.36666667,-51.23333333,1924,1924,June,6/24/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1818 Jul 9: berg & several small pieces [very likely resight of #378]
-IOT,1,388.01,388.01,N,Ship,Cairnmona (SS),Visual,51.8,-55.38333333,1924,1924,June,6/24/24,,Berg,8,,,,,,,,,,,,,,,,,,,,,"HB 1818 Jul 9: from 2 miles S of Belle Isle to a point 2 miles W of C.Norman, 8 bergs N&S of the tracks"
-IOT,0,388.02,388.02,N,Ship,Cairnmona (SS),Visual,51.75,-55.95,1924,1924,June,6/24/24,,Berg,,,,,,,,,,,,,,,,,,,,,,"HB 1818 Jul 9: from 2 miles S of Belle Isle to a point 2 miles W of C.Norman, 8 bergs N&S of the tracks"
-IOT,1,389.11,389.11,N,Ship,Cairnmona (SS),Visual,51.75,-55.95,1924,1924,June,6/24/24,,Small,,,,11,,,,,,,,,,,,,,,,,,"HB 1818 Jul 9: from a point 2 miles W of C.Norman to Point Amour, 11 bergs & 11 growlers"
-IOT,0,389.12,389.12,N,Ship,Cairnmona (SS),Visual,51.45,-56.86666667,1924,1924,June,6/24/24,,Small,,,,,,,,,,,,,,,,,,,,,,"HB 1818 Jul 9: from a point 2 miles W of C.Norman to Point Amour, 11 bergs & 11 growlers"
-IOT,1,389.21,389.21,N,Ship,Cairnmona (SS),Visual,51.75,-55.95,1924,1924,June,6/24/24,,Growler,,11,,,,,,,,,,,,,,,,,,,,"HB 1818 Jul 9: from a point 2 miles W of C.Norman to Point Amour, 11 bergs & 11 growlers"
-IOT,0,389.22,389.22,N,Ship,Cairnmona (SS),Visual,51.45,-56.86666667,1924,1924,June,6/24/24,,Growler,,,,,,,,,,,,,,,,,,,,,,"HB 1818 Jul 9: from a point 2 miles W of C.Norman to Point Amour, 11 bergs & 11 growlers"
-IOT,1,390.1,390.1,N,Ship,Cairnmona (SS),Visual,50.25,-59.65,1924,1924,June,6/24/24,,Small,,,,2,,,,,,,,,,,,,,,,,,HB 1818 Jul 9: off St.Mary's Islands
-IOT,1,390.2,390.2,N,Ship,Cairnmona (SS),Visual,50.25,-59.65,1924,1924,June,6/24/24,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1818 Jul 9: off St.Mary's Islands
-IOT,1,384,384,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,June,6/26/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1818 Jul 9: some bergs
-IOT,1,443.1,443.1,N,Ship,Doonholm (SS),Visual,46.96666667,-51.2,1924,1924,June,6/26/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23
-IOT,1,443.2,443.2,N,Ship,Doonholm (SS),Visual,46.96666667,-51.2,1924,1924,June,6/26/24,,Growler,,3,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23
-IOT,1,381.1,381.1,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/27/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1818 Jul 9: many bergs & growlers
-IOT,1,381.2,381.2,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/27/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1818 Jul 9: many bergs & growlers
-IOT,1,385,385,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,June,6/27/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1818 Jul 9: some bergs
-IOT,1,391,391,N,Ship,Marloch (SS),Visual,51.71666667,-55.41666667,1924,1924,June,6/27/24,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1818 Jul 9: 2 bergs 7 miles S by W from Belle Isle
-IOT,1,392,392,N,Ship,Marloch (SS),Visual,51.63333333,-56.08333333,1924,1924,June,6/27/24,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1818 Jul 9: 2 bergs 7 miles W of C.Norman
-IOT,1,393,393,N,Ship,Marloch (SS),Visual,51.63333333,-56.28333333,1924,1924,June,6/27/24,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1818 Jul 9: 2 bergs 14 miles W of C.Norman
-IOT,1,394.01,394.01,N,Ship,Marloch (SS),Visual,51.63333333,-56.3,1924,1924,June,6/27/24,,Berg,5,,,,,,,,,,,,,,,,,,,,,"HB 1818 Jul 9: from a point 15 miles W of C.Norman to Pt.Amour, 5 bergs"
-IOT,0,394.02,394.02,N,Ship,Marloch (SS),Visual,51.41666667,-56.86666667,1924,1924,June,6/27/24,,Berg,,,,,,,,,,,,,,,,,,,,,,"HB 1818 Jul 9: from a point 15 miles W of C.Norman to Pt.Amour, 5 bergs"
-IOT,1,395.01,395.01,N,Ship,Marloch (SS),Visual,51.41666667,-56.86666667,1924,1924,June,6/27/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,"HB 1818 Jul 9: from Pt.Amour to Greenly Is., 1 berg"
-IOT,0,395.02,395.02,N,Ship,Marloch (SS),Visual,51.33333333,-57.2,1924,1924,June,6/27/24,,Berg,,,,,,,,,,,,,,,,,,,,,,"HB 1818 Jul 9: from Pt.Amour to Greenly Is., 1 berg"
-IOT,1,396,396,N,Ship,Marloch (SS),Visual,51.25,-57.43333333,1924,1924,June,6/27/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1818 Jul 9: berg 12 miles W of Greenly Is.
-IOT,1,397.01,397.01,N,Ship,Empress of Scotland (SS),Visual,51.83333333,-55.38333333,1924,1924,June,6/27/24,,Berg,4,,,,,,,,,,,,,,,,,,,,,HB 1818 Jul 9: 4 bergs between Belle Isle & C.Bauld
-IOT,0,397.02,397.02,N,Ship,Empress of Scotland (SS),Visual,51.66666667,-55.43333333,1924,1924,June,6/27/24,,Berg,,,,,,,,,,,,,,,,,,,,,,HB 1818 Jul 9: 4 bergs between Belle Isle & C.Bauld
-IOT,1,398,398,N,Ship,Empress of Scotland (SS),Visual,51.66666667,-55.9,1924,1924,June,6/27/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1818 Jul 9: berg 2 miles off C.Norman
-IOT,1,399,399,N,Ship,Empress of Scotland (SS),Visual,51.33333333,-56.91666667,1924,1924,June,6/27/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1818 Jul 9
-IOT,1,400,400,N,Ship,Empress of Scotland (SS),Visual,51.28333333,-57.03333333,1924,1924,June,6/27/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1818 Jul 9
-IOT,1,401,401,N,Ship,Empress of Scotland (SS),Visual,51.25,-57,1924,1924,June,6/27/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1818 Jul 9
-IOT,1,402,402,N,Ship,Empress of Scotland (SS),Visual,51.25,-57,1924,1924,June,6/27/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1818 Jul 9
-IOT,1,403,403,N,Ship,Empress of Scotland (SS),Visual,51.23333333,-57.05,1924,1924,June,6/27/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1818 Jul 9
-IOT,1,404,404,N,Ship,Empress of Scotland (SS),Visual,51.2,-57.31666667,1924,1924,June,6/27/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1818 Jul 9
-IOT,1,382.1,382.1,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/28/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1818 Jul 9: many bergs & growlers
-IOT,1,382.2,382.2,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,June,6/28/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1818 Jul 9: many bergs & growlers
-IOT,1,386,386,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,June,6/28/24,,Berg,6,,,,,,,,,,,,,,,,,,,,,HB 1818 Jul 9
-IOT,1,411,411,N,Ship,Athenia (SS),Visual,51.8,-55.38333333,1924,1924,June,6/29/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16: berg ~2 miles S of Belle Isle
-IOT,1,412,412,N,Ship,Athenia (SS),Visual,51.91666667,-55.41666667,1924,1924,June,6/29/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16: berg 1 mile W of Belle Isle
-IOT,1,413,413,N,Ship,Athenia (SS),Visual,51.91666667,-55.91666667,1924,1924,June,6/29/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16: growler 21 miles W of Belle Isle
-IOT,1,414,398,Y,Ship,Athenia (SS),Visual,51.68333333,-55.9,1924,1924,June,6/29/24,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1819 Jul 16: large berg 3 miles off C.Norman
-IOT,1,415.01,415.01,N,Ship,Athenia (SS),Visual,51.66666667,-55.9,1924,1924,June,6/29/24,,Berg,5,,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16: 5 bergs from C.Norman to Pt.Amour
-IOT,0,415.02,415.02,N,Ship,Athenia (SS),Visual,51.45,-56.86666667,1924,1924,June,6/29/24,,Berg,,,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16: 5 bergs from C.Norman to Pt.Amour
-IOT,1,416,416,N,Ship,Athenia (SS),Visual,51.4,-56.83333333,1924,1924,June,6/29/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16: growler ~3 miles 152° from Pt.Amour
-IOT,1,417,417,N,Ship,Athenia (SS),Visual,51.36666667,-56.86666667,1924,1924,June,6/29/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16: low-lying dangerous berg ~5 miles 180° from Pt.Amour
-IOT,1,418,418,N,Ship,Athenia (SS),Visual,51.36666667,-56.91666667,1924,1924,June,6/29/24,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1819 Jul 16: large berg ~8 miles 204° from Pt.Amour
-IOT,1,419,419,N,Ship,Mont Laurier (SS),Visual,51.38333333,-56.95,1924,1924,June,6/29/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16: berg off Forteau Pt.
-IOT,1,420,420,N,Ship,Mont Laurier (SS),Visual,51.38333333,-57.05,1924,1924,June,6/29/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,"HB 1819 Jul 16: berg between Forteau Pt. & Greenly Is., N of track."
-IOT,1,405.1,405.1,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,July,7/2/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16: many bergs & growlers
-IOT,1,405.2,405.2,N,Miscellaneous,Point Amour,Visual,51.45,-56.86666667,1924,1924,July,7/2/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16: many bergs & growlers
-IOT,1,406,406,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,July,7/2/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16: some bergs
-IOT,1,407,407,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,July,7/3/24,,Berg,6,,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16
-IOT,1,421.11,421.11,N,Ship,Montrose (SS),Visual,51.83333333,-55.55,1924,1924,July,7/3/24,,Berg,7,,,,,,,,,,,,,,,,,,,,,"HB 1819 Jul 16: from 6 miles W of S.Pt. Belle Isle to 10 miles E of Pt.Amour, 7 bergs & quite a number of growlers on or near track. Several bergs apparantly aground on shores, 1 exceptionally large N of Belle Isle."
-IOT,0,421.12,421.12,N,Ship,Montrose (SS),Visual,51.45,-56.6,1924,1924,July,7/3/24,,Berg,,,,,,,,,,,,,,,,,,,,,,"HB 1819 Jul 16: from 6 miles W of S.Pt. Belle Isle to 10 miles E of Pt.Amour, 7 bergs & quite a number of growlers on or near track. Several bergs apparantly aground on shores, 1 exceptionally large N of Belle Isle."
-IOT,1,422.21,422.21,N,Ship,Montrose (SS),Visual,51.83333333,-55.55,1924,1924,July,7/3/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,"HB 1819 Jul 16: from 6 miles W of S.Pt. Belle Isle to 10 miles E of Pt.Amour, 7 bergs & quite a number of growlers on or near track. Several bergs apparantly aground on shores, 1 exceptionally large N of Belle Isle."
-IOT,0,422.22,422.22,N,Ship,Montrose (SS),Visual,51.45,-56.6,1924,1924,July,7/3/24,,Growler,,,,,,,,,,,,,,,,,,,,,,"HB 1819 Jul 16: from 6 miles W of S.Pt. Belle Isle to 10 miles E of Pt.Amour, 7 bergs & quite a number of growlers on or near track. Several bergs apparantly aground on shores, 1 exceptionally large N of Belle Isle."
-IOT,1,423,423,N,Ship,Batsford (SS),Visual,51.86666667,-55.33333333,1924,1924,July,7/3/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16: berg 3 miles NE of S.Pt. Belle Isle
-IOT,1,424,424,N,Ship,Batsford (SS),Visual,51.93333333,-55.23333333,1924,1924,July,7/3/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16: berg 8 miles NE of S.Pt. Belle Isle
-IOT,1,408,408,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,July,7/4/24,,Berg,4,,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16
-IOT,1,425,425,N,Ship,Gracia (SS),Visual,51.91666667,-55.6,1924,1924,July,7/4/24,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1819 Jul 16: large berg 8 miles W of Belle Isle & 2 miles N of track
-IOT,1,426,426,N,Ship,Gracia (SS),Visual,51.91666667,-55.7,1924,1924,July,7/4/24,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1819 Jul 16: large berg 12 miles W of Belle Isle & 1 mile N of track
-IOT,1,427,427,N,Ship,Gracia (SS),Visual,51.73333333,-55.85,1924,1924,July,7/4/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16: large growler 6 miles 20° from C.Norman
-IOT,1,428,428,N,Ship,Gracia (SS),Visual,51.71666667,-55.9,1924,1924,July,7/4/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16: large growler 4.5 miles N of C.Norman
-IOT,1,429,429,N,Ship,Gracia (SS),Visual,51.45,-56.41666667,1924,1924,July,7/4/24,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1819 Jul 16: large berg 17 miles E of Pt.Amour & 2 miles N of track
-IOT,1,430.1,430.1,N,Ship,Gracia (SS),Visual,51.45,-56.51666667,1924,1924,July,7/4/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16:  berg & several growlers 13 miles E of Pt.Amour & 2 miles N of track
-IOT,1,430.2,430.2,N,Ship,Gracia (SS),Visual,51.45,-56.51666667,1924,1924,July,7/4/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16:  berg & several growlers 13 miles E of Pt.Amour & 2 miles N of track
-IOT,1,431,431,N,Ship,Gracia (SS),Visual,51.48333333,-56.51666667,1924,1924,July,7/4/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16:  berg 13 miles E of Pt.Amour & 4 miles N of track
-IOT,1,432,432,N,Ship,Gracia (SS),Visual,51.46666667,-56.6,1924,1924,July,7/4/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16:  berg 10 miles E of Pt.Amour & 3 miles N of track
-IOT,1,433,433,N,Ship,Gracia (SS),Visual,51.45,-56.63333333,1924,1924,July,7/4/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16:  large growler 9 miles E of Pt.Amour
-IOT,1,409,409,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,July,7/5/24,,Berg,4,,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16
-IOT,1,410,410,N,Miscellaneous,Belle Isle,Visual,51.95,-55.35,1924,1924,July,7/7/24,,Berg,2,,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16
-IOT,1,434.1,434.1,N,Ship,Hastings County (SS),Visual,51.45,-56.6,1924,1924,July,7/7/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16:  berg & growler 10 miles E of Pt.Amour
-IOT,1,434.2,434.2,N,Ship,Hastings County (SS),Visual,51.45,-56.6,1924,1924,July,7/7/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16:  berg & growler 10 miles E of Pt.Amour
-IOT,1,435,435,N,Ship,Hastings County (SS),Visual,51.45,-56.7,1924,1924,July,7/7/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16:  berg 6 miles E of Pt.Amour
-IOT,1,436,436,N,Ship,Hastings County (SS),Visual,51.45,-56.55,1924,1924,July,7/7/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16:  berg 10 miles E of Pt.Amour
-IOT,1,437,437,N,Ship,Marloch (SS),Visual,51.93333333,-54.78333333,1924,1924,July,7/7/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16:  berg 21 miles E of Belle Isle & 4 miles S of track
-IOT,1,438,438,N,Ship,Marloch (SS),Visual,51.9,-54.78333333,1924,1924,July,7/7/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16:  berg 21 miles E of Belle Isle & 6 miles S of track
-IOT,1,439,439,N,Ship,Manchester Brigade (SS),Visual,51.91666667,-55.3,1924,1924,July,7/7/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16:  berg close in on the  E coast of Belle Isle
-IOT,1,440,440,N,Ship,Kenbane Head (SS),Visual,51.88333333,-54.86666667,1924,1924,July,7/7/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1819 Jul 16:  berg 18 miles E of Belle Isle & 7 miles S of track
-IOT,1,441.1,441.1,N,Ship,Turcoman (SS),Visual,51.91666667,-55.51666667,1924,1924,July,7/10/24,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1820 Jul 23: medium berg & growlers ~6 miles W of Belle Isle on the track
-IOT,1,441.2,441.2,N,Ship,Turcoman (SS),Visual,51.91666667,-55.51666667,1924,1924,July,7/10/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23: medium berg & growlers ~6 miles W of Belle Isle on the track
-IOT,1,442,442,N,Ship,Turcoman (SS),Visual,51.91666667,-55.65,1924,1924,July,7/10/24,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1820 Jul 23: large berg ~11 miles W of Belle Isle & 3 miles N of the track
-IOT,1,444,444,N,Miscellaneous,Belle Isle,Visual,51.95,-55.3,1924,1924,July,7/10/24,,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23
-IOT,1,447,447,N,Ship,Montclare (SS),Visual,51.63333333,-56.41666667,1924,1924,July,7/10/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23: berg 19 miles W of C.Norman
-IOT,1,448,448,N,Ship,Montclare (SS),Visual,51.63333333,-56.25,1924,1924,July,7/10/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23: berg 13 miles W of C.Norman
-IOT,1,449,449,N,Ship,Montclare (SS),Visual,51.91666667,-55.56666667,1924,1924,July,7/10/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23: berg 7 miles W of Belle Isle
-IOT,1,450,450,N,Ship,Empress of France (SS),Visual,51.8,-55.43333333,1924,1924,July,7/10/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23
-IOT,1,451,451,N,Ship,Empress of France (SS),Visual,51.81666667,-55.63333333,1924,1924,July,7/10/24,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1820 Jul 23
-IOT,1,452,452,N,Ship,Parthenia (SS),Visual,51.85,-55.48333333,1924,1924,July,7/10/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23: berg 5 miles SW Belle Isle
-IOT,1,453,453,N,Ship,Parthenia (SS),Visual,51.78333333,-55.61666667,1924,1924,July,7/10/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23: berg 12 miles from Belle Isle [SW?]
-IOT,1,454,454,N,Ship,Parthenia (SS),Visual,51.63333333,-56.35,1924,1924,July,7/10/24,,Small,,,,2,,,,,,,,,,,,,,,,,,"HB 1820 Jul 23: 17 miles W of C.Norman, near track"
-IOT,1,455,455,N,Ship,Canadian Victor (SS),Visual,51.91666667,-55.3,1924,1924,July,7/11/24,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1820 Jul 23: large berg ashore E coast Belle Isle
-IOT,1,456,456,N,Ship,Canadian Victor (SS),Visual,51.88333333,-55.58333333,1924,1924,July,7/11/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23
-IOT,1,457,457,N,Ship,Canadian Victor (SS),Visual,51.86666667,-55.68333333,1924,1924,July,7/11/24,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23
-IOT,1,458,458,N,Ship,Canadian Victor (SS),Visual,51.63333333,-56.51666667,1924,1924,July,7/11/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,"HB 1820 Jul 23: berg 23 miles W of C.Norman, 3 miles N of track"
-IOT,1,459,459,N,Ship,Canadian Victor (SS),Visual,51.21666667,-57.33333333,1924,1924,July,7/11/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23
-IOT,1,460,460,N,Ship,Canadian Victor (SS),Visual,51.41666667,-56.96666667,1924,1924,July,7/11/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23: several bergs well inshore between Pt.Amour & Greenly Is.
-IOT,1,461,461,N,Ship,Saturnia (SS),Visual,51.83333333,-55.56666667,1924,1924,July,7/11/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23: 7 miles on the track W from Belle Isle
-IOT,1,462,462,N,Ship,Saturnia (SS),Visual,51.95,-55.56666667,1924,1924,July,7/11/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23: 7 miles & 7 miles N of the track W from Belle Isle
-IOT,1,463,463,N,Ship,Saturnia (SS),Visual,51.8,-55.66666667,1924,1924,July,7/11/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23: 12 miles & 3 miles N of the track W from Belle Isle
-IOT,1,464,464,N,Ship,Saturnia (SS),Visual,51.75,-56.08333333,1924,1924,July,7/11/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23: 7 miles & 5 miles N of the track W from C.Norman
-IOT,1,465,465,N,Ship,Saturnia (SS),Visual,51.55,-56.5,1924,1924,July,7/11/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23: 23 miles & 1 mile N of the track W from C.Norman
-IOT,1,466,466,N,Ship,Saturnia (SS),Visual,51.6,-56.55,1924,1924,July,7/11/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23: 25 miles & 5 miles N of the track W from C.Norman
-IOT,1,467,467,N,Ship,Saturnia (SS),Visual,51.41666667,-57.5,1924,1924,July,7/11/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23: 11 miles & 3 miles N of the track W from Greenly Is.
-IOT,1,445,445,N,Miscellaneous,Belle Isle,Visual,51.95,-55.3,1924,1924,July,7/12/24,,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23
-IOT,1,472,472,N,Ship,Manchester Corporation (SS),Visual,51.5,-56.25,1924,1924,July,7/13/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23: berg 230° 17 miles from C.Norman
-IOT,1,473,473,N,Ship,Manchester Corporation (SS),Visual,51.55,-56.45,1924,1924,July,7/13/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23: berg 255° 21 miles from C.Norman
-IOT,1,474,474,N,Ship,Manchester Corporation (SS),Visual,51.56666667,-56.6,1924,1924,July,7/13/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23: berg 57° 12 miles from C.Norman
-IOT,1,446,446,N,Miscellaneous,Belle Isle,Visual,51.95,-55.3,1924,1924,July,7/14/24,,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23
-IOT,1,468.1,468.1,N,Ship,Norefjord (SS),Visual,52,-55.41666667,1924,1924,July,7/14/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23
-IOT,1,468.2,468.2,N,Ship,Norefjord (SS),Visual,52,-55.41666667,1924,1924,July,7/14/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23
-IOT,1,469,469,N,Ship,Norefjord (SS),Visual,51.83333333,-55.43333333,1924,1924,July,7/14/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23
-IOT,1,470,470,N,Ship,Norefjord (SS),Visual,51.88333333,-55.58333333,1924,1924,July,7/14/24,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23
-IOT,1,471.1,471.1,N,Ship,Norefjord (SS),Visual,51.56666667,-56.33333333,1924,1924,July,7/14/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23
-IOT,1,471.2,471.2,N,Ship,Norefjord (SS),Visual,51.56666667,-56.33333333,1924,1924,July,7/14/24,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1820 Jul 23
-IOT,1,477.1,477.1,N,Ship,Baron Kelvin (SS),Visual,51.65,-56.06666667,1924,1924,July,7/14/24,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1821 Jul 30: large berg & several growlers 6 miles 280° from C.Norman
-IOT,1,477.2,477.2,N,Ship,Baron Kelvin (SS),Visual,51.65,-56.06666667,1924,1924,July,7/14/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1821 Jul 30: large berg & several growlers 6 miles 280° from C.Norman
-IOT,1,478,478,N,Ship,Baron Kelvin (SS),Visual,52,-55.63333333,1924,1924,July,7/14/24,,Large,,,,,,2,,,,,,,,,,,,,,,,HB 1821 Jul 30: 2 large bergs 9 miles W of Belle Isle & 2 miles N of track
-IOT,1,479,479,N,Ship,Baron Kelvin (SS),Visual,51.45,-56.5,1924,1924,July,7/14/24,,Berg,x,,,,,,,,,,,,,,,,,,,,,"HB 1821 Jul 30: a few more bergs close to Labrador coast, E of Pt.Amour [position approximate]"
-IOT,I,480,480,N,Ship,Orca (SS),Visual,51.91666667,-55.31666667,1924,1924,July,7/15/24,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1821 Jul 30: aground
-IOT,1,481,481,N,Ship,Orca (SS),Visual,51.8,-55.73333333,1924,1924,July,7/15/24,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1821 Jul 30
-IOT,1,482,482,N,Ship,Orca (SS),Visual,51.8,-55.85,1924,1924,July,7/15/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1821 Jul 30
-IOT,1,483,483,N,Ship,Orca (SS),Visual,51.78333333,-55.95,1924,1924,July,7/15/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1821 Jul 30
-IOT,1,484,484,N,Ship,Orca (SS),Visual,51.78333333,-56.08333333,1924,1924,July,7/15/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1821 Jul 30
-IOT,1,485,485,N,Ship,Orca (SS),Visual,51.53333333,-56.35,1924,1924,July,7/15/24,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1821 Jul 30
-IOT,1,475,475,N,Miscellaneous,Belle Isle,Visual,51.95,-55.3,1924,1924,July,7/16/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1821 Jul 30
-IOT,1,476,476,N,Miscellaneous,Belle Isle,Visual,51.95,-55.3,1924,1924,July,7/17/24,,Growler,,2,,,,,,,,,,,,,,,,,,,,HB 1821 Jul 30
-IOT,1,486,486,N,Ship,Montroyal (SS),Visual,51.81666667,-55.55,1924,1924,July,7/17/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1821 Jul 30: berg 6 miles 260° from S.Pt. Belle Isle
-IOT,1,487,487,N,Ship,Montroyal (SS),Visual,51.51666667,-56.6,1924,1924,July,7/17/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1821 Jul 30: growler 11 miles 68° from Pt.Amour
-IOT,1,488,480,Y,Ship,Canada (SS),Visual,51.91666667,-55.31666667,1924,1924,July,7/18/24,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1821 Jul 30: small berg ashore at Belle Isle. [position approximate & probable resight of #480]
-IOT,1,489,489,N,Ship,Canada (SS),Visual,51.76666667,-55.33333333,1924,1924,July,7/18/24,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1821 Jul 30: large berg 2 miles S of the track off Belle Isle. [position approximate]
-IOT,1,490,490,N,Ship,Canada (SS),Visual,51.8,-55.41666667,1924,1924,July,7/18/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1821 Jul 30: growler on the track off Belle Isle. [position approximate]
-IOT,1,491,491,N,Ship,Canada (SS),Visual,51.55,-56.75,1924,1924,July,7/18/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1821 Jul 30: berg aground off Diable Bay
-IOT,1,492,480,Y,Ship,Antonia (SS),Visual,51.91666667,-55.31666667,1924,1924,July,7/18/24,,Small,,,,2,,,,,,,,,,,,,,,,,,HB 1821 Jul 30: 2 small bergs aground at Belle Isle. [position approximate & probable resight of #480]
-IOT,1,504,491,Y,Ship,Regina (SS),Visual,51.55,-56.75,1924,1924,July,7/21/24,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1824 Aug 20: small berg ashore in Diable Bay. Probably same as #491
-IOT,1,505,505,N,Ship,Regina (SS),Visual,51.8,-55.43333333,1924,1924,July,7/21/24,,Medium,,,,,1,,,,,,,,,,,,,,,,,HB 1824 Aug 20: medium berg 3 miles SW of Belle Isle
-IOT,1,497,497,N,Ship,Bolingbrooke (SS),Visual,52.33333333,-55.5,1924,1924,July,7/22/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1822 Aug 6: berg in Belle Isle North passage [position approximate]
-IOT,1,498,480,Y,Ship,Bolingbrooke (SS),Visual,51.91666667,-55.31666667,1924,1924,July,7/22/24,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1822 Aug 6: small berg aground on E side Belle Isle [position aproximate & probable resight of #480]
-IOT,1,499,499,N,Ship,Bolingbrooke (SS),Visual,51.45,-56.5,1924,1924,July,7/22/24,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1822 Aug 6: small berg aground on N shore E of Pt.Amour [position aproximate]
-IOT,1,501.1,497,Y,Ship,Kristianiafjord (SS),Visual,52.05,-55.43333333,1924,1924,July,7/22/24,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1823 Aug 13: large berg & growler ~ 4 miles NW of Belle Isle. [probably same as #497 - position approximate]
-IOT,1,501.2,497,Y,Ship,Kristianiafjord (SS),Visual,52.05,-55.43333333,1924,1924,July,7/22/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1823 Aug 13: large berg & growler ~ 4 miles NW of Belle Isle. [probably same as #497 - position approximate]
-IOT,1,500,497,Y,Ship,Montcalm (CGS),Visual,52.33333333,-55.5,1924,1924,July,7/24/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1822 Aug 6: berg N side of Belle Isle between Belle Isle & N.shore [position approiximate & probable resight of #497]
-IOT,1,493.1,493.1,N,Ship,Milwaukee (USS),Visual,53.2,-55.33333333,1924,1924,July,7/29/24,,Berg,3,,,,,,,,,,,,,,,,,,,,,HB 1822 Aug 6: 3 bergs & several growlers
-IOT,1,493.2,493.2,N,Ship,Milwaukee (USS),Visual,53.2,-55.33333333,1924,1924,July,7/29/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1822 Aug 6: 3 bergs & several growlers
-IOT,1,494.1,494.1,N,Ship,Milwaukee (USS),Visual,53.9,-55.83333333,1924,1924,July,7/29/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1822 Aug 6
-IOT,1,494.2,494.2,N,Ship,Milwaukee (USS),Visual,53.9,-55.83333333,1924,1924,July,7/29/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1822 Aug 6
-IOT,1,495,495,N,Ship,Milwaukee (USS),Visual,52,-55.41666667,1924,1924,July,7/29/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1822 Aug 6: berg off the NW coast of Belle Isle
-IOT,1,496.1,496.1,N,Ship,Milwaukee (USS),Visual,52.3,-55.53333333,1924,1924,July,7/29/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1822 Aug 6
-IOT,1,496.2,496.2,N,Ship,Milwaukee (USS),Visual,52.3,-55.53333333,1924,1924,July,7/29/24,,Growler,,1,,,,,,,,,,,,,,,,,,,,HB 1822 Aug 6
-IOT,1,502,502,N,Ship,Welshman (SS),Visual,51.88333333,-55,1924,1924,July,7/30/24,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1823 Aug 13
-IOT,1,503,503,N,Ship,Welshman (SS),Visual,52,-55.5,1924,1924,July,7/30/24,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1823 Aug 13
-IOT,1,506,506,N,Ship,Halbeath (SS),Visual,51.81666667,-55.48333333,1924,1924,August,8/2/24,,Small,,,,1,,,,,,,,,,,,,,,,,,HB 1824 Aug 20
-IOT,1,507,506,Y,Ship,Manchester Brigade (SS),Visual,51.86666667,-55.43333333,1924,1924,August,8/2/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1824 Aug 20. Probable resight of #506
-IOT,1,508,497,Y,Ship,Manchester Brigade (SS),Visual,52.05,-55.43333333,1924,1924,August,8/2/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1824 Aug 20: berg on N end Belle Isle. Probable resight of #497
-IOT,1,509.01,509.01,N,Ship,Baron Sempill (SS),Visual,59.26666667,-43.33333333,1924,1924,September,9/23/24,,Berg,40,,,,,,,,,,,,,,,,,,,,,HB 1831 Oct 8
-IOT,0,509.02,509.02,N,Ship,Baron Sempill (SS),Visual,58.81666667,-44.7,1924,1924,September,9/23/24,,Berg,,,,,,,,,,,,,,,,,,,,,,HB 1831 Oct 8
-IOT,1,511,511,N,Ship,Innerton (SS),Visual,55.85,-43.35,1924,1924,October,10/12/24,,Medium,,,,,1,,,,,,61,E,21,E,,,,,,,,HB 1834 Oct 29: berg ~200' long & 70' high
-IOT,1,510,510,N,Ship,Montclare (SS),Visual,54.85,-43.35,1924,1924,October,10/13/24,,Very large,,,,,,,1,,,,,,82,E,,,,,,,,HB 1833 Oct 22: berg ~270' high
-IOT,1,512.1,512.1,N,Ship,Porsanger (SS),Visual,56.13333333,-43.85,1924,1924,October,10/17/24,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1834 Oct 29: large berg & several pieces of ice
-IOT,1,512.2,512.2,N,Ship,Porsanger (SS),Visual,56.13333333,-43.85,1924,1924,October,10/17/24,,Growler,,x,,,,,,,,,,,,,,,,,,,,HB 1834 Oct 29: large berg & several pieces of ice
-IOT,1,513,513,N,Ship,Athena (SS),Visual,52.56666667,-52.73333333,1924,1924,November,11/14/24,,Medium,,,,,1,,,,,,61,E,15,E,,,,,,,,HB 1838 Nov 26: berg 200' long & 50' high
-IOT,1,514,513,Y,Ship,Turcoman (SS),Visual,52.5,-52.6,1924,1924,November,11/14/24,,Large,,,,,,1,,,,,,,,,,,,,,,,HB 1839 Dec 3: large berg [probably same as #513]
-IOT,1,204,204,N,Miscellaneous,Belle Isle,Visual,51.91666667,-55.31666667,1924,1924,December,12/1/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1840 Dec 10
-IOT,1,205,205,N,Miscellaneous,Belle Isle,Visual,51.91666667,-55.31666667,1924,1924,December,12/6/24,,Berg,1,,,,,,,,,,,,,,,,,,,,,HB 1841 Dec 17
+date,longitude,latitude,resight,size
+01/14/1924,-46.13333333,46.61666667,0,LG
+01/18/1924,-48.16666667,47.93333333,0,LG
+01/21/1924,-44.41666667,45.95,1,MED
+01/21/1924,-44.58333333,45.95,1,MED
+01/25/1924,-44.26666667,45.83333333,0,BERG
+01/25/1924,-44.58333333,45.95,0,LG
+01/26/1924,-44.33333333,45.83333333,0,MED
+01/26/1924,-44.33333333,45.83333333,0,BBGR
+02/11/1924,-55.35,51.95,0,BERG
+02/21/1924,-47.23333333,46.03333333,0,SM
+02/21/1924,-50,48.56666667,0,SM
+03/01/1924,-49,43.63333333,0,MED
+03/01/1924,-48.91666667,43.63333333,0,BBGR
+03/01/1924,-48.33333333,44.46666667,0,BBGR
+03/01/1924,-48.56666667,44.45,0,BBGR
+03/04/1924,-49.66666667,43,0,SM
+03/04/1924,-49.66666667,43,0,BBGR
+03/05/1924,-47.3,48,0,BBGR
+03/05/1924,-47.5,48,0,BBGR
+03/05/1924,-48.16666667,47.3,0,BBGR
+03/06/1924,-48.75,45.41666667,0,BBGR
+03/06/1924,-47.5,45.58333333,0,BBGR
+03/06/1924,-46.98333333,42.51666667,0,BBGR
+03/06/1924,-46.98333333,42.51666667,0,BBGR
+03/12/1924,-46.98333333,42.51666667,0,LG
+03/12/1924,-48.71666667,46.18333333,0,LG
+03/12/1924,-46.98333333,42.51666667,0,BBGR
+03/12/1924,-48.71666667,46.18333333,0,BBGR
+03/14/1924,-52.53333333,47.56666667,1,BERG
+03/15/1924,-48.51666667,46.21666667,1,BERG
+03/17/1924,-48.43333333,46.31666667,0,BERG
+03/17/1924,-48.53333333,46.4,0,LG
+03/20/1924,-49.6,45.3,0,LG
+03/25/1924,-49.6,45.3,0,LG
+03/26/1924,-49.25,45,0,BBGR
+03/26/1924,-49.5,45.58333333,1,BERG
+03/26/1924,-49.51666667,45.58333333,1,BERG
+03/27/1924,-49.05,44.51666667,1,BERG
+03/27/1924,-49.08333333,44.45,1,BERG
+03/27/1924,-48.83333333,44.58333333,0,BERG
+03/27/1924,-53.63333333,46.38333333,0,BBGR
+03/29/1924,-49.13333333,44.31666667,1,BERG
+03/29/1924,-50.11666667,44.41666667,1,BERG
+03/30/1924,-49.18333333,45.91666667,0,LG
+03/31/1924,-55.35,51.95,0,BERG
+04/01/1924,-49.3,43.71666667,1,LG
+04/01/1924,-49.25,43.71666667,1,BERG
+04/02/1924,-49.33333333,43.43333333,1,BERG
+04/02/1924,-51.08333333,46.05,0,LG
+04/02/1924,-48,45.83333333,0,BERG
+04/02/1924,-48,45.83333333,0,BBGR
+04/02/1924,-55.35,51.95,0,BERG
+04/03/1924,-49.33333333,43.33333333,1,BERG
+04/03/1924,-49.5,45.83333333,0,BERG
+04/03/1924,-49.5,45.83333333,0,BBGR
+04/04/1924,-50.05,42.56666667,1,LG
+04/04/1924,-49.86666667,42.75,1,BERG
+04/05/1924,-50.43333333,42.58333333,1,BERG
+04/06/1924,-50.61666667,42.31666667,1,BERG
+04/07/1924,-50.46666667,42.05,1,BERG
+04/08/1924,-49.6,41.71666667,1,BERG
+04/09/1924,-48.56666667,41.43333333,1,BERG
+04/10/1924,-48.3,41.18333333,1,BERG
+04/10/1924,-48.81666667,41.45,0,BERG
+04/11/1924,-47.33333333,40.66666667,1,BBGR
+04/16/1924,-51.98333333,45.88333333,0,BERG
+04/16/1924,-55.35,51.95,0,BERG
+04/17/1924,-51.88333333,45.91666667,1,BERG
+04/18/1924,-52.25,45.45,1,SM
+04/19/1924,-55.35,51.95,0,BERG
+04/21/1924,-55.35,51.95,0,BERG
+04/22/1924,-52,44.95,1,SM
+04/22/1924,-55.35,51.95,0,BERG
+04/23/1924,-55.35,51.95,0,BERG
+04/24/1924,-56.86666667,51.45,0,BERG
+04/24/1924,-56.86666667,51.45,0,BBGR
+04/24/1924,-55.35,51.95,0,BERG
+04/24/1924,-55.35,51.95,0,BBGR
+04/25/1924,-62.16666667,48.33333333,0,BBGR
+04/25/1924,-60.21666667,47.96666667,0,BBGR
+04/25/1924,-62.08333333,48.4,0,BBGR
+04/25/1924,-55.35,51.95,0,BERG
+04/25/1924,-55.35,51.95,0,BBGR
+04/26/1924,-48.95,46.18333333,0,BERG
+04/26/1924,-49.23333333,46.13333333,0,BERG
+04/26/1924,-61.15,47.83333333,0,BBGR
+04/26/1924,-64.2,48.83333333,0,BBGR
+04/26/1924,-63,48.63333333,0,BBGR
+04/26/1924,-62.05,48.3,0,BBGR
+04/26/1924,-63.58333333,48.75,0,BBGR
+04/26/1924,-62.15,48.16666667,0,BBGR
+04/26/1924,-63.3,48.65,0,BBGR
+04/26/1924,-61.7,48.53333333,0,BBGR
+04/26/1924,-63.1,48.6,0,BBGR
+04/26/1924,-55.35,51.95,0,BERG
+04/26/1924,-55.35,51.95,0,BBGR
+04/27/1924,-56.86666667,51.45,0,BERG
+04/27/1924,-62.33333333,48.38333333,0,BBGR
+04/27/1924,-62.76666667,48.38333333,0,BBGR
+04/27/1924,-62.28333333,48.45,0,BBGR
+04/27/1924,-62.91666667,49,0,BBGR
+04/27/1924,-55.35,51.95,0,BERG
+04/27/1924,-55.35,51.95,0,BBGR
+04/28/1924,-56.86666667,51.45,0,BERG
+04/28/1924,-61.83333333,48,0,BBGR
+04/28/1924,-63.33333333,48.58333333,0,BBGR
+04/28/1924,-63.66666667,48.71666667,0,BBGR
+04/28/1924,-63.16666667,48.53333333,0,BBGR
+04/28/1924,-55.35,51.95,0,BERG
+04/28/1924,-55.35,51.95,0,BBGR
+04/29/1924,-56.86666667,51.45,0,BERG
+04/29/1924,-63.6,49.38333333,0,BBGR
+04/29/1924,-62.25,48.9,0,BBGR
+04/29/1924,-63.16666667,48,0,BBGR
+04/29/1924,-64.2,48.83333333,0,BBGR
+04/29/1924,-62.25,48.76666667,0,BBGR
+04/29/1924,-62.63333333,48.58333333,0,BBGR
+04/29/1924,-55.35,51.95,0,BERG
+04/29/1924,-55.35,51.95,0,BBGR
+04/30/1924,-56.86666667,51.45,0,BERG
+04/30/1924,-55.35,51.95,0,BERG
+04/30/1924,-55.35,51.95,0,BBGR
+04/30/1924,-61.15,47.83333333,0,BBGR
+04/30/1924,-62.25,48.9,0,BBGR
+05/01/1924,-56.86666667,51.45,0,BERG
+05/01/1924,-55.35,51.95,0,BERG
+05/01/1924,-63.78333333,48.68333333,0,BBGR
+05/01/1924,-62.93333333,48.31666667,0,BBGR
+05/01/1924,-62.4,48.33333333,0,BBGR
+05/01/1924,-63.11666667,48.55,0,BBGR
+05/01/1924,-63.58333333,47.38333333,0,BBGR
+05/01/1924,-63.16666667,48.83333333,0,BBGR
+05/01/1924,-63.16666667,49.06666667,0,BBGR
+05/01/1924,-62.16666667,48.66666667,0,BBGR
+05/01/1924,-62.66666667,48.8,0,BBGR
+05/02/1924,-56.86666667,51.45,0,BERG
+05/02/1924,-55.35,51.95,0,BERG
+05/02/1924,-62.83333333,48.7,0,BERG
+05/02/1924,-63.16666667,48.85,0,BERG
+05/02/1924,-62.83333333,48.7,0,BBGR
+05/02/1924,-63.16666667,48.85,0,BBGR
+05/02/1924,-64.2,48.85,0,BBGR
+05/02/1924,-63.83333333,48.95,0,BBGR
+05/02/1924,-63.58333333,48.85,0,BBGR
+05/02/1924,-63.16666667,48.38333333,0,BBGR
+05/02/1924,-63.4,48.76666667,0,BBGR
+05/02/1924,-63.33333333,48.78333333,0,BBGR
+05/02/1924,-63.23333333,48.76666667,0,BBGR
+05/02/1924,-62.9,48.75,0,BBGR
+05/02/1924,-62.9,48.66666667,0,BBGR
+05/02/1924,-62.38333333,48.45,0,BBGR
+05/02/1924,-62.53333333,48.55,0,BBGR
+05/02/1924,-64.56666667,49.43333333,0,BBGR
+05/02/1924,-62.21666667,48.65,0,BBGR
+05/02/1924,-63.2,48.75,0,BBGR
+05/02/1924,-64.03333333,49.16666667,0,BBGR
+05/02/1924,-64.03333333,49.16666667,0,BBGR
+05/03/1924,-56.86666667,51.45,0,BERG
+05/03/1924,-55.35,51.95,0,BERG
+05/03/1924,-55.35,51.95,0,BBGR
+05/03/1924,-62.73333333,48.51666667,0,BBGR
+05/03/1924,-62.58333333,48.48333333,0,BBGR
+05/03/1924,-62.43333333,48.46666667,0,BBGR
+05/03/1924,-62.85,48.58333333,0,BBGR
+05/03/1924,-63.73333333,48.81666667,0,BBGR
+05/03/1924,-63.58333333,48.93333333,0,BBGR
+05/05/1924,-56.86666667,51.45,0,BERG
+05/05/1924,-63.06666667,48.63333333,0,SM
+05/05/1924,-64,49.05,0,SM
+05/05/1924,-64,49.05,0,BBGR
+05/05/1924,-62.13333333,48.63333333,0,BBGR
+05/05/1924,-63.06666667,48.63333333,0,BBGR
+05/05/1924,-64.2,48.85,0,BBGR
+05/05/1924,-64.36666667,49.26666667,0,BBGR
+05/05/1924,-63.81666667,48.93333333,0,BBGR
+05/05/1924,-64,49,0,BBGR
+05/06/1924,-62.93333333,48.65,0,BERG
+05/06/1924,-62.58333333,48.78333333,0,BERG
+05/06/1924,-55.35,51.95,0,BERG
+05/06/1924,-55.35,51.95,0,BBGR
+05/06/1924,-56.86666667,51.45,0,BERG
+05/06/1924,-61.71666667,49.2,0,MED
+05/06/1924,-61.88333333,49.06666667,0,MED
+05/06/1924,-62.25,49,0,BBGR
+05/06/1924,-61.7,49.08333333,0,BBGR
+05/06/1924,-60.78333333,47.68333333,0,BBGR
+05/06/1924,-63.13333333,48.63333333,0,BBGR
+05/07/1924,-56.86666667,51.45,0,BERG
+05/07/1924,-56.86666667,51.45,0,BBGR
+05/07/1924,-55.35,51.95,0,BERG
+05/07/1924,-55.35,51.95,0,BBGR
+05/07/1924,-61.7,49.08333333,0,SM
+05/07/1924,-63.6,49.38333333,0,SM
+05/07/1924,-61.7,49.08333333,0,BBGR
+05/07/1924,-63.6,49.38333333,0,BBGR
+05/07/1924,-62.65,48.55,0,BBGR
+05/07/1924,-61.7,49.08333333,0,BBGR
+05/07/1924,-61.83333333,49.06666667,0,BBGR
+05/08/1924,-56.86666667,51.45,0,BERG
+05/08/1924,-56.86666667,51.45,0,BBGR
+05/08/1924,-55.35,51.95,0,BERG
+05/08/1924,-62.53333333,48.58333333,0,BERG
+05/08/1924,-62.56666667,48.55,0,SM
+05/08/1924,-62.53333333,48.55,0,BERG
+05/08/1924,-63.73333333,48.95,0,SM
+05/09/1924,-55.35,51.95,0,BERG
+05/09/1924,-55.35,51.95,0,BBGR
+05/09/1924,-62.6,48.55,0,SM
+05/09/1924,-62.66666667,48.51666667,0,MED
+05/09/1924,-62.61666667,48.55,0,SM
+05/09/1924,-63.5,48.65,0,SM
+05/09/1924,-62.38333333,48.5,0,MED
+05/09/1924,-63.4,48.85,0,SM
+05/09/1924,-64.3,48.93333333,0,MED
+05/09/1924,-63.61666667,48.91666667,0,BBGR
+05/09/1924,-63.45,48.93333333,0,BBGR
+05/09/1924,-63.43333333,48.86666667,0,BBGR
+05/10/1924,-55.35,51.95,0,BERG
+05/10/1924,-62.6,48.48333333,0,SM
+05/10/1924,-63.51666667,48.83333333,0,SM
+05/10/1924,-62.53333333,48.53333333,0,SM
+05/10/1924,-63.48333333,48.88333333,0,SM
+05/11/1924,-62.48333333,48.58333333,0,BERG
+05/11/1924,-62.43333333,48.5,0,SM
+05/11/1924,-62.6,48.53333333,0,MED
+05/11/1924,-62.58333333,48.51666667,0,BERG
+05/11/1924,-63.25,48.88333333,0,BERG
+05/11/1924,-64.63333333,49.3,0,BERG
+05/12/1924,-56.86666667,51.45,0,BERG
+05/12/1924,-56.86666667,51.45,0,BBGR
+05/12/1924,-55.35,51.95,0,BERG
+05/12/1924,-62.51666667,48.83333333,0,MED
+05/12/1924,-62.45,48.51666667,0,BERG
+05/12/1924,-63.5,48.51666667,0,MED
+05/12/1924,-62.58333333,48.5,0,BBGR
+05/13/1924,-56.86666667,51.45,0,BERG
+05/13/1924,-55.35,51.95,0,BERG
+05/14/1924,-64.4,49.03333333,0,LG
+05/14/1924,-56.86666667,51.45,0,BERG
+05/14/1924,-63.13333333,48.76666667,0,BBGR
+05/14/1924,-61.33333333,48.08333333,0,BBGR
+05/14/1924,-61.33333333,48.5,0,BBGR
+05/14/1924,-63.13333333,48.26666667,0,BBGR
+05/15/1924,-50.25,46.23333333,0,SM
+05/15/1924,-64.53333333,49.16666667,0,BERG
+05/15/1924,-56.86666667,51.45,0,BERG
+05/15/1924,-55.35,51.95,0,BERG
+05/15/1924,-55.35,51.95,0,BBGR
+05/16/1924,-64.53333333,49.25,0,BERG
+05/17/1924,-56.86666667,51.45,0,BERG
+05/17/1924,-55.35,51.95,0,BERG
+05/17/1924,-59.98333333,47.28333333,0,BBGR
+05/17/1924,-63.56666667,48.98333333,0,BBGR
+05/18/1924,-56.86666667,51.45,0,BERG
+05/18/1924,-55.35,51.95,0,BERG
+05/18/1924,-55.35,51.95,0,BBGR
+05/18/1924,-63.98333333,49.25,0,SM
+05/18/1924,-63.61666667,48.85,0,BBGR
+05/18/1924,-63.63333333,48.93333333,0,BBGR
+05/19/1924,-51.3,41,0,BBGR
+05/20/1924,-56.86666667,51.45,0,BERG
+05/20/1924,-55.35,51.95,0,BERG
+05/20/1924,-55.35,51.95,0,BBGR
+05/21/1924,-56.86666667,51.45,0,BERG
+05/21/1924,-55.35,51.95,0,BERG
+05/21/1924,-55.35,51.95,0,BBGR
+05/23/1924,-52.66666667,47.55,0,BERG
+05/24/1924,-56.86666667,51.45,0,BERG
+05/24/1924,-56.86666667,51.45,0,BBGR
+05/24/1924,-55.35,51.95,0,BERG
+05/26/1924,-51.51666667,48.7,0,LG
+05/27/1924,-53.31666667,50.73333333,0,BERG
+05/27/1924,-53.41666667,50.83333333,0,BERG
+05/27/1924,-52.61666667,48.78333333,0,BERG
+05/27/1924,-53.51666667,51,0,BERG
+05/27/1924,-54.03333333,51.25,0,BERG
+05/27/1924,-54.75,51.43333333,0,BERG
+05/27/1924,-54.75,51.43333333,0,BBGR
+05/27/1924,-53.98333333,51.03333333,0,BERG
+05/27/1924,-55.35,51.95,0,BERG
+05/27/1924,-55.43333333,51.63333333,0,BERG
+05/27/1924,-55.35,51.95,0,BBGR
+05/27/1924,-55.43333333,51.63333333,0,BBGR
+05/27/1924,-55.35,51.95,0,BERG
+05/27/1924,-55.35,51.95,0,BERG
+05/27/1924,-51.33333333,48.33333333,1,BERG
+05/27/1924,-55.35,51.73333333,0,BERG
+05/27/1924,-55.35,51.95,0,BERG
+05/27/1924,-55.35,51.73333333,0,BBGR
+05/27/1924,-55.35,51.95,0,BBGR
+05/27/1924,-56.5,51.5,0,BERG
+05/27/1924,-56.86666667,51.45,0,BERG
+05/27/1924,-56.86666667,51.45,0,BBGR
+05/27/1924,-55.35,51.95,0,BERG
+05/28/1924,-55.43333333,51.63333333,0,BERG
+05/28/1924,-54.28333333,49.73333333,0,BERG
+05/28/1924,-55.58333333,50.83333333,0,BERG
+05/28/1924,-55.58333333,50.83333333,0,BBGR
+05/28/1924,-53.18333333,49.1,0,BERG
+05/28/1924,-53.18333333,49.1,0,BBGR
+05/28/1924,-54.76666667,49.7,0,BERG
+05/28/1924,-54.16666667,49.75,0,BERG
+05/28/1924,-56.86666667,51.45,0,BERG
+05/28/1924,-56.86666667,51.45,0,BBGR
+05/28/1924,-55.35,51.95,0,BERG
+05/28/1924,-55.43333333,51.63333333,0,BERG
+05/28/1924,-54.7,49.75,0,BERG
+06/01/1924,-53.3,49.06666667,0,BERG
+06/01/1924,-53.36666667,49.1,0,BERG
+05/01/1924,-55.35,51.95,0,BERG
+05/01/1924,-55.35,51.95,0,BBGR
+06/02/1924,-52.38333333,48.48333333,1,BERG
+05/02/1924,-56.86666667,51.45,0,BERG
+05/02/1924,-56.86666667,51.45,0,BBGR
+05/02/1924,-55.35,51.95,0,BERG
+06/03/1924,-51.21666667,48.53333333,1,BERG
+06/05/1924,-51.16666667,48.35,1,BERG
+06/06/1924,-52.61666667,47.96666667,1,BERG
+06/06/1924,-51.23333333,48.15,1,BERG
+06/06/1924,-53.36666667,49.8,0,BERG
+06/06/1924,-53.16666667,49.8,0,BERG
+06/06/1924,-56.86666667,51.45,0,BERG
+06/06/1924,-56.86666667,51.45,0,BBGR
+06/06/1924,-55.35,51.95,0,BERG
+06/06/1924,-55.35,51.95,0,BBGR
+06/07/1924,-53.36666667,49.28333333,0,BERG
+06/08/1924,-56.86666667,51.45,0,BERG
+06/08/1924,-56.86666667,51.45,0,BBGR
+06/08/1924,-55.35,51.95,0,BERG
+06/09/1924,-51.36666667,47.76666667,1,BERG
+06/09/1924,-56.86666667,51.45,0,BERG
+06/09/1924,-56.86666667,51.45,0,BBGR
+06/09/1924,-55.35,51.95,0,BERG
+06/10/1924,-51.46666667,47.6,1,BERG
+06/10/1924,-56.86666667,51.45,0,BERG
+06/10/1924,-56.86666667,51.45,0,BBGR
+06/10/1924,-55.35,51.95,0,BERG
+06/11/1924,-51.55,47.36666667,1,BERG
+06/11/1924,-56.86666667,51.45,0,BERG
+06/11/1924,-56.86666667,51.45,0,BBGR
+06/12/1924,-51.63333333,47.01666667,1,BERG
+06/12/1924,-56.86666667,51.45,0,BERG
+06/12/1924,-56.86666667,51.45,0,BBGR
+06/12/1924,-55.35,51.95,0,BERG
+06/12/1924,-55.35,51.95,0,BBGR
+06/13/1924,-51.75,46.83333333,1,BERG
+06/13/1924,-51.75,46.83333333,0,BBGR
+06/13/1924,-56.86666667,51.45,0,BERG
+06/13/1924,-56.86666667,51.45,0,BBGR
+06/13/1924,-55.35,51.95,0,BERG
+06/13/1924,-55.35,51.95,0,BBGR
+06/14/1924,-51.73333333,46.75,1,BERG
+06/14/1924,-51.85,46.73333333,1,BBGR
+06/15/1924,-52,46.7,1,BERG
+06/15/1924,-52,46.63333333,1,BBGR
+06/15/1924,-56.86666667,51.45,0,BERG
+06/15/1924,-56.86666667,51.45,0,BBGR
+06/15/1924,-55.35,51.95,0,BERG
+06/15/1924,-55.35,51.95,0,BBGR
+06/16/1924,-63.33333333,38.05,0,BBGR
+06/16/1924,-56.86666667,51.45,0,BERG
+06/16/1924,-56.86666667,51.45,0,BBGR
+06/16/1924,-55.35,51.95,0,BERG
+06/16/1924,-55.35,51.95,0,BBGR
+06/16/1924,-55.38333333,51.83333333,0,BERG
+06/16/1924,-52.18333333,46.81666667,1,BERG
+06/16/1924,-52.18333333,46.81666667,1,BBGR
+06/17/1924,-52.1,46.91666667,1,BERG
+06/17/1924,-52.1,46.91666667,1,BBGR
+06/17/1924,-56.86666667,51.45,0,BERG
+06/17/1924,-56.86666667,51.45,0,BBGR
+06/17/1924,-55.35,51.95,0,BERG
+06/17/1924,-55.38333333,51.83333333,0,BERG
+06/17/1924,-56.86666667,51.45,0,BERG
+06/17/1924,-55.38333333,51.83333333,0,BBGR
+06/17/1924,-56.86666667,51.45,0,BBGR
+06/18/1924,-51.98333333,47.25,1,BERG
+06/18/1924,-56.86666667,51.45,0,BERG
+06/18/1924,-56.86666667,51.45,0,BBGR
+06/18/1924,-55.35,51.95,0,BERG
+06/18/1924,-55.35,51.95,0,BBGR
+06/18/1924,-55.35,51.95,0,BERG
+06/18/1924,-55.35,51.95,0,BBGR
+06/19/1924,-56.86666667,51.45,0,BERG
+06/19/1924,-56.86666667,51.45,0,BBGR
+06/19/1924,-55.35,51.95,0,BERG
+06/20/1924,-51.36666667,47.46666667,1,BERG
+06/20/1924,-55.35,51.95,0,BERG
+06/20/1924,-55.35,52.46666667,0,BERG
+06/20/1924,-55.35,52.41666667,0,BERG
+06/20/1924,-55.35,52.41666667,0,BBGR
+06/20/1924,-55.33333333,52.38333333,0,BERG
+06/20/1924,-55.35,52.33333333,0,BERG
+06/20/1924,-55.35,52.3,0,LG
+06/20/1924,-55.36666667,52.16666667,0,BERG
+06/20/1924,-55.38333333,52.11666667,0,LG
+06/20/1924,-55.38333333,52.11666667,0,SM
+06/20/1924,-55.4,51,0,SM
+06/20/1924,-55.4,51,0,BBGR
+06/20/1924,-58.55,50.51666667,0,SM
+06/21/1924,-51.3,47.28333333,1,BERG
+06/21/1924,-56.86666667,51.45,0,BERG
+06/21/1924,-56.86666667,51.45,0,BBGR
+06/21/1924,-55.35,51.95,0,BERG
+06/21/1924,-55.35,51.95,0,BERG
+06/22/1924,-51.25,47,1,BERG
+06/22/1924,-56.86666667,51.45,0,BERG
+06/22/1924,-56.86666667,51.45,0,BBGR
+06/23/1924,-56.86666667,51.45,0,BERG
+06/23/1924,-56.86666667,51.45,0,BBGR
+06/23/1924,-51.41666667,47.46666667,0,BERG
+06/23/1924,-51.33333333,46.98333333,0,BBGR
+06/24/1924,-56.86666667,51.45,0,BERG
+06/24/1924,-56.86666667,51.45,0,BBGR
+06/24/1924,-55.35,51.95,0,BERG
+06/24/1924,-51.23333333,47.36666667,1,BERG
+06/24/1924,-51.23333333,47.36666667,1,BBGR
+06/24/1924,-55.38333333,51.8,0,BERG
+06/24/1924,-55.95,51.75,0,BERG
+06/24/1924,-55.95,51.75,0,SM
+06/24/1924,-56.86666667,51.45,0,SM
+06/24/1924,-55.95,51.75,0,BBGR
+06/24/1924,-56.86666667,51.45,0,BBGR
+06/24/1924,-59.65,50.25,0,SM
+06/24/1924,-59.65,50.25,0,BBGR
+06/26/1924,-55.35,51.95,0,BERG
+06/26/1924,-51.2,46.96666667,0,BERG
+06/26/1924,-51.2,46.96666667,0,BBGR
+06/27/1924,-56.86666667,51.45,0,BERG
+06/27/1924,-56.86666667,51.45,0,BBGR
+06/27/1924,-55.35,51.95,0,BERG
+06/27/1924,-55.41666667,51.71666667,0,BERG
+06/27/1924,-56.08333333,51.63333333,0,BERG
+06/27/1924,-56.28333333,51.63333333,0,BERG
+06/27/1924,-56.3,51.63333333,0,BERG
+06/27/1924,-56.86666667,51.41666667,0,BERG
+06/27/1924,-56.86666667,51.41666667,0,BERG
+06/27/1924,-57.2,51.33333333,0,BERG
+06/27/1924,-57.43333333,51.25,0,BERG
+06/27/1924,-55.38333333,51.83333333,0,BERG
+06/27/1924,-55.43333333,51.66666667,0,BERG
+06/27/1924,-55.9,51.66666667,0,BERG
+06/27/1924,-56.91666667,51.33333333,0,BERG
+06/27/1924,-57.03333333,51.28333333,0,BERG
+06/27/1924,-57,51.25,0,BERG
+06/27/1924,-57,51.25,0,BBGR
+06/27/1924,-57.05,51.23333333,0,BBGR
+06/27/1924,-57.31666667,51.2,0,BERG
+06/28/1924,-56.86666667,51.45,0,BERG
+06/28/1924,-56.86666667,51.45,0,BBGR
+06/28/1924,-55.35,51.95,0,BERG
+06/29/1924,-55.38333333,51.8,0,BERG
+06/29/1924,-55.41666667,51.91666667,0,BERG
+06/29/1924,-55.91666667,51.91666667,0,BBGR
+06/29/1924,-55.9,51.68333333,1,LG
+06/29/1924,-55.9,51.66666667,0,BERG
+06/29/1924,-56.86666667,51.45,0,BERG
+06/29/1924,-56.83333333,51.4,0,BBGR
+06/29/1924,-56.86666667,51.36666667,0,BERG
+06/29/1924,-56.91666667,51.36666667,0,LG
+06/29/1924,-56.95,51.38333333,0,BERG
+06/29/1924,-57.05,51.38333333,0,BERG
+07/02/1924,-56.86666667,51.45,0,BERG
+07/02/1924,-56.86666667,51.45,0,BBGR
+07/02/1924,-55.35,51.95,0,BERG
+07/03/1924,-55.35,51.95,0,BERG
+07/03/1924,-55.55,51.83333333,0,BERG
+07/03/1924,-56.6,51.45,0,BERG
+07/03/1924,-55.55,51.83333333,0,BBGR
+07/03/1924,-56.6,51.45,0,BBGR
+07/03/1924,-55.33333333,51.86666667,0,BERG
+07/03/1924,-55.23333333,51.93333333,0,BERG
+07/04/1924,-55.35,51.95,0,BERG
+07/04/1924,-55.6,51.91666667,0,LG
+07/04/1924,-55.7,51.91666667,0,LG
+07/04/1924,-55.85,51.73333333,0,BBGR
+07/04/1924,-55.9,51.71666667,0,BBGR
+07/04/1924,-56.41666667,51.45,0,LG
+07/04/1924,-56.51666667,51.45,0,BERG
+07/04/1924,-56.51666667,51.45,0,BBGR
+07/04/1924,-56.51666667,51.48333333,0,BERG
+07/04/1924,-56.6,51.46666667,0,BERG
+07/04/1924,-56.63333333,51.45,0,BBGR
+07/05/1924,-55.35,51.95,0,BERG
+07/07/1924,-55.35,51.95,0,BERG
+07/07/1924,-56.6,51.45,0,BERG
+07/07/1924,-56.6,51.45,0,BBGR
+07/07/1924,-56.7,51.45,0,BERG
+07/07/1924,-56.55,51.45,0,BERG
+07/07/1924,-54.78333333,51.93333333,0,BERG
+07/07/1924,-54.78333333,51.9,0,BERG
+07/07/1924,-55.3,51.91666667,0,BERG
+07/07/1924,-54.86666667,51.88333333,0,BERG
+07/10/1924,-55.51666667,51.91666667,0,MED
+07/10/1924,-55.51666667,51.91666667,0,BBGR
+07/10/1924,-55.65,51.91666667,0,LG
+07/10/1924,-55.3,51.95,0,BERG
+07/10/1924,-56.41666667,51.63333333,0,BERG
+07/10/1924,-56.25,51.63333333,0,BERG
+07/10/1924,-55.56666667,51.91666667,0,BERG
+07/10/1924,-55.43333333,51.8,0,BBGR
+07/10/1924,-55.63333333,51.81666667,0,LG
+07/10/1924,-55.48333333,51.85,0,BERG
+07/10/1924,-55.61666667,51.78333333,0,BERG
+07/10/1924,-56.35,51.63333333,0,SM
+07/11/1924,-55.3,51.91666667,0,LG
+07/11/1924,-55.58333333,51.88333333,0,BERG
+07/11/1924,-55.68333333,51.86666667,0,BBGR
+07/11/1924,-56.51666667,51.63333333,0,BERG
+07/11/1924,-57.33333333,51.21666667,0,BBGR
+07/11/1924,-56.96666667,51.41666667,0,BERG
+07/11/1924,-55.56666667,51.83333333,0,BERG
+07/11/1924,-55.56666667,51.95,0,BERG
+07/11/1924,-55.66666667,51.8,0,BERG
+07/11/1924,-56.08333333,51.75,0,BERG
+07/11/1924,-56.5,51.55,0,BERG
+07/11/1924,-56.55,51.6,0,BBGR
+07/11/1924,-57.5,51.41666667,0,BBGR
+07/12/1924,-55.3,51.95,0,BERG
+07/13/1924,-56.25,51.5,0,BERG
+07/13/1924,-56.45,51.55,0,BERG
+07/13/1924,-56.6,51.56666667,0,BERG
+07/14/1924,-55.3,51.95,0,BERG
+07/14/1924,-55.41666667,52,0,BERG
+07/14/1924,-55.41666667,52,0,BBGR
+07/14/1924,-55.43333333,51.83333333,0,BERG
+07/14/1924,-55.58333333,51.88333333,0,BBGR
+07/14/1924,-56.33333333,51.56666667,0,BERG
+07/14/1924,-56.33333333,51.56666667,0,BBGR
+07/14/1924,-56.06666667,51.65,0,LG
+07/14/1924,-56.06666667,51.65,0,BBGR
+07/14/1924,-55.63333333,52,0,LG
+07/14/1924,-56.5,51.45,0,BERG
+07/15/1924,-55.31666667,51.91666667,0,SM
+07/15/1924,-55.73333333,51.8,0,LG
+07/15/1924,-55.85,51.8,0,BBGR
+07/15/1924,-55.95,51.78333333,0,BBGR
+07/15/1924,-56.08333333,51.78333333,0,BBGR
+07/15/1924,-56.35,51.53333333,0,LG
+07/16/1924,-55.3,51.95,0,BERG
+07/17/1924,-55.3,51.95,0,BBGR
+07/17/1924,-55.55,51.81666667,0,BERG
+07/17/1924,-56.6,51.51666667,0,BBGR
+07/18/1924,-55.31666667,51.91666667,1,SM
+07/18/1924,-55.33333333,51.76666667,0,LG
+07/18/1924,-55.41666667,51.8,0,BBGR
+07/18/1924,-56.75,51.55,0,BERG
+07/18/1924,-55.31666667,51.91666667,1,SM
+07/21/1924,-56.75,51.55,1,SM
+07/21/1924,-55.43333333,51.8,0,MED
+07/22/1924,-55.5,52.33333333,0,BERG
+07/22/1924,-55.31666667,51.91666667,1,SM
+07/22/1924,-56.5,51.45,0,SM
+07/22/1924,-55.43333333,52.05,1,LG
+07/22/1924,-55.43333333,52.05,1,BBGR
+07/24/1924,-55.5,52.33333333,1,BERG
+07/29/1924,-55.33333333,53.2,0,BERG
+07/29/1924,-55.33333333,53.2,0,BBGR
+07/29/1924,-55.83333333,53.9,0,BERG
+07/29/1924,-55.83333333,53.9,0,BBGR
+07/29/1924,-55.41666667,52,0,BERG
+07/29/1924,-55.53333333,52.3,0,BERG
+07/29/1924,-55.53333333,52.3,0,BBGR
+07/30/1924,-55,51.88333333,0,SM
+07/30/1924,-55.5,52,0,LG
+08/02/1924,-55.48333333,51.81666667,0,SM
+08/02/1924,-55.43333333,51.86666667,1,BERG
+08/02/1924,-55.43333333,52.05,1,BERG
+09/23/1924,-43.33333333,59.26666667,0,BERG
+09/23/1924,-44.7,58.81666667,0,BERG
+10/12/1924,-43.35,55.85,0,MED
+10/13/1924,-43.35,54.85,0,X
+10/17/1924,-43.85,56.13333333,0,LG
+10/17/1924,-43.85,56.13333333,0,BBGR
+11/14/1924,-52.73333333,52.56666667,0,MED
+11/14/1924,-52.6,52.5,1,LG
+12/01/1924,-55.31666667,51.91666667,0,BERG
+12/06/1924,-55.31666667,51.91666667,0,BERG

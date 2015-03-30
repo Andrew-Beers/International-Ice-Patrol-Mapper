@@ -4,13 +4,15 @@ var TotalIceList = {"Pause":[{"date":"05-Mar-1931"},{"longitude": 45.5},{"latitu
 var CurrentIceList = [];
 var DisplayList = [];
 var FilteredList = [];
-var iceYears = Array.apply(0, Array(60)).map(function (x, y) { return y+1900; });
+var iceYears = Array.apply(0, Array(114)).map(function (x, y) { return y+1900; });
 var ColorList = [];
 var HistList = [];
 var HistDraw = [];
 var Progress = [];
 var AllColors = ["red", "green", "blue", "yellow", "white", "purple", "orange", "gray"];
 var PickColor = "red";
+var SizeNums = [];
+var Sizes = [];
 
 d3.selection.prototype.moveToFront = function() {
   return this.each(function(){
@@ -60,7 +62,7 @@ var margin = {top: 0, right: 0, bottom: 0, left: 0},
     width1 = 1050 - margin.left,
     width2 = widthT - width1 - margin.right
     height = 582 - margin.top - margin.bottom + Bmargin.bottom;
-    bwidth = (widthT-width1-2)/3;
+    bwidth = (widthT-width1-2)/6;
 
 var projection = d3.geo.mercator()
     .center([120, 55])
@@ -84,15 +86,14 @@ var svg = d3.select("body").append("svg")
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-d3.json("ne_50m_land.json", function(error, topology) {
+var LoadingScreen = svg.append("g")
+                       .attr("class", "TitleText")
+                       .append("text")
+                       .text("Loading 60 Years of Data...")
+                       .attr("x", 500)
+                       .attr("y", 225);
 
-// var LoadingWords = svg.append("g").attr("class", "TitleText").selectAll("text")
-//                       .data(Progress.length)
-//                       .append("text")
-//                       .text("Loading... " + function(d){return d;} + "/60 years")
-//                       .attr("x", 500)
-//                       .attr("y", 225);
-// console.log("Loading... " + Progress.length + "/60 years")
+d3.json("ne_50m_land.json", function(error, topology) {
 
     svg.append("g").attr("class","MapPath").selectAll("path")
       .data(topojson.object(topology, topology.objects.ne_50m_land).geometries)
@@ -211,7 +212,7 @@ var colorbuttonbox = svg.append("g")
                         .attr("x", width1 + 2*bwidth)
                         .attr("y", 550)
                         .attr("height", 50)
-                        .attr("width", bwidth)
+                        .attr("width", 2*bwidth)
                         .attr("stroke", "#0033CC")
                         .attr("stroke-width", "1px")
                         .attr("shape-rendering", "crispEdges");
@@ -238,37 +239,24 @@ var colorbuttons = svg.append("g")
                       .attr("shape-rendering", "crispEdges")
                       .on("click", function(d){console.log(d); PickColor = d; return;}); 
 
-var buttonbox = svg.append("g")
+var buttonheading = svg.append("g")
                 .attr("class", "buttonbox")
-                .selectAll("rect")
-                .data(iceYears)
-                .enter()
                 .append("rect")
-                .attr("x", function(d, i){return width1+(i%3)*(bwidth);})
-                .attr("y", function(d, i){return (Math.floor(i/3)%20)*(550/20);})
+                .attr("x", width1)
+                .attr("y", 0)
                 .attr("height", 550/20)
-                .attr("width", bwidth)
-                .attr("fill", "black")
+                .attr("width", bwidth*6)
+                .attr("fill", "transparent")
                 .attr("stroke", "#0033CC")
                 .attr("stroke-width", "1px")
-                .attr("shape-rendering", "crispEdges");
-
-var buttons = svg.append("g")
-                .attr("class", "buttons")
-                .selectAll("rect")
-                .data(iceYears)
-                .enter()
-                .append("rect")
-                .attr("x", function(d, i){return width1+(i%3)*(bwidth)+(bwidth/1.6);})
-                .attr("y", function(d, i){return (Math.floor(i/3)%20)*(550/20)+(550/20*1/4);})
-                .attr("rx", 5)
-                .attr("height", 550/20*1/2)
-                .attr("width", bwidth*1/4)
-                .attr("fill", "black")
-                .attr("stroke", "gray")
-                .attr("stroke-width", "1px")
                 .attr("shape-rendering", "crispEdges")
-                .on("click", clicked);
+
+var buttonheadinglabel = svg.append("g")
+                .attr("class", "buttonlabels")
+                .append("text")
+                .attr("x", width1 + bwidth/1.5)
+                .attr("y", 550/20/1.5)
+                .text("Select a year to display its iceberg map.")
 
 var buttonlabel = svg.append("g")
                 .attr("class", "buttonlabels")
@@ -276,9 +264,41 @@ var buttonlabel = svg.append("g")
                 .data(iceYears)
                 .enter()
                 .append("text")
-                .attr("x", function(d, i){return width1+(i%3)*(bwidth)+(bwidth/6);})
-                .attr("y", function(d, i){return (Math.floor(i/3)%20)*(550/20)+550/20/1.5;})
+                .attr("x", function(d, i){return width1+(i%6)*(bwidth)+(bwidth/6);})
+                .attr("y", function(d, i){return (Math.floor((i+6)/6)%20)*(550/20)+550/20/1.5;})
                 .text(function(d){return d;})
+
+var buttonbox = svg.append("g")
+                .attr("class", "buttonbox")
+                .selectAll("rect")
+                .data(iceYears)
+                .enter()
+                .append("rect")
+                .attr("x", function(d, i){return width1+(i%6)*(bwidth);})
+                .attr("y", function(d, i){return (Math.floor((i+6)/6)%20)*(550/20);})
+                .attr("height", 550/20)
+                .attr("width", bwidth)
+                .attr("fill", "transparent")
+                .attr("stroke", "#0033CC")
+                .attr("stroke-width", "1px")
+                .attr("shape-rendering", "crispEdges")
+                .on("click", clicked);
+
+// var buttons = svg.append("g")
+//                 .attr("class", "buttons")
+//                 .selectAll("rect")
+//                 .data(iceYears)
+//                 .enter()
+//                 .append("rect")
+//                 .attr("x", function(d, i){return width1+(i%6)*(bwidth)+(bwidth/1.6);})
+//                 .attr("y", function(d, i){return (Math.floor(i/6)%20)*(550/20)+(550/20*1/4);})
+//                 .attr("height", 550/20*1/2)
+//                 .attr("width", bwidth*1/4)
+//                 .attr("fill", "black")
+//                 .attr("stroke", "gray")
+//                 .attr("stroke-width", "1px")
+//                 .attr("shape-rendering", "crispEdges")
+                // .on("click", clicked);
 
 var IceIn;
 
@@ -315,14 +335,14 @@ function clicked(d) {
     DisplayList.splice(DisplayList.indexOf(this.__data__), 1);
     ColorList.splice(ColorList.indexOf(this.__data__), 1);
     HistList.splice(HistList.indexOf(this.__data__), 1);
-    d3.select(this).attr("fill", "black").attr("stroke", "gray");
+    d3.select(this).attr("fill", "transparent").attr("stroke", "#0033CC").attr("opacity", 1);
     DestroyHist(this.__data__);
   }
   else {
   DisplayList.push(this.__data__);
   ColorList.push(PickColor);
   YearColor.domain(DisplayList);
-  d3.select(this).attr("fill", YearColor(this.__data__)).attr("stroke", "#0099CC");
+  d3.select(this).attr("fill", YearColor(this.__data__)).attr("stroke", "#0033CC").attr("fill-opacity", 0.2).attr("stroke-opacity", 1);
   GenerateHist(this.__data__);
   }
 
@@ -386,7 +406,7 @@ EndingDay = parseInt(DayNumber(new Date(brush.extent()[1])));
 FilteredList = CurrentIceList.filter(function(d) {
                 return (d.day >= StartingDay 
                 && d.day <= EndingDay
-                && d.resight == "N");
+                && d.resight == 0);
             });};
 
 IceIn = svg.selectAll('.icepoints').data(FilteredList)
