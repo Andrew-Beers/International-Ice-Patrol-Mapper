@@ -124,16 +124,22 @@ svg.append("g").attr("class", "TitleText").append("text")
                   .attr("y", 425)
 
 svg.append("g").attr("class", "TitleText").append("text")
-                  .text("Data Courtesy")
+                  .text("Data courtesy of")
                   .attr("font-size", "12px")
                   .attr("x", 26)
                   .attr("y", 440)
 
 svg.append("g").attr("class", "TitleText").append("text")
-                  .text("United State Coast Guard")
+                  .text("United States Coast Guard")
                   .attr("font-size", "12px")
                   .attr("x", 26)
                   .attr("y", 455)
+
+svg.append("g").attr("class", "TitleText").append("text")
+                  .text("and Brian Hill")
+                  .attr("font-size", "12px")
+                  .attr("x", 26)
+                  .attr("y", 470)
 
 
       // svg.append("g").attr("class", "Title").append("text").text("International Ice Patrol \n Mapper").attr("x", 50).attr("y",)
