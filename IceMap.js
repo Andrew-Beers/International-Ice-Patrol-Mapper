@@ -141,6 +141,12 @@ svg.append("g").attr("class", "TitleText").append("text")
                   .attr("x", 26)
                   .attr("y", 470)
 
+svg.append("g").attr("class", "TitleText").append("text")
+                  .text("Andrew_Beers@brown.edu for more info.")
+                  .attr("font-size", "12px")
+                  .attr("x", 26)
+                  .attr("y", 485)
+
 
       // svg.append("g").attr("class", "Title").append("text").text("International Ice Patrol \n Mapper").attr("x", 50).attr("y",)
 });
