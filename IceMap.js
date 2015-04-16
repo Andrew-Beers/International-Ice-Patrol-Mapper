@@ -4,7 +4,7 @@ var TotalIceList = {"Pause":[{"date":"05-Mar-1931"},{"longitude": 45.5},{"latitu
 var CurrentIceList = [];
 var DisplayList = [];
 var FilteredList = [];
-var iceYears = Array.apply(0, Array(114)).map(function (x, y) { return y+1900; });
+var iceYears = Array.apply(0, Array(133)).map(function (x, y) { return y+1880; });
 var ColorList = [];
 var HistList = [];
 var HistDraw = [];
@@ -41,7 +41,7 @@ d3.csv("IceData/IceData" + entry + ".csv")
                           return {
                             date: d.date,
                             day: parseInt(DayNumber(new Date(d.date))),
-                            year: (1900 + parseInt(YearNumber(new Date(d.date)))),
+                            year: (1880 + parseInt(YearNumber(new Date(d.date)))),
                             lon: projection([d.longitude, d.latitude])[0],
                             lat: projection([d.longitude, d.latitude])[1],
                             resight: d.resight
@@ -54,15 +54,15 @@ d3.csv("IceData/IceData" + entry + ".csv")
 });
 }
 
-var Bmargin = {top: 552, right: 0, bottom: 50, left: 0}
+var Bmargin = {top: 552, right: 0, bottom: 50, left: 0},
     Bheight = 600-Bmargin.top;
 
 var margin = {top: 0, right: 0, bottom: 0, left: 0},
     widthT = 1300 - margin.left - margin.right,
     width1 = 1050 - margin.left,
-    width2 = widthT - width1 - margin.right
-    height = 582 - margin.top - margin.bottom + Bmargin.bottom;
-    bwidth = (widthT-width1-2)/6;
+    width2 = widthT - width1 - margin.right,
+    height = 582 - margin.top - margin.bottom + Bmargin.bottom,
+    bwidth = (widthT-width1-2)/7;
 
 var projection = d3.geo.mercator()
     .center([120, 55])
@@ -224,7 +224,7 @@ var colorbuttonbox = svg.append("g")
                         .attr("x", width1 + 2*bwidth)
                         .attr("y", 550)
                         .attr("height", 50)
-                        .attr("width", 2*bwidth)
+                        .attr("width", 3*bwidth)
                         .attr("stroke", "#0033CC")
                         .attr("stroke-width", "1px")
                         .attr("shape-rendering", "crispEdges");
@@ -232,7 +232,7 @@ var colorbuttonbox = svg.append("g")
 var colorlabel = svg.append("g")
                     .attr("class", "buttonlabels")
                     .append("text")
-                    .attr("x", width1 + 2*bwidth + 12)
+                    .attr("x", width1 + 2*bwidth + 22)
                     .attr("y", 550 + 14)
                     .text("Color Picker");
 
@@ -242,7 +242,7 @@ var colorbuttons = svg.append("g")
                       .data(AllColors)
                       .enter()
                       .append("circle")
-                      .attr("cx", function(d, i){return width1 + 2*bwidth + 20 + (Math.floor(i/2)%4)*15;})
+                      .attr("cx", function(d, i){return width1 + 2*bwidth + 22 + (Math.floor(i/2)%4)*20;})
                       .attr("cy", function(d, i){return 550 + 25 + (i%2)*15;})
                       .attr("r", 6)
                       .attr("fill", function(d){return d})
@@ -257,7 +257,7 @@ var buttonheading = svg.append("g")
                 .attr("x", width1)
                 .attr("y", 0)
                 .attr("height", 550/20)
-                .attr("width", bwidth*6)
+                .attr("width", bwidth*7)
                 .attr("fill", "transparent")
                 .attr("stroke", "#0033CC")
                 .attr("stroke-width", "1px")
@@ -276,8 +276,8 @@ var buttonlabel = svg.append("g")
                 .data(iceYears)
                 .enter()
                 .append("text")
-                .attr("x", function(d, i){return width1+(i%6)*(bwidth)+(bwidth/6);})
-                .attr("y", function(d, i){return (Math.floor((i+6)/6)%20)*(550/20)+550/20/1.5;})
+                .attr("x", function(d, i){return width1+(i%7)*(bwidth)+(bwidth/7);})
+                .attr("y", function(d, i){return (Math.floor((i+7)/7)%20)*(550/20)+550/20/1.5;})
                 .text(function(d){return d;})
 
 var buttonbox = svg.append("g")
@@ -286,8 +286,8 @@ var buttonbox = svg.append("g")
                 .data(iceYears)
                 .enter()
                 .append("rect")
-                .attr("x", function(d, i){return width1+(i%6)*(bwidth);})
-                .attr("y", function(d, i){return (Math.floor((i+6)/6)%20)*(550/20);})
+                .attr("x", function(d, i){return width1+(i%7)*(bwidth);})
+                .attr("y", function(d, i){return (Math.floor((i+7)/7)%20)*(550/20);})
                 .attr("height", 550/20)
                 .attr("width", bwidth)
                 .attr("fill", "transparent")
