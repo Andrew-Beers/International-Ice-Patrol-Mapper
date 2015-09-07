@@ -1,41 +1,23 @@
 
 var IceBegin = false;
-var TotalIceList = {"Pause":[{"date":"05-Mar-1931"},{"longitude": 45.5},{"latitude": 45.5}]};
+var TotalIceList = {Pause:[{date:"05-Mar-1931"},{longitude: 45.5},{latitude: 45.5}]};
 var CurrentIceList = [];
 var DisplayList = [];
 var FilteredList = [];
 var iceYears = Array.apply(0, Array(133)).map(function (x, y) { return y+1880; });
 var ColorList = [];
 var HistList = [];
-var HistDraw = [];
-var Progress = [];
+var Progress = 0;
 var AllColors = ["red", "green", "blue", "yellow", "white", "purple", "orange", "gray"];
+var LoadTitles = ["Loading 133 years of iceberg data collected from the Coast Guard,", "the US Hydrographic Office, and maritime newspaper sightings..."]
+var SubTitles = ["by Andrew Beers", "Data courtesy of", "United States Coast Guard", "and Brian Hill", "Andrew_Beers@brown.edu for more info"];
+var HelpTitles = ['Add years to the map by clicking', 'the buttons at right.', 'Change the time period by', 'adjusting the filter below the map.',
+                  'Change the display color of the next', 'year using the box at bottom right.']
 var PickColor = "red";
-var SizeNums = [];
-var Sizes = [];
-
-d3.selection.prototype.moveToFront = function() {
-  return this.each(function(){
-    this.parentNode.appendChild(this);
-  });
-};
-
-d3.selection.prototype.moveToBack = function() { 
-    return this.each(function() { 
-        var firstChild = this.parentNode.firstChild; 
-        if (firstChild) { 
-            this.parentNode.insertBefore(this, firstChild); 
-        } 
-    }); 
-};
-
-queue(1)
-  .defer(getIceData);                    
 
 function getIceData() {
 
-iceYears.forEach(function(entry){ 
-
+iceYears.forEach(function(entry){
 d3.csv("IceData/IceData" + entry + ".csv")
                         .row(function(d) {
                           return {
@@ -48,7 +30,11 @@ d3.csv("IceData/IceData" + entry + ".csv")
                           }})
                         .get(function(error, rows) {
                           TotalIceList[entry] = rows;
-                          Progress.push(1);
+                          Progress++;
+                          if (Progress == 133){
+                            d3.select("#main").style('display', 'block')
+                            d3.select("#loading").style('display', 'none')
+                          }
                           });
 
 });
@@ -64,6 +50,9 @@ var margin = {top: 0, right: 0, bottom: 0, left: 0},
     height = 582 - margin.top - margin.bottom + Bmargin.bottom,
     bwidth = (widthT-width1-2)/7;
 
+var wordmargin = 15
+    wordtop = 425
+
 var projection = d3.geo.mercator()
     .center([120, 55])
     .scale(660)
@@ -75,23 +64,34 @@ var path = d3.geo.path()
 
 var DayNumber = d3.time.format("%_j");
 var YearNumber = d3.time.format("%_y")
-var YearColor = d3.scale.ordinal().domain(iceYears).range(ColorList);
+var YearColor = d3.scale.ordinal().domain(DisplayList).range(ColorList);
 var xHist = d3.scale.linear().domain([0, 366]).range([0, width1]);
 
 var x = d3.time.scale().domain([new Date(2013, 0, 1), new Date(2013, 11, 31)]).range([0, width1]);
 
+var LoadingScreen = d3.select("body").append("svg")
+                       .attr("id", "loading")
+                       .attr("width", widthT + margin.left + margin.right)
+                       .attr("height", height + margin.top + margin.bottom);
+
+LoadingScreen.append("g")
+              .attr("class", "TitleText")
+              .attr("id", "LoadingText")
+              .selectAll("text")
+                      .data(LoadTitles)
+                      .enter()
+                      .append("text")
+                      .attr("x", width1/3)
+                      .attr("y", function(d,i){return height/2 - 40 + i*28;})
+                      .text(function(d){return d;});
+
 var svg = d3.select("body").append("svg")
+    .attr("id", "main")
     .attr("width", widthT + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
-  .append("g")
+    .style('display', 'none')
+    .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-
-var LoadingScreen = svg.append("g")
-                       .attr("class", "TitleText")
-                       .append("text")
-                       .text("Loading 60 Years of Data...")
-                       .attr("x", 500)
-                       .attr("y", 225);
 
 d3.json("ne_50m_land.json", function(error, topology) {
 
@@ -105,56 +105,54 @@ d3.json("ne_50m_land.json", function(error, topology) {
       .attr("box-shadow", "0 0 20px #0099CC")
       .attr("fill","steelblue");
 
-var TitleText = svg.append("g")
-                  .attr("class", "TitleText")
-                  .append("text")
-                  .text("International Ice Patrol")
-                  .attr("x", 25)
-                  .attr("y", 380);
+var TitleText = svg.append("g").attr("class", "TitleText");
 
-svg.append("g").attr("class", "TitleText").append("text")
-                  .text("Ice Mapper")
-                  .attr("x", 25)
-                  .attr("y", 405)
+TitleText.append("text")
+                  .text("The Grand Banks")
+                  .attr("x", wordmargin)
+                  .attr("y", wordtop);
 
-svg.append("g").attr("class", "TitleText").append("text")
-                  .text("by Andrew Beers")
-                  .attr("font-size", "12px")
-                  .attr("x", 26)
-                  .attr("y", 425)
+TitleText.append("text")
+                  .text("Iceberg Mapper")
+                  .attr("x", wordmargin)
+                  .attr("y", wordtop+25);
 
-svg.append("g").attr("class", "TitleText").append("text")
-                  .text("Data courtesy of")
-                  .attr("font-size", "12px")
-                  .attr("x", 26)
-                  .attr("y", 440)
+var SubTitleText = svg.append("g")
+                      .attr("class", "SubTitleText")
+                      .selectAll("text")
+                      .data(SubTitles)
+                      .enter()
+                      .append("text")
+                      .attr("x", wordmargin+1)
+                      .attr("y", function(d,i){return wordtop + 45 + i*15;})
+                      .text(function(d){return d;});
 
-svg.append("g").attr("class", "TitleText").append("text")
-                  .text("United States Coast Guard")
-                  .attr("font-size", "12px")
-                  .attr("x", 26)
-                  .attr("y", 455)
+var DetailsBox = svg.append("g")
+    .attr("class", "HelpTitleText");
 
-svg.append("g").attr("class", "TitleText").append("text")
-                  .text("and Brian Hill")
-                  .attr("font-size", "12px")
-                  .attr("x", 26)
-                  .attr("y", 470)
+DetailsBox.append("rect")
+    .attr("x", width1*.8)
+    .attr("y", 0)
+    .attr("width", width1*.2)
+    .attr("height", height/6)
+    .attr("fill", "black")
+    .attr("stroke", "#0033CC")
+    .attr("stroke-width", "1px")
+    .attr("shape-rendering", "crispEdges");
 
-svg.append("g").attr("class", "TitleText").append("text")
-                  .text("Andrew_Beers@brown.edu for more info.")
-                  .attr("font-size", "12px")
-                  .attr("x", 26)
-                  .attr("y", 485)
-
-
-      // svg.append("g").attr("class", "Title").append("text").text("International Ice Patrol \n Mapper").attr("x", 50).attr("y",)
+DetailsBox.selectAll("text")
+                      .data(HelpTitles)
+                      .enter()
+                      .append("text")
+                      .attr("x", width1*.8 + wordmargin/2)
+                      .attr("y", function(d,i){return 20 + i*15;})
+                      .text(function(d){return d;});
 });
 
 var brush = d3.svg.brush()
     .x(x)
     .extent([new Date(2013, 0, 100), new Date(2013, 0, 117)])
-    .on("brushend", brushended)
+    .on("brushend", UpdateIce)
     .on("brush", UpdateIce);
 
 var BrushBackground = svg.append("rect")
@@ -166,6 +164,7 @@ var BrushBackground = svg.append("rect")
 var BrushGrid = svg.append("g")
     .attr("class", "x grid")
     .attr("transform", "translate(0," + (Bheight + Bmargin.top) + ")")
+    .attr("shape-rendering", "crispEdges")
     .call(d3.svg.axis()
         .scale(x)
         .orient("bottom")
@@ -195,31 +194,8 @@ var gBrush = svg.append("g")
     .selectAll("rect")
     .attr("height", Bheight);
 
-// var animateB = svg.append("g")
-//                   .attr("class", animateB)
-//                   .append("rect")
-//                   .attr("x", width1+2)
-//                   .attr("y", 552)
-//                   .attr("width", bwidth-4)
-//                   .attr("height", 48)
-//                   .attr("stroke", "red")
-//                   .attr("stroke-width", "1px")
-//                   .attr("shape-rendering", "crispEdges")
-//                   .on("click", animateButton);
-
-// var animateBtext = svg.append("g")
-//                   .attr("class", animateBtext)
-//                   .append("text")
-//                   .text("Animate")
-//                   .attr("x", width1+bwidth/4)
-//                   .attr("y", 552+48/1.7)
-//                   .style("fill", "white")
-//                   .style("font", "11px sans-serif")
-//                   .attr("shape-rendering", "crispEdges");
-// <<<<<<< HEAD:index.html
-
 var colorbuttonbox = svg.append("g")
-                        .attr("class", "colorbox")
+                        .attr("class", "buttonbox")
                         .append("rect")
                         .attr("x", width1 + 2*bwidth)
                         .attr("y", 550)
@@ -232,9 +208,9 @@ var colorbuttonbox = svg.append("g")
 var colorlabel = svg.append("g")
                     .attr("class", "buttonlabels")
                     .append("text")
-                    .attr("x", width1 + 2*bwidth + 22)
+                    .attr("x", width1 + 2.75*bwidth)
                     .attr("y", 550 + 14)
-                    .text("Color Picker");
+                    .text("Point Color");
 
 var colorbuttons = svg.append("g")
                       .attr("class", "colorbuttons")
@@ -247,9 +223,7 @@ var colorbuttons = svg.append("g")
                       .attr("r", 6)
                       .attr("fill", function(d){return d})
                       .attr("stroke", function(d){if (d == PickColor) {return "#0033CC";}else{return "gray";};})
-                      .attr("stroke-width", "1px")
-                      .attr("shape-rendering", "crispEdges")
-                      .on("click", function(d){console.log(d); PickColor = d; return;}); 
+                      .on("click", function(d){PickColor = d; return;});
 
 var buttonheading = svg.append("g")
                 .attr("class", "buttonbox")
@@ -270,16 +244,6 @@ var buttonheadinglabel = svg.append("g")
                 .attr("y", 550/20/1.5)
                 .text("Select a year to display its iceberg map.")
 
-var buttonlabel = svg.append("g")
-                .attr("class", "buttonlabels")
-                .selectAll("text")
-                .data(iceYears)
-                .enter()
-                .append("text")
-                .attr("x", function(d, i){return width1+(i%7)*(bwidth)+(bwidth/7);})
-                .attr("y", function(d, i){return (Math.floor((i+7)/7)%20)*(550/20)+550/20/1.5;})
-                .text(function(d){return d;})
-
 var buttonbox = svg.append("g")
                 .attr("class", "buttonbox")
                 .selectAll("rect")
@@ -294,52 +258,47 @@ var buttonbox = svg.append("g")
                 .attr("stroke", "#0033CC")
                 .attr("stroke-width", "1px")
                 .attr("shape-rendering", "crispEdges")
-                .on("click", clicked);
+                .attr("id", function(d,i) {return "Button" + d;})
+                .style('cursor','pointer')
+                .on("click", clicked)
+                .on('mouseover', buttonin)
+                .on("mouseout", buttonout);
 
-// var buttons = svg.append("g")
-//                 .attr("class", "buttons")
-//                 .selectAll("rect")
-//                 .data(iceYears)
-//                 .enter()
-//                 .append("rect")
-//                 .attr("x", function(d, i){return width1+(i%6)*(bwidth)+(bwidth/1.6);})
-//                 .attr("y", function(d, i){return (Math.floor(i/6)%20)*(550/20)+(550/20*1/4);})
-//                 .attr("height", 550/20*1/2)
-//                 .attr("width", bwidth*1/4)
-//                 .attr("fill", "black")
-//                 .attr("stroke", "gray")
-//                 .attr("stroke-width", "1px")
-//                 .attr("shape-rendering", "crispEdges")
-                // .on("click", clicked);
+var buttonlabel = svg.append("g")
+                .attr("class", "buttonlabels")
+                .selectAll("text")
+                .data(iceYears)
+                .enter()
+                .append("text")
+                .attr("id", function(d,i) {return "Label" + d;})
+                .style('cursor','pointer')
+                .attr("x", function(d, i){return width1+(i%7)*(bwidth)+(bwidth/7);})
+                .attr("y", function(d, i){return (Math.floor((i+7)/7)%20)*(550/20)+550/20/1.5;})
+                .text(function(d){return d;})
+                .on("click", clicked)
+                .on('mouseover', buttonin)
+                .on("mouseout", buttonout);
 
 var IceIn;
 
-// function animateButton() {
-// var Size = parseInt(DayNumber(new Date(brush.extent()[1]))) - parseInt(DayNumber(new Date(brush.extent()[0])));
+function buttonin(){
+d3.select("#Button" + this.__data__).transition()
+                        .ease('cubic-out')
+                        .duration('200')
+                        .attr("fill", PickColor)
+                        .attr("stroke", "#0033CC")
+                        .attr("fill-opacity", 0.2)
+                        .attr("stroke-opacity", 1)
+}
 
-// // gBrush.call(brush.event)
-// //       .transition()
-// //       .duration(10000)
-// //       .ease("linear")
-// //       .call(brush.extent([new Date(2013,11,31-Size), new Date(2013,11,31)]))
-// //       .call(brush.event);
-// //   // brush.event(d3.select(".brush").transition().ease("linear"));
-//   gBrush.transition()
-//   .duration(750)
-//   .call(brush.extent([new Date(2013, 0, 1), new Date(2013, 0, 300)]))
-//   .call(brush.event);
-// gBrush.call(brush.event)
-//       .transition()
-//       .duration(10000)
-//       .ease("linear")
-//       .call(brush.extent([new Date(2013,11,31-Size), new Date(2013,11,31)]))
-//       .call(brush.event);
-//   // brush.event(d3.select(".brush").transition().ease("linear"));
-//   // gBrush.transition()
-//   // .duration(750)
-//   // .call(brush.extent([new Date(2013, 0, 1), new Date(2013, 0, 300)]))
-//   // .call(brush.event);
-// }
+function buttonout(){
+d3.select("#Button" + this.__data__).transition()
+                        .ease('cubic-out')
+                        .duration('200')
+                        .attr("fill", "transparent")
+                        .attr("stroke", "#0033CC")
+                        .attr("opacity", 1)
+}
 
 function clicked(d) {
 
@@ -347,14 +306,18 @@ function clicked(d) {
     DisplayList.splice(DisplayList.indexOf(this.__data__), 1);
     ColorList.splice(ColorList.indexOf(this.__data__), 1);
     HistList.splice(HistList.indexOf(this.__data__), 1);
-    d3.select(this).attr("fill", "transparent").attr("stroke", "#0033CC").attr("opacity", 1);
+    d3.select("#Button" + this.__data__).attr("fill", "transparent").attr("stroke", "#0033CC").attr("opacity", 1);
+    d3.select("#Button" + this.__data__).on('mouseout', buttonout).on('mouseover', buttonin);
+    d3.select("#Label" + this.__data__).on('mouseout', buttonout).on('mouseover', buttonin);
     DestroyHist(this.__data__);
   }
   else {
   DisplayList.push(this.__data__);
   ColorList.push(PickColor);
   YearColor.domain(DisplayList);
-  d3.select(this).attr("fill", YearColor(this.__data__)).attr("stroke", "#0033CC").attr("fill-opacity", 0.2).attr("stroke-opacity", 1);
+  d3.select("#Button" + this.__data__).attr("fill", YearColor(this.__data__)).attr("stroke", "#0033CC").attr("fill-opacity", 0.4).attr("stroke-opacity", 1);
+  d3.select("#Button" + this.__data__).on('mouseout', null).on('mouseover', null);
+  d3.select("#Label" + this.__data__).on('mouseout', null).on('mouseover', null);
   GenerateHist(this.__data__);
   }
 
@@ -370,7 +333,11 @@ function clicked(d) {
   });
   IceBegin = true;
   }
+  YearColor = d3.scale.ordinal().domain(DisplayList).range(ColorList);
   UpdateIce();
+
+  console.log(DisplayList)
+  console.log(ColorList)
 }
 
 function GenerateHist(Year) {
@@ -387,27 +354,30 @@ var data = d3.layout.histogram()
 
 var yHist = d3.scale.linear().domain([0, d3.max(data, function(d) { return d.y; })]).range([600, 552]);
 
-var bar = svg.selectAll(".bar" + Year)
-    .data(data)
-    .enter().append("g")
-    .attr("class", "bar" + Year)
-    .attr("transform", function(d) { return "translate(" + xHist(d.x) + "," + yHist(d.y) + ")"; });
+var bar = svg.append("g").attr("class", "Bar" + Year)
 
-bar.append("rect")
+bar.selectAll("rect")
+    .data(data)
+    .enter().append("rect")
+    .attr("opacity", "60%")
+    .attr("x", function(d){return xHist(d.x)})
+    .attr("y", 600)
     .attr("width", xHist(data[0].dx) - 1)
-    .attr("height", function(d) { return 600 - yHist(d.y); })
-    .attr("fill", YearColor(Year))
-    .attr("opacity", "60%");
+    .attr("height", 0)
+    .attr("fill", YearColor(Year));
+
+svg.selectAll("g.Bar" + Year).selectAll("rect").transition()
+    .duration(500)
+    .attr("y", function(d){return yHist(d.y)})
+    .attr("height", function(d) { return 600 - yHist(d.y); });
 
 }
 
 function DestroyHist(Year) {
-  svg.selectAll("g.bar" + Year).remove();
+  svg.selectAll("g.Bar" + Year).selectAll("rect").transition().duration(500).attr("height", 0).attr("y", 600).remove();
 }
 
-function brushended() {
-UpdateIce();
-}
+getIceData();
 
 function UpdateIce() {
 

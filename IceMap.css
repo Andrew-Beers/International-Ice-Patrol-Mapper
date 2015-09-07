@@ -34,7 +34,7 @@ display: block;
 }
 
 .TitleText {
-  font: 25px;
+  font: 22px;
   font-family: Helvetica;
   font-size: 25px;
   fill: white;
@@ -42,12 +42,41 @@ display: block;
   cursor: default;
 }
 
+.SubTitleText {
+  font: 12px;
+  font-family: Helvetica;
+  font-size: 12px;
+  fill: white;
+  font-color: white;
+  cursor: default;
+}
+
+.HelpTitleText {
+  font: 10px;
+  font-family: Helvetica;
+  font-size: 12px;
+  fill: #6D9BF1;
+  font-color: #6D9BF1;
+  cursor: default;
+}
+
+.colorbox {
+
+}
+
+.colorbuttons {
+  stroke-width: 1px;
+  shape-rendering: crispEdges;
+}
+
 .buttons{
 cursor: hand;
 }
 
-.buttons:hover {
-fill: white;
+.buttonbox {
+  stroke: #0033CC;
+  stroke-width: 1px;
+  shape-rendering: crispEdges;
 }
 
 .axis text {
@@ -114,23 +143,4 @@ fill: white;
   fill: #000;
   fill-opacity: .2;
   filter: url(#glow);
-}
-
-.pulsor { 
-    line-height: 50px;
-    border-radius: 500px;
-    box-shadow: 0 0 1px #0099CC; 
-    background-color: green;
-    text-shadow: 0 0 5px #0099CC; 
-    font-family: sans-serif; 
-    font-weight: bold; 
-    color: #0099CC; 
-    text-align: center;   
-    cursor: pointer; 
-}
-
-.pulsor:hover {
-    -webkit-animation: pulsate .8s infinite alternate;
-    -moz-animation: pulsate .8s infinite alternate;
-    -animation: pulsate .8s infinite alternate;
 }
