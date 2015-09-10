@@ -1,0 +1,146 @@
+body {
+background-color: black;
+margin: 0;
+padding: 0;
+border: 0;
+}
+
+svg {
+margin: 0;
+padding: 0;
+border: 0;
+display: block;
+}
+
+.icelabel {
+  font: 11px;
+  font-family: Helvetica;
+  fill: white;
+  shape-rendering: crispEdges;
+}
+
+.buttonlabels {
+  font-size: 11px;
+  font: 11px sans-serif;
+  fill: white;
+  color: white;
+  cursor: default;
+  -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.TitleText {
+  font: 22px;
+  font-family: Helvetica;
+  font-size: 25px;
+  fill: white;
+  font-color: white;
+  cursor: default;
+}
+
+.SubTitleText {
+  font: 12px;
+  font-family: Helvetica;
+  font-size: 12px;
+  fill: white;
+  font-color: white;
+  cursor: default;
+}
+
+.HelpTitleText {
+  font: 10px;
+  font-family: Helvetica;
+  font-size: 12px;
+  fill: #6D9BF1;
+  font-color: #6D9BF1;
+  cursor: default;
+}
+
+.colorbox {
+
+}
+
+.colorbuttons {
+  stroke-width: 1px;
+  shape-rendering: crispEdges;
+}
+
+.buttons{
+cursor: hand;
+}
+
+.buttonbox {
+  stroke: #0033CC;
+  stroke-width: 1px;
+  shape-rendering: crispEdges;
+}
+
+.axis text {
+  font: 11px sans-serif;
+  color: white;
+}
+
+.axis path {
+  display: none;
+}
+
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.grid-background {
+  fill: grid;
+  stroke: steeblue;
+  stroke-width1: 2px;
+}
+
+.background {
+  fill: black;
+}
+
+.grid line,
+.grid path {
+  fill: none;
+  stroke: #fff;
+  shape-rendering: crispEdges;
+}
+
+.grid .minor.tick line {
+  stroke-opacity: .5;
+}
+
+.brush .extent {
+  stroke: white;
+  stroke-width1: 2px;
+  fill-opacity: .5;
+  fill: steelblue;
+  shape-rendering: crispEdges;
+}
+
+.node {
+    fill: #ccc;
+    stroke: #fff;
+    stroke-width1: 2px;
+}
+
+.area {
+  fill: steelblue;
+  clip-path: url(#clip);
+}
+
+.link {
+    stroke: #777;
+    stroke-width1: 2px;
+}
+
+.land-glow {
+  fill: #000;
+  fill-opacity: .2;
+  filter: url(#glow);
+}
