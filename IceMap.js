@@ -10,7 +10,7 @@ var HistList = [];
 var Progress = 0;
 var AllColors = ["red", "green", "blue", "yellow", "white", "purple", "orange", "gray"];
 var LoadTitles = ["Loading 133 years of iceberg data collected from the Coast Guard,", "the US Hydrographic Office, and maritime newspaper sightings..."]
-var SubTitles = ["by Andrew Beers", "Data courtesy of", "United States Coast Guard", "and Brian Hill", "Andrew_Beers@brown.edu for more info"];
+var SubTitles = ["by Andrew Beers", "Data courtesy of", "United States Coast Guard via the NSIDC", "and Brian Hill via ACADIS", "Andrew_Beers@brown.edu for more info"];
 var HelpTitles = ['Add years to the map by clicking', 'the buttons at right.', 'Change the time period by', 'adjusting the filter below the map.',
                   'Change the display color of the next', 'year using the box at bottom right.']
 var PickColor = "red";
